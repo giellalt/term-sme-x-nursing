@@ -2811,11 +2811,7 @@ kroppsleie
 
 
 
-jfsetikk
-klsertestuing
-osvsernæring
-etcsernæring
-genserserme
+
 prinsippserklæring
 sykepleieserfaring
 praksisserfaring
