@@ -2812,15 +2812,7 @@ kroppsleie
 
 
 
-prinsippserklæring
-sykepleieserfaring
-praksisserfaring
-jfserfaring
-grunnserfaring
-dem.serfaring
-brukerserfaring
-vakuumsereksjon
-morgensereksjon
+
 inkontinenssepisode
 avføringsepisode
 sykepleiesepikrise
