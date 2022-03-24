@@ -1,0 +1,12 @@
+hoito = sjukvård = medical care
+	sairaanhoito
+		akuuttihoito
+			ensihoito
+			tehohoito
+		erikoissairaanhoito
+		kotisairaanhoito
+		omaishoito
+			etäomaishoito
+		psykiatrinen hoito
+		päivänsairaanhoito
+	

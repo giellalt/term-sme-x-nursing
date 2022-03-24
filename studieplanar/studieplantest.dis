@@ -1,0 +1,6889 @@
+:\n
+"<Hopp>"
+	"Hopp" N Prop Sem/Sur <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<hovedinnhold>"
+	"innhold" N Neu Sg Indef <W:0.0>
+		"hoved" N Cmp/null Cmp <W:0.0>
+	"hovedinnhold" N Neu Sg Indef <W:0.0>
+:\n
+:\n
+:    
+"<English>"
+	"English" N Prop Sem/Obj <W:0.0>
+:\n
+:\n
+"<Finn>"
+	"finne" V Imp <W:0.0>
+:\n
+"<Kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+: 
+"<1:>"
+	"1" A Arab Ord Use/Circ Arab Ord <W:0.0>
+	"1" Num Sem/ID <W:0.0>
+	 Use/Circ"1" Num Arab <W:0.0>
+: 
+"<Sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<akutt>"
+	"akutt" A Pos Fem Sg Indef <W:0.0>
+	"akutt" A Pos Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kronisk>"
+	"kronisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kritisk>"
+	"kritisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<sykdom>"
+	"sykdom" N Msc Sg Indef <W:0.0>
+: 
+"<BSYPPS1>"
+	"BSYPPS1" ?
+:\n
+:\n
+"<Emnet>"
+	"emne" N Neu Sg Def <W:0.0>
+: 
+"<består>"
+	"bestå" V Ind Prs <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<to>"
+	"to" Det Qnt Pl <W:0.0>
+: 
+"<deler>"
+	"del" N Msc Pl Indef <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+:\n
+:\n
+:    
+
+"<Del>"
+	"del" N Msc Sg Indef <W:0.0>
+: 
+"<I:>"
+	"I" Use/NG Use/Circ Num Use/Circ Rom <W:0.0>
+	 Use/Circ"I" Use/Circ Num Use/Circ Rom <W:0.0>
+: 
+"<Praksisforberedende>"
+	"Praksisforberedende" ?
+: 
+"<undervisning>"
+	"visning" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervisning" N Fem Sg Indef <W:0.0>
+:\n
+:    
+"<Del>"
+	"del" N Msc Sg Indef <W:0.0>
+: 
+"<II:>"
+	"II" N Prop Sem/Org ACR N Prop ACR Use/NG Msc Sg Indef <W:0.0>
+	"II" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Use/NG Msc Sg Indef <W:0.0>
+	 Use/Circ"II" Use/Circ Num Use/Circ Rom <W:0.0>
+: 
+"<Kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+:\n
+:\n
+"<Emnet>"
+	"emne" N Neu Sg Def <W:0.0>
+: 
+"<gir>"
+	"gi" V Ind Prs <W:0.0>
+: 
+"<både>"
+	"både" CC <W:0.0>
+: 
+"<en>"
+	"en" Det Dem Fem Sg <W:0.0>
+: 
+"<innføring>"
+	"innføre" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"innføring" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kunnskapsgrunnlaget>"
+	"grunnlag" N Neu Sg Def <W:0.0>
+		"kunnskap" N Cmp/s Cmp <W:0.0>
+	"kunnskapsgrunnlag" N Neu Sg Def <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<en>"
+	"en" Det Dem Fem Sg <W:0.0>
+: 
+"<praktisk>"
+	"praktisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<erfaring>"
+	"erfare" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"erfaring" N Fem Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<utøvelse>"
+	"utøvelse" N Msc Sg Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<psykiske>"
+	"psykisk" A Pos Pl Indef <W:0.0>
+: 
+"<lidelser>"
+	"lidelse" N Msc Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kirurgiske>"
+	"kirurgisk" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<medisinske>"
+	"medisinsk" A Pos Pl Indef <W:0.0>
+: 
+"<tilstander>"
+	"tilstand" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<diagnoser>"
+	"diagnose" N Msc Pl Indef <W:0.0>
+: 
+"<innen>"
+	"innen" Pr <W:0.0>
+: 
+"<spesialisthelsetjenesten>"
+	"tjeneste" N Msc Sg Def <W:0.0>
+		"helse" N Cmp/null Cmp <W:0.0>
+			"spesialist" N Cmp/null Cmp <W:0.0>
+	"helsetjeneste" N Msc Sg Def <W:0.0>
+		"spesialist" N Cmp/null Cmp <W:0.0>
+	"spesialisthelsetjeneste" N Msc Sg Def <W:0.0>
+: 
+"<eller>"
+	"eller" CC <W:0.0>
+: 
+"<kommunehelsetjenesten>"
+	"tjeneste" N Msc Sg Def <W:0.0>
+		"helse" N Cmp/null Cmp <W:0.0>
+			"kommune" N Cmp/null Cmp <W:0.0>
+	"helsetjeneste" N Msc Sg Def <W:0.0>
+		"kommune" N Cmp/null Cmp <W:0.0>
+	"kommunehelsetjeneste" N Msc Sg Def <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<De>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<innebærer>"
+	"innebære" V Ind Prs <W:0.0>
+: 
+"<aktiv>"
+	"aktiv" A Pos Fem Sg Indef <W:0.0>
+: 
+"<læring>"
+	"lære" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"læring" N Fem Sg Indef <W:0.0>
+: 
+"<hvor>"
+	"hvor" Adv <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<møte>"
+	"møte" N Neu Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<pårørende>"
+	"pårørende" A Pos Fem Sg Indef <W:0.0>
+	"pårørende" A Pos MF Sg Indef <W:0.0>
+	"pårørende" A Pos Msc Sg Indef <W:0.0>
+	"pårørende" A Pos Pl Def <W:0.0>
+	"pårørende" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<samarbeid>"
+	"samarbeid" N Neu Pl Indef <W:0.0>
+	"samarbeid" N Neu Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<helsepersonell>"
+	"personell" N Neu Sg Indef <W:0.0>
+		"helse" N Cmp/null Cmp <W:0.0>
+	"helsepersonell" N Neu Sg Indef <W:0.0>
+: 
+"<engasjeres>"
+	"engasjere" V Ind Prs Pass <W:0.0>
+: 
+"<i>"
+	"I" Use/NG Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+	"i" Pr <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<erfarer>"
+	"erfare" V Ind Prs <W:0.0>
+: 
+"<realistiske>"
+	"realistisk" A Pos Pl Indef <W:0.0>
+: 
+"<læringssituasjoner>"
+	"situasjon" N Msc Pl Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"situasjon" N Msc Pl Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"læringssituasjon" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<problemstillinger>"
+	"stilling" N Fem Pl Indef <W:0.0>
+		"problem" N Cmp/null Cmp <W:0.0>
+	"problemstilling" N Fem Pl Indef <W:0.0>
+: 
+"<for>"
+	"for" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<styrke>"
+	"styrke" V Inf <W:0.0>
+: 
+"<sin>"
+	"sin" Det Poss Msc Sg3 <W:0.0>
+: 
+"<sykepleiefaglige>"
+	"sykepleiefaglig" A Pos Pl Indef <W:0.0>
+: 
+"<identitet>"
+	"identitet" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kompetanse>"
+	"kompetanse" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<De>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<vil>"
+	"ville" V Ind Prs <W:0.0>
+: 
+"<gi>"
+	"gi" V Inf <W:0.0>
+: 
+"<innsikt>"
+	"innsikt" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kompleksiteten>"
+	"kompleksitet" N Msc Sg Def <W:0.0>
+: 
+"<i>"
+	"I" Use/NG Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+	"i" Pr <W:0.0>
+: 
+"<sykepleiefaget>"
+	"sykepleiefaget" ?
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<yrkesutøvelsen>"
+	"utøvelse" N Msc Sg Def <W:0.0>
+		"yrke" N Cmp/s Cmp <W:0.0>
+	"yrkesutøvelse" N Msc Sg Def <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<vil>"
+	"ville" V Ind Prs <W:0.0>
+: 
+"<foregå>"
+	"foregå" V Inf <W:0.0>
+: 
+"<innen>"
+	"innen" Pr <W:0.0>
+: 
+"<ett>"
+	"ett" Det Dem Neu Sg <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<følgende>"
+	"følgende" A Pos Pl Indef <W:0.0>
+: 
+"<områder>"
+	"område" N Neu Pl Indef <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+:\n
+:\n
+:    
+
+"<Avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<psykisk>"
+	"psykisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<helse>"
+	"helse" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kommune->"
+	"kommune" N Cmp/Hyph Cmp <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<spesialisthelsetjenesten>"
+	"tjeneste" N Msc Sg Def <W:0.0>
+		"helse" N Cmp/null Cmp <W:0.0>
+			"spesialist" N Cmp/null Cmp <W:0.0>
+	"helsetjeneste" N Msc Sg Def <W:0.0>
+		"spesialist" N Cmp/null Cmp <W:0.0>
+	"spesialisthelsetjeneste" N Msc Sg Def <W:0.0>
+:\n
+:    
+"<Kirurgisk>"
+	"kirurgisk" A Pos Fem Sg Indef <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<spesialisthelsetjenesten>"
+	"tjeneste" N Msc Sg Def <W:0.0>
+		"helse" N Cmp/null Cmp <W:0.0>
+			"spesialist" N Cmp/null Cmp <W:0.0>
+	"helsetjeneste" N Msc Sg Def <W:0.0>
+		"spesialist" N Cmp/null Cmp <W:0.0>
+	"spesialisthelsetjeneste" N Msc Sg Def <W:0.0>
+:\n
+:    
+"<Medisinsk>"
+	"medisinsk" A Pos Fem Sg Indef <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kommune->"
+	"kommune" N Cmp/Hyph Cmp <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<spesialisthelsetjenesten>"
+	"tjeneste" N Msc Sg Def <W:0.0>
+		"helse" N Cmp/null Cmp <W:0.0>
+			"spesialist" N Cmp/null Cmp <W:0.0>
+	"helsetjeneste" N Msc Sg Def <W:0.0>
+		"spesialist" N Cmp/null Cmp <W:0.0>
+	"spesialisthelsetjeneste" N Msc Sg Def <W:0.0>
+:\n
+:    
+"<Hjemmebaserte>"
+	"Hjemmebaserte" ?
+: 
+"<tjenester>"
+	"tjeneste" N Msc Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kommunehelsetjenesten>"
+	"tjeneste" N Msc Sg Def <W:0.0>
+		"helse" N Cmp/null Cmp <W:0.0>
+			"kommune" N Cmp/null Cmp <W:0.0>
+	"helsetjeneste" N Msc Sg Def <W:0.0>
+		"kommune" N Cmp/null Cmp <W:0.0>
+	"kommunehelsetjeneste" N Msc Sg Def <W:0.0>
+:\n
+:\n
+"<Fokuset>"
+	"fokus" N Neu Sg Def <W:0.0>
+: 
+"<for>"
+	"for" Pr <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<omsorgsfull>"
+	"omsorgsfull" A Pos Fem Sg Indef <W:0.0>
+	"omsorgsfull" A Pos MF Sg Indef <W:0.0>
+	"omsorgsfull" A Pos Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<faglig>"
+	"faglig" A Pos Fem Sg Indef <W:0.0>
+	"faglig" A Pos Msc Sg Indef <W:0.0>
+: 
+"<forsvarlig>"
+	"forsvarlig" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<som>"
+	"som" CS <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<akutt>"
+	"akutt" A Pos Fem Sg Indef <W:0.0>
+	"akutt" A Pos MF Sg Indef <W:0.0>
+	"akutt" A Pos Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kronisk>"
+	"kronisk" A Pos Fem Sg Indef <W:0.0>
+	"kronisk" A Pos MF Sg Indef <W:0.0>
+	"kronisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kritisk>"
+	"kritisk" A Pos Fem Sg Indef <W:0.0>
+	"kritisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<syke>"
+	"syk" A Pos Pl Def <W:0.0>
+	"syk" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<deres>"
+	"deres" Det Poss Pl2 <W:0.0>
+	"deres" Det Poss Pl3 <W:0.0>
+: 
+"<pårørende>"
+	"pårørende" A Pos Pl Def <W:0.0>
+	"pårørende" A Pos Pl Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<I>"
+	"i" Pr <W:0.0>
+	 Use/Circ"I" Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+: 
+"<emnet>"
+	"emne" N Neu Sg Def <W:0.0>
+: 
+"<skal>"
+	"skulle" V Ind Prs <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<arbeide>"
+	"arbeide" V Inf <W:0.0>
+: 
+"<med>"
+	"med" Adv <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<tilegne>"
+	"tilegne" V Inf <W:0.0>
+: 
+"<seg>"
+	"seg" Pron Refl Acc <W:0.0>
+: 
+"<kunnskaper>"
+	"kunnskap" N Msc Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<ferdigheter>"
+	"ferdighet" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<holdninger>"
+	"holdning" N Fem Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<samsvar>"
+	"samsvar" N Neu Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<kriterier>"
+	"kriterium" N Neu Pl Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<faglig>"
+	"faglig" A Der/AAdv Adv <W:0.0>
+: 
+"<forsvarlig>"
+	"forsvarlig" A Pos Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<omsorgsfull>"
+	"omsorgsfull" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<skal>"
+	"skulle" V Ind Prs <W:0.0>
+: 
+"<utvikle>"
+	"utvikle" V Inf <W:0.0>
+: 
+"<sykepleiefaglig>"
+	"sykepleiefaglig" A Pos MF Sg Indef <W:0.0>
+: 
+"<handlingskompetanse>"
+	"kompetanse" N Msc Sg Indef <W:0.0>
+		"handle" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"kompetanse" N Msc Sg Indef <W:0.0>
+		"handling" N Cmp/s Cmp <W:0.0>
+	"handlingskompetanse" N Msc Sg Indef <W:0.0>
+: 
+"<innen>"
+	"innen" Pr <W:0.0>
+: 
+"<områdene>"
+	"område" N Neu Pl Def <W:0.0>
+"<;>"
+	";" CLB <W:0.0>
+: 
+"<yrkesetikk>"
+	"etikk" N Msc Sg Indef <W:0.0>
+		"yrke" N Cmp/s Cmp <W:0.0>
+	"yrkesetikk" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<juss>"
+	"juss" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<samhandling>"
+	"samhandling" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kommunikasjon>"
+	"kommunikasjon" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<pasientrettet>"
+	"pasientrettet" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<pasientsikkerhet>"
+	"sikkerhet" N Msc Sg Indef <W:0.0>
+		"pasient" N Cmp/null Cmp <W:0.0>
+	"pasientsikkerhet" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<pedagogikk>"
+	"pedagogikk" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<ledelse>"
+	"ledelse" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<skal>"
+	"skulle" V Ind Prs <W:0.0>
+: 
+"<lære>"
+	"lære" V Inf <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<integrere>"
+	"integrere" V Inf <W:0.0>
+: 
+"<teoretisk>"
+	"teoretisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<erfarings->"
+	"erfare" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"erfaring" N Cmp/s Cmp <W:0.0>
+	 <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<forskningsbasert>"
+	"forskningsbasert" A Pos MF Sg Indef <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<en>"
+	"en" Det Dem Fem Sg <W:0.0>
+: 
+"<reflektert>"
+	"reflektere" V PrfPrc Ex/V A Pos Fem Sg Indef <W:0.0>
+	"reflektere" V PrfPrc Ex/V A Pos Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<selvstendig>"
+	"selvstendig" A Pos MF Sg Indef <W:0.0>
+: 
+"<måte>"
+	"måte" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<Studentens>"
+	"student" N Msc Sg Def Clt <W:0.0>
+: 
+"<sykepleiefaglige>"
+	"sykepleiefaglig" A Pos Pl Indef <W:0.0>
+: 
+"<identitet>"
+	"identitet" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<evne>"
+	"evne" N Msc Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<utøve>"
+	"utøve" V Inf <W:0.0>
+: 
+"<faglig>"
+	"faglig" A Pos Fem Sg Indef <W:0.0>
+	"faglig" A Pos Msc Sg Indef <W:0.0>
+: 
+"<forsvarlig>"
+	"forsvarlig" A Pos Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<omsorgsfull>"
+	"omsorgsfull" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<utvikles>"
+	"utvikle" V Ind Prs Pass <W:0.0>
+: 
+"<gjennom>"
+	"gjennom" Pr <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<erfaringer>"
+	"erfare" Ex/V Der/NomAct N Fem Pl Indef <W:0.0>
+	"erfaring" N Fem Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<møte>"
+	"møte" N Neu Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<pårørende>"
+	"pårørende" A Pos Fem Sg Indef <W:0.0>
+	"pårørende" A Pos MF Sg Indef <W:0.0>
+	"pårørende" A Pos Msc Sg Indef <W:0.0>
+	"pårørende" A Pos Pl Def <W:0.0>
+	"pårørende" A Pos Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<samarbeid>"
+	"samarbeid" N Neu Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<medarbeidere>"
+	"medarbeider" N Msc Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<samt>"
+	"samt" CC <W:0.0>
+: 
+"<gjennom>"
+	"gjennom" Pr <W:0.0>
+: 
+"<veiledning>"
+	"ledning" N Msc Sg Indef <W:0.0>
+		"vei" N Cmp/null Cmp <W:0.0>
+	"veiledning" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<refleksjon>"
+	"refleksjon" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<anvendelse>"
+	"anvendelse" N Msc Sg Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<relevant>"
+	"relevant" A Pos MF Sg Indef <W:0.0>
+: 
+"<teori>"
+	"teori" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<ansvar>"
+	"ansvar" N Neu Pl Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<egen>"
+	"egen" A Pos Fem Sg Indef <W:0.0>
+: 
+"<læring>"
+	"lære" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"læring" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<utvikle>"
+	"utvikle" V Inf <W:0.0>
+: 
+"<evnen>"
+	"evne" N Msc Sg Def <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<ansvarlighet>"
+	"ansvarlighet" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<selvstendighet>"
+	"selvstendighet" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Viktigheten>"
+	"viktighet" N Msc Sg Def <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<reflektere>"
+	"reflektere" V Inf <W:0.0>
+: 
+"<rundt>"
+	"rund" A Der/AAdv Adv <W:0.0>
+: 
+"<egen>"
+	"egen" A Pos Msc Sg Indef <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<innsats>"
+	"innsats" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<utvikling>"
+	"utvikle" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"utvikling" N Fem Sg Indef <W:0.0>
+: 
+"<står>"
+	"stå" V Ind Prs <W:0.0>
+: 
+"<sentralt>"
+	"sentral" A Der/AAdv Adv <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+:\n
+
+"<Dette>"
+	"denne" Det Dem Neu Sg <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<emnebeskrivelsen>"
+	"beskrivelse" N Msc Sg Def <W:0.0>
+		"emne" N Cmp/null Cmp <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<studieåret>"
+	"studieår" N Neu Sg Def <W:0.0>
+: 
+"<2021-2022>"
+	"2021-2022" Det Qnt Sem/Year Pl <W:0.0>
+	"2021-2022" Use/NG Det Qnt Sem/Year Pl <W:0.0>
+	 Use/Circ"2021-2022" Num Arab <W:0.0>
+	 Use/Circ"2021-2022" Num Err/Orth Arab <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Merk>"
+	"merke" V Imp <W:0.0>
+: 
+"<at>"
+	"at" CS <W:0.0>
+: 
+"<det>"
+	"det" Pron Pers Sg3 <W:0.0>
+: 
+"<kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<komme>"
+	"komme" V Inf <W:0.0>
+: 
+"<endringer>"
+	"endre" Ex/V Der/NomAct N Fem Pl Indef <W:0.0>
+	"endring" N Fem Pl Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+
+"<Fakta>"
+	"fakte" N Fem Sg Def <W:0.0>
+:\n
+"<Emnekode>"
+	"kode" N Msc Sg Indef <W:0.0>
+		"emne" N Cmp/null Cmp <W:0.0>
+:\n
+:\n
+"<BSYPPS1>"
+	"BSYPPS1" ?
+:\n
+"<Versjon>"
+	"versjon" N Msc Sg Indef <W:0.0>
+:\n
+:\n
+"<1>"
+	"1" A Arab Ord Attr CLBfinal <W:0.0>
+	"1" A Arab Ord Use/Circ Err/Orth Arab Ord <W:0.0>
+	"1" Num Sem/ID <W:0.0>
+	 Use/Circ"1" Num Arab <W:0.0>
+	 Use/Circ"1" Num Err/Orth Arab <W:0.0>
+:\n
+"<Vekting>"
+	"ting" N Msc Pl Indef <W:0.0>
+		"vek" N Cmp/null Cmp <W:0.0>
+	"ting" N Msc Sg Indef <W:0.0>
+		"vek" N Cmp/null Cmp <W:0.0>
+	"ting" N Neu Pl Indef <W:0.0>
+		"vek" N Cmp/null Cmp <W:0.0>
+	"ting" N Neu Sg Indef <W:0.0>
+		"vek" N Cmp/null Cmp <W:0.0>
+: 
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<SP>"
+	"SP" N Prop Sem/Org ACR N Prop ACR Err/Orth Msc Sg Indef <W:0.0>
+	"SP" N Prop Sem/Org ACR N Prop ACR Msc Sg Indef <W:0.0>
+	"SP" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"SP" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+:\n
+:\n
+"<15>"
+	"15" A Arab Ord Attr CLBfinal <W:0.0>
+	"15" A Arab Ord Use/Circ Err/Orth Arab Ord <W:0.0>
+	"15" Num Sem/ID <W:0.0>
+	 Use/Circ"15" Num Arab <W:0.0>
+	 Use/Circ"15" Num Err/Orth Arab <W:0.0>
+:\n
+"<Semester>"
+	"semester" N Neu Sg Indef <W:0.0>
+: 
+"<undervisningsstart>"
+	"start" N Msc Sg Indef <W:0.0>
+		"visning" N Cmp/s Cmp <W:0.0>
+			"under" N Cmp/null Cmp <W:0.0>
+	"start" N Msc Sg Indef <W:0.0>
+		"undervisning" N Cmp/s Cmp <W:0.0>
+:\n
+:\n
+"<Høst>"
+	"høst" N Msc Sg Indef <W:0.0>
+:\n
+"<Antall>"
+	"antall" N Neu Pl Indef <W:0.0>
+: 
+"<semestre>"
+	"semester" N Neu Pl Indef <W:0.0>
+:\n
+:\n
+"<1>"
+	"1" A Arab Ord Attr CLBfinal <W:0.0>
+	"1" A Arab Ord Use/Circ Err/Orth Arab Ord <W:0.0>
+	"1" Num Sem/ID <W:0.0>
+	 Use/Circ"1" Num Arab <W:0.0>
+	 Use/Circ"1" Num Err/Orth Arab <W:0.0>
+:\n
+"<Vurderingsemester>"
+	"semester" N Neu Sg Indef <W:0.0>
+		"vurdere" Ex/V Der/NomAct N Cmp/null Cmp <W:0.0>
+	"semester" N Neu Sg Indef <W:0.0>
+		"vurdering" N Cmp/null Cmp <W:0.0>
+:\n
+:\n
+"<Høst>"
+	"høst" N Msc Sg Indef <W:0.0>
+:\n
+"<Undervisningsspråk>"
+	"språk" N Neu Pl Indef <W:0.0>
+		"visning" N Cmp/s Cmp <W:0.0>
+			"under" N Cmp/null Cmp <W:0.0>
+	"språk" N Neu Sg Indef <W:0.0>
+		"visning" N Cmp/s Cmp <W:0.0>
+			"under" N Cmp/null Cmp <W:0.0>
+	"språk" N Neu Pl Indef <W:0.0>
+		"undervisning" N Cmp/s Cmp <W:0.0>
+	"språk" N Neu Sg Indef <W:0.0>
+		"undervisning" N Cmp/s Cmp <W:0.0>
+	"undervisningsspråk" N Neu Pl Indef <W:0.0>
+	"undervisningsspråk" N Neu Sg Indef <W:0.0>
+:\n
+:\n
+"<Norsk>"
+	"Norsk" N Prop Sem/Sur <W:0.0>
+:\n
+"<Tilbys>"
+	"tilby" V Ind Prs Pass <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+:\n
+:\n
+"<Det>"
+	"den" Det Dem Neu Sg <W:0.0>
+: 
+"<helsevitenskapelige>"
+	"helsevitenskapelige" ?
+: 
+"<fakultet>"
+	"fakultet" N Neu Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<Det>"
+	"den" Det Dem Neu Sg <W:0.0>
+: 
+"<helsevitenskapelige>"
+	"helsevitenskapelige" ?
+: 
+"<fakultet>"
+	"fakultet" N Neu Sg Indef <W:0.0>
+:\n
+"<Timeplan>"
+	"plan" N Msc Sg Indef <W:0.0>
+		"time" N Cmp/null Cmp <W:0.0>
+	"timeplan" N Msc Sg Indef <W:0.0>
+:\n
+:\n
+"<Vis>"
+	"vis" A Pos Msc Sg Indef <W:0.0>
+: 
+"<timeplan>"
+	"plan" N Msc Sg Indef <W:0.0>
+		"time" N Cmp/null Cmp <W:0.0>
+	"timeplan" N Msc Sg Indef <W:0.0>
+:\n
+"<Læringsutbytte>"
+	"utbytte" N Neu Sg Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"utbytte" N Neu Sg Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"læringsutbytte" N Neu Sg Indef <W:0.0>
+:\n
+:\n
+"<En>"
+	"en" Det Dem Msc Sg <W:0.0>
+: 
+"<kandidat>"
+	"kandidat" N Msc Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Adv <W:0.0>
+	"med" Pr <W:0.0>
+: 
+"<fullført>"
+	"fullføre" V PrfPrc <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<bestått>"
+	"bestå" V PrfPrc <W:0.0>
+: 
+"<emne>"
+	"emne" N Neu Sg Indef <W:0.0>
+: 
+"<vil>"
+	"ville" V Ind Prs <W:0.0>
+: 
+"<ha>"
+	"ha" V Inf <W:0.0>
+: 
+"<følgende>"
+	"følgende" A Pos Neu Sg Indef <W:0.0>
+: 
+"<læringsutbytte>"
+	"utbytte" N Neu Sg Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"utbytte" N Neu Sg Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"læringsutbytte" N Neu Sg Indef <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+:\n
+:\n
+
+"<Kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+:\n
+:\n
+"<Kandidaten>"
+	"kandidat" N Msc Sg Def <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+:\n
+:\n
+:    
+
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<forstå>"
+	"forstå" V Inf <W:0.0>
+: 
+"<hvordan>"
+	"hvordan" Adv <W:0.0>
+: 
+"<lidelse>"
+	"lidelse" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<ulike>"
+	"ulik" A Pos Pl Indef <W:0.0>
+: 
+"<sykdomstilstander>"
+	"tilstand" N Msc Pl Indef <W:0.0>
+		"sykdom" N Cmp/s Cmp <W:0.0>
+: 
+"<skaper>"
+	"skape" V Ind Prs <W:0.0>
+: 
+"<ulike>"
+	"ulik" A Pos Pl Indef <W:0.0>
+: 
+"<behov>"
+	"behov" N Neu Pl Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<pasienten>"
+	"pasient" N Msc Sg Def <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<pårørende>"
+	"pårørende" A Pos Fem Sg Indef <W:0.0>
+	"pårørende" A Pos MF Sg Indef <W:0.0>
+	"pårørende" A Pos Msc Sg Indef <W:0.0>
+	"pårørende" A Pos Pl Def <W:0.0>
+	"pårørende" A Pos Pl Indef <W:0.0>
+:\n
+:    
+"<Har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<kjennskap>"
+	"kjennskap" N Neu Pl Indef <W:0.0>
+	"kjennskap" N Neu Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<sykepleierens>"
+	"sykepleier" N Msc Sg Def Clt <W:0.0>
+: 
+"<rolle>"
+	"rolle" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<tverrprofesjonelt>"
+	"tverrprofesjonelt" ?
+: 
+"<samarbeid>"
+	"samarbeid" N Neu Pl Indef <W:0.0>
+	"samarbeid" N Neu Sg Indef <W:0.0>
+:\n
+:    
+"<Har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<hvordan>"
+	"hvordan" Adv <W:0.0>
+: 
+"<man>"
+	"man" Pron Indef <W:0.0>
+: 
+"<kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<oppdatere>"
+	"oppdatere" V Inf <W:0.0>
+: 
+"<sin>"
+	"sin" Det Poss Msc Sg3 <W:0.0>
+: 
+"<fagkunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+		"fag" N Cmp/null Cmp <W:0.0>
+	"fagkunnskap" N Msc Sg Indef <W:0.0>
+:\n
+:    
+"<Har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<pre->"
+	"pre" N Cmp/Hyph Cmp <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<postoperativ>"
+	"postoperativ" ?
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<den>"
+	"den" Det Dem Msc Sg <W:0.0>
+: 
+"<akutt>"
+	"akutt" A Pos Fem Sg Indef <W:0.0>
+	"akutt" A Pos MF Sg Indef <W:0.0>
+	"akutt" A Pos Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kronisk>"
+	"kronisk" A Pos Fem Sg Indef <W:0.0>
+	"kronisk" A Pos MF Sg Indef <W:0.0>
+	"kronisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kritisk>"
+	"kritisk" A Pos Fem Sg Indef <W:0.0>
+	"kritisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<syke>"
+	"syk" A Pos Sg Def <W:0.0>
+: 
+"<pasienten>"
+	"pasient" N Msc Sg Def <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kirurgisk>"
+	"kirurgisk" A Pos Fem Sg Indef <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+: 
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<gjelder>"
+	"gjeld" N Fem Pl Indef <W:0.0>
+	"gjeld" N Neu Pl Indef Use/NG <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kirurgisk>"
+	"kirurgisk" A Pos Fem Sg Indef <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+:\n
+:    
+"<Har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<psykisk>"
+	"psykisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<helse>"
+	"helse" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<psykiske>"
+	"psykisk" A Pos Pl Indef <W:0.0>
+: 
+"<lidelser>"
+	"lidelse" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<sykdommer>"
+	"sykdom" N Msc Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<samt>"
+	"samt" CC <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<den>"
+	"den" Det Dem Msc Sg <W:0.0>
+: 
+"<akutt>"
+	"akutt" A Pos Fem Sg Indef <W:0.0>
+	"akutt" A Pos MF Sg Indef <W:0.0>
+	"akutt" A Pos Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kronisk>"
+	"kronisk" A Pos Fem Sg Indef <W:0.0>
+	"kronisk" A Pos MF Sg Indef <W:0.0>
+	"kronisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kritisk>"
+	"kritisk" A Pos Fem Sg Indef <W:0.0>
+	"kritisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<syke>"
+	"syk" A Pos Sg Def <W:0.0>
+: 
+"<pasienten>"
+	"pasient" N Msc Sg Def <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<psykisk>"
+	"psykisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<helse>"
+	"helse" N Fem Sg Indef <W:0.0>
+: 
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<gjelder>"
+	"gjeld" N Fem Pl Indef <W:0.0>
+	"gjeld" N Neu Pl Indef Use/NG <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<psykisk>"
+	"psykisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<helse>"
+	"helse" N Fem Sg Indef <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+:\n
+:    
+"<Har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<den>"
+	"den" Det Dem Msc Sg <W:0.0>
+: 
+"<akutt>"
+	"akutt" A Pos Fem Sg Indef <W:0.0>
+	"akutt" A Pos MF Sg Indef <W:0.0>
+	"akutt" A Pos Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kronisk>"
+	"kronisk" A Pos Fem Sg Indef <W:0.0>
+	"kronisk" A Pos MF Sg Indef <W:0.0>
+	"kronisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kritisk>"
+	"kritisk" A Pos Fem Sg Indef <W:0.0>
+	"kritisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<syke>"
+	"syk" A Pos Sg Def <W:0.0>
+: 
+"<pasienten>"
+	"pasient" N Msc Sg Def <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<hjemmesykepleien>"
+	"hjemmesykepleie" N Msc Sg Def <W:0.0>
+: 
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<gjelder>"
+	"gjeld" N Fem Pl Indef <W:0.0>
+	"gjeld" N Neu Pl Indef Use/NG <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<hjemmesykepleien>"
+	"hjemmesykepleie" N Msc Sg Def <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+:\n
+:    
+"<Har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<den>"
+	"den" Det Dem Msc Sg <W:0.0>
+: 
+"<akutt>"
+	"akutt" A Pos Fem Sg Indef <W:0.0>
+	"akutt" A Pos MF Sg Indef <W:0.0>
+	"akutt" A Pos Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kronisk>"
+	"kronisk" A Pos Fem Sg Indef <W:0.0>
+	"kronisk" A Pos MF Sg Indef <W:0.0>
+	"kronisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kritisk>"
+	"kritisk" A Pos Fem Sg Indef <W:0.0>
+	"kritisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<syke>"
+	"syk" A Pos Sg Def <W:0.0>
+: 
+"<pasienten>"
+	"pasient" N Msc Sg Def <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<medisinsk>"
+	"medisinsk" A Pos Fem Sg Indef <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+: 
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<gjelder>"
+	"gjeld" N Fem Pl Indef <W:0.0>
+	"gjeld" N Neu Pl Indef Use/NG <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<medisinsk>"
+	"medisinsk" A Pos Fem Sg Indef <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+:\n
+:\n
+"<Ferdigheter>"
+	"ferdighet" N Msc Pl Indef <W:0.0>
+:\n
+:\n
+"<Kandidaten>"
+	"kandidat" N Msc Sg Def <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+:\n
+:\n
+:    
+
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<utøve>"
+	"utøve" V Inf <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<tråd>"
+	"tråd" N Msc Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<yrkesetiske>"
+	"yrkesetiske" ?
+: 
+"<verdier>"
+	"verdi" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<retningslinjer>"
+	"linje" N Fem Pl Indef <W:0.0>
+		"retning" N Cmp/s Cmp <W:0.0>
+	"retningslinje" N Fem Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<samt>"
+	"samt" CC <W:0.0>
+: 
+"<gjeldende>"
+	"gjeldende" A Pos Fem Sg Indef <W:0.0>
+: 
+"<lovgivning>"
+	"givning" N Fem Sg Indef <W:0.0>
+		"lov" N Cmp/null Cmp <W:0.0>
+	"lovgivning" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Pos Msc Sg Indef <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" CS <W:0.0>
+: 
+"<pasienterfaringer>"
+	"erfaring" N Fem Pl Indef <W:0.0>
+		"pasient" N Cmp/null Cmp <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<livsfenomener>"
+	"livsfenomener" ?
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<sykepleien>"
+	"sykepleie" N Msc Sg Def <W:0.0>
+: 
+"<samt>"
+	"samt" CC <W:0.0>
+: 
+"<vise>"
+	"vise" N Fem Sg Indef <W:0.0>
+: 
+"<innlevelse>"
+	"innlevelse" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<forståelse>"
+	"forståelse" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<møte>"
+	"møte" N Neu Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<pasienters>"
+	"pasient" N Msc Pl Indef Clt <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<pårørendes>"
+	"pårørende" A Pos Sg Def Clt <W:0.0>
+: 
+"<opplevelser>"
+	"opplevelse" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<reaksjoner>"
+	"reaksjon" N Msc Pl Indef <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<sykdom>"
+	"sykdom" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<sykdomsbehandling>"
+	"behandling" N Fem Sg Indef <W:0.0>
+		"sykdom" N Cmp/s Cmp <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Der/AAdv Adv <W:0.0>
+: 
+"<faglig>"
+	"faglig" A Pos MF Sg Indef <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" CS <W:0.0>
+	"om" Pr <W:0.0>
+: 
+"<helse>"
+	"helse" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<sykdom>"
+	"sykdom" N Msc Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+	"å" N Fem Sg Indef <W:0.0>
+: 
+"<systematisk>"
+	"systematisk" A Pos Fem Sg Indef <W:0.0>
+	"systematisk" A Pos MF Sg Indef <W:0.0>
+	"systematisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<observerer>"
+	"observere" V Ind Prs <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<vurdere>"
+	"vurdere" V Inf <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<beslutte>"
+	"beslutte" V Inf <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<iverksette>"
+	"iverksette" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<dokumentere>"
+	"dokumentere" V Inf <W:0.0>
+: 
+"<hensiktsmessige>"
+	"hensiktsmessig" A Pos Pl Indef <W:0.0>
+: 
+"<sykepleietiltak>"
+	"tiltak" N Neu Pl Indef <W:0.0>
+		"sykepleie" N Cmp/null Cmp <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<samt>"
+	"samt" CC <W:0.0>
+: 
+"<evaluere>"
+	"evaluere" V Inf <W:0.0>
+: 
+"<effekten>"
+	"effekt" N Msc Sg Def <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<disse>"
+	"disse" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<justere>"
+	"justere" V Inf <W:0.0>
+: 
+"<ved>"
+	"ved" Pr <W:0.0>
+: 
+"<behov>"
+	"behov" N Neu Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Der/AAdv Adv <W:0.0>
+: 
+"<kartleggings->"
+	"legging" N Cmp/s Cmp <W:0.0>
+		"kart" N Cmp/null Cmp <W:0.0>
+	"kartlegging" N Cmp/s Cmp <W:0.0>
+	 <W:0.0>
+	 <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<vurdering->"
+	"vurdere" Ex/V Der/NomAct N Cmp/Hyph Cmp <W:0.0>
+	"vurdering" N Cmp/Hyph Cmp <W:0.0>
+	 <W:0.0>
+	 <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<dokumentasjons->"
+	"dokumentasjon" N Cmp/s Cmp <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kommunikasjonsverktøy>"
+	"verktøy" N Neu Pl Indef <W:0.0>
+		"kommunikasjon" N Cmp/s Cmp <W:0.0>
+	"verktøy" N Neu Sg Indef <W:0.0>
+		"kommunikasjon" N Cmp/s Cmp <W:0.0>
+	"kommunikasjonsverktøy" N Neu Pl Indef <W:0.0>
+	"kommunikasjonsverktøy" N Neu Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<sykepleieutøvelsen>"
+	"utøvelse" N Msc Sg Def <W:0.0>
+		"sykepleie" N Cmp/null Cmp <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<utøve>"
+	"utøve" V Inf <W:0.0>
+: 
+"<ferdigheter>"
+	"ferdighet" N Msc Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<samsvar>"
+	"samsvar" N Neu Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<gjeldende>"
+	"gjeldende" A Pos Neu Sg Indef <W:0.0>
+: 
+"<kvalitetskrav>"
+	"krav" N Neu Sg Indef <W:0.0>
+		"kvalitet" N Cmp/s Cmp <W:0.0>
+	"kvalitetskrav" N Neu Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<informere>"
+	"informere" V Inf <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<undervise>"
+	"vise" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervise" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<veilede>"
+	"veilede" V Inf <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<pårørende>"
+	"pårørende" A Pos Fem Sg Indef <W:0.0>
+	"pårørende" A Pos MF Sg Indef <W:0.0>
+	"pårørende" A Pos Msc Sg Indef <W:0.0>
+	"pårørende" A Pos Pl Def <W:0.0>
+	"pårørende" A Pos Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<medstudenter>"
+	"medstudent" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<medarbeidere>"
+	"medarbeider" N Msc Pl Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<administrere>"
+	"administrere" V Inf <W:0.0>
+: 
+"<eget>"
+	"egen" A Pos Neu Sg Indef <W:0.0>
+: 
+"<arbeid>"
+	"arbeid" N Neu Sg Indef <W:0.0>
+: 
+"<hensiktsmessig>"
+	"hensiktsmessig" A Pos Fem Sg Indef <W:0.0>
+	"hensiktsmessig" A Pos MF Sg Indef <W:0.0>
+	"hensiktsmessig" A Pos Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<herunder>"
+	"herunder" Pr <W:0.0>
+: 
+"<planlegge>"
+	"planlegge" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<prioritere>"
+	"prioritere" V Inf <W:0.0>
+: 
+"<sykepleieoppgaver>"
+	"oppgave" N Fem Pl Indef <W:0.0>
+		"sykepleie" N Cmp/null Cmp <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<planlegge>"
+	"planlegge" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<gjennomføre>"
+	"gjennomføre" V Inf <W:0.0>
+: 
+"<forsvarlig>"
+	"forsvarlig" A Pos Fem Sg Indef <W:0.0>
+: 
+"<legemiddelhåndtering>"
+	"håndtering" N Fem Sg Indef <W:0.0>
+		"middel" N Cmp/null Cmp <W:0.0>
+			"lege" N Cmp/null Cmp <W:0.0>
+	"håndtering" N Fem Sg Indef <W:0.0>
+		"legemiddel" N Cmp/null Cmp <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<identifisere>"
+	"identifisere" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<vurdere>"
+	"vurdere" V Inf <W:0.0>
+: 
+"<risikofaktorer>"
+	"faktor" N Msc Pl Indef <W:0.0>
+		"risiko" N Cmp/null Cmp <W:0.0>
+	"risikofaktor" N Msc Pl Indef <W:0.0>
+: 
+"<knyttet>"
+	"knytte" N Neu Sg Def <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<individ>"
+	"individ" N Neu Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<samt>"
+	"samt" CC <W:0.0>
+: 
+"<dokumentere>"
+	"dokumentere" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<systematisk>"
+	"systematisk" A Pos Fem Sg Indef <W:0.0>
+	"systematisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<følge>"
+	"følge" N Neu Sg Indef <W:0.0>
+: 
+"<opp>"
+	"opp" Adv <W:0.0>
+: 
+"<relevante>"
+	"relevant" A Pos Pl Indef <W:0.0>
+: 
+"<tiltak>"
+	"tiltak" N Neu Pl Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Pos Msc Sg Indef <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<kulturkompetanse>"
+	"kompetanse" N Msc Sg Indef <W:0.0>
+		"kultur" N Cmp/null Cmp <W:0.0>
+	"kulturkompetanse" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kulturforståelse>"
+	"forståelse" N Msc Sg Indef <W:0.0>
+		"kultur" N Cmp/null Cmp <W:0.0>
+	"kulturforståelse" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<vurdering>"
+	"vurdere" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"vurdering" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<planlegging>"
+	"legging" N Fem Sg Indef <W:0.0>
+		"plan" N Cmp/null Cmp <W:0.0>
+	"planlegging" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<gjennomføring>"
+	"gjennomføre" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"gjennomføring" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<evaluering>"
+	"evaluere" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"evaluering" N Fem Sg Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Pos Msc Sg Indef <W:0.0>
+: 
+"<teknologi>"
+	"teknologi" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<digitale>"
+	"digital" A Pos Pl Indef <W:0.0>
+: 
+"<løsninger>"
+	"løsne" Ex/V Der/NomAct N Fem Pl Indef <W:0.0>
+	"løsning" N Fem Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<den>"
+	"den" Det Dem Fem Sg <W:0.0>
+: 
+"<hensikt>"
+	"hensikt" N Fem Sg Indef <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<understøtte>"
+	"støtte" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"understøtte" N Fem Sg Indef <W:0.0>
+: 
+"<pasienters>"
+	"pasient" N Msc Pl Indef Clt <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<pårørendes>"
+	"pårørende" A Pos Sg Def Clt <W:0.0>
+: 
+"<ressurser>"
+	"ressurs" N Msc Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<mestringsmuligheter>"
+	"mulighet" N Msc Pl Indef <W:0.0>
+		"mestre" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"mulighet" N Msc Pl Indef <W:0.0>
+		"mestring" N Cmp/s Cmp <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<medvirkning>"
+	"medvirkning" N Fem Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Der/AAdv Adv <W:0.0>
+: 
+"<relevant>"
+	"relevant" A Der/AAdv Adv <W:0.0>
+: 
+"<medisinsk>"
+	"medisinsk" A Der/AAdv Adv <W:0.0>
+: 
+"<teknisk>"
+	"teknisk" A Pos Neu Sg Indef <W:0.0>
+: 
+"<utstyr>"
+	"utstyr" N Neu Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Pos Msc Sg Indef <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<iverksette>"
+	"iverksette" V Inf <W:0.0>
+: 
+"<tiltak>"
+	"tiltak" N Neu Pl Indef <W:0.0>
+	"tiltak" N Neu Sg Indef <W:0.0>
+: 
+"<som>"
+	"som" CS <W:0.0>
+: 
+"<fremmer>"
+	"fremme" V Ind Prs <W:0.0>
+: 
+"<god>"
+	"god" A Pos Fem Sg Indef <W:0.0>
+	"god" A Pos Msc Sg Indef <W:0.0>
+: 
+"<psykisk>"
+	"psykisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<helse>"
+	"helse" N Fem Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Pos Msc Sg Indef <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<iverksette>"
+	"iverksette" V Inf <W:0.0>
+: 
+"<tiltak>"
+	"tiltak" N Neu Pl Indef <W:0.0>
+	"tiltak" N Neu Sg Indef <W:0.0>
+: 
+"<ved>"
+	"ved" Pr <W:0.0>
+: 
+"<akutte>"
+	"akutt" A Pos Pl Def <W:0.0>
+	"akutt" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<sub-akutte>"
+	"sub-akutte" ?
+: 
+"<hendelser>"
+	"hendelse" N Msc Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<samt>"
+	"samt" CC <W:0.0>
+: 
+"<utøve>"
+	"utøve" V Inf <W:0.0>
+: 
+"<hjerte-lungeredning>"
+	"hjerte-lungeredning" ?
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<hjertestarter>"
+	"start" N Msc Pl Indef <W:0.0>
+		"hjerte" N Cmp/null Cmp <W:0.0>
+: 
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<HHLR>"
+	"HHLR" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"HHLR" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Pos Neu Sg Indef <W:0.0>
+: 
+"<smittevernstiltak>"
+	"tiltak" N Neu Sg Indef <W:0.0>
+		"vern" N Cmp/s Cmp <W:0.0>
+			"smitte" N Cmp/null Cmp <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<forhindre>"
+	"forhindre" V Inf <W:0.0>
+: 
+"<spredning>"
+	"spredning" N Fem Sg Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<uønskede>"
+	"uønskede" ?
+: 
+"<mikrober>"
+	"mikrobe" N Msc Pl Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Pos Msc Sg Indef <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<utredning>"
+	"utredning" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<behandling>"
+	"behandle" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"behandling" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<oppfølging>"
+	"oppfølging" N Fem Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+	"å" N Fem Sg Indef <W:0.0>
+: 
+"<understøtte>"
+	"støtte" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"understøtte" N Fem Sg Indef <W:0.0>
+: 
+"<pasientens>"
+	"pasient" N Msc Sg Def Clt <W:0.0>
+: 
+"<beslutningsgrunnlag>"
+	"grunnlag" N Neu Pl Indef <W:0.0>
+		"beslutning" N Cmp/s Cmp <W:0.0>
+	"grunnlag" N Neu Sg Indef <W:0.0>
+		"beslutning" N Cmp/s Cmp <W:0.0>
+	"beslutningsgrunnlag" N Neu Pl Indef <W:0.0>
+	"beslutningsgrunnlag" N Neu Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<anvende>"
+	"anvende" A Der/AAdv Adv <W:0.0>
+: 
+"<faglig>"
+	"faglig" A Pos MF Sg Indef <W:0.0>
+: 
+"<kunnskap>"
+	"kunnskap" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<relevante>"
+	"vante" N Msc Sg Indef <W:0.0>
+		"rele" N Cmp/null Cmp <W:0.0>
+: 
+"<forsknings->"
+	"forskning" N Cmp/s Cmp <W:0.0>
+	"forsknings" N Cmp/Hyph Cmp <W:0.0>
+	 <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<utviklingsarbeid>"
+	"arbeid" N Neu Pl Indef <W:0.0>
+		"utvikle" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"arbeid" N Neu Sg Indef <W:0.0>
+		"utvikle" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"arbeid" N Neu Pl Indef <W:0.0>
+		"utvikling" N Cmp/s Cmp <W:0.0>
+	"arbeid" N Neu Sg Indef <W:0.0>
+		"utvikling" N Cmp/s Cmp <W:0.0>
+	"utviklingsarbeid" N Neu Pl Indef <W:0.0>
+	"utviklingsarbeid" N Neu Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<praktiske>"
+	"praktisk" A Pos Pl Indef <W:0.0>
+: 
+"<problemstillinger>"
+	"stilling" N Fem Pl Indef <W:0.0>
+		"problem" N Cmp/null Cmp <W:0.0>
+	"problemstilling" N Fem Pl Indef <W:0.0>
+:  \n
+:\n
+"<Generell>"
+	"generell" A Pos MF Sg Indef <W:0.0>
+: 
+"<kompetanse>"
+	"kompetanse" N Msc Sg Indef <W:0.0>
+:\n
+:\n
+"<Kandidaten>"
+	"kandidat" N Msc Sg Def <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+:\n
+:\n
+:    
+
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<reflektere>"
+	"reflektere" V Inf <W:0.0>
+: 
+"<over>"
+	"over" Adv <W:0.0>
+: 
+"<yrkesetiske>"
+	"yrkesetiske" ?
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<juridiske>"
+	"juridisk" A Pos Pl Indef <W:0.0>
+: 
+"<dilemma>"
+	"dilemma" N Neu Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<møte>"
+	"møte" V Inf <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<pårørende>"
+	"pårørende" A Pos Fem Sg Indef <W:0.0>
+	"pårørende" A Pos MF Sg Indef <W:0.0>
+	"pårørende" A Pos Msc Sg Indef <W:0.0>
+	"pårørende" A Pos Pl Def <W:0.0>
+	"pårørende" A Pos Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<barmhjertighet>"
+	"barmhjertighet" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<omsorg>"
+	"omsorg" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<respekt>"
+	"respekt" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<styrke>"
+	"styrke" V Inf <W:0.0>
+: 
+"<pasientens>"
+	"pasient" N Msc Sg Def Clt <W:0.0>
+: 
+"<verdighet>"
+	"verdighet" N Msc Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<reflektere>"
+	"reflektere" V Inf <W:0.0>
+: 
+"<over>"
+	"over" Pr <W:0.0>
+: 
+"<egen>"
+	"egen" A Pos Msc Sg Indef <W:0.0>
+: 
+"<omsorgsvilje>"
+	"vilje" N Msc Sg Indef <W:0.0>
+		"omsorg" N Cmp/s Cmp <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<omsorgsevne>"
+	"evne" N Msc Sg Indef <W:0.0>
+		"omsorg" N Cmp/s Cmp <W:0.0>
+	"omsorgsevne" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<møte>"
+	"møte" N Neu Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<menneskers>"
+	"menneske" N Neu Pl Indef Clt <W:0.0>
+: 
+"<ulike>"
+	"ulik" A Pos Pl Indef <W:0.0>
+: 
+"<opplevelser>"
+	"opplevelse" N Msc Pl Indef <W:0.0>
+: 
+"<av>"
+	"av" Adv <W:0.0>
+	"av" Pr <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<reaksjoner>"
+	"reaksjon" N Msc Pl Indef <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<sykdom>"
+	"sykdom" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<lidelse>"
+	"lidelse" N Msc Sg Indef <W:0.0>
+: 
+"<uansett>"
+	"uansett" Adv <W:0.0>
+: 
+"<alder>"
+	"alder" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kjønn>"
+	"kjønn" N Neu Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<etnisitet>"
+	"etnisitet" N Msc Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<reflektere>"
+	"reflektere" V Inf <W:0.0>
+: 
+"<over>"
+	"over" Adv <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<være>"
+	"være" V Inf <W:0.0>
+: 
+"<aktiv>"
+	"aktiv" A Pos Fem Sg Indef <W:0.0>
+	"aktiv" A Pos MF Sg Indef <W:0.0>
+	"aktiv" A Pos Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"I" Use/NG Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+	"i" Pr <W:0.0>
+: 
+"<sin>"
+	"sin" Det Poss Msc Sg3 <W:0.0>
+: 
+"<faglige>"
+	"faglig" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<personlige>"
+	"personlig" A Pos Pl Indef <W:0.0>
+: 
+"<utvikling>"
+	"utvikle" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"utvikling" N Fem Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<reflektere>"
+	"reflektere" V Inf <W:0.0>
+: 
+"<over>"
+	"over" Pr <W:0.0>
+: 
+"<eget>"
+	"egen" A Pos Neu Sg Indef <W:0.0>
+: 
+"<ansvar>"
+	"ansvar" N Neu Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<søke>"
+	"søke" V Inf <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<vurdere>"
+	"vurdere" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<anvende>"
+	"anvende" V Inf <W:0.0>
+: 
+"<relevante>"
+	"relevant" A Pos Sg Def <W:0.0>
+: 
+"<fag->"
+	"fag" N Cmp/Hyph Cmp <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<forskningslitteratur>"
+	"ur" N Neu Pl Indef <W:0.0>
+		"litterat" N Cmp/null Cmp <W:0.0>
+			"forskning" N Cmp/s Cmp <W:0.0>
+	"ur" N Neu Sg Indef <W:0.0>
+		"litterat" N Cmp/null Cmp <W:0.0>
+			"forskning" N Cmp/s Cmp <W:0.0>
+	"litteratur" N Msc Sg Indef <W:0.0>
+		"forskning" N Cmp/s Cmp <W:0.0>
+	"ur" N Neu Pl Indef <W:0.0>
+		"litterat" N Cmp/null Cmp <W:0.0>
+			"forsknings" N Cmp/null Cmp <W:0.0>
+	"ur" N Neu Sg Indef <W:0.0>
+		"litterat" N Cmp/null Cmp <W:0.0>
+			"forsknings" N Cmp/null Cmp <W:0.0>
+	"litteratur" N Msc Sg Indef <W:0.0>
+		"forsknings" N Cmp/null Cmp <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<utøvelse>"
+	"utøvelse" N Msc Sg Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<planlegge>"
+	"planlegge" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<gjennomføre>"
+	"gjennomføre" V Inf <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<akutt>"
+	"akutt" A Pos Fem Sg Indef <W:0.0>
+	"akutt" A Pos Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kritisk>"
+	"kritisk" A Pos Fem Sg Indef <W:0.0>
+	"kritisk" A Pos MF Sg Indef <W:0.0>
+	"kritisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kronisk>"
+	"kronisk" A Pos Fem Sg Indef <W:0.0>
+	"kronisk" A Pos Msc Sg Indef <W:0.0>
+: 
+"<syke>"
+	"syk" A Pos Pl Indef <W:0.0>
+: 
+"<mennesker>"
+	"menneske" N Neu Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kommune->"
+	"kommune" N Cmp/Hyph Cmp <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<spesialisthelsetjenesten>"
+	"tjeneste" N Msc Sg Def <W:0.0>
+		"helse" N Cmp/null Cmp <W:0.0>
+			"spesialist" N Cmp/null Cmp <W:0.0>
+	"helsetjeneste" N Msc Sg Def <W:0.0>
+		"spesialist" N Cmp/null Cmp <W:0.0>
+	"spesialisthelsetjeneste" N Msc Sg Def <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<planlegge>"
+	"planlegge" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<gjennomføre>"
+	"gjennomføre" V Inf <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<pre->"
+	"pre" N Cmp/Hyph Cmp <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<postoperative>"
+	"postoperative" ?
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<gjelder>"
+	"gjeld" N Fem Pl Indef <W:0.0>
+	"gjeld" N Neu Pl Indef Use/NG <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kirurgisk>"
+	"kirurgisk" A Pos Fem Sg Indef <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<planlegge>"
+	"planlegge" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<gjennomføre>"
+	"gjennomføre" V Inf <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<psykiske>"
+	"psykisk" A Pos Pl Indef <W:0.0>
+: 
+"<lidelser>"
+	"lidelse" N Msc Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<tilstander>"
+	"tilstand" N Msc Pl Indef <W:0.0>
+: 
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<gjelder>"
+	"gjeld" N Fem Pl Indef <W:0.0>
+	"gjeld" N Neu Pl Indef Use/NG <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<avdeling>"
+	"avdeling" N Fem Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<psykisk>"
+	"psykisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<helse>"
+	"helse" N Fem Sg Indef <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<planlegge>"
+	"planlegge" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<gjennomføre>"
+	"gjennomføre" V Inf <W:0.0>
+: 
+"<vurderinger>"
+	"vurdere" Ex/V Der/NomAct N Fem Pl Indef <W:0.0>
+	"vurdering" N Fem Pl Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<sykepleiebehov>"
+	"behov" N Neu Sg Indef <W:0.0>
+		"sykepleie" N Cmp/null Cmp <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<mennesker>"
+	"menneske" N Neu Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<urfolks->"
+	"folk" N Cmp/s Cmp <W:0.0>
+		"ur" N Cmp/null Cmp <W:0.0>
+	"urfolk" N Cmp/s Cmp <W:0.0>
+	 <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<minoritetsbakgrunn>"
+	"bakgrunn" N Msc Sg Indef <W:0.0>
+		"minoritet" N Cmp/s Cmp <W:0.0>
+	"minoritetsbakgrunn" N Neu Pl Indef <W:0.0>
+	"minoritetsbakgrunn" N Neu Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<planlegge>"
+	"planlegge" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<gjennomføre>"
+	"gjennomføre" V Inf <W:0.0>
+: 
+"<kommunikasjon>"
+	"kommunikasjon" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<samhandling>"
+	"samhandling" N Fem Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<basert>"
+	"basere" V PrfPrc <W:0.0>
+	"basere" V PrfPrc Ex/V A Pos Fem Sg Indef <W:0.0>
+	"basere" V PrfPrc Ex/V A Pos Msc Sg Indef <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<respekt>"
+	"respekt" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<medbestemmelse>"
+	"medbestemmelse" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<integritet>"
+	"integritet" N Msc Sg Indef <W:0.0>
+:\n
+:    
+"<Kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<formidle>"
+	"formidle" V Inf <W:0.0>
+: 
+"<synspunkter>"
+	"punkt" N Neu Pl Indef <W:0.0>
+		"syn" N Cmp/s Cmp <W:0.0>
+	"synspunkt" N Neu Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<dele>"
+	"dele" V Inf <W:0.0>
+: 
+"<erfaringer>"
+	"erfare" Ex/V Der/NomAct N Fem Pl Indef <W:0.0>
+	"erfaring" N Fem Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<andre>"
+	"andre" A Pos Fem Sg Indef <W:0.0>
+	"andre" A Pos Msc Sg Indef <W:0.0>
+: 
+"<innenfor>"
+	"innenfor" Pr <W:0.0>
+: 
+"<fagområdet>"
+	"område" N Neu Sg Def <W:0.0>
+		"fag" N Cmp/null Cmp <W:0.0>
+	"fagområde" N Neu Sg Def <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<gjennom>"
+	"gjennom" Pr <W:0.0>
+: 
+"<dette>"
+	"denne" Det Dem Neu Sg <W:0.0>
+: 
+"<bidra>"
+	"bidra" V Inf <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<utvikling>"
+	"utvikle" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"utvikling" N Fem Sg Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<god>"
+	"god" A Pos Msc Sg Indef <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+:\n
+:    
+"<Har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<innsikt>"
+	"innsikt" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"I" Use/NG Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+	"i" Pr <W:0.0>
+: 
+"<sosiale>"
+	"sosial" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<helsemessige>"
+	"helsemessig" A Pos Pl Indef <W:0.0>
+: 
+"<problemer>"
+	"problem" N Neu Pl Indef Use/NG <W:0.0>
+: 
+"<inkludert>"
+	"inkludere" V PrfPrc Ex/V A Pos MF Sg Indef <W:0.0>
+: 
+"<omsorgssvikt>"
+	"omsorgssvikt" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<vold>"
+	"vold" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<overgrep>"
+	"overgrep" N Neu Pl Indef <W:0.0>
+	"overgrep" N Neu Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<rus->"
+	"rus" N Cmp/Hyph Cmp <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<sosioøkonomiske>"
+	"sosioøkonomisk" A Pos Pl Indef <W:0.0>
+: 
+"<problemer>"
+	"problem" N Neu Pl Indef Use/NG <W:0.0>
+: \n
+:\n
+"<Innhold>"
+	"innhold" N Neu Pl Indef <W:0.0>
+	"innhold" N Neu Sg Indef <W:0.0>
+:\n
+:\n
+:    
+"<Del>"
+	"del" N Msc Sg Indef <W:0.0>
+: 
+"<I:>"
+	"I" Use/NG Use/Circ Num Use/Circ Rom <W:0.0>
+	 Use/Circ"I" Use/Circ Num Use/Circ Rom <W:0.0>
+: 
+"<Praksisforberedende>"
+	"Praksisforberedende" ?
+: 
+"<undervisning>"
+	"visning" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervisning" N Fem Sg Indef <W:0.0>
+:\n
+:    
+"<Del>"
+	"del" N Msc Sg Indef <W:0.0>
+: 
+"<II:>"
+	"II" N Prop Sem/Org ACR N Prop ACR Use/NG Msc Sg Indef <W:0.0>
+	"II" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Use/NG Msc Sg Indef <W:0.0>
+	 Use/Circ"II" Use/Circ Num Use/Circ Rom <W:0.0>
+: 
+"<Kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+:\n
+:\n
+"<Del>"
+	"del" N Msc Sg Indef <W:0.0>
+: 
+"<I:>"
+	"I" Use/NG Use/Circ Num Use/Circ Rom <W:0.0>
+	 Use/Circ"I" Use/Circ Num Use/Circ Rom <W:0.0>
+: 
+"<Praksisforberedende>"
+	"Praksisforberedende" ?
+: 
+"<undervisning>"
+	"visning" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervisning" N Fem Sg Indef <W:0.0>
+:\n
+:\n
+"<Del>"
+	"del" N Msc Sg Indef <W:0.0>
+: 
+"<I>"
+	"i" Pr <W:0.0>
+	 Use/Circ"I" Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+: 
+"<gir>"
+	"gir" N Neu Sg Indef <W:0.0>
+: 
+"<en>"
+	"en" Det Dem Fem Sg <W:0.0>
+: 
+"<teoretisk>"
+	"teoretisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<innføring>"
+	"innføre" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"innføring" N Fem Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kunnskapsgrunnlaget>"
+	"grunnlag" N Neu Sg Def <W:0.0>
+		"kunnskap" N Cmp/s Cmp <W:0.0>
+	"kunnskapsgrunnlag" N Neu Sg Def <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<psykiske>"
+	"psykisk" A Pos Pl Indef <W:0.0>
+: 
+"<lidelser>"
+	"lidelse" N Msc Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kirurgiske>"
+	"kirurgisk" A Pos Pl Def <W:0.0>
+	"kirurgisk" A Pos Pl Indef <W:0.0>
+"</>"
+	"/" PUNCT <W:0.0>
+"<medisinske>"
+	"medisinsk" A Pos Pl Indef <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<eller>"
+	"eller" CC <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<hjemmebaserte>"
+	"hjemmebaserte" ?
+: 
+"<tjenester>"
+	"tjeneste" N Msc Pl Indef <W:0.0>
+: 
+"<som>"
+	"som" CS <W:0.0>
+: 
+"<legger>"
+	"legge" V Ind Prs <W:0.0>
+: 
+"<grunnlaget>"
+	"grunnlag" N Neu Sg Def <W:0.0>
+: 
+"<for>"
+	"for" Pr <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<Praksisforberedende>"
+	"Praksisforberedende" ?
+: 
+"<undervisning>"
+	"visning" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervisning" N Fem Sg Indef <W:0.0>
+: 
+"<skal>"
+	"skulle" V Ind Prs <W:0.0>
+: 
+"<hjelpe>"
+	"hjelpe" V Inf <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<utvikle>"
+	"utvikle" V Inf <W:0.0>
+: 
+"<en>"
+	"en" Pron Indef Fem Sg <W:0.0>
+	"en" Pron Indef Msc Sg <W:0.0>
+: 
+"<forberedthet>"
+	"forberedthet" ?
+: 
+"<rettet>"
+	"rette" V Ind Prt <W:0.0>
+: 
+"<mot>"
+	"mot" Pr <W:0.0>
+: 
+"<praksisfeltet>"
+	"felt" N Neu Sg Def <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+	"praksisfelt" N Neu Sg Def <W:0.0>
+: 
+"<som>"
+	"som" Pr <W:0.0>
+: 
+"<læringsarena>"
+	"arena" N Msc Sg Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"arena" N Msc Sg Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"læringsarena" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Undervisningen>"
+	"visning" N Msc Sg Def <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervisning" N Msc Sg Def <W:0.0>
+: 
+"<skal>"
+	"skulle" V Ind Prs <W:0.0>
+: 
+"<forberede>"
+	"forberede" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<trygge>"
+	"trygg" A Pos Sg Def <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<identifisere>"
+	"identifisere" V Inf <W:0.0>
+: 
+"<aktuelle>"
+	"aktuell" A Pos Pl Indef <W:0.0>
+: 
+"<læresituasjoner>"
+	"situasjon" N Msc Pl Indef <W:0.0>
+		"lære" N Cmp/null Cmp <W:0.0>
+	"læresituasjon" N Msc Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<praksisfeltet>"
+	"felt" N Neu Sg Def <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+	"praksisfelt" N Neu Sg Def <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<delta>"
+	"delta" V Inf <W:0.0>
+: 
+"<aktivt>"
+	"aktivt" Adv <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<aktuelle>"
+	"aktuell" A Pos Pl Indef <W:0.0>
+: 
+"<læresituasjoner>"
+	"situasjon" N Msc Pl Indef <W:0.0>
+		"lære" N Cmp/null Cmp <W:0.0>
+	"læresituasjon" N Msc Pl Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Det>"
+	"det" Pron Pers Sg3 <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<krav>"
+	"krav" N Neu Pl Indef <W:0.0>
+	"krav" N Neu Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<100%>"
+	 Use/Circ"100 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"100 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<tilstedeværelse>"
+	"tilstedeværelse" N Neu Pl Indef <W:0.0>
+	"tilstedeværelse" N Neu Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<praksisforberedende>"
+	"praksisforberedende" ?
+: 
+"<undervisning>"
+	"visning" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervisning" N Fem Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<Del>"
+	"del" N Msc Sg Indef <W:0.0>
+	"dele" V Imp <W:0.0>
+: 
+"<II>"
+	"II" N Prop Sem/Org ACR N Prop ACR Err/Orth Msc Sg Indef <W:0.0>
+	"II" N Prop Sem/Org ACR N Prop ACR Msc Sg Indef <W:0.0>
+	"II" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"II" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+	 Use/Circ"II" Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+:\n
+:\n
+"<Fokus>"
+	"Fokus" N Prop Sem/Org <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<omsorg>"
+	"omsorg" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<faglig>"
+	"faglig" A Pos Fem Sg Indef <W:0.0>
+	"faglig" A Pos Msc Sg Indef <W:0.0>
+: 
+"<forsvarlig>"
+	"forsvarlig" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<psykiske>"
+	"psykisk" A Pos Pl Indef <W:0.0>
+: 
+"<lidelser>"
+	"lidelse" N Msc Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kirurgiske>"
+	"kirurgisk" A Pos Pl Def <W:0.0>
+	"kirurgisk" A Pos Pl Indef <W:0.0>
+"</>"
+	"/" PUNCT <W:0.0>
+"<medisinske>"
+	"medisinsk" A Pos Pl Indef <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<eller>"
+	"eller" CC <W:0.0>
+: 
+"<pasienter>"
+	"pasient" N Msc Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<hjemmebaserte>"
+	"hjemmebaserte" ?
+: 
+"<tjenester>"
+	"tjeneste" N Msc Pl Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<I>"
+	"i" Pr <W:0.0>
+	 Use/Circ"I" Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<vil>"
+	"ville" V Ind Prs <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<erfare>"
+	"erfare" V Inf <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<som>"
+	"som" Pr <W:0.0>
+: 
+"<yrke>"
+	"yrke" N Neu Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<De>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<skal>"
+	"skulle" V Ind Prs <W:0.0>
+: 
+"<være>"
+	"være" V Inf <W:0.0>
+: 
+"<planlagte>"
+	"planlagt" A Pos Pl Def <W:0.0>
+	"planlagt" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<målrettede>"
+	"målrettet" A Pos Pl Def <W:0.0>
+	"målrettet" A Pos Pl Indef <W:0.0>
+: 
+"<hvor>"
+	"hvor" Adv <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<vil>"
+	"ville" V Ind Prs <W:0.0>
+: 
+"<motta>"
+	"motta" V Inf <W:0.0>
+: 
+"<jevnlig>"
+	"jevnlig" A Pos MF Sg Indef <W:0.0>
+: 
+"<veiledning>"
+	"ledning" N Msc Sg Indef <W:0.0>
+		"vei" N Cmp/null Cmp <W:0.0>
+	"veiledning" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<tilbakemelding>"
+	"tilbakemelding" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<vurdering>"
+	"vurdere" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"vurdering" N Fem Sg Indef <W:0.0>
+: 
+"<fra>"
+	"fra" Pr <W:0.0>
+: 
+"<praksisveileder>"
+	"veileder" N Msc Sg Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+: 
+"<fra>"
+	"fra" Pr <W:0.0>
+: 
+"<praksisstedet>"
+	"sted" N Neu Sg Def <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<praksislærer>"
+	"lære" N Fem Pl Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+	"lærer" N Msc Sg Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+: 
+"<fra>"
+	"fra" Pr <W:0.0>
+: 
+"<Det>"
+	"den" Det Dem Neu Sg <W:0.0>
+: 
+"<helsevitenskapelige>"
+	"helsevitenskapelige" ?
+: 
+"<fakultet>"
+	"fakultet" N Neu Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Det>"
+	"det" Pron Pers Sg3 <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<krav>"
+	"krav" N Neu Pl Indef <W:0.0>
+	"krav" N Neu Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<90%>"
+	 Use/Circ"90 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"90 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<tilstedeværelse>"
+	"tilstedeværelse" N Neu Pl Indef <W:0.0>
+	"tilstedeværelse" N Neu Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<De>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<går>"
+	"gå" V Ind Prs <W:0.0>
+: 
+"<over>"
+	"over" Pr <W:0.0>
+: 
+"<9>"
+	"9" A Arab Ord Attr CLBfinal <W:0.0>
+	"9" A Arab Ord Use/Circ Err/Orth Arab Ord <W:0.0>
+	"9" Num Sem/ID <W:0.0>
+	 Use/Circ"9" Num Arab <W:0.0>
+	 Use/Circ"9" Num Err/Orth Arab <W:0.0>
+: 
+"<uker>"
+	"uke" N Fem Pl Indef <W:0.0>
+: 
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<totalt>"
+	"total" A Der/AAdv Adv <W:0.0>
+: 
+"<270>"
+	"270" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	"270" Num Sem/ID <W:0.0>
+	 Use/Circ"270" Num Arab <W:0.0>
+	 Use/Circ"270" Num Err/Orth Arab <W:0.0>
+: 
+"<timer>"
+	"time" N Msc Pl Indef <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<gjennomsnittlig>"
+	"gjennomsnittlig" A Pos Fem Sg Indef <W:0.0>
+	"gjennomsnittlig" A Pos Msc Sg Indef <W:0.0>
+: 
+"<30>"
+	"30" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	 Use/Circ"30" Num Arab <W:0.0>
+	 Use/Circ"30" Num Err/Orth Arab <W:0.0>
+: 
+"<timer>"
+	"time" N Msc Pl Indef <W:0.0>
+: 
+"<pr>"
+	"pr" N ABBR Gram/TAbbr N ABBR <W:0.0>
+: 
+"<uke>"
+	"uke" N Fem Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<I>"
+	"i" Pr <W:0.0>
+	 Use/Circ"I" Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+: 
+"<tillegg>"
+	"tillegg" N Neu Sg Indef <W:0.0>
+: 
+"<forventes>"
+	"forvenne" V PrfPrc Ex/V A Pos Sg Def Clt <W:0.0>
+: 
+"<selvstudium>"
+	"selvstudium" N Neu Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<fagseminarer>"
+	"seminar" N Neu Pl Indef <W:0.0>
+		"fag" N Cmp/null Cmp <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<veiledning>"
+	"ledning" N Msc Sg Indef <W:0.0>
+		"vei" N Cmp/null Cmp <W:0.0>
+	"veiledning" N Fem Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<lærer>"
+	"lærer" N Msc Sg Indef <W:0.0>
+: 
+"<slik>"
+	"slik" Adv <W:0.0>
+: 
+"<at>"
+	"at" CS <W:0.0>
+: 
+"<studieinnsatsen>"
+	"innsats" N Msc Sg Def <W:0.0>
+		"studie" N Cmp/null Cmp <W:0.0>
+: 
+"<tilsvarer>"
+	"tilsvare" V Ind Prs <W:0.0>
+: 
+"<et>"
+	"et" Det Dem Neu Sg <W:0.0>
+: 
+"<heltidsstudium>"
+	"studium" N Neu Sg Indef <W:0.0>
+		"heltid" N Cmp/s Cmp <W:0.0>
+	"studium" N Neu Sg Indef <W:0.0>
+		"heltids" N Cmp/null Cmp <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<40>"
+	"40" A Arab Ord Attr CLBfinal <W:0.0>
+	"40" A Arab Ord Use/Circ Err/Orth Arab Ord <W:0.0>
+	"40" Num Sem/ID <W:0.0>
+	 Use/Circ"40" Num Arab <W:0.0>
+	 Use/Circ"40" Num Err/Orth Arab <W:0.0>
+: 
+"<timer>"
+	"time" N Msc Pl Indef <W:0.0>
+: 
+"<pr.>"
+	"." CLB <W:0.0> "<.>"
+		"pr" Adv ABBR Gram/TAbbr A ABBR <W:0.0> "<pr>"
+	"." CLB <W:0.0> "<.>"
+		"pr" N ABBR Gram/TAbbr Use/NG N ABBR <W:0.0> "<pr>"
+	"." CLB <W:0.0> "<.>"
+		"pr" N ABBR Gram/TAbbr N ABBR <W:0.0> "<pr>"
+: 
+
+"<uke>"
+	"uke" N Fem Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<Studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<følger>"
+	"følge" V Ind Prs <W:0.0>
+: 
+"<praksisstedets>"
+	"sted" N Neu Sg Def Clt <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+: 
+"<arbeidstid>"
+	"arbeidstid" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<går>"
+	"gå" V Ind Prs <W:0.0>
+: 
+"<praksisveileders>"
+	"veileder" N Msc Sg Indef Clt <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+: 
+"<vakter>"
+	"vakt" N Fem Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<inkludert>"
+	"inkludere" V PrfPrc Ex/V A Pos Fem Sg Indef <W:0.0>
+	"inkludere" V PrfPrc Ex/V A Pos Msc Sg Indef <W:0.0>
+: 
+"<minimum>"
+	"minimum" N Neu Pl Indef <W:0.0>
+	"minimum" N Neu Sg Indef <W:0.0>
+: 
+"<2>"
+	"2" A Arab Ord Attr CLBfinal <W:0.0>
+	"2" A Arab Ord Use/Circ Err/Orth Arab Ord <W:0.0>
+	"2" Num Sem/ID <W:0.0>
+	 Use/Circ"2" Num Arab <W:0.0>
+	 Use/Circ"2" Num Err/Orth Arab <W:0.0>
+: 
+"<helger>"
+	"helg" N Fem Pl Indef <W:0.0>
+: 
+"<i>"
+	"I" Use/NG Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+	"i" Pr <W:0.0>
+: 
+"<medisinsk>"
+	"medisinsk" A Pos MF Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kirurgisk>"
+	"kirurgisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<inntil>"
+	"inntil" Pr <W:0.0>
+: 
+"<2>"
+	"2" A Arab Ord Attr CLBfinal <W:0.0>
+	"2" A Arab Ord Use/Circ Err/Orth Arab Ord <W:0.0>
+	"2" Num Sem/ID <W:0.0>
+	 Use/Circ"2" Num Arab <W:0.0>
+	 Use/Circ"2" Num Err/Orth Arab <W:0.0>
+: 
+"<helger>"
+	"helg" N Fem Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<psykisk>"
+	"psykisk" A Pos MF Sg Indef <W:0.0>
+: 
+"<helse>"
+	"helse" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<kommunehelsetjenesten>"
+	"tjeneste" N Msc Sg Def <W:0.0>
+		"helse" N Cmp/null Cmp <W:0.0>
+			"kommune" N Cmp/null Cmp <W:0.0>
+	"helsetjeneste" N Msc Sg Def <W:0.0>
+		"kommune" N Cmp/null Cmp <W:0.0>
+	"kommunehelsetjeneste" N Msc Sg Def <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<I>"
+	"i" Pr <W:0.0>
+	 Use/Circ"I" Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+: 
+"<løpet>"
+	"løp" N Neu Sg Def <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<første>"
+	"første" A Pos Fem Sg Indef <W:0.0>
+: 
+"<uke>"
+	"uke" N Fem Sg Indef <W:0.0>
+: 
+"<utarbeides>"
+	"utarbeide" V Ind Prs Pass <W:0.0>
+	"utarbeide" V Inf Pass <W:0.0>
+: 
+"<en>"
+	"en" Det Dem Msc Sg <W:0.0>
+: 
+"<turnusplan>"
+	"plan" N Msc Sg Indef <W:0.0>
+		"turnus" N Cmp/null Cmp <W:0.0>
+: 
+"<for>"
+	"for" CC <W:0.0>
+	"for" N Neu Pl Indef <W:0.0>
+	"for" N Neu Sg Indef <W:0.0>
+	"for" Pr <W:0.0>
+: 
+"<når>"
+	"nå" V Ind Prs <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<skal>"
+	"skulle" V Ind Prs <W:0.0>
+: 
+"<være>"
+	"være" V Inf <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<stede>"
+	"stede" N Neu Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<avdelingen>"
+	"avdeling" N Msc Sg Def <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<følger>"
+	"følge" V Ind Prs <W:0.0>
+: 
+"<minimum>"
+	"minimum" N Neu Pl Indef <W:0.0>
+	"minimum" N Neu Sg Indef <W:0.0>
+: 
+"<60%>"
+	 Use/Circ"60 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"60 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<praksisveileders>"
+	"veileder" N Msc Sg Indef Clt <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+: 
+"<vakter>"
+	"vakt" N Fem Pl Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Turnusplanen>"
+	"plan" N Msc Sg Def <W:0.0>
+		"turnus" N Cmp/null Cmp <W:0.0>
+: 
+"<godkjennes>"
+	"godkjenne" V Ind Prs Pass <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<praksisstedet>"
+	"sted" N Neu Sg Def <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<lærer>"
+	"lær" N Neu Pl Indef Use/NG <W:0.0>
+	"lære" N Fem Pl Indef <W:0.0>
+	"lærer" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Organiseringen>"
+	"organisere" Ex/V Der/NomAct N Msc Sg Def <W:0.0>
+	"organisering" N Msc Sg Def <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+:   
+"<veiledningstilbudet>"
+	"tilbud" N Neu Sg Def <W:0.0>
+		"ledning" N Cmp/s Cmp <W:0.0>
+			"vei" N Cmp/null Cmp <W:0.0>
+	"tilbud" N Neu Sg Def <W:0.0>
+		"veiledning" N Cmp/s Cmp <W:0.0>
+	"veiledningstilbud" N Neu Sg Def <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<fordelingen>"
+	"deling" N Msc Sg Def <W:0.0>
+		"for" N Cmp/null Cmp <W:0.0>
+	"fordele" Ex/V Der/NomAct N Msc Sg Def <W:0.0>
+	"fordeling" N Msc Sg Def <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<veiledningsoppgaver>"
+	"gave" N Fem Pl Indef <W:0.0>
+		"sopp" N Cmp/null Cmp <W:0.0>
+			"ledning" N Cmp/null Cmp <W:0.0>
+				"vei" N Cmp/null Cmp <W:0.0>
+	"oppgave" N Fem Pl Indef <W:0.0>
+		"ledning" N Cmp/s Cmp <W:0.0>
+			"vei" N Cmp/null Cmp <W:0.0>
+	"gave" N Fem Pl Indef <W:0.0>
+		"sopp" N Cmp/null Cmp <W:0.0>
+			"veiledning" N Cmp/null Cmp <W:0.0>
+	"oppgave" N Fem Pl Indef <W:0.0>
+		"veiledning" N Cmp/s Cmp <W:0.0>
+: 
+"<mellom>"
+	"mellom" Pr <W:0.0>
+: 
+"<praksisveileder>"
+	"veileder" N Msc Sg Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<lærer>"
+	"lær" N Neu Pl Indef Use/NG <W:0.0>
+	"lære" N Fem Pl Indef <W:0.0>
+	"lærer" N Msc Sg Indef <W:0.0>
+: 
+"<nedfelles>"
+	"nedfelle" V Ind Prs Pass <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<en>"
+	"en" Det Dem Msc Sg <W:0.0>
+: 
+"<veiledningskontrakt>"
+	"kontrakt" N Msc Sg Indef <W:0.0>
+		"ledning" N Cmp/s Cmp <W:0.0>
+			"vei" N Cmp/null Cmp <W:0.0>
+	"kontrakt" N Msc Sg Indef <W:0.0>
+		"veiledning" N Cmp/s Cmp <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Dette>"
+	"denne" Det Dem Neu Sg <W:0.0>
+: 
+"<innebærer>"
+	"innebære" V Ind Prs <W:0.0>
+: 
+"<at>"
+	"at" CS <W:0.0>
+: 
+"<veiledningsaktivitetene>"
+	"aktivitet" N Msc Pl Def <W:0.0>
+		"ledning" N Cmp/s Cmp <W:0.0>
+			"vei" N Cmp/null Cmp <W:0.0>
+	"aktivitet" N Msc Pl Def <W:0.0>
+		"veiledning" N Cmp/s Cmp <W:0.0>
+	"veiledningsaktivitet" N Msc Pl Def <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<veiledningsformene>"
+	"form" N Msc Pl Def <W:0.0>
+		"ledning" N Cmp/s Cmp <W:0.0>
+			"vei" N Cmp/null Cmp <W:0.0>
+	"form" N Msc Pl Def <W:0.0>
+		"veiledning" N Cmp/s Cmp <W:0.0>
+: 
+"<studentene>"
+	"student" N Msc Pl Def <W:0.0>
+: 
+"<tilbys>"
+	"tilby" V Ind Prs Pass <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<variere>"
+	"variere" V Inf <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<tilpasses>"
+	"tilpasse" V Inf Pass <W:0.0>
+: 
+"<den>"
+	"den" Det Dem Fem Sg <W:0.0>
+	"den" Det Dem Msc Sg <W:0.0>
+: 
+"<enkelte>"
+	"enkelt" A Pos Pl Indef <W:0.0>
+: 
+"<students>"
+	"student" N Msc Sg Indef Clt <W:0.0>
+: 
+"<behov>"
+	"behov" N Neu Pl Indef <W:0.0>
+	"behov" N Neu Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: \n
+:\n
+
+"<Studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<planlegger>"
+	"planlegge" V Ind Prs <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<dokumenterer>"
+	"dokumentere" V Ind Prs <W:0.0>
+: 
+"<sin>"
+	"sin" Det Poss Msc Sg3 <W:0.0>
+: 
+"<læringsprosess>"
+	"prosess" N Msc Sg Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"prosess" N Msc Sg Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"læringsprosess" N Msc Sg Indef <W:0.0>
+: 
+"<ut>"
+	"ut" Adv <W:0.0>
+	"ut" Pr <W:0.0>
+: 
+"<fra>"
+	"fra" Pr <W:0.0>
+: 
+"<læringsutbytte>"
+	"utbytte" N Neu Sg Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"utbytte" N Neu Sg Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"læringsutbytte" N Neu Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<læringsbehov>"
+	"behov" N Neu Pl Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"behov" N Neu Sg Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"behov" N Neu Pl Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"behov" N Neu Sg Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<tilgjengelige>"
+	"tilgjengelig" A Pos Pl Indef <W:0.0>
+: 
+"<læresituasjoner>"
+	"situasjon" N Msc Pl Indef <W:0.0>
+		"lære" N Cmp/null Cmp <W:0.0>
+	"læresituasjon" N Msc Pl Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<rett>"
+	"rett" A Pos Neu Sg Indef <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<jevnlig>"
+	"jevnlig" A Pos MF Sg Indef <W:0.0>
+: 
+"<veiledning>"
+	"ledning" N Msc Sg Indef <W:0.0>
+		"vei" N Cmp/null Cmp <W:0.0>
+	"veiledning" N Fem Sg Indef <W:0.0>
+"</>"
+	"/" PUNCT <W:0.0>
+"<vurdering>"
+	"vurdere" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"vurdering" N Fem Sg Indef <W:0.0>
+: 
+"<fra>"
+	"fra" Pr <W:0.0>
+: 
+"<praksisveileder>"
+	"veileder" N Msc Sg Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<lærer>"
+	"lær" N Neu Pl Indef Use/NG <W:0.0>
+	"lære" N Fem Pl Indef <W:0.0>
+	"lærer" N Msc Sg Indef <W:0.0>
+: 
+"<slik>"
+	"slik" Adv <W:0.0>
+: 
+"<at>"
+	"at" CS <W:0.0>
+: 
+"<hun>"
+	"hun" Pron Pers Sg3 Nom <W:0.0>
+"</>"
+	"/" PUNCT <W:0.0>
+"<han>"
+	"han" Pron Pers Sg3 Nom <W:0.0>
+: 
+"<blir>"
+	"bli" V Ind Prs <W:0.0>
+: 
+"<orientert>"
+	"orientere" V PrfPrc <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<sin>"
+	"sin" Det Poss Msc Sg3 <W:0.0>
+: 
+"<utvikling>"
+	"utvikle" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"utvikling" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<sitt>"
+	"sin" Det Poss Neu Sg3 <W:0.0>
+: 
+"<kompetansenivå>"
+	"nivå" N Neu Sg Indef <W:0.0>
+		"kompetanse" N Cmp/null Cmp <W:0.0>
+	"kompetansenivå" N Neu Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Vurderingen>"
+	"vurdere" Ex/V Der/NomAct N Msc Sg Def <W:0.0>
+	"vurdering" N Msc Sg Def <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<studentens>"
+	"student" N Msc Sg Def Clt <W:0.0>
+: 
+"<kompetanse>"
+	"kompetanse" N Msc Sg Indef <W:0.0>
+: 
+"<skjer>"
+	"skje" V Ind Prs <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<utgangspunkt>"
+	"punkt" N Neu Sg Indef <W:0.0>
+		"utgang" N Cmp/s Cmp <W:0.0>
+	"utgangspunkt" N Neu Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<studieprogrammets>"
+	"program" N Neu Sg Def Clt <W:0.0>
+		"studie" N Cmp/null Cmp <W:0.0>
+: 
+"<læringsutbytte>"
+	"utbytte" N Neu Sg Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"utbytte" N Neu Sg Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"læringsutbytte" N Neu Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<studentens>"
+	"student" N Msc Sg Def Clt <W:0.0>
+: 
+"<dokumentasjon>"
+	"dokumentasjon" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<refleksjon>"
+	"refleksjon" N Msc Sg Indef <W:0.0>
+: 
+"<rundt>"
+	"rund" A Der/AAdv Adv <W:0.0>
+: 
+"<egen>"
+	"egen" A Pos Fem Sg Indef <W:0.0>
+: 
+"<utvikling>"
+	"utvikle" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"utvikling" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<læring>"
+	"lære" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"læring" N Fem Sg Indef <W:0.0>
+: 
+"<samt>"
+	"samt" CC <W:0.0>
+: 
+"<tilbakemeldinger>"
+	"tilbakemelding" N Fem Pl Indef <W:0.0>
+: 
+"<fra>"
+	"fra" Pr <W:0.0>
+: 
+"<praksisveileder>"
+	"veileder" N Msc Sg Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Studentens>"
+	"student" N Msc Sg Def Clt <W:0.0>
+: 
+"<læringsprogresjon>"
+	"progresjon" N Msc Sg Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"progresjon" N Msc Sg Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+: 
+"<vurderes>"
+	"vurdere" V Ind Prs Pass <W:0.0>
+: 
+"<midtveis>"
+	"midtveis" Adv <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<ved>"
+	"ved" Pr <W:0.0>
+: 
+"<slutten>"
+	"slutt" N Msc Sg Def <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<praksisperioden>"
+	"periode" N Msc Sg Def <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+	"praksisperiode" N Msc Sg Def <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Hensikten>"
+	"hensikt" N Msc Sg Def <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<vurderingen>"
+	"vurdere" Ex/V Der/NomAct N Msc Sg Def <W:0.0>
+	"vurdering" N Msc Sg Def <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<dokumentere>"
+	"dokumentere" V Inf <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<hvilken>"
+	"hvilken" Det Dem Msc Sg <W:0.0>
+: 
+"<grad>"
+	"grad" N Msc Sg Indef <W:0.0>
+: 
+"<læringsutbyttet>"
+	"utbytte" N Neu Sg Def <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"utbytte" N Neu Sg Def <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"læringsutbytte" N Neu Sg Def <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<praksisperioden>"
+	"periode" N Msc Sg Def <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+	"praksisperiode" N Msc Sg Def <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<nådd>"
+	"nå" V PrfPrc <W:0.0>
+	"nå" V PrfPrc Ex/V A Pos Fem Sg Indef <W:0.0>
+	"nå" V PrfPrc Ex/V A Pos Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<hjelpe>"
+	"hjelpe" V Inf <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<synliggjøre>"
+	"synliggjøre" V Inf <W:0.0>
+: 
+"<sine>"
+	"sin" Det Poss Pl3 <W:0.0>
+: 
+"<mestrings->"
+	"mestre" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"mestring" N Cmp/s Cmp <W:0.0>
+	 <W:0.0>
+	 <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<vekstområder>"
+	"område" N Neu Pl Indef <W:0.0>
+		"vekst" N Cmp/null Cmp <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Vurderingsresultatet>"
+	"resultat" N Neu Sg Def <W:0.0>
+		"vurdere" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"resultat" N Neu Sg Def <W:0.0>
+		"vurdering" N Cmp/s Cmp <W:0.0>
+: 
+"<arkiveres>"
+	"arkivere" V Ind Prs Pass <W:0.0>
+: 
+"<ved>"
+	"ved" Pr <W:0.0>
+: 
+"<Det>"
+	"den" Det Dem Neu Sg <W:0.0>
+: 
+"<helsevitenskapelige>"
+	"helsevitenskapelige" ?
+: 
+"<fakultet>"
+	"fakultet" N Neu Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<får>"
+	"få" V Ind Prs <W:0.0>
+: 
+"<kopi>"
+	"kopi" N Msc Sg Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<dette>"
+	"denne" Det Dem Neu Sg <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+
+"<Forkunnskapkrav>"
+	"krav" N Neu Pl Indef <W:0.0>
+		"kunnskap" N Cmp/null Cmp <W:0.0>
+			"for" N Cmp/null Cmp <W:0.0>
+	"krav" N Neu Sg Indef <W:0.0>
+		"kunnskap" N Cmp/null Cmp <W:0.0>
+			"for" N Cmp/null Cmp <W:0.0>
+	"krav" N Neu Pl Indef <W:0.0>
+		"forkunnskap" N Cmp/null Cmp <W:0.0>
+	"krav" N Neu Sg Indef <W:0.0>
+		"forkunnskap" N Cmp/null Cmp <W:0.0>
+:\n
+"<Et>"
+	"et" Pron Indef Neu Sg <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<følgende>"
+	"følgende" A Pos Pl Indef <W:0.0>
+: 
+"<alternativer>"
+	"alternativ" N Neu Pl Indef <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+:\n
+
+"<BSY160>"
+	"BSY" Use/-Spell"160" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"160" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Sykepleiens>"
+	"sykepleie" N Msc Sg Def Clt <W:0.0>
+: 
+"<grunnlag>"
+	"grunnlag" N Neu Pl Indef <W:0.0>
+	"grunnlag" N Neu Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSY161>"
+	"BSY" Use/-Spell"161" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"161" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Sykepleiens>"
+	"sykepleie" N Msc Sg Def Clt <W:0.0>
+: 
+"<naturvitenskapelige>"
+	"naturvitenskapelig" A Pos Pl Indef <W:0.0>
+: 
+"<grunnlag>"
+	"grunnlag" N Neu Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSY162>"
+	"BSY" Use/-Spell"162" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"162" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<samhandling>"
+	"samhandling" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<pasientsikkerhet>"
+	"sikkerhet" N Msc Sg Indef <W:0.0>
+		"pasient" N Cmp/null Cmp <W:0.0>
+	"pasientsikkerhet" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSYPSH>"
+	"BSYPSH" ?
+: 
+"<Kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+: 
+
+"<Grunnleggende>"
+	"grunnleggende" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+:\n
+"<BSY151>"
+	"BSY" Use/-Spell"151" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"151" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Grunnleggende>"
+	"grunnleggende" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSY152>"
+	"BSY" Use/-Spell"152" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"152" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Sykepleiens>"
+	"sykepleie" N Msc Sg Def Clt <W:0.0>
+: 
+"<naturvitenskapelige>"
+	"naturvitenskapelig" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<medisinske>"
+	"medisinsk" A Pos Pl Indef <W:0.0>
+: 
+"<grunnlag>"
+	"grunnlag" N Neu Pl Indef <W:0.0>
+: 
+"<-1>"
+	"-1" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	"-1" Num Sem/ID <W:0.0>
+	 Use/Circ"-1" Num Arab <W:0.0>
+	 Use/Circ"-1" Num Err/Orth Arab <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSY153>"
+	"BSY" Use/-Spell"153" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"153" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Legemiddelregning>"
+	"regning" N Fem Sg Indef <W:0.0>
+		"middel" N Cmp/null Cmp <W:0.0>
+			"lege" N Cmp/null Cmp <W:0.0>
+	"regning" N Fem Sg Indef <W:0.0>
+		"legemiddel" N Cmp/null Cmp <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSY154>"
+	"BSY" Use/-Spell"154" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"154" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Sykepleiens>"
+	"sykepleie" N Msc Sg Def Clt <W:0.0>
+: 
+"<samfunnsvitenskapelige>"
+	"samfunnsvitenskapelig" A Pos Pl Indef <W:0.0>
+: 
+"<grunnlag>"
+	"grunnlag" N Neu Pl Indef <W:0.0>
+: 
+"<->"
+	"-" PUNCT <W:0.0>
+: 
+"<fokus>"
+	"fokus" N Neu Sg Indef <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<sykepleiens>"
+	"sykepleie" N Msc Sg Def Clt <W:0.0>
+: 
+"<relasjonelle>"
+	"relasjonelle" ?
+: 
+"<dimensjon>"
+	"dimensjon" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSY155>"
+	"BSY" Use/-Spell"155" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"155" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Sykepleiens>"
+	"sykepleie" N Msc Sg Def Clt <W:0.0>
+: 
+"<grunnlagstenkning>"
+	"tenkning" N Fem Sg Indef <W:0.0>
+		"grunnlag" N Cmp/s Cmp <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSYP01>"
+	"BSYP01" ?
+: 
+"<Praksisstudier>"
+	"studie" N Msc Pl Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+	"praksisstudium" N Neu Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<fokus>"
+	"fokus" N Neu Sg Indef <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<grunnleggende>"
+	"grunnleggende" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+:\n
+"<BSY152>"
+	"BSY" Use/-Spell"152" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"152" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Sykepleiens>"
+	"sykepleie" N Msc Sg Def Clt <W:0.0>
+: 
+"<naturvitenskapelige>"
+	"naturvitenskapelig" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<medisinske>"
+	"medisinsk" A Pos Pl Indef <W:0.0>
+: 
+"<grunnlag>"
+	"grunnlag" N Neu Pl Indef <W:0.0>
+: 
+"<-1>"
+	"-1" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	"-1" Num Sem/ID <W:0.0>
+	 Use/Circ"-1" Num Arab <W:0.0>
+	 Use/Circ"-1" Num Err/Orth Arab <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSY154>"
+	"BSY" Use/-Spell"154" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"154" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Sykepleiens>"
+	"sykepleie" N Msc Sg Def Clt <W:0.0>
+: 
+"<samfunnsvitenskapelige>"
+	"samfunnsvitenskapelig" A Pos Pl Indef <W:0.0>
+: 
+"<grunnlag>"
+	"grunnlag" N Neu Pl Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSY155>"
+	"BSY" Use/-Spell"155" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"155" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Sykepleiens>"
+	"sykepleie" N Msc Sg Def Clt <W:0.0>
+: 
+"<grunnlagstenkning>"
+	"tenkning" N Fem Sg Indef <W:0.0>
+		"grunnlag" N Cmp/s Cmp <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSY156>"
+	"BSY" Use/-Spell"156" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Err/Orth Msc Sg Indef <W:0.0>
+	"BSY" Use/-Spell"156" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Msc Sg Indef <W:0.0>
+: 
+"<Grunnleggende>"
+	"grunnleggende" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<BSYP01>"
+	"BSYP01" ?
+: 
+"<Kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<fokus>"
+	"fokus" N Neu Sg Indef <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<grunnleggende>"
+	"grunnleggende" A Pos Fem Sg Indef <W:0.0>
+: 
+"<sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+:\n
+"<Eksamen>"
+	"eksamen" N Msc Sg Indef <W:0.0>
+: 
+"</>"
+	"/" PUNCT <W:0.0>
+: 
+"<vurdering>"
+	"vurdere" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"vurdering" N Fem Sg Indef <W:0.0>
+:\n
+"<Vurderingsform>"
+	"form" N Msc Sg Indef <W:0.0>
+		"vurdere" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"form" N Msc Sg Indef <W:0.0>
+		"vurdering" N Cmp/s Cmp <W:0.0>
+: 	
+"<Vekting>"
+	"ting" N Msc Pl Indef <W:0.0>
+		"vek" N Cmp/null Cmp <W:0.0>
+	"ting" N Neu Pl Indef <W:0.0>
+		"vek" N Cmp/null Cmp <W:0.0>
+: 	
+"<Varighet>"
+	"varighet" N Msc Sg Indef <W:0.0>
+: 	
+"<Karakter>"
+	"karakter" N Msc Sg Indef <W:0.0>
+: 	
+"<Hjelpemiddel>"
+	"hjelpemiddel" N Neu Sg Indef <W:0.0>
+:\n
+"<Praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 	
+"<1/1>"
+	"1/1" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	"1/1" Num Sem/ID <W:0.0>
+: 		
+"<Bestått>"
+	"bestå" V PrfPrc <W:0.0>
+: 
+"<->"
+	"-" PUNCT <W:0.0>
+: 
+"<Ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<bestått>"
+	"bestå" V PrfPrc <W:0.0>
+: 	\n
+:\n
+"<For>"
+	"fare" V Ind Prt <W:0.0>
+	"for" Adv <W:0.0>
+	"for" CC <W:0.0>
+	"for" N Neu Pl Indef <W:0.0>
+	"for" N Neu Sg Indef <W:0.0>
+	"for" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<bestå>"
+	"bestå" V Inf <W:0.0>
+: 
+"<BSYPPS1>"
+	"BSYPPS1" ?
+: 
+"<må>"
+	"måtte" V Ind Prs <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<ha>"
+	"ha" V Inf <W:0.0>
+: 
+"<gjennomført>"
+	"gjennomføre" V PrfPrc <W:0.0>
+: 
+"<veiledet>"
+	"veilede" Ex/V PrfPrc A Pos MF Sg Indef <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<med>"
+	"med" Pr <W:0.0>
+: 
+"<maks>"
+	"mak" N Msc Sg Indef Clt <W:0.0>
+: 
+"<10%>"
+	 Use/Circ"10 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"10 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<fravær>"
+	"fravær" N Neu Pl Indef <W:0.0>
+	"fravær" N Neu Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<fått>"
+	"få" V PrfPrc <W:0.0>
+: 
+"<praksisen>"
+	"praksis" N Msc Sg Def <W:0.0>
+: 
+"<vurdert>"
+	"vurdere" V PrfPrc <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<bestått>"
+	"bestå" V PrfPrc <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<henhold>"
+	"henhold" N Neu Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<emnets>"
+	"emne" N Neu Sg Def Clt <W:0.0>
+: 
+"<vurderingsskjema>"
+	"skjema" N Neu Pl Indef <W:0.0>
+		"vurdere" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"skjema" N Neu Sg Indef <W:0.0>
+		"vurdere" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"skjema" N Neu Pl Indef <W:0.0>
+		"vurdering" N Cmp/s Cmp <W:0.0>
+	"skjema" N Neu Sg Indef <W:0.0>
+		"vurdering" N Cmp/s Cmp <W:0.0>
+	"vurderingsskjema" N Neu Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+
+"<Vurderingskriterier>"
+	"kriterium" N Neu Pl Indef <W:0.0>
+		"vurdere" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"kriterium" N Neu Pl Indef <W:0.0>
+		"vurdering" N Cmp/s Cmp <W:0.0>
+	"vurderingskriterium" N Neu Pl Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<bestått>"
+	"bestå" V PrfPrc <W:0.0>
+"</>"
+	"/" PUNCT <W:0.0>
+"<ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<bestått>"
+	"bestå" V PrfPrc <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+: 
+"<framkommer>"
+	"framkomme" V Ind Prs <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<vurderingsskjema>"
+	"skjema" N Neu Sg Indef <W:0.0>
+		"vurdere" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"skjema" N Neu Sg Indef <W:0.0>
+		"vurdering" N Cmp/s Cmp <W:0.0>
+	"vurderingsskjema" N Neu Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Dersom>"
+	"dersom" CS <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<fravær>"
+	"fravær" N Neu Pl Indef <W:0.0>
+	"fravær" N Neu Sg Indef <W:0.0>
+: 
+"<utover>"
+	"utover" Adv <W:0.0>
+: 
+"<10%>"
+	 Use/Circ"10 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"10 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<Det>"
+	"den" Det Dem Neu Sg <W:0.0>
+: 
+"<helsevitenskapelige>"
+	"helsevitenskapelige" ?
+: 
+"<fakultet>"
+	"fakultet" N Neu Sg Indef <W:0.0>
+: 
+"<etter>"
+	"etter" Pr <W:0.0>
+: 
+"<søknad>"
+	"søknad" N Msc Sg Indef <W:0.0>
+: 
+"<fra>"
+	"fra" Pr <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<vurdere>"
+	"vurdere" V Inf <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<forholdene>"
+	"hold" N Neu Pl Def Use/NG <W:0.0>
+		"for" N Cmp/null Cmp <W:0.0>
+	"forhold" N Neu Pl Def Use/NG <W:0.0>
+: 
+"<kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<legges>"
+	"legge" V Inf Pass <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<rette>"
+	"rette" N Msc Sg Indef <W:0.0>
+: 
+"<slik>"
+	"slik" Adv <W:0.0>
+: 
+"<at>"
+	"at" CS <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<gjennomføres>"
+	"gjennomføre" V Inf Pass <W:0.0>
+	"gjennomføres" V Inf <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<normert>"
+	"normere" V PrfPrc Ex/V A Pos Fem Sg Indef <W:0.0>
+: 
+"<tid>"
+	"tid" N Fem Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Forutsetningen>"
+	"forutsetning" N Msc Sg Def <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<søke>"
+	"søke" V Inf <W:0.0>
+: 
+"<om>"
+	"om" CS <W:0.0>
+	"om" Pr <W:0.0>
+: 
+"<dette>"
+	"denne" Det Dem Neu Sg <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<at>"
+	"at" CS <W:0.0>
+: 
+"<fraværet>"
+	"fravær" N Neu Sg Def <W:0.0>
+: 
+"<totalt>"
+	"total" A Der/AAdv Adv <W:0.0>
+: 
+"<ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<overstiger>"
+	"overstige" V Ind Prs <W:0.0>
+: 
+"<20%>"
+	 Use/Circ"20 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"20 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<tiden>"
+	"tid" N Msc Sg Def <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Dersom>"
+	"dersom" CS <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<avbrytes>"
+	"avbryte" V Ind Prs Pass <W:0.0>
+: 
+"<etter>"
+	"etter" Pr <W:0.0>
+: 
+"<to>"
+	"to" Det Qnt Pl <W:0.0>
+: 
+"<uker>"
+	"uke" N Fem Pl Indef <W:0.0>
+: 
+"<etter>"
+	"etter" Pr <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studienes>"
+	"studie" N Msc Pl Def Clt <W:0.0>
+	"studium" N Neu Pl Def Clt <W:0.0>
+: 
+"<oppstart>"
+	"oppstart" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<regnes>"
+	"regne" V Ind Prs Pass <W:0.0>
+	"regne" V Inf Pass <W:0.0>
+: 
+"<dette>"
+	"denne" Det Dem Neu Sg <W:0.0>
+: 
+"<som>"
+	"som" Pr <W:0.0>
+: 
+"<ett>"
+	"ett" Det Dem Neu Sg <W:0.0>
+: 
+"<forsøk>"
+	"forsøk" N Neu Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+
+"<Dersom>"
+	"dersom" CS <W:0.0>
+: 
+"<det>"
+	"det" Pron Pers Sg3 <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<et>"
+	"et" Det Dem Neu Sg <W:0.0>
+: 
+"<tidspunkt>"
+	"punkt" N Neu Sg Indef <W:0.0>
+		"tid" N Cmp/s Cmp <W:0.0>
+	"tidspunkt" N Neu Sg Indef <W:0.0>
+: 
+"<kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<være>"
+	"være" V Inf <W:0.0>
+: 
+"<tvil>"
+	"tvil" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" CS <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<vil>"
+	"ville" V Ind Prs <W:0.0>
+: 
+"<bestå>"
+	"bestå" V Inf <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<skal>"
+	"skulle" V Ind Prs <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<gis>"
+	"gi" V Ind Prs Pass <W:0.0>
+: 
+"<skriftlig>"
+	"skriftlig" A Pos MF Sg Indef <W:0.0>
+: 
+"<beskjed>"
+	"beskjed" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" CS <W:0.0>
+: 
+"<dette>"
+	"denne" Det Dem Neu Sg <W:0.0>
+: 
+"<snarest>"
+	"snar" A Superl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<senest>"
+	"sen" A Superl Indef <W:0.0>
+: 
+"<3>"
+	"3" A Arab Ord Attr CLBfinal <W:0.0>
+	"3" A Arab Ord Use/Circ Err/Orth Arab Ord <W:0.0>
+	"3" Num Sem/ID <W:0.0>
+	 Use/Circ"3" Num Arab <W:0.0>
+	 Use/Circ"3" Num Err/Orth Arab <W:0.0>
+: 
+"<uker>"
+	"uke" N Fem Pl Indef <W:0.0>
+: 
+"<før>"
+	"før" Pr <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<slutt>"
+	"slutt" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<I>"
+	"I" Use/NG Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+	"i" Pr <W:0.0>
+	 Use/Circ"I" Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+: 
+"<så>"
+	"så" Adv <W:0.0>
+: 
+"<fall>"
+	"fall" N Neu Pl Indef <W:0.0>
+	"fall" N Neu Sg Indef <W:0.0>
+: 
+"<må>"
+	"måtte" V Ind Prs <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<vise>"
+	"vise" N Fem Sg Indef <W:0.0>
+: 
+"<tilfredsstillende>"
+	"tilfredsstillende" A Pos MF Sg Indef <W:0.0>
+: 
+"<fremgang>"
+	"fremgang" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<løpet>"
+	"løp" N Neu Sg Def <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<siste>"
+	"sist" A Pos Pl Def <W:0.0>
+	"sist" A Pos Pl Indef <W:0.0>
+	"siste" A Pos Fem Sg Indef <W:0.0>
+	"siste" A Pos Msc Sg Indef <W:0.0>
+	"siste" A Pos Pl Def <W:0.0>
+	"siste" A Pos Pl Indef <W:0.0>
+: 
+"<3>"
+	"3" A Arab Ord Attr CLBfinal <W:0.0>
+	"3" A Arab Ord Use/Circ Err/Orth Arab Ord <W:0.0>
+	"3" Num Sem/ID <W:0.0>
+	 Use/Circ"3" Num Arab <W:0.0>
+	 Use/Circ"3" Num Err/Orth Arab <W:0.0>
+: 
+"<ukene>"
+	"uke" N Fem Pl Def <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<bestå>"
+	"bestå" V Inf <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+
+"<Skulle>"
+	"skulle" V Inf <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<tross>"
+	"tross" N Msc Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<tilfredsstillende>"
+	"tilfredsstillende" A Pos MF Sg Indef <W:0.0>
+: 
+"<studieprogresjon>"
+	"progresjon" N Msc Sg Indef <W:0.0>
+		"studie" N Cmp/null Cmp <W:0.0>
+: 
+"<ved>"
+	"ved" Pr <W:0.0>
+: 
+"<midtvurdering>"
+	"vurdering" N Fem Sg Indef <W:0.0>
+		"midt" N Cmp/null Cmp <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<vise>"
+	"vise" N Fem Sg Indef <W:0.0>
+: 
+"<handling>"
+	"handle" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"handling" N Fem Sg Indef <W:0.0>
+"</>"
+	"/" PUNCT <W:0.0>
+"<atferd>"
+	"atferd" N Msc Sg Indef <W:0.0>
+: 
+"<som>"
+	"som" CS <W:0.0>
+: 
+"<ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<gir>"
+	"gi" V Ind Prs <W:0.0>
+: 
+"<grunnlag>"
+	"grunnlag" N Neu Pl Indef <W:0.0>
+	"grunnlag" N Neu Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<bestå>"
+	"bestå" V Inf <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Def <W:0.0>
+: 
+"<studiene>"
+	"studie" N Msc Pl Def <W:0.0>
+	"studium" N Neu Pl Def <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<likevel>"
+	"likevel" Adv <W:0.0>
+: 
+"<få>"
+	"få" A Pos Pl Def <W:0.0>
+: 
+"<karakteren>"
+	"karakter" N Msc Sg Def <W:0.0>
+: 
+"<Ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<bestått>"
+	"bestå" V PrfPrc <W:0.0>
+: 
+"<selv>"
+	"selv" Adv <W:0.0>
+	"selv" Pron Intens <W:0.0>
+: 
+"<om>"
+	"om" CS <W:0.0>
+: 
+"<forutgående>"
+	"forutgående" A Pos Fem Sg Indef <W:0.0>
+: 
+"<tvilsmelding>"
+	"melding" N Fem Sg Indef <W:0.0>
+		"tvil" N Cmp/s Cmp <W:0.0>
+: 
+"<ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<gitt>"
+	"gi" V PrfPrc <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+
+"<Vurderingen>"
+	"vurdere" Ex/V Der/NomAct N Msc Sg Def <W:0.0>
+	"vurdering" N Msc Sg Def <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<inkluderer>"
+	"inkludere" V Ind Prs <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<tillegg>"
+	"tillegg" N Neu Sg Indef <W:0.0>
+: 
+"<følgende>"
+	"følge" V PrsPrc <W:0.0>
+	"følgende" A Pos Fem Sg Indef <W:0.0>
+	"følgende" A Pos MF Sg Indef <W:0.0>
+	"følgende" A Pos Msc Sg Indef <W:0.0>
+	"følgende" A Pos Pl Def <W:0.0>
+	"følgende" A Pos Pl Indef <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+:\n
+
+"<•>"
+	"•" PUNCT <W:0.0>
+: 
+"<Tilstedeværelse>"
+	"tilstedeværelse" N Neu Pl Indef <W:0.0>
+	"tilstedeværelse" N Neu Sg Indef <W:0.0>
+: 
+"<ved>"
+	"ved" Pr <W:0.0>
+: 
+"<fagseminar>"
+	"seminar" N Neu Sg Indef <W:0.0>
+		"fag" N Cmp/null Cmp <W:0.0>
+:\n
+"<•>"
+	"•" PUNCT <W:0.0>
+: 
+"<Tilstedeværelse>"
+	"tilstedeværelse" N Neu Pl Indef <W:0.0>
+	"tilstedeværelse" N Neu Sg Indef <W:0.0>
+: 
+"<ved>"
+	"ved" Pr <W:0.0>
+: 
+"<organisert>"
+	"organisere" V PrfPrc Ex/V A Pos Fem Sg Indef <W:0.0>
+: 
+"<lærerveiledning>"
+	"veiledning" N Fem Sg Indef <W:0.0>
+		"lærer" N Cmp/null Cmp <W:0.0>
+	"lærerveiledning" N Fem Sg Indef <W:0.0>
+:\n
+"<•>"
+	"•" PUNCT <W:0.0>
+: 
+"<Godkjent>"
+	"godkjenne" V PrfPrc Ex/V A Pos Fem Sg Indef <W:0.0>
+	"godkjenne" V PrfPrc Ex/V A Pos Msc Sg Indef <W:0.0>
+: 
+"<fagnotat>"
+	"notat" N Neu Sg Indef <W:0.0>
+		"fag" N Cmp/null Cmp <W:0.0>
+:\n
+:\n
+"<Studenter>"
+	"student" N Msc Pl Indef <W:0.0>
+: 
+"<som>"
+	"som" CS <W:0.0>
+: 
+"<ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<har>"
+	"ha" V Ind Prs <W:0.0>
+: 
+"<fullført>"
+	"fullføre" V PrfPrc <W:0.0>
+"</>"
+	"/" PUNCT <W:0.0>
+"<bestått>"
+	"bestå" V PrfPrc <W:0.0>
+: 
+"<emnet>"
+	"emne" N Neu Sg Def <W:0.0>
+: 
+"<vil>"
+	"ville" V Ind Prs <W:0.0>
+: 
+"<ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<ha>"
+	"ha" V Inf <W:0.0>
+: 
+"<adgang>"
+	"adgang" N Msc Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<fremstille>"
+	"fremstille" V Inf <W:0.0>
+: 
+"<seg>"
+	"seg" Pron Refl Acc <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<eksamen>"
+	"eksamen" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<påfølgende>"
+	"påfølgende" A Pos Pl Indef <W:0.0>
+: 
+"<emner>"
+	"emne" N Neu Pl Indef <W:0.0>
+: 
+"<hvor>"
+	"hvor" Adv <W:0.0>
+: 
+"<dette>"
+	"denne" Det Dem Neu Sg <W:0.0>
+: 
+"<emnet>"
+	"emne" N Neu Sg Def <W:0.0>
+: 
+"<er>"
+	"være" V Ind Prs <W:0.0>
+: 
+"<angitt>"
+	"angi" V PrfPrc <W:0.0>
+: 
+"<som>"
+	"som" Pr <W:0.0>
+: 
+"<forkunnskapskrav>"
+	"krav" N Neu Sg Indef <W:0.0>
+		"kunnskap" N Cmp/s Cmp <W:0.0>
+			"for" N Cmp/null Cmp <W:0.0>
+	"krav" N Neu Sg Indef <W:0.0>
+		"forkunnskap" N Cmp/s Cmp <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+
+"<Vilkår>"
+	"vilkår" N Neu Pl Indef <W:0.0>
+	"vilkår" N Neu Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<gå>"
+	"gå" V Inf <W:0.0>
+: 
+"<opp>"
+	"opp" Adv <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<eksamen>"
+	"eksamen" N Msc Sg Indef <W:0.0>
+"</>"
+	"/" PUNCT <W:0.0>
+"<vurdering>"
+	"vurdere" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"vurdering" N Fem Sg Indef <W:0.0>
+:\n
+"<100%>"
+	 Use/Circ"100 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"100 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<tilstedeværelse>"
+	"tilstedeværelse" N Neu Pl Indef <W:0.0>
+	"tilstedeværelse" N Neu Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<praksisforberedende>"
+	"praksisforberedende" ?
+: 
+"<undervisning>"
+	"visning" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervisning" N Fem Sg Indef <W:0.0>
+:\n
+:\n
+"<100%>"
+	 Use/Circ"100 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"100 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<tilstedeværelse>"
+	"tilstedeværelse" N Neu Pl Indef <W:0.0>
+	"tilstedeværelse" N Neu Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<praksisforberedende>"
+	"praksisforberedende" ?
+: 
+"<undervisning>"
+	"visning" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervisning" N Fem Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<I>"
+	"i" Pr <W:0.0>
+	 Use/Circ"I" Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+: 
+"<særskilte>"
+	"særskilt" A Pos Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<dokumenterte>"
+	"dokumentere" V PrfPrc Ex/V A Pos Pl Indef <W:0.0>
+: 
+"<tilfeller>"
+	"tilfelle" N Neu Pl Indef <W:0.0>
+: 
+"<kan>"
+	"kunne" V Ind Prs <W:0.0>
+: 
+"<nærværsplikt>"
+	"plikt" N Fem Sg Indef <W:0.0>
+		"nærvær" N Cmp/s Cmp <W:0.0>
+: 
+"<fravikes>"
+	"fravike" V Inf Pass <W:0.0>
+: 
+"<med>"
+	"med" Adv <W:0.0>
+: 
+"<inntil>"
+	"inntil" Adv <W:0.0>
+	"inntil" Pr <W:0.0>
+: 
+"<20%>"
+	 Use/Circ"20 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"20 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<etter>"
+	"etter" Pr <W:0.0>
+: 
+"<søknad>"
+	"søknad" N Msc Sg Indef <W:0.0>
+: 
+"<fra>"
+	"fra" Pr <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<Vedrørende>"
+	"vedrørende" A Pos Neu Sg Indef <W:0.0>
+: 
+"<vilkår>"
+	"vilkår" N Neu Sg Indef <W:0.0>
+: 
+"<1:>"
+	"1" N Coll Arab Use/Circ Arab <W:0.0>
+	 Use/Circ"1" Num Arab <W:0.0>
+:\n
+:\n
+:    
+"<Ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<innfridd>"
+	"innfri" V PrfPrc Ex/V A Pos Fem Sg Indef <W:0.0>
+	"innfri" V PrfPrc Ex/V A Pos Msc Sg Indef <W:0.0>
+: 
+"<krav>"
+	"krav" N Neu Pl Indef <W:0.0>
+	"krav" N Neu Sg Indef <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<100%>"
+	 Use/Circ"100 %" Err/Orth Num Arab <W:0.0>
+	 Use/Circ"100 %" Err/Orth Num Err/Orth Arab <W:0.0>
+: 
+"<tilstedeværelse>"
+	"tilstedeværelse" N Neu Pl Indef <W:0.0>
+	"tilstedeværelse" N Neu Sg Indef <W:0.0>
+: 
+"<medfører>"
+	"medføre" V Ind Prs <W:0.0>
+: 
+"<at>"
+	"at" CS <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<må>"
+	"måtte" V Ind Prs <W:0.0>
+: 
+"<levere>"
+	"levere" V Inf <W:0.0>
+: 
+"<en>"
+	"en" Det Dem Fem Sg <W:0.0>
+: 
+"<skriftlig>"
+	"skriftlig" A Pos MF Sg Indef <W:0.0>
+: 
+"<oppgave>"
+	"oppgave" N Fem Sg Indef <W:0.0>
+: 
+"<etter>"
+	"etter" Adv <W:0.0>
+	"etter" Pr <W:0.0>
+: 
+"<nærmere>"
+	"nærmere" Adv <W:0.0>
+: 
+"<angitte>"
+	"angitt" A Pos Pl Indef <W:0.0>
+: 
+"<retningslinjer>"
+	"linje" N Fem Pl Indef <W:0.0>
+		"retning" N Cmp/s Cmp <W:0.0>
+	"retningslinje" N Fem Pl Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Denne>"
+	"denne" Det Dem Fem Sg <W:0.0>
+	"denne" Det Dem Msc Sg <W:0.0>
+: 
+"<må>"
+	"måtte" V Ind Prs <W:0.0>
+: 
+"<være>"
+	"være" V Inf <W:0.0>
+: 
+"<levert>"
+	"levere" V PrfPrc <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<vurdert>"
+	"vurdere" V PrfPrc <W:0.0>
+: 
+"<innen>"
+	"innen" Pr <W:0.0>
+: 
+"<de>"
+	"den" Det Dem Pl <W:0.0>
+: 
+"<to>"
+	"to" Det Qnt Pl <W:0.0>
+: 
+"<første>"
+	"første" A Pos Pl Def <W:0.0>
+: 
+"<ukene>"
+	"uke" N Fem Pl Def <W:0.0>
+: 
+"<etter>"
+	"etter" Pr <W:0.0>
+: 
+"<oppstart>"
+	"oppstart" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Ved>"
+	"ved" N Msc Sg Indef <W:0.0>
+	"ved" Pr <W:0.0>
+: 
+"<ikke>"
+	"ikke" Adv <W:0.0>
+: 
+"<godkjent>"
+	"godkjenne" V PrfPrc <W:0.0>
+: 
+"<skriftlig>"
+	"skriftlig" A Pos Fem Sg Indef <W:0.0>
+: 
+"<oppgave>"
+	"oppgave" N Fem Sg Indef <W:0.0>
+: 
+"<mister>"
+	"miste" V Ind Prs <W:0.0>
+: 
+"<studenten>"
+	"student" N Msc Sg Def <W:0.0>
+: 
+"<retten>"
+	"rett" N Msc Sg Def <W:0.0>
+: 
+"<til>"
+	"til" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<gjennomføre>"
+	"gjennomføre" V Inf <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+: 
+"<i>"
+	"I" Use/NG Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+	"i" Pr <W:0.0>
+: 
+"<BSYPPS1>"
+	"BSYPPS1" ?
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<Fagperson>"
+	"person" N Msc Sg Indef <W:0.0>
+		"fag" N Cmp/null Cmp <W:0.0>
+	"fagperson" N Msc Sg Indef <W:0.0>
+"<(>"
+	"(" PUNCT LEFT <W:0.0>
+"<er>"
+	"være" V Ind Prs <W:0.0>
+"<)>"
+	")" PUNCT RIGHT <W:0.0>
+:\n
+"<Emneansvarlig>"
+	"Emneansvarlig" ?
+"<:>"
+	":" CLB <W:0.0>
+: 
+
+"<Torny>"
+	"Torny" N Prop Sem/Mal <W:0.0>
+: 
+"<Kamfjord>"
+	"fjord" N Msc Sg Indef <W:0.0>
+		"kam" N Cmp/null Cmp <W:0.0>
+:\n
+"<Praksiskoordinator>"
+	"koordinator" N Msc Sg Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+: 
+
+"<Liss>"
+	"Liss" N Prop Sem/Fem <W:0.0>
+: 
+"<Merete>"
+	"Merete" N Prop Sem/Fem <W:0.0>
+: 
+"<Kristiansen>"
+	"Kristiansen" N Prop Sem/Sur <W:0.0>
+:\n
+"<Praksiskoordinator>"
+	"koordinator" N Msc Sg Indef <W:0.0>
+		"praksis" N Cmp/null Cmp <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+: 
+
+"<Hilde>"
+	"Hilde" N Prop Sem/Fem <W:0.0>
+: 
+"<Knutsen>"
+	"Knutsen" N Prop Sem/Sur <W:0.0>
+:\n
+"<Studieprogramleder>"
+	"leder" N Msc Sg Indef <W:0.0>
+		"program" N Cmp/null Cmp <W:0.0>
+			"studie" N Cmp/null Cmp <W:0.0>
+	"programleder" N Msc Sg Indef <W:0.0>
+		"studie" N Cmp/null Cmp <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+: 
+
+"<Bodil>"
+	"Bodil" N Prop Sem/Fem <W:0.0>
+: 
+"<Bø>"
+	"Bø" ?
+:\n
+"<Faglærer>"
+	"lære" N Fem Pl Indef <W:0.0>
+		"fag" N Cmp/null Cmp <W:0.0>
+	"lærer" N Msc Sg Indef <W:0.0>
+		"fag" N Cmp/null Cmp <W:0.0>
+	"faglærer" N Msc Sg Indef <W:0.0>
+"<:>"
+	":" CLB <W:0.0>
+: 
+
+"<Lise>"
+	"Lise" N Prop Sem/Fem <W:0.0>
+: 
+"<Sæstad>"
+	"Sæstad" ?
+: 
+"<Beyene>"
+	"Beyene" ?
+:\n
+"<Arbeidsformer>"
+	"form" N Msc Pl Indef <W:0.0>
+		"arbeid" N Cmp/s Cmp <W:0.0>
+	"arbeidsform" N Fem Pl Indef <W:0.0>
+:\n
+"<Forelesning>"
+	"forelesning" N Fem Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<gruppearbeid>"
+	"arbeid" N Neu Pl Indef <W:0.0>
+		"gruppe" N Cmp/null Cmp <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<veiledet>"
+	"veilede" Ex/V PrfPrc A Pos Msc Sg Indef <W:0.0>
+: 
+"<praksis>"
+	"praksis" N Msc Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<praksisrettet>"
+	"praksisrettet" ?
+: 
+"<undervisning>"
+	"visning" N Fem Sg Indef <W:0.0>
+		"under" N Cmp/null Cmp <W:0.0>
+	"undervisning" N Fem Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<selvstudium>"
+	"selvstudium" N Neu Sg Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Skriftlig>"
+	"skriftlig" A Pos MF Sg Indef <W:0.0>
+: 
+"<dokumentasjon>"
+	"dokumentasjon" N Msc Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<refleksjon>"
+	"refleksjon" N Msc Sg Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<egen>"
+	"egen" A Pos Msc Sg Indef <W:0.0>
+: 
+"<læringsprosess>"
+	"prosess" N Msc Sg Indef <W:0.0>
+		"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"prosess" N Msc Sg Indef <W:0.0>
+		"læring" N Cmp/s Cmp <W:0.0>
+	"læringsprosess" N Msc Sg Indef <W:0.0>
+: 
+"<opp>"
+	"opp" Adv <W:0.0>
+: 
+"<mot>"
+	"mot" Pr <W:0.0>
+: 
+"<mål>"
+	"mål" N Neu Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<kliniske>"
+	"klinisk" A Pos Pl Indef <W:0.0>
+: 
+"<studier>"
+	"studie" N Msc Pl Indef <W:0.0>
+	"studium" N Neu Pl Indef <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+
+"<Åpent>"
+	"åpen" A Der/AAdv Adv <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+:\n
+"<Sykepleie>"
+	"sykepleie" N Fem Sg Indef <W:0.0>
+: 
+"<->"
+	"-" PUNCT <W:0.0>
+: 
+"<bachelorstudium>"
+	"studium" N Neu Sg Indef <W:0.0>
+		"bachelor" N Cmp/null Cmp <W:0.0>
+:\n
+"<Emneevaluering>"
+	"evaluering" N Fem Sg Indef <W:0.0>
+		"emne" N Cmp/null Cmp <W:0.0>
+:\n
+"<Emnet>"
+	"emne" N Neu Sg Def <W:0.0>
+: 
+"<vil>"
+	"ville" V Ind Prs <W:0.0>
+: 
+"<følge>"
+	"følge" V Inf <W:0.0>
+: 
+"<studentevalueringsprosedyrer>"
+	"prosedyre" N Msc Pl Indef <W:0.0>
+		"evaluering" N Cmp/s Cmp <W:0.0>
+			"student" N Cmp/null Cmp <W:0.0>
+: 
+"<fastlagt>"
+	"fastlegge" V PrfPrc <W:0.0>
+: 
+"<av>"
+	"av" Adv <W:0.0>
+: 
+"<UiS>"
+	"UiS" ?
+"<.>"
+	"." CLB <W:0.0>
+:\n
+
+"<Litteratur>"
+	"ur" N Neu Pl Indef <W:0.0>
+		"litterat" N Cmp/null Cmp <W:0.0>
+:\n
+"<Pensumlisten>"
+	"list" N Msc Sg Def <W:0.0>
+		"pensum" N Cmp/null Cmp <W:0.0>
+	"liste" N Msc Sg Def <W:0.0>
+		"pensum" N Cmp/null Cmp <W:0.0>
+	"pensumliste" N Msc Sg Def <W:0.0>
+: 
+"<finner>"
+	"finne" V Ind Prs <W:0.0>
+: 
+"<du>"
+	"du" Pron Pers Sg2 Nom <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<Leganto>"
+	"Leganto" ?
+:\n
+"<Postadresse>"
+	"adresse" N Fem Sg Indef <W:0.0>
+		"post" N Cmp/null Cmp <W:0.0>
+	"postadresse" N Fem Sg Indef <W:0.0>
+:\n
+:\n
+"<Universitetet>"
+	"Universitetet" N Prop Sem/Org <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<Stavanger>"
+	"Stavanger" N Prop Sem/Plc <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<postboks>"
+	"boks" N Msc Sg Indef <W:0.0>
+		"post" N Cmp/null Cmp <W:0.0>
+	"postboks" N Msc Sg Indef <W:0.0>
+: 
+"<8600>"
+	"8600" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	"8600" Num Sem/ID <W:0.0>
+	 Use/Circ"8600" Num Arab <W:0.0>
+	 Use/Circ"8600" Num Err/Orth Arab <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<4036>"
+	"4036" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	"4036" Num Sem/ID <W:0.0>
+	 Use/Circ"4036" Num Arab <W:0.0>
+	 Use/Circ"4036" Num Err/Orth Arab <W:0.0>
+: 
+"<Stavanger>"
+	"Stavanger" N Prop Sem/Plc <W:0.0>
+:\n
+"<Leveringsadresse>"
+	"adresse" N Fem Sg Indef <W:0.0>
+		"levere" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"adresse" N Fem Sg Indef <W:0.0>
+		"levering" N Cmp/s Cmp <W:0.0>
+:\n
+:\n
+"<Kitty>"
+	"Kitty" N Prop Sem/Fem <W:0.0>
+: 
+"<Kiellands>"
+	"Kielland" N Prop Sem/Sur Clt <W:0.0>
+: 
+"<hus>"
+	"hus" N Neu Pl Indef <W:0.0>
+	"hus" N Neu Sg Indef <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<Rennebergstien>"
+	"Rennebergstien" ?
+: 
+"<30>"
+	"30" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	 Use/Circ"30" Num Arab <W:0.0>
+	 Use/Circ"30" Num Err/Orth Arab <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<4021>"
+	"4021" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	"4021" Num Sem/ID <W:0.0>
+	 Use/Circ"4021" Num Arab <W:0.0>
+	 Use/Circ"4021" Num Err/Orth Arab <W:0.0>
+: 
+"<Stavanger>"
+	"Stavanger" N Prop Sem/Plc <W:0.0>
+:\n
+"<Telefon>"
+	"telefon" N Msc Sg Indef <W:0.0>
+:\n
+:\n
+"<51831000>"
+	"51831000" N Coll Arab Use/Circ Err/Orth Arab <W:0.0>
+	"51831000" Num Sem/ID <W:0.0>
+:\n
+"<E-post>"
+	"post" N Msc Sg Indef <W:0.0>
+		"Ealphabet" N Sem/Sign ABBR Cmp/Hyph Cmp <W:0.0>
+	"e-post" N Msc Sg Indef <W:0.0>
+	"post" N Msc Sg Indef <W:0.0>
+		"ealphabet" N Sem/Sign ABBR Cmp/Hyph Cmp <W:0.0>
+:\n
+"<post@uis.no>"
+	"post@uis.no" URL <W:0.0>
+:\n
+"<Følg>"
+	"følge" V Imp <W:0.0>
+: 
+"<oss>"
+	"vi" Pron Pers Pl1 Acc <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<sosiale>"
+	"sosial" A Pos Pl Indef <W:0.0>
+: 
+"<medier>"
+	"medium" N Neu Pl Indef <W:0.0>
+:\n
+:\n
+:    
+"<Facebook>"
+	"Facebook" Err/Orth N Prop Sem/Org <W:0.0>
+	"Facebook" N Prop Sem/Org <W:0.0>
+:\n
+:    
+"<Instagram>"
+	"Instagram" Err/Orth N Prop Sem/Org <W:0.0>
+	"Instagram" N Prop Sem/Org <W:0.0>
+:\n
+:    
+"<LinkedIn>"
+	"LinkedIn" ?
+:\n
+:    
+"<Twitter>"
+	"Twitter" N Prop Sem/Org <W:0.0>
+:\n
+:    
+"<YouTube>"
+	"YouTube" N Prop Sem/Obj <W:0.0>
+:\n
+:\n
+"<Informasjon>"
+	"informasjon" N Msc Sg Indef <W:0.0>
+: 
+"<om>"
+	"om" Pr <W:0.0>
+: 
+"<personvern>"
+	"vern" N Neu Sg Indef <W:0.0>
+		"person" N Cmp/null Cmp <W:0.0>
+	"personvern" N Neu Sg Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<bruk>"
+	"bruk" N Msc Sg Indef <W:0.0>
+	"bruk" N Neu Pl Indef <W:0.0>
+	"bruk" N Neu Sg Indef <W:0.0>
+: 
+"<av>"
+	"av" Pr <W:0.0>
+: 
+"<informasjonskapsler>"
+	"kapsel" N Msc Pl Indef <W:0.0>
+		"informasjon" N Cmp/s Cmp <W:0.0>
+	"informasjonskapsel" N Msc Pl Indef <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<uis.no>"
+	"uis.no" URL <W:0.0>
+:\n
+"<Museum>"
+	"Museum" N Prop Sem/Org <W:0.0>
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<sentre>"
+	"senter" N Neu Pl Indef <W:0.0>
+: 
+"<og>"
+	"og" CC <W:0.0>
+: 
+"<studentsider>"
+	"side" N Fem Pl Indef <W:0.0>
+		"student" N Cmp/null Cmp <W:0.0>
+:\n
+:\n
+:    
+"<Arkeologisk>"
+	"arkeologisk" A Pos Neu Sg Indef <W:0.0>
+: 
+"<museum>"
+	"museum" N Neu Sg Indef <W:0.0>
+:\n
+:    
+"<Det>"
+	"den" Det Dem Neu Sg <W:0.0>
+: 
+"<nasjonale>"
+	"nasjonal" A Pos Sg Def <W:0.0>
+: 
+"<IOR-senteret>"
+	"senter" N Neu Sg Def <W:0.0>
+		"IOR" Use/Circ Use/SpellNoSugg N Prop Sem/Org ACR Dyn Cmp/Hyph Cmp <W:0.0>
+:\n
+:    
+"<FILIORUM>"
+	"FILIORUM" ?
+:\n
+:    
+"<Kunnskapssenter>"
+	"senter" N Neu Sg Indef <W:0.0>
+		"kunnskap" N Cmp/s Cmp <W:0.0>
+	"kunnskapssenter" N Neu Sg Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<utdanning>"
+	"utdanne" Ex/V Der/NomAct N Fem Sg Indef <W:0.0>
+	"utdanning" N Fem Sg Indef <W:0.0>
+:\n
+:    
+"<Lesesenteret>"
+	"Lesesenteret" ?
+:\n
+:    
+"<Læringsmiljøsenteret>"
+	"senter" N Neu Sg Def <W:0.0>
+		"miljø" N Cmp/null Cmp <W:0.0>
+			"lære" Ex/V Der/NomAct N Cmp/s Cmp <W:0.0>
+	"senter" N Neu Sg Def <W:0.0>
+		"miljø" N Cmp/null Cmp <W:0.0>
+			"læring" N Cmp/s Cmp <W:0.0>
+	"senter" N Neu Sg Def <W:0.0>
+		"læringsmiljø" N Cmp/null Cmp <W:0.0>
+:\n
+:    
+"<NORCE>"
+	"NORCE" ?
+:\n
+:    
+"<SHARE>"
+	"SHARE" ?
+:\n
+:    
+"<Senter>"
+	"Senter" N Prop Sem/Org <W:0.0>
+: 
+"<for>"
+	"for" Pr <W:0.0>
+: 
+"<innovasjonsforskning>"
+	"forskning" N Fem Sg Indef <W:0.0>
+		"innovasjon" N Cmp/s Cmp <W:0.0>
+:\n
+:    
+"<Startside>"
+	"side" N Fem Sg Indef <W:0.0>
+		"start" N Cmp/null Cmp <W:0.0>
+: 
+"<for>"
+	"for" Pr <W:0.0>
+: 
+"<studenter>"
+	"student" N Msc Pl Indef <W:0.0>
+:\n
+:\n
+"<Universitetet>"
+	"Universitetet" N Prop Sem/Org <W:0.0>
+: 
+"<i>"
+	"i" Pr <W:0.0>
+: 
+"<Stavanger>"
+	"Stavanger" N Prop Sem/Plc <W:0.0>
+:\n
+"<Made>"
+	"Made" ?
+: 
+"<by>"
+	"by" V Inf <W:0.0>
+: 
+"<Ramsalt>"
+	"ramsalt" A Der/AAdv Adv <W:0.0>
+: 
+"<Lab>"
+	"lab" N ABBR Gram/TAbbr N ABBR <W:0.0>
+: 
+"<and>"
+	"and" N Fem Sg Indef <W:0.0>
+: 
+"<Sopra>"
+	"Sopra" ?
+: 
+"<Steria>"
+	"Steria" ?
+:\n
+"<Vi>"
+	"VI" Use/NG Use/Circ Num Rom Sg Nom Use/Circ <W:0.0>
+	"vi" Pron Pers Pl1 Nom <W:0.0>
+: 
+"<bruker>"
+	"bruk" N Neu Pl Indef Use/NG <W:0.0>
+: 
+"<informasjonskapsler>"
+	"kapsel" N Msc Pl Indef <W:0.0>
+		"informasjon" N Cmp/s Cmp <W:0.0>
+	"informasjonskapsel" N Msc Pl Indef <W:0.0>
+: 
+"<for>"
+	"for" Adv <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<forbedre>"
+	"forbedre" V Inf <W:0.0>
+: 
+"<din>"
+	"din" Det Poss Msc Sg2 <W:0.0>
+: 
+"<brukeropplevelse>"
+	"opplevelse" N Msc Sg Indef <W:0.0>
+		"bruker" N Cmp/null Cmp <W:0.0>
+	"brukeropplevelse" N Msc Sg Indef <W:0.0>
+:\n
+:\n
+"<Ved>"
+	"ved" Pr <W:0.0>
+: 
+"<å>"
+	"å" IM <W:0.0>
+: 
+"<klikke>"
+	"klikke" V Inf <W:0.0>
+: 
+"<på>"
+	"på" Pr <W:0.0>
+: 
+"<aksepter>"
+	"aksept" N Msc Pl Indef <W:0.0>
+: 
+"<godtar>"
+	"godta" V Ind Prs <W:0.0>
+: 
+"<du>"
+	"du" Pron Pers Sg2 Nom <W:0.0>
+: 
+"<at>"
+	"at" CS <W:0.0>
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0>
+: 
+"<gjør>"
+	"gjø" V Ind Prs <W:0.0>
+	"gjøre" V Ind Prs <W:0.0>
+: 
+"<dette>"
+	"denne" Det Dem Neu Sg <W:0.0>
+"<.>"
+	"." CLB <W:0.0>
+:\n
+

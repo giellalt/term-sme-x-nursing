@@ -1,0 +1,4682 @@
+ 169 	"direktorat" N ™		"helse" N
+ 115 	"diagnose" N ™		"sykepleie" N
+ 109 	"." CLB ™		"mfl" N ™	"2017" Num
+  83 	"." CLB ™		"mfl" N ™	"2014" Num
+  82 	"." CLB ™		"mfl" N ™	"2015" Num
+  80 	"." CLB ™		"mfl" N ™	"2019" Num
+  75 	"." CLB ™		"mfl" N ™	"2018" Num
+  69 	"nomen" N ™		"fe" N
+  69 	"hjelp" N ™		"helse" N
+  67 	"temperatur" N ™		"kropp" N
+  61 	"." CLB ™		"mfl" N ™	"2013" Num
+  54 	"journal" N ™		"pasient" N
+  52 	"teori" N ™		"sykepleie" N
+  50 	"inntak" N ™		"væske" N
+  50 	"." CLB ™		"mfl" N ™	"2016" Num
+  49 	"tømming" N ™		"tarm" N
+  49 	"." CLB ™		"mfl" N ™	"2012" Num
+  48 	"blære" N ™		"urin" N
+  47 	"tiltak" N ™		"sykepleie" N
+  45 	"vesen" N ™		"helse" N
+  45 	"plan" N ™		"sykepleie" N
+  42 	"." CLB ™		"mfl" N ™	"2009" Num
+  41 	"fremmend" N ™		"helse" N
+  40 	"stell" N ™		"munn" N
+  40 	"." CLB ™		"mfl" N ™	"2011" Num
+  38 	"problem" N ™		"søvn" N
+  38 	"." CLB ™		"mfl" N ™	"2020" Num
+  37 	"status" N ™		"ernæring" N
+  37 	"situasjon" N ™		"pasient" N
+  36 	"begrep" N ™		"helse" N
+  34 	"frekvens" N ™		"respirasjon" N
+  32 	"departement" N ™		"omsorg" N
+  31 	"problem" N ™		"respirasjon" N
+  31 	"modell" N ™		"sykepleie" N
+  31 	"lekkasje" N ™		"urin" N
+  30 	"." CLB ™		"mfl" N ™	"2010" Num
+  30 	"." CLB ™		"mfl" N ™	"2008" Num
+  29 	"rettighet" N ™		"bruker" N
+  28 	"organ" N ™		"kjønn" N
+  28 	"forbedring" N ™		"kvalitet" N
+  26 	"verde" N ™		"liv" N
+  26 	"tilførsel" N ™		"oksygen" N
+  25 	"vitenskap" N ™		"sykepleie" N
+  25 	"vekt" N ™		"kropp" N
+  25 	"system" N ™		"kvalitet" N
+  25 	"inntak" N ™		"mat" N
+  24 	"verden" N ™		"liv" N
+  24 	"verd" N ™		"liv" N
+  24 	"tjeneste" N ™		"sykepleie" N
+  24 	"system" N ™		"sirkulasjon" N
+  24 	"problem" N ™		"helse" N
+  24 	"." CLB ™		"mfl" N ™	"(" PUNCT
+  23 	"praksis" N ™		"sykepleie" N
+  23 	"pleie" N ™		"kropp" N
+  23 	"masse" N ™		"muskel" N
+  23 	"." CLB ™		"mfl" N ™	"2003" Num
+  22 	"volum" N ™		"blod" N
+  22 	"tilstand" N ™		"sykdom" N
+  22 	"temperatur" N ™		"kjerne" N
+  22 	"sirkulasjon" N ™		"blod" N
+  22 	"omsetning" N ™		"energi" N
+  22 	"gruppe" N ™		"minne" N
+  21 	"puss" N ™		"tann" N
+  21 	"mengde" N ™		"urin" N
+  21 	"inkontinens" N ™		"urin" N
+  20 	"smerte" N ™		"bryst" N
+  20 	"opplevelse" N ™		"sykdom" N
+  20 	"kompetanse" N ™		"sykepleie" N
+  20 	"." CLB ™	"direktorat" N ™		"helse" N
+  19 	"kraft" N ™		"tyngde" N
+  18 	"ytring" N ™		"liv" N
+  18 	"student" N ™		"sykepleier" N
+  18 	"prosess" N ™		"sykepleie" N
+  18 	"produksjon" N ™		"varme" N
+  18 	"lidelse" N ™		"fase" N ™			"søvn" N
+  18 	"besøk" N ™		"toalett" N
+  17 	"teknologi" N ™		"lokalisering" N
+  17 	"situasjon" N ™		"sykepleie" N
+  17 	"kjøtt" N ™		"tann" N
+  17 	"inntak" N ™		"energi" N
+  17 	"funksjon" N ™		"kropp" N
+  17 	"forskning" N ™		"sykepleie" N
+  17 	"." CLB ™		"mfl" N ™	"2005" Num
+  16 	"verdi" N ™		"normal" N
+  16 	"utviklingsarbeid" N ™		"kvalitet" N
+  16 	"utvikling" N ™		"tjeneste" N
+  16 	"utveksling" N ™		"gass" N
+  16 	"utfoldelse" N ™		"liv" N
+  16 	"teknologi" N ™		"velferd" N
+  16 	"stell" N ™		"kropp" N
+  16 	"leie" N ™		"rygg" N
+  16 	"innhold" N ™		"oksygen" N
+  16 	"fiber" N ™		"kost" N
+  16 	"behov" N ™		"søvn" N
+  16 	"behandling" N ™		"oksygen" N
+  16 	"arbeid" N ™		"kvalitetsutvikling" N
+  15 	"tilstand" N ™		"ernæring" N
+  15 	"telt" N ™		"vel" N
+  15 	"søvn" N ™		"REM" Use/Circ
+  15 	"pasient" N ™		"risiko" N
+  15 	"handling" N ™		"sykepleie" N
+  15 	"frekvens" N ™		"puls" N
+  15 	"." CLB ™	"diagnose" N ™		"sykepleie" N
+  14 	"volum" N ™		"minutt" N
+  14 	"system" N ™		"klassifikasjon" N
+  14 	"stell" N ™		"morgen" N
+  14 	"sekk" N ™		"mage" N
+  14 	"plan" N ™		"behandling" N
+  14 	"plage" N ™		"helse" N
+  14 	"område" N ™		"funksjon" N
+  14 	"nivå" N ™		"bevissthet" N
+  14 	"leie" N ™		"side" N
+  14 	"inntak" N ™		"næring" N
+  14 	"forløp" N ™		"sykdom" N
+  14 	"forandring" N ™		"alder" N
+  14 	"bilde" N ™		"kropp" N
+  14 	"behandling" N ™		"sår" N
+  13 	"vitamin" N ™		"dalphabet" N
+  13 	"vitamin" N ™		"Dalphabet" N
+  13 	"utøvelse" N ™		"sykepleie" N
+  13 	"ur" N ™		"kontrakt" N
+  13 	"system" N ™		"sykepleie" N
+  13 	"skade" N ™		"vev" N
+  13 	"regulering" N ™		"temperatur" N
+  13 	"nervesystem" N ™		"sentral" N
+  13 	"grad" N ™		"alvorlighet" N
+  13 	"form" N ™		"kunnskap" N
+  13 	"foretak" N ™		"helse" N
+  13 	"enhet" N ™		"våk" N
+  13 	"aktivitet" N ™		"muskel" N
+  12 	"utvikling" N ™		"fag" N
+  12 	"uttrykk" N ™		"ansikt" N
+  12 	"urin" N ™		"rest" N
+  12 	"trombose" N ™		"vene" N
+  12 	"stadium" N ™		"søvn" N
+  12 	"skade" N ™		"brann" N
+  12 	"senter" N ™		"regulering" N ™			"temperatur" N
+  12 	"produksjon" N ™		"urin" N
+  12 	"opphoping" N ™		"væske" N
+  12 	"kart" N ™		"nettverk" N
+  12 	"hygiene" N ™		"hånd" N
+  12 	"håndbok" N ™		"sykepleie" N
+  12 	"gruppe" N ™		"hoved" N
+  12 	"funksjon" N ™		"sykepleie" N
+  12 	"forstyrrelse" N ™		"søvn" N
+  12 	"ferdighet" N ™		"sykepleie" N
+  12 	"definisjon" N ™		"sykepleie" N
+  12 	"behandling" N ™		"kompresjon" N
+  12 	"balanse" N ™		"væske" N
+  12 	"." CLB ™		"mfl" N ™	"2007" Num
+  12 	"." CLB ™		"jf" N ™	"kapittel" N
+  11 	"verdi" N ™		"omsorg" N
+  11 	"vask" N ™		"kropp" N
+  11 	"vane" N ™		"toalett" N
+  11 	"vane" N ™		"søvn" N
+  11 	"vane" N ™		"mat" N
+  11 	"tilførsel" N ™		"blod" N
+  11 	"tapet" N ™		"varme" N
+  11 	"søvn" N ™		"NREM" Use/Circ
+  11 	"sammenheng" N ™		"sykepleie" N
+  11 	"ring" N ™		"snev" N ™			"for" N
+  11 	"prosedyre" N ™		"fag" N
+  11 	"produksjon" N ™		"slim" N
+  11 	"omsorg" N ™		"pasient" N
+  11 	"mønster" N ™		"søvn" N
+  11 	"kunnskap" N ™		"sykepleie" N
+  11 	"innhold" N ™		"tarm" N
+  11 	"historie" N ™		"pasient" N
+  11 	"håndbok" N ™		"legemiddel" N
+  11 	"funksjon" N ™		"normal" N
+  11 	"forståelse" N ™		"sykdom" N
+  11 	"forløp" N ™		"pasient" N
+  11 	"fall" N ™		"blodtrykk" N
+  11 	"besvær" N ™		"respirasjon" N
+  11 	"arbeid" N ™		"respirasjon" N
+  11 	"." CLB ™	"system" N ™		"kvalitet" N
+  10 	"verktøy" N ™		"kartlegging" N
+  10 	"trening" N ™		"blære" N
+  10 	"tall" N ™		"1900" Num
+  10 	"refleks" N ™		"hoste" N
+  10 	"opplysning" N ™		"pasient" N
+  10 	"område" N ™		"normal" N
+  10 	"metode" N ™		"forskning" N
+  10 	"inkontinens" N ™		"stress" N
+  10 	"identitet" N ™		"kjønn" N
+  10 	"hverdag" N ™		"arbeid" N
+  10 	"forsyning" N ™		"blod" N
+  10 	"filosofi" N ™		"omsorg" N
+  10 	"celle" N ™		"blod" N
+  10 	"behov" N ™		"oksygen" N
+  10 	"arbeide" N ™		"respirasjon" N
+  10 	"anfall" N ™		"skrekk" N
+  10 	"alder" N ™		"år" N
+  10 	"1900-tall" N ™		 Use/Circ"1900"
+   9 	"utviklingsprosess" N ™		"kvalitet" N
+   9 	"utvikling" N ™		"sykdom" N
+   9 	"tradisjon" N ™		"vitenskap" N
+   9 	"tråd" N ™		"kos" N
+   9 	"tømming" N ™		"blære" N
+   9 	"strøm" N ™		"blod" N
+   9 	"stilling" N ™		"kropp" N
+   9 	"skade" N ™		"trykk" N
+   9 	"rykk" N ™		"bukt" N
+   9 	"risiko" N ™		"helse" N
+   9 	"region" N ™		"mage" N
+   9 	"prosess" N ™		"kvalitetsutvikling" N
+   9 	"problem" N ™		"pasient" N
+   9 	"pleie" N ™		"hud" N
+   9 	"plan" N ™		"pleie" N
+   9 	"nivå" N ™		"individ" N
+   9 	"nivå" N ™		"gruppe" N
+   9 	"nivå" N ™		"aktivitet" N
+   9 	"muskulatur" N ™		"skjelett" N
+   9 	"muskel" N ™		"hjerte" N
+   9 	"mønster" N ™		"handling" N
+   9 	"mengd" N ™		"urin" N
+   9 	"kompetanse" N ™		"helse" N
+   9 	"intervensjon" N ™		"nettverk" N
+   9 	"hormon" N ™		"kjønn" N
+   9 	"funksjon" N ™		"tarm" N
+   9 	"funksjon" N ™		"nyre" N
+   9 	"forhold" N ™		"par" N
+   9 	"forandring" N ™		"farge" N
+   9 	"." CLB ™		"mfl" N ™	"2006" Num
+   8 	"virksomhet" N ™		"helse" N
+   8 	"væske" N ™		"sæd" N
+   8 	"utvikling" N ™		"teori" N
+   8 	"trykk" N ™		"buk" N
+   8 	"tenkning" N ™		"sykepleie" N
+   8 	"tall" N ™		"1800" Num
+   8 	"sykdom" N ™		"kreft" N
+   8 	"stilling" N ™		"hvile" N
+   8 	"protese" N ™		"tann" N
+   8 	"prosess" N ™		"tanke" N
+   8 	"problem" N ™		"sirkulasjon" N
+   8 	"opplysning" N ™		"person" N
+   8 	"oppgave" N ™		"sykepleie" N
+   8 	"økning" N ™		"vekt" N
+   8 	"muskel" N ™		"respirasjon" N
+   8 	"middel" N ™		"pleie" N ™			"hud" N
+   8 	"kropp" N ™		"menneske" N
+   8 	"halvdel" N ™		"hjerne" N
+   8 	"funksjon" N ™		"lunge" N
+   8 	"forstyrrelse" N ™		"funksjon" N
+   8 	"fold" N ™		"hud" N
+   8 	"fagarbeider" N ™		"helse" N
+   8 	"dimensjon" N ™		"kvalitet" N
+   8 	"bevegelse" N ™		"respirasjon" N
+   8 	"avgang" N ™		"sæd" N
+   8 	"arbeider" N ™		"helsefag" N
+   8 	"alternativ" N ™		"behandling" N
+   8 	"1800-tall" N ™		 Use/Circ"1800"
+   8 	"." CLB ™		"s" N ™	"75" A
+   8 	"." CLB ™		"s" N ™	"19" A
+   8 	"." CLB ™		"s" N ™	"16" A
+   8 	"." CLB ™		"mfl" N ™	"2001" Num
+   7 	"tilførsel" N ™		"væske" N
+   7 	"tilførsel" N ™		"næring" N
+   7 	"syklus" N ™		"menstruasjon" N
+   7 	"sykepleier" N ™		"kontakt" N
+   7 	"sykepleie" N ™		"allmenn" N
+   7 	"strømpe" N ™		"kompresjon" N
+   7 	"stoff" N ™		"spor" N
+   7 	"smerte" N ™		"mage" N
+   7 	"skade" N ™		"hud" N
+   7 	"setting" N ™		"iverk" N
+   7 	"senter" N ™		"respirasjon" N
+   7 	"rytme" N ™		"hjerte" N
+   7 	"rose" N ™		"nek" N
+   7 	"ring" N ™		"lei" N
+   7 	"problem" N ™		"hud" N
+   7 	"problem" N ™		"ernæring" N
+   7 	"press" N ™		"tid" N
+   7 	"muskel" N ™		"blære" N
+   7 	"løsning" N ™		"næring" N
+   7 	"læring" N ™		"erfaring" N
+   7 	"kateter" N ™		"blære" N
+   7 	"kapasitet" N ™		"sykepleie" N
+   7 	"innleggelse" N ™		"sykehus" N
+   7 	"inkontinens" N ™		"avføring" N
+   7 	"infeksjon" N ™		"sår" N
+   7 	"infeksjon" N ™		"luftvei" N
+   7 	"forløp" N ™		"tjeneste" N
+   7 	"forbruk" N ™		"energi" N
+   7 	"fargestoff" N ™		"galle" N
+   7 	"endring" N ™		"stilling" N
+   7 	"endring" N ™		"livsstil" N
+   7 	"drikke" N ™		"næring" N
+   7 	"definisjon" N ™		"helse" N
+   7 	"behandling" N ™		"legemiddel" N
+   7 	"bakgrunn" N ™		"innvandrer" N
+   7 	"arbeide" N ™		"kvalitetsutvikling" N
+   7 	"arbeid" N ™		"ernæring" N
+   7 	"arbeid" N ™		"endring" N
+   7 	"ansamling" N ™		"væske" N
+   7 	"anfall" N ™		"astma" N
+   7 	"." CLB ™	"stell" N ™		"munn" N
+   7 	"." CLB ™		"s" N ™	"177" Num
+   7 	"." CLB ™		"s" N ™	"17" A
+   7 	"." CLB ™		"mfl" N ™	"1997" Num
+   7 	"." CLB ™		"jf" N ™	"bind" N
+   7 	"." CLB ™		"f.Kr" N ™	")" PUNCT
+   6 	"volum" N ™		"slag" N
+   6 	"vinge" N ™		"kjel" N ™			"muskel" N
+   6 	"vekst" N ™		"bakterie" N
+   6 	"vegg" N ™		"tarm" N
+   6 	"utviklingsprosjekt" N ™		"kvalitet" N
+   6 	"utøvelse" N ™		"tjeneste" N
+   6 	"urin" N ™		"morgen" N
+   6 	"trapp" N ™		"ernæring" N
+   6 	"tjeneste" N ™		"innbygger" N
+   6 	"tjeneste" N ™		"helsepersonell" N
+   6 	"teknikk" N ™		"hoste" N
+   6 	"sykdom" N ™		"tarm" N
+   6 	"student" N ™		"sykepleie" N
+   6 	"stråling" N ™		"varme" N
+   6 	"slimhinne" N ™		"tarm" N
+   6 	"slag" N ™		"hete" N
+   6 	"skift" N ™		"sår" N
+   6 	"skade" N ™		"frost" N
+   6 	"situasjon" N ™		"sykdom" N
+   6 	"sekresjon" N ™		"spytt" N
+   6 	"sans" N ™		"ledd" N
+   6 	"rolle" N ™		"yrke" N
+   6 	"roll" N ™		"yrke" N
+   6 	"prøve" N ™		"avføring" N
+   6 	"prosjekt" N ™		"kvalitetsutvikling" N
+   6 	"prosess" N ™		"vurdering" N
+   6 	"prosess" N ™		"sykdom" N
+   6 	"problem" N ™		"sykepleie" N
+   6 	"problem" N ™		"kvalitet" N
+   6 	"pose" N ™		"urin" N
+   6 	"person" N ™		"tran" N
+   6 	"person" N ™		"tall" Nynorsk
+   6 	"periode" N ™		"søvn" N
+   6 	"omsorg" N ™		"vekst" N
+   6 	"område" N ™		"behov" N
+   6 	"nivå" N ™		"funksjon" N
+   6 	"modus" N ™		"følelse" N
+   6 	"modell" N ™		"sykdom" N
+   6 	"måling" N ™		"temperatur" N
+   6 	"lengde" N ™		"søvn" N
+   6 	"ledd" N ™		"hånd" N
+   6 	"kvalitet" N ™		"søvn" N
+   6 	"kunnskap" N ™		"erfaring" N
+   6 	"kultur" N ™		"organisasjon" N
+   6 	"kultur" N ™		"kvalitet" N
+   6 	"klokskap" N ™		"handling" N
+   6 	"innhold" N ™		"salt" N
+   6 	"hygiene" N ™		"munn" N
+   6 	"hendelse" N ™		"liv" N
+   6 	"gift" N ™		"celle" N
+   6 	"fysiolog" N ™		"ernæring" N
+   6 	"forsker" N ™		"sykepleie" N
+   6 	"forbruk" N ™		"oksygen" N
+   6 	"flate" N ™		"understøttelse" N
+   6 	"flaske" N ™		"urin" N
+   6 	"fett" N ™		"tran" N
+   6 	"ernæring" N ™		"sonde" N
+   6 	"drikk" N ™		"næring" N
+   6 	"dannelse" N ™		"stein" N
+   6 	"dagbok" N ™		"diabetes" N
+   6 	"byrde" N ™		"sykdom" N
+   6 	"borg" N ™		"lom" N
+   6 	"belastning" N ™		"tillegg" N
+   6 	"begrep" N ™		"sykdom" N
+   6 	"begrensning" N ™		"funksjon" N
+   6 	"balanse" N ™		"energi" N
+   6 	"bakterie" N ™		"tarm" N
+   6 	"arbeid" N ™		"forbedring" N
+   6 	"alarm" N ™		"trygghet" N
+   6 	"aktivitet" N ™		"tarm" N
+   6 	"." CLB ™	"modell" N ™		"sykepleie" N
+   6 	"." CLB ™	"måling" N ™		"temperatur" N
+   6 	"." CLB ™	"inkontinens" N ™		"urin" N
+   6 	"." CLB ™		"utg" N ™	")" PUNCT
+   6 	"." CLB ™		"s" N ™	"78" A
+   6 	"." CLB ™		"mv" N ™	"(" PUNCT
+   5 	"vilkår" N ™		"grunn" N
+   5 	"veiledning" N ™		"sår" N
+   5 	"vegg" N ™		"skjede" N
+   5 	"væske" N ™		"infusjon" N
+   5 	"utøvelse" N ™		"ferdighet" N
+   5 	"utdanning" N ™		"doktorgrad" N
+   5 	"ur" N ™		"kontrakt" N ™			"ledd" N
+   5 	"type" N ™		"stereo" N
+   5 	"trinn" N ™		"utvikling" N
+   5 	"trang" N ™		"avføring" N
+   5 	"ting" N ™		"pus" N
+   5 	"tine" N ™		"kon" N
+   5 	"tiltak" N ™		"behandling" N
+   5 	"teori" N ™		"interaksjon" N
+   5 	"teknikk" N ™		"avslapning" N
+   5 	"tein" N ™		"nyre" N
+   5 	"system" N ™		"respirasjon" N
+   5 	"system" N ™		"organ" N
+   5 	"system" N ™		"diagnose" N
+   5 	"system" N ™		"EPJ" Use/Circ
+   5 	"syklus" N ™		"søvn" N
+   5 	"syklus" N ™		"respirasjon" N
+   5 	"sykepleier" N ™		"kreft" N
+   5 	"stemning" N ™		"sinn" N
+   5 	"stein" N ™		"nyre" N
+   5 	"slang" N ™		"liv" N
+   5 	"skade" N ™		"hode" N
+   5 	"senter" N ™		"mestring" N
+   5 	"rolle" N ™		"pasient" N
+   5 	"regime" N ™		"legemiddel" N
+   5 	"program" N ™		"pasientsikkerhet" N
+   5 	"problem" N ™		"språk" N
+   5 	"problem" N ™		"rus" N
+   5 	"problem" N ™		"folkehelse" N
+   5 	"plan" N ™		"sykehus" N
+   5 	"plan" N ™		"ernæring" N
+   5 	"personale" N ™		"pleie" N
+   5 	"overflate" N ™		"hud" N
+   5 	"organ" N ™		"respirasjon" N
+   5 	"organ" N ™		"buk" N
+   5 	"opptak" N ™		"oksygen" N
+   5 	"opplysning" N ™		"helse" N
+   5 	"opphopning" N ™		"væske" N
+   5 	"omsorg" N ™		"vedlikehold" N
+   5 	"ødem" N ™		"lunge" N
+   5 	"nivå" N ™		"samfunn" N
+   5 	"nivå" N ™		"kvalitet" N
+   5 	"nivå" N ™		"hemoglobin" N
+   5 	"nivå" N ™		"blodsukker" N
+   5 	"nivå" N ™		"abstraksjon" N
+   5 	"nett" N ™		"helse" N
+   5 	"moral" N ™		"norm" N
+   5 	"mønster" N ™		"tenning" N
+   5 	"mønster" N ™		"respirasjon" N
+   5 	"modell" N ™		"forklaring" N
+   5 	"modell" N ™		"behov" N
+   5 	"mobilisering" N ™		"slim" N
+   5 	"middel" N ™		"desinfeksjon" N
+   5 	"merke" N ™		"hull" N ™			"nøkkel" N
+   5 	"mengde" N ™		"væske" N
+   5 	"mekanisme" N ™		"regulering" N
+   5 	"medium" N ™		"transport" N
+   5 	"medhjelper" N ™		"pleie" N
+   5 	"materiale" N ™		"prøve" N
+   5 	"måling" N ™		"blodtrykk" N
+   5 	"liste" N ™		"drikke" N
+   5 	"lindring" N ™		"symptom" N
+   5 	"lære" N ™		"sykdom" N
+   5 	"kunnskap" N ™		"fortrolighet" N
+   5 	"kunnskap" N ™		"bruker" N
+   5 	"krets" N ™		"omgang" N
+   5 	"knoll" N ™		"avføring" N
+   5 	"innstilling" N ™		"termostat" N
+   5 	"informasjon" N ™		"pasient" N
+   5 	"hode" N ™		"penis" N
+   5 	"håndtering" N ™		"avvik" N
+   5 	"gruppe" N ™		"selvhjelp" N
+   5 	"glass" N ™		"prøve" N
+   5 	"funksjon" N ™		"pumpe" N
+   5 	"frekvens" N ™		"hjerte" N
+   5 	"forum" N ™		"beslutning" N
+   5 	"forståelse" N ™		"helhet" N
+   5 	"følelse" N ™		"sykdom" N
+   5 	"filosofi" N ™		"sykepleie" N
+   5 	"fase" N ™		"rehabilitering" N
+   5 	"faktor" N ™		"livsstil" N
+   5 	"evne" N ™		"orientering" N
+   5 	"ende" N ™		"fyll" N ™			"mopp" N ™				"ro" N
+   5 	"celle" N ™		"epitel" N
+   5 	"bunn" N ™		"sår" N
+   5 	"bruk" N ™		"tid" N
+   5 	"bølge" N ™		"hjerne" N
+   5 	"behov" N ™		"væske" N
+   5 	"behov" N ™		"ernæring" N
+   5 	"behag" N ™		"vel" N
+   5 	"bane" N ™		"nerve" N
+   5 	"avsnitt" N ™		"lunge" N
+   5 	"årsak" N ™		"sykdom" N
+   5 	"årsak" N ™		"død" N
+   5 	"arbeide" N ™		"ernæring" N
+   5 	"arbeid" N ™		"muskel" N
+   5 	"anbefaling" N ™		"næringsstoff" N
+   5 	"aktivitet" N ™		"minne" N
+   5 	"." CLB ™	"eksempel" N ™		"pasient" N
+   5 	"." CLB ™		"s" N ™	"9" A
+   5 	"." CLB ™		"s" N ™	"70" A
+   5 	"." CLB ™		"s" N ™	"62" A
+   5 	"." CLB ™		"s" N ™	"51" A
+   5 	"." CLB ™		"s" N ™	"168" Num
+   5 	"." CLB ™		"s" N ™	"15" A
+   5 	"." CLB ™		"s" N ™	"13" A
+   5 	"." CLB ™		"s" N ™	"#" N
+   5 	"." CLB ™		"mfl" N ™	"2002" Num
+   5 	"." CLB ™		"mfl" N ™	"2000" Num
+   5 	"." CLB ™		"m.m" N ™	"(" PUNCT
+   5 	"." CLB ™		"jf" N ™	"lov" N
+   5 	"." CLB ™		"jf" N ™	"kurve" N ™		"legemiddel" N
+   5 	"." CLB ™		"ca" N ™	"1" A
+   4 	"volum" N ™		"hvile" N
+   4 	"visitt" N ™		"lege" N
+   4 	"ving" N ™		"kjel" N ™			"muskel" N
+   4 	"vegg" N ™		"buk" N
+   4 	"vann" N ™		"salt" N
+   4 	"vane" N ™		"drikke" N
+   4 	"valg" N ™		"handling" N
+   4 	"utspring" N ™		"bein" N
+   4 	"ur" N ™		"band" N
+   4 	"type" N ™		"kateter" N
+   4 	"trykk" N ™		"hånd" N
+   4 	"trykk" N ™		"blære" N
+   4 	"tolk" N ™		"familie" N
+   4 	"tokt" N ™		"hete" N
+   4 	"tilstand" N ™		"smerte" N
+   4 	"tilstand" N ™		"feber" N
+   4 	"tilskudd" N ™		"fiber" N
+   4 	"tetthet" N ™		"bein" N
+   4 	"testament" N ™		"liv" N
+   4 	"terapi" N ™		"samtale" N
+   4 	"terapi" N ™		"musikk" N
+   4 	"team" N ™		"helse" N
+   4 	"system" N ™		"dokumentasjon" N
+   4 	"syre" N ™		"bor" N
+   4 	"sykdom" N ™		"søvn" N
+   4 	"sykdom" N ™		"nyre" N
+   4 	"sykdom" N ™		"demens" N
+   4 	"stol" N ™		"dusj" N
+   4 	"stol" N ™		"do" N
+   4 	"stilling" N ™		"samleie" N
+   4 	"stilling" N ™		"feil" N
+   4 	"stans" N ™		"hjerte" N
+   4 	"spenning" N ™		"muskel" N
+   4 	"søyle" N ™		"rygg" N
+   4 	"snegl" N ™		"glas" N ™			"ur" N
+   4 	"slig" N ™		"begrep" N
+   4 	"skjema" N ™		"drikke" N
+   4 	"skade" N ™		"ryggmarg" N
+   4 	"situasjon" N ™		"praksis" N
+   4 	"situasjon" N ™		"pleie" N
+   4 	"roll" N ™		"pasient" N
+   4 	"relasjon" N ™		"omsorg" N
+   4 	"regnskap" N ™		"væske" N
+   4 	"refleksjon" N ™		"handling" N
+   4 	"reaksjon" N ™		"inflammasjon" N
+   4 	"rate" N ™		"infeksjon" N
+   4 	"pute" N ™		"stol" N
+   4 	"pute" N ™		"kar" N
+   4 	"punkt" N ™		"bunn" N
+   4 	"prosent" N ™		"energi" N
+   4 	"profesjon" N ™		"sykepleier" N
+   4 	"produksjon" N ™		"talg" N
+   4 	"produksjon" N ™		"spytt" N
+   4 	"problem" N ™		"hukommelse" N
+   4 	"problem" N ™		"ereksjon" N
+   4 	"prinsipp" N ™		"sykepleie" N
+   4 	"prinsipp" N ™		"autonomi" N
+   4 	"portal" N ™		"mat" N
+   4 	"person" N ™		"forankring" N
+   4 	"oppvekst" N ™		"bakterie" N
+   4 	"opplevelse" N ™		"smerte" N
+   4 	"opphold" N ™		"rehabilitering" N
+   4 	"område" N ™		"hud" N
+   4 	"nivå" N ™		"teori" N
+   4 	"nivå" N ™		"karbondioksid" N
+   4 	"negl" N ™		"glass" N ™			"ur" N
+   4 	"negl" N ™		"glas" N ™			"ur" N
+   4 	"muskulatur" N ™		"hjerte" N
+   4 	"muskel" N ™		"mage" N
+   4 	"modell" N ™		"omsorg" N
+   4 	"modell" N ™		"interaksjon" N
+   4 	"mengde" N ™		"blod" N
+   4 	"mengd" N ™		"væske" N
+   4 	"mann" N ™		"gissel" N
+   4 	"mangel" N ™		"protein" N
+   4 	"mangel" N ™		"dalphabet" N
+   4 	"mangel" N ™		"Dalphabet" N
+   4 	"lund" N ™		"bakke" N
+   4 	"løsning" N ™		"sonde" N
+   4 	"litteratur" N ™		"forskning" N
+   4 	"leie" N ™		"mage" N
+   4 	"lege" N ™		"sykehjem" N
+   4 	"kylling" N ™		"blære" N
+   4 	"kvalitet" N ™		"sykepleie" N
+   4 	"kunnskap" N ™		"handling" N
+   4 	"kriterium" N ™		"nytte" N
+   4 	"krem" N ™		"ansikt" N
+   4 	"kraft" N ™		"muskel" N
+   4 	"kort" N ™		"mat" N
+   4 	"kontraksjon" N ™		"muskel" N
+   4 	"kontakt" N ™		"kropp" N
+   4 	"klyster" N ™		"olje" N
+   4 	"kjertel" N ™		"prostata" N
+   4 	"kjede" N ™		"smitte" N
+   4 	"kant" N ™		"sår" N
+   4 	"kanal" N ™		"tarm" N
+   4 	"journal" N ™		"kjerne" N
+   4 	"intervensjon" N ™		"sykepleie" N
+   4 	"innhold" N ™		"væske" N
+   4 	"innhold" N ™		"vann" N
+   4 	"innhold" N ™		"karbondioksid" N
+   4 	"innhold" N ™		"energi" N
+   4 	"infeksjon" N ™		"sopp" N
+   4 	"indeks" N ™		"masse" N ™			"kropp" N
+   4 	"hygiene" N ™		"søvn" N
+   4 	"historie" N ™		"sykdom" N
+   4 	"hindring" N ™		"avløp" N
+   4 	"gruppe" N ™		"muskel" N
+   4 	"gruppe" N ™		"matvare" N
+   4 	"godkjenning" N ™		"spesialist" N
+   4 	"gjennomgang" N ™		"litteratur" N
+   4 	"giver" N ™		"omsorg" N
+   4 	"gevinst" N ™		"helse" N
+   4 	"forstyrrelse" N ™		"døgnrytme" N
+   4 	"forskrift" N ™		"kvalitet" N
+   4 	"forklaring" N ™		"årsak" N
+   4 	"forandring" N ™		"stilling" N
+   4 	"forandring" N ™		"hud" N
+   4 	"flora" N ™		"bakterie" N
+   4 	"fase" N ™		"sykdom" N
+   4 	"faktor" N ™		"ramme" N
+   4 	"evne" N ™		"tale" N
+   4 	"evne" N ™		"ereksjon" N
+   4 	"etikk" N ™		"omsorg" N
+   4 	"erfaring" N ™		"symptom" N
+   4 	"erfaring" N ™		"sykdom" N
+   4 	"erfaring" N ™		"pasient" N
+   4 	"endring" N ™		"vekt" N
+   4 	"endring" N ™		"kropp" N
+   4 	"ende" N ™		"hode" N
+   4 	"ende" N ™		"fordel" N ™			"trykk" N
+   4 	"ende" N ™		"bind" N ™			"vann" N
+   4 	"dyktighet" N ™		"funksjon" N
+   4 	"diagnose" N ™		"risiko" N
+   4 	"dannelse" N ™		"gass" N
+   4 	"celle" N ™		"nerve" N
+   4 	"brudd" N ™		"bein" N
+   4 	"bolk" N ™		"hoved" N
+   4 	"blære" N ™		"sæd" N
+   4 	"bind" N ™		"kompresjon" N
+   4 	"bibliotek" N ™		"helse" N
+   4 	"bevegelse" N ™		"tarm" N
+   4 	"bevegelse" N ™		"sirkel" N
+   4 	"bevegelse" N ™		"kropp" N
+   4 	"besvær" N ™		"fordøyelse" N
+   4 	"behandling" N ™		"antibiotika" N
+   4 	"begrep" N ™		"kunnskap" N
+   4 	"bane" N ™		"blod" N
+   4 	"avdeling" N ™		"sykehus" N
+   4 	"artikkel" N ™		"fag" N
+   4 	"alternativ" N ™		"handling" N
+   4 	"." CLB ™	"tiltak" N ™		"sykepleie" N
+   4 	"." CLB ™	"tilførsel" N ™		"oksygen" N
+   4 	"." CLB ™	"temperatur" N ™		"kropp" N
+   4 	"." CLB ™	"teknologi" N ™		"velferd" N
+   4 	"." CLB ™	"stilling" N ™		"kropp" N
+   4 	"." CLB ™	"prosedyre" N ™		"fag" N
+   4 	"." CLB ™	"journal" N ™		"kjerne" N
+   4 	"." CLB ™	"ende" N ™		"fyll" N ™			"mopp" N ™				"ro" N
+   4 	"." CLB ™	"ende" N ™		"bind" N ™			"vann" N
+   4 	"." CLB ™		"s" N ™	"98" A
+   4 	"." CLB ™		"s" N ™	"83" A
+   4 	"." CLB ™		"s" N ™	"82" A
+   4 	"." CLB ™		"s" N ™	"73" A
+   4 	"." CLB ™		"s" N ™	"52" A
+   4 	"." CLB ™		"s" N ™	"41" A
+   4 	"." CLB ™		"s" N ™	"33" A
+   4 	"." CLB ™		"s" N ™	"329" Num
+   4 	"." CLB ™		"s" N ™	"29" A
+   4 	"." CLB ™		"s" N ™	"188" Num
+   4 	"." CLB ™		"s" N ™	"162" Num
+   4 	"." CLB ™		"s" N ™	"100" A
+   4 	"." CLB ™		"s" N ™	 Use/Circ"173–174"
+   4 	"." CLB ™		"mfl" N ™	"2004" Num
+   4 	"." CLB ™		"cand" N ™	"san" ?
+   4 	"." CLB ™		"St" N ™	"Mark" N
+   3 	"volum" N ™		"blære" N
+   3 	"virksomhet" N ™		"yrke" N
+   3 	"virksomhet" N ™		"tanke" N
+   3 	"verdi" N ™		"blodsukker" N
+   3 	"vegg" N ™		"bryst" N
+   3 	"vegg" N ™		"åre" N
+   3 	"væske" N ™		"vev" N
+   3 	"vare" N ™		"korn" N
+   3 	"vare" N ™		"drikke" N
+   3 	"vanske" N ™		"søvn" N
+   3 	"vandring" N ™		"bakterie" N
+   3 	"utviklingstiltak" N ™		"kvalitet" N
+   3 	"utvikling" N ™		"vekt" N
+   3 	"utvikling" N ™		"gass" N
+   3 	"uttrykk" N ™		"smerte" N
+   3 	"utstyr" N ™		"inkontinens" N
+   3 	"utskilling" N ™		"urin" N
+   3 	"utløsning" N ™		"sæd" N
+   3 	"utfall" N ™		"helse" N
+   3 	"undervisning" N ™		"pasient" N
+   3 	"undersøkelse" N ™		"røntgen" N
+   3 	"type" N ™		"kost" N
+   3 	"trekk" N ™		"overs" N
+   3 	"transport" N ™		"oksygen" N
+   3 	"tjenestetilbud" N ™		"helse" N
+   3 	"tiltak" N ™		"kvalitetsutvikling" N
+   3 	"tilstand" N ™		"likevekt" N
+   3 	"tilbud" N ™		"helsetjeneste" N
+   3 	"test" N ™		"veiing" N ™			"bleie" N
+   3 	"termometer" N ™		"øre" N
+   3 	"termometer" N ™		"kontakt" N
+   3 	"terapi" N ™		"atferd" N
+   3 	"teori" N ™		"praksis" N
+   3 	"teori" N ™		"egenomsorg" N
+   3 	"teori" N ™		"behov" N
+   3 	"teoretiker" N ™		"sykepleie" N
+   3 	"tenkning" N ™		"balanse" N
+   3 	"tenkning" N ™		"årsak" N
+   3 	"temperatur" N ™		"luft" N
+   3 	"temperatur" N ™		"hud" N
+   3 	"telling" N ™		"puls" N
+   3 	"system" N ™		"skjelett" N
+   3 	"system" N ™		"ledning" N
+   3 	"system" N ™		"kar" N
+   3 	"syndrom" N ™		"utmattelse" N
+   3 	"symptom" N ™		"angst" N
+   3 	"sykdom" N ™		"stoffskifte" N
+   3 	"struktur" N ™		"kropp" N
+   3 	"strøm" N ™		"urin" N
+   3 	"strange" N ™		"avføring" N
+   3 	"størrelse" N ™		"porsjon" N
+   3 	"stell" N ™		"sår" N
+   3 	"stav" N ™		"massasje" N
+   3 	"status" N ™		"respirasjon" N
+   3 	"stans" N ™		"respirasjon" N
+   3 	"speil" N ™		"munn" N
+   3 	"smerte" N ™		"ledd" N
+   3 	"smerte" N ™		"hvile" N
+   3 	"sjokk" N ™		"realitet" N
+   3 	"sjef" N ™		"omsorg" N
+   3 	"situasjon" N ™		"samhandling" N
+   3 	"situasjon" N ™		"problem" N
+   3 	"setting" N ™		"grense" N
+   3 	"sett" N ™		"verdi" N
+   3 	"sett" N ™		"infusjon" N
+   3 	"seng" N ™		"sykehus" N
+   3 	"rytme" N ™		"respirasjon" N
+   3 	"rutine" N ™		"søvn" N
+   3 	"risiko" N ™		"trykksår" N
+   3 	"risiko" N ™		"fall" N
+   3 	"resultat" N ™		"prøve" N
+   3 	"resultat" N ™		"helse" N
+   3 	"rest" N ™		"såpe" N
+   3 	"ressurs" N ™		"helse" N
+   3 	"registreringsskjema" N ™		"kost" N
+   3 	"refleks" N ™		"tømming" N ™			"tarm" N
+   3 	"reaksjon" N ™		"betennelse" N
+   3 	"rasjonalitet" N ™		"formål" N
+   3 	"rapport" N ™		"tilsyn" N
+   3 	"pumpe" N ™		"smerte" N
+   3 	"puls" N ™		"hvile" N
+   3 	"prosjekt" N ™		"VIS" Use/Circ
+   3 	"prosess" N ™		"stoffskifte" N
+   3 	"prosess" N ™		"liv" N
+   3 	"prosess" N ™		"interaksjon" N
+   3 	"prosess" N ™		"aldring" N
+   3 	"prosedyre" N ™		"sykepleie" N
+   3 	"program" N ™		"øving" N
+   3 	"profesjon" N ™		"sykepleie" N
+   3 	"produkt" N ™		"stoffskifte" N
+   3 	"produkt" N ™		"kropp" N
+   3 	"problem" N ™		"tømming" N ™			"tarm" N
+   3 	"problem" N ™		"inkontinens" N
+   3 	"preparat" N ™		"jern" N
+   3 	"posisjon" N ™		"normal" N
+   3 	"portal" N ™		"nett" N
+   3 	"plakat" N ™		"reklame" N
+   3 	"plage" N ™		"luft" N
+   3 	"pille" N ™		"stikk" N
+   3 	"perspektiv" N ™		"sykepleie" N
+   3 	"perspektiv" N ™		"prosess" N
+   3 	"passasje" N ™		"luft" N
+   3 	"pasient" N ™		"sykehjem" N
+   3 	"pasient" N ™		"kreft" N
+   3 	"partner" N ™		"samtale" N
+   3 	"opplevelse" N ™		"symptom" N
+   3 	"opphold" N ™		"pasient" N
+   3 	"oppgave" N ™		"pleie" N
+   3 	"oppfatning" N ™		"sykdom" N
+   3 	"oppfatning" N ™		"helhet" N
+   3 	"omsetning" N ™		"stoff" N
+   3 	"område" N ™		"liv" N
+   3 	"område" N ™		"kunnskap" N
+   3 	"område" N ™		"forskning" N
+   3 	"område" N ™		"adaptasjon" N
+   3 	"ødem" N ™		"slimhinne" N
+   3 	"obstruksjon" N ™		"luftstrøm" N
+   3 	"nivå" N ™		"østrogen" N
+   3 	"nivå" N ™		"oksygen" N
+   3 	"nivå" N ™		"adaptasjon" N
+   3 	"nedsettelse" N ™		"funksjon" N
+   3 	"muskulatur" N ™		"respirasjon" N
+   3 	"muskulatur" N ™		"legg" N
+   3 	"muskulatur" N ™		"buk" N
+   3 	"mulighet" N ™		"mestring" N
+   3 	"mulighet" N ™		"liv" N
+   3 	"mulighet" N ™		"behandling" N
+   3 	"mønster" N ™		"tømming" N
+   3 	"mønster" N ™		"liv" N
+   3 	"mønster" N ™		"avføring" N
+   3 	"mobbing" N ™		"nett" N
+   3 	"miljø" N ™		"måltid" N
+   3 	"middel" N ™		"føde" N
+   3 	"mengde" N ™		"energi" N
+   3 	"mengd" N ™		"blod" N
+   3 	"membran" N ™		"celle" N
+   3 	"masse" N ™		"fett" N
+   3 	"mann" N ™		"datasamling" N
+   3 	"mangel" N ™		"væske" N
+   3 	"mangel" N ™		"mat" N
+   3 	"løsning" N ™		"journal" N
+   3 	"linse" N ™		"kontakt" N
+   3 	"lindring" N ™		"smerte" N
+   3 	"lidelse" N ™		"grunn" N
+   3 	"lende" N ™		"stil" N ™			"kvalme" N
+   3 	"legeme" N ™		"svamp" N
+   3 	"laken" N ™		"varme" N
+   3 	"kriterium" N ™		"hoved" N
+   3 	"krem" N ™		"fuktighet" N
+   3 	"kopi" N ™		"kolos" N
+   3 	"kontekst" N ™		"praksis" N
+   3 	"komponent" N ™		"hoved" N
+   3 	"kompetanse" N ™		"samtykke" N
+   3 	"komité" N ™		"vitenskap" N
+   3 	"knute" N ™		"sinus" N
+   3 	"knute" N ™		"lymfe" N
+   3 	"kjertel" N ™		"spytt" N ™			"buk" N
+   3 	"kjertel" N ™		"pytt" N ™			"buk" N
+   3 	"kateter" N ™		"urin" N
+   3 	"kappe" N ™		"syre" N
+   3 	"kapasitet" N ™		"bevegelse" N
+   3 	"inntak" N ™		"salt" N
+   3 	"inkontinens" N ™		"hastverk" N
+   3 	"indeks" N ™		"ADL" Use/Circ
+   3 	"impuls" N ™		"nerve" N
+   3 	"hull" N ™		"nøkkel" N
+   3 	"hormon" N ™		"stress" N
+   3 	"hode" N ™		"bak" N
+   3 	"hjem" N ™		"glede" N ™			"liv" N
+   3 	"hjelpemiddel" N ™		"gang" N
+   3 	"helse" N ™		"ealphabet" N
+   3 	"halvår" N ™		"vinter" N
+   3 	"hals" N ™		"tann" N
+   3 	"hall" N ™		"par" N
+   3 	"guide" N ™		"datasamling" N
+   3 	"gruppe" N ™		"risiko" N
+   3 	"grunnlag" N ™		"tradisjon" N
+   3 	"grunnlag" N ™		"sammenlikning" N
+   3 	"grense" N ™		"normal" N
+   3 	"grad" N ™		"kompresjon" N
+   3 	"glede" N ™		"mat" N
+   3 	"glede" N ™		"liv" N
+   3 	"gasse" N ™		"blod" N
+   3 	"funksjon" N ™		"hjerne" N
+   3 	"funksjon" N ™		"gang" N
+   3 	"frue" N ™		"gård" N
+   3 	"forstyrrelse" N ™		"temperatur" N
+   3 	"forstyrrelse" N ™		"rytme" N ™			"hjerte" N
+   3 	"forstyrrelse" N ™		"respirasjon" N
+   3 	"forstyrrelse" N ™		"bevegelse" N
+   3 	"forståelse" N ™		"teknologi" N
+   3 	"forståelse" N ™		"bakgrunn" N
+   3 	"forskrift" N ™		"prioritering" N
+   3 	"fornemmelse" N ™		"tyngde" N
+   3 	"form" N ™		"forståelse" N
+   3 	"forløp" N ™		"behandling" N
+   3 	"forhold" N ™		"sirkulasjon" N
+   3 	"forhold" N ™		"kontakt" N
+   3 	"forandring" N ™		"pigment" N
+   3 	"forandring" N ™		"finger" N
+   3 	"følelse" N ™		"tørst" N
+   3 	"fiber" N ™		"muskel" N
+   3 	"fase" N ™		"søvn" N
+   3 	"fase" N ™		"sår" N
+   3 	"fase" N ™		"orgasme" N
+   3 	"fase" N ™		"kartlegging" N
+   3 	"fall" N ™		"tone" N
+   3 	"faktor" N ™		"stress" N
+   3 	"faktor" N ™		"miljø" N
+   3 	"ereksjon" N ™		"klitoris" N
+   3 	"epidemi" N ™		"krybbedød" N
+   3 	"enzym" N ™		"fordøyelse" N
+   3 	"endring" N ™		"volum" N
+   3 	"endring" N ™		"alder" N
+   3 	"ende" N ™		"driv" N ™			"vann" N
+   3 	"emalje" N ™		"tann" N
+   3 	"dybde" N ™		"respirasjon" N
+   3 	"dråpe" N ™		"vitamin" N ™			"dalphabet" N
+   3 	"dråpe" N ™		"vitamin" N ™			"Dalphabet" N
+   3 	"dråpe" N ™		"D-vitamin" N
+   3 	"direktorat" N ™		"familie" N
+   3 	"desinfeksjon" N ™		"hånd" N
+   3 	"deklarasjon" N ™		"vare" N
+   3 	"dannelse" N ™		"sår" N
+   3 	"dagbok" N ™		"søvn" N
+   3 	"celle" N ™		"sæd" N
+   3 	"bruk" N ™		"muskel" N
+   3 	"brudd" N ™		"hofte" N
+   3 	"brett" N ™		"skjerm" N
+   3 	"blod" N ™		"menstruasjon" N
+   3 	"behandling" N ™		"væske" N
+   3 	"behandling" N ™		"hormon" N
+   3 	"begrep" N ™		"omsorg" N
+   3 	"begrep" N ™		"livskvalitet" N
+   3 	"bank" N ™		"hjerte" N
+   3 	"avgang" N ™		"urin" N
+   3 	"avdeling" N ™		"sykehjem" N
+   3 	"artikkel" N ™		"forskning" N
+   3 	"arbeide" N ™		"muskel" N
+   3 	"åpning" N ™		"skjede" N
+   3 	"album" N ™		"minne" N
+   3 	"aktivitet" N ™		"gruppe" N
+   3 	"absorpsjon" N ™		"mal" N
+   3 	":" CLB ™	"inntak" N ™		"næring" N
+   3 	"." CLB ™	"volum" N ™		"hvile" N
+   3 	"." CLB ™	"ving" N ™		"kjel" N ™			"muskel" N
+   3 	"." CLB ™	"vask" N ™		"kropp" N
+   3 	"." CLB ™	"trening" N ™		"blære" N
+   3 	"." CLB ™	"teori" N ™		"sykepleie" N
+   3 	"." CLB ™	"system" N ™		"klassifikasjon" N
+   3 	"." CLB ™	"sykepleier" N ™		"utvikling" N ™			"fag" N
+   3 	"." CLB ™	"smerte" N ™		"bryst" N
+   3 	"." CLB ™	"setting" N ™		"grense" N
+   3 	"." CLB ™	"prosess" N ™		"sykepleie" N
+   3 	"." CLB ™	"problem" N ™		"søvn" N
+   3 	"." CLB ™	"problem" N ™		"respirasjon" N
+   3 	"." CLB ™	"problem" N ™		"ereksjon" N
+   3 	"." CLB ™	"prinsipp" N ™		"autonomi" N
+   3 	"." CLB ™	"pose" N ™		"urin" N
+   3 	"." CLB ™	"pleie" N ™		"hud" N
+   3 	"." CLB ™	"nivå" N ™		"hormon" N
+   3 	"." CLB ™	"kropp" N ™		"menneske" N
+   3 	"." CLB ™	"journal" N ™		"pasient" N
+   3 	"." CLB ™	"inntak" N ™		"væske" N
+   3 	"." CLB ™	"inkontinens" N ™		"stress" N
+   3 	"." CLB ™	"fremmend" N ™		"helse" N
+   3 	"." CLB ™	"forum" N ™		"beslutning" N
+   3 	"." CLB ™	"fiber" N ™		"kost" N
+   3 	"." CLB ™	"fett" N ™		"tran" N
+   3 	"." CLB ™	"besvær" N ™		"fordøyelse" N
+   3 	"." CLB ™		"s" N ™	"94" A
+   3 	"." CLB ™		"s" N ™	"86" A
+   3 	"." CLB ™		"s" N ™	"77" A
+   3 	"." CLB ™		"s" N ™	"76" A
+   3 	"." CLB ™		"s" N ™	"63" A
+   3 	"." CLB ™		"s" N ™	"59" A
+   3 	"." CLB ™		"s" N ™	"58" A
+   3 	"." CLB ™		"s" N ™	"56" A
+   3 	"." CLB ™		"s" N ™	"46" A
+   3 	"." CLB ™		"s" N ™	"458" Num
+   3 	"." CLB ™		"s" N ™	"437" Num
+   3 	"." CLB ™		"s" N ™	"408" Num
+   3 	"." CLB ™		"s" N ™	"399" Num
+   3 	"." CLB ™		"s" N ™	"333" Num
+   3 	"." CLB ™		"s" N ™	"299" Num
+   3 	"." CLB ™		"s" N ™	"258" Num
+   3 	"." CLB ™		"s" N ™	"250" Num
+   3 	"." CLB ™		"s" N ™	"221" Num
+   3 	"." CLB ™		"s" N ™	"22" A
+   3 	"." CLB ™		"s" N ™	"211" Num
+   3 	"." CLB ™		"s" N ™	"21" A
+   3 	"." CLB ™		"s" N ™	"203" Num
+   3 	"." CLB ™		"s" N ™	"199" Num
+   3 	"." CLB ™		"s" N ™	"179" Num
+   3 	"." CLB ™		"s" N ™	"122" Num
+   3 	"." CLB ™		"s" N ™	"101" Num
+   3 	"." CLB ™		"s" N ™	"10" A
+   3 	"." CLB ™		"pga" N ™	"parese" N ™		"svelg" N
+   3 	"." CLB ™		"mfl" N ™	"2019" Use/SpellNoSugg"b"
+   3 	"." CLB ™		"mfl" N ™	"1995" Num
+   3 	"." CLB ™		"m.v" N ™	"(" PUNCT
+   3 	"." CLB ™		"jf" N ™	"pasient" N
+   3 	"." CLB ™		"jf" N ™	"kunnskapsbasert" A
+   3 	"." CLB ™		"jf" N ™	"figur" N
+   3 	"." CLB ™		"jf" N ™	"eksempel" N
+   3 	"." CLB ™		"h" N ™	"Erikson" N
+   3 	"." CLB ™		"f" N ™	"1974" Num
+   3 	"." CLB ™		"f" N ™	"1954" Num
+   3 	"." CLB ™		"ca" N ™	"20" A
+   2 	"yrke" N ™		"sykepleier" N
+   2 	"yrke" N ™		"sykepleie" N
+   2 	"vurdering" N ™		"sår" N
+   2 	"vurdering" N ™		"hud" N
+   2 	"vurdering" N ™		"funksjon" N
+   2 	"volum" N ™		"tarm" N
+   2 	"volum" N ™		"lunge" N
+   2 	"vitamin" N ™		"calphabet" N
+   2 	"vitamin" N ™		"balphabet" N
+   2 	"vitamin" N ™		"Calphabet" N
+   2 	"vitamin" N ™		"Balphabet" N
+   2 	"virvel" N ™		"rygg" N
+   2 	"virkning" N ™		"legemiddel" N
+   2 	"virkning" N ™		"buffer" N
+   2 	"vidde" N ™		"liv" N
+   2 	"vibrator" N ™		"klitoris" N
+   2 	"verktøy" N ™		"støtte" N
+   2 	"verktøy" N ™		"selvhjelp" N
+   2 	"verktøy" N ™		"prosedyre" N
+   2 	"verdi" N ™		"termostat" N
+   2 	"verdi" N ™		"hemoglobin" N
+   2 	"verdi" N ™		"KMI" Use/Circ
+   2 	"ventilasjon" N ™		"minutt" N
+   2 	"vekst" N ™		"skjegg" N
+   2 	"vekst" N ™		"lengde" N
+   2 	"vekst" N ™		"hår" N
+   2 	"veiledning" N ™		"kosthold" N
+   2 	"veiledning" N ™		"kost" N
+   2 	"vegg" N ™		"kar" N
+   2 	"væske" N ™		"ernæring" N
+   2 	"variasjon" N ™		"normal" N
+   2 	"variasjon" N ™		"døgn" N
+   2 	"vanske" N ™		"tale" N
+   2 	"vann" N ™		"såpe" N
+   2 	"vane" N ™		"helse" N
+   2 	"valg" N ™		"behandling" N
+   2 	"utvikling" N ™		"temperatur" N
+   2 	"utvikling" N ™		"kjønn" N
+   2 	"utvalg" N ™		"kvalitet" N
+   2 	"uttrykk" N ™		"kropp" N
+   2 	"uttrykk" N ™		"følelse" N
+   2 	"utskilling" N ™		"melatonin" N
+   2 	"utskillelse" N ™		"urin" N
+   2 	"utøver" N ™		"profesjon" N
+   2 	"utøver" N ™		"fag" N
+   2 	"utfordring" N ™		"liv" N
+   2 	"urin" N ™		"stråle" N ™			"midt" N
+   2 	"ur" N ™		"fiss" N
+   2 	"ur" N ™		"fis" N
+   2 	"undersøkelse" N ™		"funksjon" N ™			"lunge" N
+   2 	"undersøkelse" N ™		"forbruker" N
+   2 	"underskudd" N ™		"væske" N
+   2 	"type" N ™		"termometer" N
+   2 	"type" N ™		"sår" N
+   2 	"type" N ™		"hud" N
+   2 	"type" N ™		"fiber" N
+   2 	"type" N ™		"bakterie" N
+   2 	"trykk" N ™		"finger" N
+   2 	"trening" N ™		"utholdenhet" N
+   2 	"trening" N ™		"bevegelighet" N
+   2 	"transfusjon" N ™		"blod" N
+   2 	"tradisjon" N ™		"omsorg" N
+   2 	"tråd" N ™		"stål" N
+   2 	"tjeneste" N ™		"habilitering" N
+   2 	"tiltak" N ™		"forbedring" N ™			"kvalitet" N
+   2 	"tilstrømning" N ™		"blod" N
+   2 	"tilstand" N ™		"krise" N
+   2 	"tilstand" N ™		"infeksjon" N
+   2 	"tilstand" N ™		"betennelse" N
+   2 	"tilskudd" N ™		"østrogen" N
+   2 	"tilskudd" N ™		"kost" N
+   2 	"tilhørighet" N ™		"kjønn" N
+   2 	"tilhørighet" N ™		"gruppe" N
+   2 	"tilførsel" N ™		"varme" N
+   2 	"tilbud" N ™		"sykepleie" N
+   2 	"tidspunkt" N ™		"medisinering" N
+   2 	"test" N ™		"svelg" N
+   2 	"terskel" N ™		"nyre" N
+   2 	"terskel" N ™		"dør" N
+   2 	"terminologi" N ™		"ICNP" Use/Circ
+   2 	"teori" N ™		"system" N
+   2 	"teori" N ™		"omsorg" N
+   2 	"teori" N ™		"buffer" N
+   2 	"tendens" N ™		"blødning" N
+   2 	"temperatur" N ™		"omgivelse" N
+   2 	"temperatur" N ™		"normal" N
+   2 	"teknologi" N ™		"velvære" N
+   2 	"teknologi" N ™		"sikkerhet" N
+   2 	"tein" N ™		"galle" N
+   2 	"tannbørste" N ™		"solo" N
+   2 	"tall" N ™		"bakterie" N
+   2 	"tall" N ™		"2000" Num ™		 Use/Circ"2000"
+   2 	"tall" N ™		"1600" Num ™		 Use/Circ"1600"
+   2 	"tale" N ™		"geni" N
+   2 	"system" N ™		"tarm" N
+   2 	"system" N ™		"lymfe" N
+   2 	"system" N ™		"kylling" N ™			"tarm" N
+   2 	"system" N ™		"kateter" N
+   2 	"system" N ™		"balanse" N
+   2 	"synder" N ™		"unnlatelse" N
+   2 	"synd" N ™		"unnlatelse" N
+   2 	"symptom" N ™		"alarm" N
+   2 	"sykepleier" N ™		"utvikling" N ™			"fag" N
+   2 	"sykepleier" N ™		"diabetes" N
+   2 	"sykepleier" N ™		"allmenn" N
+   2 	"sykepleie" N ™		"helse" N
+   2 	"sykdom" N ™		"muskel" N
+   2 	"sykdom" N ™		"betennelse" N
+   2 	"sykdom" N ™		"arterie" N
+   2 	"svulst" N ™		"kreft" N
+   2 	"svulst" N ™		"hjerne" N
+   2 	"svar" N ™		"prøve" N
+   2 	"svar" N ™		"blodprøve" N
+   2 	"sukker" N ™		"melke" N
+   2 	"studium" N ™		"kjønn" N
+   2 	"studie" N ™		"litteratur" N
+   2 	"studie" N ™		"kjønn" N
+   2 	"student" N ™		"bachelor" N
+   2 	"støtte" N ™		"respirasjon" N
+   2 	"støtte" N ™		"beslutning" N
+   2 	"stoff" N ™		"gift" N
+   2 	"stoff" N ™		"celle" N
+   2 	"stigning" N ™		"feber" N
+   2 	"stigning" N ™		"blodsukker" N
+   2 	"stige" N ™		"kompetanse" N
+   2 	"stige" N ™		"abstraksjon" N
+   2 	"stett" N ™		"næring" N
+   2 	"stemme" N ™		"sykepleier" N
+   2 	"stein" N ™		"galle" N
+   2 	"sted" N ™		"praksis" N
+   2 	"status" N ™		"tann" N
+   2 	"stamme" N ™		"hjerne" N
+   2 	"stamme" N ™		"bakterie" N
+   2 	"språk" N ™		"marked" N
+   2 	"sport" N ™		"inngang" N
+   2 	"spiss" N ™		"sonde" N
+   2 	"sonde" N ™		"ernæring" N
+   2 	"slimhinne" N ™		"munn" N
+   2 	"skjorte" N ™		"sykehus" N
+   2 	"skjema" N ™		"væske" N
+   2 	"skjema" N ™		"avvik" N
+   2 	"skjema" N ™		"anamnese" N
+   2 	"skift" N ™		"bandasje" N
+   2 	"situasjon" N ™		"behandling" N
+   2 	"sirkel" N ™		"studie" N
+   2 	"sirkel" N ™		"kost" N
+   2 	"sentral" N ™		"frivillighet" N
+   2 	"senter" N ™		"respons" N
+   2 	"senter" N ™		"lege" N
+   2 	"seksualisme" N ™		"tran" N
+   2 	"sekresjon" N ™		"sår" N
+   2 	"sekk" N ™		"lunge" N
+   2 	"score" N ™		"smerte" N
+   2 	"sats" N ™		"mot" N
+   2 	"sans" N ™		"temperatur" N
+   2 	"sans" N ™		"smerte" N
+   2 	"samtale" N ™		"kost" N
+   2 	"sammenslutning" N ™		"ekspert" N
+   2 	"sammensetning" N ™		"næring" N
+   2 	"sammensetning" N ™		"kropp" N
+   2 	"samling" N ™		"gruppe" N ™			"minne" N
+   2 	"saft" N ™		"mage" N
+   2 	"rytme" N ™		"sinus" N
+   2 	"rytme" N ™		"samfunn" N
+   2 	"rutine" N ™		"toalett" N
+   2 	"rutine" N ™		"hygiene" N
+   2 	"rutine" N ™		"arbeid" N
+   2 	"røyk" N ™		"sigarett" N
+   2 	"rolle" N ™		"sykepleier" N
+   2 	"rolle" N ™		"nøkkel" N
+   2 	"roll" N ™		"sykepleier" N
+   2 	"rike" N ™		"energi" N
+   2 	"retning" N ™		"hoved" N
+   2 	"rest" N ™		"avføring" N
+   2 	"repertoar" N ™		"handling" N
+   2 	"rehabilitering" N ™		"slag" N
+   2 	"rehabilitering" N ™		"hverdag" N
+   2 	"regle" N ™		"handling" N
+   2 	"registrering" N ™		"søvn" N
+   2 	"registrering" N ™		"kost" N
+   2 	"register" N ™		"inkontinens" N
+   2 	"register" N ™		"helse" N
+   2 	"region" N ™		"nyre" N
+   2 	"region" N ™		"blære" N
+   2 	"regime" N ™		"trening" N
+   2 	"regime" N ™		"tømming" N
+   2 	"regel" N ™		"kontroll" N
+   2 	"regel" N ™		"handling" N
+   2 	"reform" N ™		"faglighet" N
+   2 	"refleks" N ™		"avføring" N
+   2 	"redaktør" N ™		"forlag" N
+   2 	"reaksjon" N ™		"sorg" N
+   2 	"reaksjon" N ™		"krise" N
+   2 	"rapport" N ™		"morgen" N
+   2 	"ramme" N ™		"forståelse" N
+   2 	"pust" N ™		"leppe" N
+   2 	"pumpe" N ™		"infusjon" N
+   2 	"pumpe" N ™		"ereksjon" N
+   2 	"prøve" N ™		"porsjon" N ™			"urin" N
+   2 	"prøve" N ™		"kateter" N
+   2 	"protese" N ™		"del" N
+   2 	"prosess" N ™		"sosialisere" Ex/V
+   2 	"prosess" N ™		"problemløsning" N
+   2 	"prosess" N ™		"lære" N
+   2 	"prosess" N ™		"helbred" N
+   2 	"prosess" N ™		"forråtnelse" N
+   2 	"prosess" N ™		"fordøyelse" N
+   2 	"prosess" N ™		"betennelse" N
+   2 	"program" N ™		"doktorgrad" N
+   2 	"produkt" N ™		"slagg" N
+   2 	"produksjon" N ™		"svette" N
+   2 	"produksjon" N ™		"sæd" N
+   2 	"problematikk" N ™		"lukt" N
+   2 	"problem" N ™		"tillegg" N
+   2 	"problem" N ™		"orgasme" N
+   2 	"problem" N ™		"hørsel" N
+   2 	"problem" N ™		"hjerte" N
+   2 	"prinsipp" N ™		"trekant" N
+   2 	"presentasjon" N ™		"video" N
+   2 	"pose" N ™		"oppsamling" N
+   2 	"port" N ™		"inngang" N
+   2 	"politikk" N ™		"folkehelse" N
+   2 	"poliklinikk" N ™		"sår" N
+   2 	"planet" N ™		"median" N
+   2 	"plan" N ™		"dag" N
+   2 	"plan" N ™		"aktivitet" N
+   2 	"plage" N ™		"tømming" N ™			"tarm" N
+   2 	"plage" N ™		"søvn" N
+   2 	"perspektiv" N ™		"verden" N ™			"liv" N
+   2 	"perspektiv" N ™		"struktur" N
+   2 	"person" N ™		"tilknytning" N
+   2 	"periode" N ™		"ungdom" N
+   2 	"periode" N ™		"feber" N
+   2 	"påvirkning" N ™		"stress" N
+   2 	"påvirkning" N ™		"kulde" N
+   2 	"passasje" N ™		"tarm" N
+   2 	"pass" N ™		"stil" N ™			"sisten" N ™				"kon" N
+   2 	"pasient" N ™		"sykehus" N
+   2 	"parasitt" N ™		"tarm" N
+   2 	"pandemi" N ™		"korona" N
+   2 	"overskudd" N ™		"væske" N
+   2 	"overgrep" N ™		"makt" N
+   2 	"overføring" N ™		"smitte" N
+   2 	"overflate" N ™		"kropp" N
+   2 	"øvelse" N ™		"balanse" N
+   2 	"orientering" N ™		"saks" N
+   2 	"orientering" N ™		"sak" N
+   2 	"organisasjon" N ™		"pasient" N
+   2 	"organ" N ™		"kropp" N
+   2 	"organ" N ™		"fordøyelse" N
+   2 	"ordbok" N ™		"bokmål" N
+   2 	"opplevelse" N ™		"trygghet" N
+   2 	"opplevelse" N ™		"tid" N
+   2 	"opplevelse" N ™		"pasient" N
+   2 	"opplevelse" N ™		"orgasme" N
+   2 	"opplegg" N ™		"behandling" N
+   2 	"opplæring" N ™		"pasient" N
+   2 	"oppgave" N ™		"studie" N
+   2 	"oppgang" N ™		"sol" N
+   2 	"oppfylling" N ™		"rom" N
+   2 	"oppfølging" N ™		"pasient" N
+   2 	"oppfatning" N ™		"menneske" N
+   2 	"oppfatning" N ™		"detalj" N
+   2 	"operasjon" N ™		"prostata" N
+   2 	"omsorg" N ™		"demens" N
+   2 	"område" N ™		"tabu" N
+   2 	"område" N ™		"sykepleie" N
+   2 	"omfang" N ™		"muskel" N
+   2 	"ombud" N ™		"bruker" N
+   2 	"olje" N ™		"raps" N
+   2 	"olje" N ™		"rap" N
+   2 	"notat" N ™		"refleksjon" N
+   2 	"norm" N ™		"kvalitet" N
+   2 	"nivå" N ™		"støy" N
+   2 	"nivå" N ™		"blære" N
+   2 	"nivå" N ™		"2017" Num ™		 Use/Circ"2017"
+   2 	"narkose" N ™		"CO2" N
+   2 	"narkose" N ™		"CO" Use/-Spell"2"
+   2 	"muskulatur" N ™		"blære" N
+   2 	"muskel" N ™		"hals" N
+   2 	"muskel" N ™		"hal" N
+   2 	"muskel" N ™		"bryst" N
+   2 	"mulighet" N ™		"ekspansjon" N
+   2 	"mulighet" N ™		"aktivitet" N
+   2 	"motstand" N ™		"luftstrøm" N
+   2 	"motstand" N ™		"luft" N
+   2 	"mønster" N ™		"reaksjon" N
+   2 	"mønster" N ™		"måltid" N
+   2 	"molekyl" N ™		"sukker" N
+   2 	"molekyl" N ™		"hemoglobin" N
+   2 	"modell" N ™		"rolle" N
+   2 	"modell" N ™		"egenomsorg" N
+   2 	"miljø" N ™		"sykehus" N
+   2 	"miljø" N ™		"rus" N
+   2 	"miljø" N ™		"institusjon" N
+   2 	"miljø" N ™		"behandling" N
+   2 	"middel" N ™		"uttrykk" N
+   2 	"middel" N ™		"tykning" N ™			"for" N
+   2 	"middel" N ™		"oppvask" N
+   2 	"middel" N ™		"kommunikasjon" N
+   2 	"middel" N ™		"feste" N
+   2 	"metode" N ™		"undersøkelse" N
+   2 	"metabolisme" N ™		"celle" N
+   2 	"mengde" N ™		"søvn" N
+   2 	"mengde" N ™		"sekresjon" N
+   2 	"mengde" N ™		"fiber" N
+   2 	"mengde" N ™		"drikke" N
+   2 	"mengd" N ™		"drikke" N
+   2 	"melon" N ™		"vann" N
+   2 	"medium" N ™		"vekst" N
+   2 	"medisin" N ™		"MS" Use/Circ
+   2 	"medisin" N ™		"MS" N
+   2 	"medarbeider" N ™		"butikk" N
+   2 	"materiale" N ™		"skum" N
+   2 	"materiale" N ™		"protese" N
+   2 	"måte" N ™		"uttrykk" N
+   2 	"måte" N ™		"reaksjon" N
+   2 	"måte" N ™		"forståelse" N
+   2 	"masse" N ™		"kropp" N
+   2 	"manual" N ™		"diagnose" N
+   2 	"mansjett" N ™		"blodtrykk" N
+   2 	"mangfold" N ™		"seksualitet" N
+   2 	"mangel" N ™		"søvn" N
+   2 	"mangel" N ™		"jod" N
+   2 	"måling" N ™		"blodsukker" N
+   2 	"majoritet" N ™		"kjønn" N
+   2 	"madrass" N ™		"skum" N
+   2 	"lukt" N ™		"vel" N
+   2 	"luft" N ™		"tarm" N
+   2 	"luft" N ™		"inspirasjon" N
+   2 	"løsning" N ™		"tann" N
+   2 	"løsning" N ™		"selvhjelp" N
+   2 	"lokk" N ™		"strupe" N
+   2 	"liste" N ™		"litteratur" N
+   2 	"list" N ™		"litteratur" N
+   2 	"line" N ™		"base" N
+   2 	"lidelse" N ™		"nyre" N
+   2 	"lidelse" N ™		"mareritt" N
+   2 	"lidelse" N ™		"hjerte" N
+   2 	"lidelse" N ™		"arbeider" N ™			"skift" N
+   2 	"lidelse" N ™		"angst" N
+   2 	"lengd" N ™		"søvn" N
+   2 	"lekkasje" N ™		"avføring" N
+   2 	"leie" N ™		"stemning" N
+   2 	"legeme" N ™		"fremmed" N
+   2 	"lege" N ™		"tilsyn" N
+   2 	"lege" N ™		"person" N
+   2 	"lege" N ™		"allmenn" N
+   2 	"ledd" N ™		"slekt" N
+   2 	"ledd" N ™		"påk" N
+   2 	"læring" N ™		"organisasjon" N
+   2 	"læring" N ™		"ferdighet" N
+   2 	"læring" N ™		"eksempel" N
+   2 	"laken" N ™		"stikk" N
+   2 	"kvinne" N ™		"barsel" N
+   2 	"kvalitetsbegrep" N ™		"liv" N
+   2 	"kvalitet" N ™		"tjeneste" N
+   2 	"kvalitet" N ™		"protein" N
+   2 	"kvalitet" N ™		"behandling" N
+   2 	"kurve" N ™		"feber" N
+   2 	"kurve" N ™		"døgnrytme" N
+   2 	"kunnskap" N ™		"påstand" N
+   2 	"kunnskap" N ™		"hverdag" N
+   2 	"kunnskap" N ™		"ferdighet" N
+   2 	"kropp" N ™		"ideal" N
+   2 	"kriterium" N ™		"ressurs" N
+   2 	"kriterium" N ™		"prosess" N
+   2 	"kriterium" N ™		"evaluering" N
+   2 	"kretsløp" N ™		"lunge" N
+   2 	"krampe" N ™		"hjerte" N
+   2 	"kraft" N ™		"pumpe" N
+   2 	"kraft" N ™		"hoste" N
+   2 	"kost" N ™		"ring" N ™			"gelè" N
+   2 	"kost" N ™		"ring" N ™			"gelé" N
+   2 	"kost" N ™		"ønske" N
+   2 	"konvensjon" N ™		"ILO" Use/Circ
+   2 	"konvensjon" N ™		"ILO" N
+   2 	"kontraksjon" N ™		"hjerte" N
+   2 	"kontor" N ™		"tildeling" N
+   2 	"kontekst" N ™		"sykehus" N
+   2 	"kontakt" N ™		"pasient" N
+   2 	"kontakt" N ™		"hud" N
+   2 	"konsultasjon" N ™		"video" N
+   2 	"konsultasjon" N ™		"ealphabet" N
+   2 	"konsentrasjon" N ™		"hemoglobin" N
+   2 	"konkurranse" N ™		"idrett" N
+   2 	"konflikt" N ™		"kultur" N
+   2 	"kondom" N ™		"støtte" N
+   2 	"komponent" N ™		"kunnskap" N
+   2 	"komponent" N ™		"innhold" N
+   2 	"kompetanse" N ™		"samhandling" N
+   2 	"kompetanse" N ™		"mestring" N
+   2 	"kolbe" N ™		"oppsamling" N
+   2 	"knoke" N ™		"ankel" N
+   2 	"klump" N ™		"avføring" N
+   2 	"klinikk" N ™		"rådgivning" N
+   2 	"klaff" N ™		"vene" N
+   2 	"kjøkken" N ™		"produksjon" N
+   2 	"kjertel" N ™		"svette" N
+   2 	"king" N ™		"snor" N
+   2 	"kilde" N ™		"lys" N
+   2 	"kilde" N ™		"ly" N
+   2 	"kilde" N ™		"kunnskap" N
+   2 	"kateter" N ™		"nese" N
+   2 	"kapsel" N ™		"ledd" N
+   2 	"kapp" N ™		"syre" N
+   2 	"kapasitet" N ™		"kommunikasjon" N
+   2 	"kapasitet" N ™		"blære" N
+   2 	"kapasitet" N ™		"arbeid" N
+   2 	"kanne" N ™		"blære" N
+   2 	"juice" N ™		"frukt" N
+   2 	"interesse" N ™		"kunnskap" N
+   2 	"integritet" N ™		"pasient" N
+   2 	"institusjon" N ™		"rehabilitering" N
+   2 	"inntak" N ™		"karbohydrat" N
+   2 	"inntak" N ™		"kalori" N
+   2 	"inntak" N ™		"fiber" N
+   2 	"inntak" N ™		"ernæring" N
+   2 	"innlegg" N ™		"plast" N
+   2 	"innhold" N ™		"næring" N
+   2 	"innhold" N ™		"hemoglobin" N
+   2 	"innhold" N ™		"fiber" N
+   2 	"innhold" N ™		"fett" N
+   2 	"inkontinens" N ™		"blanding" N
+   2 	"inkontinens" N ™		"anstrengelse" N
+   2 	"injeksjon" N ™		"insulin" N
+   2 	"informasjon" N ™		"felle" N
+   2 	"identitet" N ™		"yrke" N
+   2 	"identifisering" N ™		"problem" N
+   2 	"ideal" N ™		"skjønnhet" N
+   2 	"ideal" N ™		"kropp" N
+   2 	"hunger" N ™		"luft" N
+   2 	"høgskole" N ™		"sykepleier" N
+   2 	"hjelp" N ™		"sykepleie" N
+   2 	"hinne" N ™		"buk" N
+   2 	"hinne" N ™		"bryst" N
+   2 	"hindring" N ™		"passasje" N
+   2 	"hensyn" N ™		"produktivitet" N
+   2 	"hendelse" N ™		"avvik" N
+   2 	"helse" N ™		"tann" N
+   2 	"helse" N ™		"kvinne" N
+   2 	"helse" N ™		"Ealphabet" N
+   2 	"hastighet" N ™		"infusjon" N
+   2 	"håndtering" N ™		"legemiddel" N
+   2 	"håndtering" N ™		"kateter" N
+   2 	"håndbok" N ™		"legevakt" N
+   2 	"gruppe" N ™		"samtale" N
+   2 	"gruppe" N ™		"refleksjon" N
+   2 	"gruppe" N ™		"helsepersonell" N
+   2 	"gruppe" N ™		"forsker" N
+   2 	"grunn" N ™		"bekvemmelighet" N
+   2 	"grense" N ™		"kultur" N
+   2 	"grad" N ™		"profesjon" N
+   2 	"gods" N ™		"strøm" N
+   2 	"gode" N ™		"helse" N
+   2 	"glede" N ™		"måltid" N
+   2 	"gjerde" N ™		"hode" N
+   2 	"gjennomgang" N ™		"legemiddel" N
+   2 	"gasse" N ™		"tarm" N
+   2 	"gass" N ™		"tarm" N
+   2 	"gass" N ™		"blod" N
+   2 	"funksjon" N ™		"svelg" N
+   2 	"funksjon" N ™		"organ" N
+   2 	"funksjon" N ™		"hjerte" N
+   2 	"funksjon" N ™		"blære" N
+   2 	"funksjon" N ™		"ADL" Use/Circ
+   2 	"fuktighet" N ™		"hud" N
+   2 	"frue" N ™		"hus" N
+   2 	"fot" N ™		"spiss" N
+   2 	"fortelling" N ™		"pasient" N
+   2 	"forstyrrelse" N ™		"atferd" N
+   2 	"forskyvning" N ™		"fase" N
+   2 	"forskning" N ™		"e-helse" N
+   2 	"form" N ™		"tablett" N
+   2 	"form" N ™		"pass" N
+   2 	"form" N ™		"læring" N
+   2 	"forløp" N ™		"handling" N
+   2 	"forhold" N ™		"helse" N
+   2 	"forening" N ™		"kreft" N
+   2 	"forbruk" N ™		"fiske" N
+   2 	"forbindelse" N ™		"familie" N
+   2 	"forandring" N ™		"smak" N
+   2 	"forandring" N ™		"puls" N
+   2 	"følelse" N ™		"sult" N
+   2 	"følelse" N ™		"kulde" N
+   2 	"flukt" N ™		"virkelighet" N
+   2 	"flora" N ™		"normal" N
+   2 	"filter" N ™		"kultur" N
+   2 	"filosofi" N ™		"liv" N
+   2 	"feste" N ™		"begrep" N
+   2 	"ferdighet" N ™		"finger" N
+   2 	"fenomen" N ™		"overskudd" N
+   2 	"felt" N ™		"yrke" N
+   2 	"fellesskap" N ™		"klan" N
+   2 	"fellesskap" N ™		"bo" N
+   2 	"fase" N ™		"platå" N
+   2 	"fase" N ™		"opphisselse" N
+   2 	"faktor" N ™		"atferd" N
+   2 	"evne" N ™		"svelg" N
+   2 	"evne" N ™		"pumpe" N
+   2 	"evne" N ™		"innleving" N
+   2 	"evne" N ™		"innlæring" N
+   2 	"evne" N ™		"empati" N
+   2 	"evaluering" N ™		"slutt" N
+   2 	"erstatning" N ™		"tann" N
+   2 	"erklæring" N ™		"menneskerettighet" N
+   2 	"episode" N ™		"sykdom" N
+   2 	"enhet" N ™		"kjerne" N
+   2 	"endring" N ™		"smak" N
+   2 	"endring" N ™		"kosthold" N
+   2 	"endring" N ™		"atferd" N
+   2 	"ende" N ™		"streng" N ™			"omsorg" N
+   2 	"ende" N ™		"sett" N ™			"skjell" N
+   2 	"ende" N ™		"lukt" N ™			"vel" N
+   2 	"ende" N ™		"likn" N ™			"stress" N
+   2 	"ende" N ™		"likn" N ™			"krampe" N
+   2 	"ende" N ™		"driv" N ™			"urin" N
+   2 	"ende" N ™		"do" N
+   2 	"emboli" N ™		"lunge" N
+   2 	"element" N ™		"grunn" N
+   2 	"eksponering" N ™		"lys" N
+   2 	"eksponering" N ™		"ly" N
+   2 	"egenskap" N ™		"personlighet" N
+   2 	"dysfunksjon" N ™		"blære" N
+   2 	"dokumentasjon" N ™		"sykepleie" N
+   2 	"diagnose" N ™		"sykdom" N
+   2 	"design" N ™		"forskning" N
+   2 	"deklarasjon" N ™		"næring" N
+   2 	"definisjon" N ™		"kvalitet" N
+   2 	"danning" N ™		"arr" N
+   2 	"dannelse" N ™		"sprekk" N
+   2 	"dannelse" N ™		"luft" N
+   2 	"celle" N ™		"muskel" N
+   2 	"celle" N ™		"hjerne" N
+   2 	"celle" N ™		"egg" N
+   2 	"byrd" N ™		"sykdom" N
+   2 	"bruk" N ™		"tvang" N
+   2 	"bruk" N ™		"rusmiddel" N
+   2 	"brudd" N ™		"lårhals" N
+   2 	"brudd" N ™		"kompresjon" N
+   2 	"børste" N ™		"mellomrom" N
+   2 	"bølge" N ™		"hete" N
+   2 	"blod" N ™		"arterie" N
+   2 	"betingelse" N ™		"liv" N
+   2 	"betennelse" N ™		"blindtarm" N
+   2 	"besvær" N ™		"prostata" N
+   2 	"bestyrer" N ™		"sykehjem" N
+   2 	"bestilling" N ™		"mat" N
+   2 	"bestemmelse" N ™		"taushet" N
+   2 	"berg" N ™		"ed" N
+   2 	"berg" N ™		"brur" N
+   2 	"berg" N ™		"bro" N
+   2 	"beredskap" N ™		"handling" N
+   2 	"bein" N ™		"bryst" N
+   2 	"behandling" N ™		"sykdom" N
+   2 	"behandling" N ™		"gift" N ™			"celle" N
+   2 	"behandling" N ™		"dialyse" N
+   2 	"bar" N ™		"lås" N
+   2 	"bane" N ™		"talphabet" N
+   2 	"bane" N ™		"Talphabet" N
+   2 	"bandasje" N ™		"kompresjon" N
+   2 	"avlastning" N ™		"trykk" N
+   2 	"avhengighet" N ™		"alkohol" N
+   2 	"avdeling" N ™		"barsel" N
+   2 	"atferd" N ™		"rolle" N
+   2 	"assistent" N ™		"pleie" N
+   2 	"aspekt" N ™		"trivsel" N
+   2 	"asiat" N ™		"sør" N
+   2 	"artikkel" N ™		"parfyme" N
+   2 	"arterie" N ™		"krans" N
+   2 	"arterie" N ™		"kran" N
+   2 	"åring" N ™		"25" Num ™		 Use/Circ"25"
+   2 	"åring" N ™		"2" Num ™		 Use/Circ"2"
+   2 	"åring" N ™		 Use/Circ"9–18"
+   2 	"apparat" N ™		"ultralyd" N
+   2 	"apparat" N ™		"blodtrykk" N
+   2 	"antrekk" N ™		"arbeid" N
+   2 	"ansvar" N ™		"ledelse" N
+   2 	"ansvar" N ™		"behandling" N
+   2 	"angrep" N ™		"syre" N
+   2 	"anbefaling" N ™		"kosthold" N
+   2 	"analyse" N ™		"virus" N
+   2 	"analyse" N ™		"gass" N ™			"blod" N
+   2 	"allergi" N ™		"mat" N
+   2 	"allergi" N ™		"kontakt" N
+   2 	"alder" N ™		"spedbarn" N
+   2 	"alder" N ™		"småbarn" N
+   2 	"aktivitet" N ™		"sykepleie" N
+   2 	"aktivitet" N ™		"hjerne" N
+   2 	"aktivitet" N ™		"arbeid" N
+   2 	":" CLB ™	"volum" N ™		"minutt" N
+   2 	":" CLB ™	"utvikling" N ™		"tjeneste" N
+   2 	":" CLB ™	"temperatur" N ™		"kropp" N
+   2 	":" CLB ™	"profesjon" N ™		"sykepleier" N
+   2 	"." CLB ™	"verktøy" N ™		"vurdering" N
+   2 	"." CLB ™	"verd" N ™		"liv" N
+   2 	"." CLB ™	"vekst" N ™		"hår" N
+   2 	"." CLB ™	"vane" N ™		"toalett" N
+   2 	"." CLB ™	"vandring" N ™		"bakterie" N
+   2 	"." CLB ™	"uttrykk" N ™		"ansikt" N
+   2 	"." CLB ™	"utskilling" N ™		"urin" N
+   2 	"." CLB ™	"utøvelse" N ™		"kunst" N
+   2 	"." CLB ™	"urin" N ™		"rest" N
+   2 	"." CLB ™	"ur" N ™		"kontrakt" N
+   2 	"." CLB ™	"tømming" N ™		"tarm" N
+   2 	"." CLB ™	"tilførsel" N ™		"væske" N
+   2 	"." CLB ™	"tilførsel" N ™		"varme" N
+   2 	"." CLB ™	"teknikk" N ™		"hoste" N
+   2 	"." CLB ™	"svar" N ™		"prøve" N
+   2 	"." CLB ™	"student" N ™		"sykepleier" N
+   2 	"." CLB ™	"søvn" N ™		"REM" Use/Circ
+   2 	"." CLB ™	"slig" N ™		"begrep" N
+   2 	"." CLB ™	"situasjon" N ™		"sykepleie" N
+   2 	"." CLB ™	"situasjon" N ™		"pasient" N
+   2 	"." CLB ™	"sans" N ™		"hud" N
+   2 	"." CLB ™	"restriksjon" N ™		"væske" N
+   2 	"." CLB ™	"relasjon" N ™		"omsorg" N
+   2 	"." CLB ™	"refleksjon" N ™		"handling" N
+   2 	"." CLB ™	"prøve" N ™		"avføring" N
+   2 	"." CLB ™	"protese" N ™		"tann" N
+   2 	"." CLB ™	"protese" N ™		"del" N
+   2 	"." CLB ™	"prosess" N ™		"forskning" N
+   2 	"." CLB ™	"produksjon" N ™		"talg" N
+   2 	"." CLB ™	"produksjon" N ™		"slim" N
+   2 	"." CLB ™	"problem" N ™		"orgasme" N
+   2 	"." CLB ™	"problem" N ™		"hud" N
+   2 	"." CLB ™	"plan" N ™		"sykepleie" N
+   2 	"." CLB ™	"plan" N ™		"ernæring" N
+   2 	"." CLB ™	"nomen" N ™		"fe" N
+   2 	"." CLB ™	"mengd" N ™		"urin" N
+   2 	"." CLB ™	"materiale" N ™		"prøve" N
+   2 	"." CLB ™	"mangel" N ™		"østrogen" N
+   2 	"." CLB ™	"lengd" N ™		"søvn" N
+   2 	"." CLB ™	"lekkasje" N ™		"urin" N
+   2 	"." CLB ™	"kvalitet" N ™		"puls" N
+   2 	"." CLB ™	"kriterium" N ™		"ressurs" N
+   2 	"." CLB ™	"kriterium" N ™		"nytte" N
+   2 	"." CLB ™	"kreft" N ™		"testikkel" N
+   2 	"." CLB ™	"krampe" N ™		"skjede" N
+   2 	"." CLB ™	"konsultasjon" N ™		"Ealphabet" N
+   2 	"." CLB ™	"kapasitet" N ™		"kommunikasjon" N
+   2 	"." CLB ™	"innhold" N ™		"energi" N
+   2 	"." CLB ™	"impuls" N ™		"nerve" N
+   2 	"." CLB ™	"hastighet" N ™		"strøm" N ™			"topp" N
+   2 	"." CLB ™	"funksjon" N ™		"sykepleie" N
+   2 	"." CLB ™	"frekvens" N ™		"puls" N
+   2 	"." CLB ™	"fortelling" N ™		"pasient" N
+   2 	"." CLB ™	"forskrift" N ™		"kvalitet" N
+   2 	"." CLB ™	"forskning" N ™		"sykepleie" N
+   2 	"." CLB ™	"følelse" N ™		"tørst" N
+   2 	"." CLB ™	"fall" N ™		"blodtrykk" N
+   2 	"." CLB ™	"endring" N ™		"livsstil" N
+   2 	"." CLB ™	"dimensjon" N ™		"tid" N
+   2 	"." CLB ™	"dagbok" N ™		"diabetes" N
+   2 	"." CLB ™	"byrde" N ™		"sykdom" N
+   2 	"." CLB ™	"bilde" N ™		"kropp" N
+   2 	"." CLB ™	"bevegelse" N ™		"respirasjon" N
+   2 	"." CLB ™	"behov" N ™		"søvn" N
+   2 	"." CLB ™	"behandling" N ™		"kompresjon" N
+   2 	"." CLB ™	"anordning" N ™		"merke" N
+   2 	"." CLB ™	"absorpsjon" N ™		"mal" N
+   2 	"." CLB ™		"s" N ™	"99" A
+   2 	"." CLB ™		"s" N ™	"96" A
+   2 	"." CLB ™		"s" N ™	"91" A
+   2 	"." CLB ™		"s" N ™	"87" A
+   2 	"." CLB ™		"s" N ™	"81" A
+   2 	"." CLB ™		"s" N ™	"80" A
+   2 	"." CLB ™		"s" N ™	"744" Num
+   2 	"." CLB ™		"s" N ™	"74" A
+   2 	"." CLB ™		"s" N ™	"69" A
+   2 	"." CLB ™		"s" N ™	"67" A
+   2 	"." CLB ™		"s" N ™	"60" A
+   2 	"." CLB ™		"s" N ™	"57" A
+   2 	"." CLB ™		"s" N ™	"55" A
+   2 	"." CLB ™		"s" N ™	"53" A
+   2 	"." CLB ™		"s" N ™	"50" A
+   2 	"." CLB ™		"s" N ™	"496" Num
+   2 	"." CLB ™		"s" N ™	"48" A
+   2 	"." CLB ™		"s" N ™	"467" Num
+   2 	"." CLB ™		"s" N ™	"465" Num
+   2 	"." CLB ™		"s" N ™	"461" Num
+   2 	"." CLB ™		"s" N ™	"444" Num
+   2 	"." CLB ™		"s" N ™	"420" Num
+   2 	"." CLB ™		"s" N ™	"417" Num
+   2 	"." CLB ™		"s" N ™	"411" Num
+   2 	"." CLB ™		"s" N ™	"394" Num
+   2 	"." CLB ™		"s" N ™	"37" A
+   2 	"." CLB ™		"s" N ™	"345" Num
+   2 	"." CLB ™		"s" N ™	"339" Num
+   2 	"." CLB ™		"s" N ™	"311" Num
+   2 	"." CLB ™		"s" N ™	"310" Num
+   2 	"." CLB ™		"s" N ™	"31" A
+   2 	"." CLB ™		"s" N ™	"305" Num
+   2 	"." CLB ™		"s" N ™	"30" A
+   2 	"." CLB ™		"s" N ™	"298" Num
+   2 	"." CLB ™		"s" N ™	"270" Num
+   2 	"." CLB ™		"s" N ™	"266" Num
+   2 	"." CLB ™		"s" N ™	"228" Num
+   2 	"." CLB ™		"s" N ™	"223" Num
+   2 	"." CLB ™		"s" N ™	"217" Num
+   2 	"." CLB ™		"s" N ™	"213" Num
+   2 	"." CLB ™		"s" N ™	"205" Num
+   2 	"." CLB ™		"s" N ™	"198" Num
+   2 	"." CLB ™		"s" N ™	"194" Num
+   2 	"." CLB ™		"s" N ™	"18" A
+   2 	"." CLB ™		"s" N ™	"176" Num
+   2 	"." CLB ™		"s" N ™	"163" Num
+   2 	"." CLB ™		"s" N ™	"159" Num
+   2 	"." CLB ™		"s" N ™	"150" Num
+   2 	"." CLB ™		"s" N ™	"149" Num
+   2 	"." CLB ™		"s" N ™	"146" Num
+   2 	"." CLB ™		"s" N ™	"143" Num
+   2 	"." CLB ™		"s" N ™	"140" Num
+   2 	"." CLB ™		"s" N ™	"139" Num
+   2 	"." CLB ™		"s" N ™	"137" Num
+   2 	"." CLB ™		"s" N ™	"136" Num
+   2 	"." CLB ™		"s" N ™	"135" Num
+   2 	"." CLB ™		"s" N ™	"132" Num
+   2 	"." CLB ™		"s" N ™	"120" Num
+   2 	"." CLB ™		"s" N ™	"12" A
+   2 	"." CLB ™		"s" N ™	"119" Num
+   2 	"." CLB ™		"s" N ™	"111" Num
+   2 	"." CLB ™		"s" N ™	"110" Num
+   2 	"." CLB ™		"s" N ™	"109" Num
+   2 	"." CLB ™		"s" N ™	"106" Num
+   2 	"." CLB ™		"s" N ™	"105" Num
+   2 	"." CLB ™		"mfl" N ™	"2019" Use/SpellNoSugg"a"
+   2 	"." CLB ™		"mat" N ™	"i" Pr
+   2 	"." CLB ™		"mat" N ™	"det" Pron
+   2 	"." CLB ™		"m.m" N ™	")" PUNCT
+   2 	"." CLB ™		"kap" N ™	"5" A
+   2 	"." CLB ™		"jf" N ™	"forskrift" N
+   2 	"." CLB ™		"jf" N ™	"§ 4"
+   2 	"." CLB ™		"f.eks" N ™	"ha" V
+   2 	"." CLB ™		"f.eks" N ™	"«" PUNCT
+   2 	"." CLB ™		"f" N ™	"1979" Num
+   2 	"." CLB ™		"f" N ™	"1964" Num
+   2 	"." CLB ™		"f" N ™	"1962" Num
+   2 	"." CLB ™		"f" N ™	"1958" Num
+   2 	"." CLB ™		"f" N ™	"1956" Num
+   2 	"." CLB ™		"f" N ™	"1953" Num
+   2 	"." CLB ™		"e" N ™	"coli-smitte" ?
+   2 	"." CLB ™		"dr.polit" N ™	"i" Pr
+   2 	"." CLB ™		"cm" N ™	"rote" V
+   2 	"." CLB ™		"ca" N ™	"fem" Det
+   2 	"." CLB ™		"ca" N ™	"60" A
+   2 	"." CLB ™		"ca" N ™	"5" A
+   2 	"." CLB ™		"ca" N ™	"30" A
+   2 	"." CLB ™		"ca" N ™	"2" A
+   2 	"." CLB ™		"ca" N ™	"100" A
+   2 	"." CLB ™		"ca" N ™	"10" A
+   2 	"." CLB ™		"ca" N ™	 Use/Circ"5–8"
+   2 	"." CLB ™		"ca" N ™	 Use/Circ"10
+   2 	"." CLB ™		"ca" N ™	 Use/Circ"1
+   2 	"." CLB ™		"ca" N ™	 Use/Circ"0,5"
+   1 	"yrke" N ™		"ekspert" N
+   1 	"vurderingsskjema" N ™		"risiko" N
+   1 	"vurdering" N ™		"pasient" N
+   1 	"vurdering" N ™		"kunnskap" N
+   1 	"vurdering" N ™		"SAFE" Use/Circ
+   1 	"vurdering" N ™		"SAFE" N
+   1 	"volum" N ™		"urin" N
+   1 	"volum" N ™		"stemme" N
+   1 	"volum" N ™		"plasma" N
+   1 	"volum" N ™		"muskel" N
+   1 	"volum" N ™		"luft" N
+   1 	"volum" N ™		"inspirasjon" N
+   1 	"volum" N ™		"døgn" N
+   1 	"vogn" N ™		"mat" N
+   1 	"vitenskap" N ™		"kultur" N
+   1 	"vitenskap" N ™		"kommunikasjon" N
+   1 	"viskositet" N ™		"blod" N
+   1 	"viser" N ™		"under" N
+   1 	"vise" N ™		"trinn" N
+   1 	"vise" N ™		"porsjon" N
+   1 	"vise" N ™		"grad" N
+   1 	"vise" N ™		"flekk" N
+   1 	"virvel" N ™		"nakke" N
+   1 	"virksomhet" N ™		"minne" N
+   1 	"virksomhet" N ™		"kjerne" N
+   1 	"virksomhet" N ™		"hjerne" N
+   1 	"virksomhet" N ™		"hallik" N
+   1 	"virkning" N ™		"veksel" N
+   1 	"virkelighet" N ™		"sykepleie" N
+   1 	"virkelighet" N ™		"praksis" N
+   1 	"ving" N ™		"li" N
+   1 	"villighet" N ™		"endring" N
+   1 	"vilje" N ™		"liv" N
+   1 	"vesen" N ™		"natur" N
+   1 	"vesen" N ™		"fornuft" N
+   1 	"versjon" N ™		"sammendrag" N
+   1 	"vern" N ™		"stilling" N
+   1 	"vern" N ™		"ledd" N
+   1 	"verktøy" N ™		"støtte" N ™			"beslutning" N
+   1 	"verktøy" N ™		"screene" Ex/V
+   1 	"verktøy" N ™		"legging" N ™			"kart" N ™				"smerte" N
+   1 	"verktøy" N ™		"kartlegging" N ™			"smerte" N
+   1 	"verktøy" N ™		"datasamling" N
+   1 	"verktøy" N ™		"II" Use/Circ
+   1 	"verktøy" N ™		"II" N
+   1 	"verk" N ™		"muskel" N
+   1 	"verk" N ™		"kode" N
+   1 	"verk" N ™		"basis" N
+   1 	"verdi" N ™		"sykepleie" N
+   1 	"verdi" N ™		"profesjon" N
+   1 	"verdi" N ™		"liv" N
+   1 	"verdi" N ™		"læring" N
+   1 	"verdi" N ™		"kolesterol" N
+   1 	"verdi" N ™		"grense" N
+   1 	"verdi" N ™		"gjennomsnitt" N
+   1 	"verdi" N ™		"blodtrykk" N
+   1 	"verdi" N ™		"blod" N
+   1 	"verden" N ™		"forestilling" N
+   1 	"verde" N ™		"forestilling" N
+   1 	"verd" N ™		"forestilling" N
+   1 	"verbal" N ™		"non" N
+   1 	"venninne" N ™		"tur" N
+   1 	"venn" N ™		"menneske" N
+   1 	"velferd" N ™		"helse" N
+   1 	"vekt" N ™		"trivsel" N
+   1 	"vekt" N ™		"stol" N
+   1 	"vekt" N ™		"fødsel" N
+   1 	"vekst" N ™		"by" N
+   1 	"vekkelse" N ™		"muskel" N
+   1 	"veiledning" N ™		"telefon" N
+   1 	"veiledning" N ™		"kollega" N
+   1 	"veiledning" N ™		"helse" N
+   1 	"veiledning" N ™		"gruppe" N
+   1 	"veileder" N ™		"praksis" N
+   1 	"vegg" N ™		"kateter" N
+   1 	"vegg" N ™		"blære" N
+   1 	"væske" N ™		"overskudd" N
+   1 	"væske" N ™		"ødem" N
+   1 	"væske" N ™		"klyster" N
+   1 	"væske" N ™		"forbrenning" N
+   1 	"vask" N ™		"underliv" N
+   1 	"vask" N ™		"såpe" N
+   1 	"vask" N ™		"rygg" N
+   1 	"vask" N ™		"katte" N
+   1 	"vask" N ™		"kateter" N
+   1 	"vask" N ™		"hus" N
+   1 	"varme" N ™		"fordampning" N
+   1 	"variant" N ™		"smak" N
+   1 	"variant" N ™		"normal" N
+   1 	"variabel" N ™		"forklaring" N
+   1 	"vare" N ™		"baker" N ™			"industri" N
+   1 	"vante" N ™		"rele" N ™			"situasjon" N
+   1 	"vante" N ™		"rele" N ™			"helse" N
+   1 	"vanske" N ™		"tømming" N ™			"tarm" N
+   1 	"vanske" N ™		"syn" N
+   1 	"vanske" N ™		"start" N
+   1 	"vanske" N ™		"kommunikasjon" N
+   1 	"vanske" N ™		"hørsel" N
+   1 	"vanske" N ™		"bevegelse" N
+   1 	"vanske" N ™		"balanse" N
+   1 	"vann" N ™		"spring" N
+   1 	"vann" N ™		"kullsyre" N
+   1 	"vann" N ™		"kropp" N
+   1 	"vann" N ™		"is" N
+   1 	"vane" N ™		"tømming" N ™			"blære" N
+   1 	"vane" N ™		"språk" N
+   1 	"vane" N ™		"liv" N
+   1 	"vane" N ™		"kosthold" N
+   1 	"vane" N ™		"avføring" N
+   1 	"valg" N ™		"sykehus" N
+   1 	"valg" N ™		"metode" N
+   1 	"valg" N ™		"livsstil" N
+   1 	"valg" N ™		"bandasje" N
+   1 	"vakt" N ™		"kveld" N
+   1 	"vakt" N ™		"komfyr" N
+   1 	"vakt" N ™		"dag" N
+   1 	"utviklingsbehov" N ™		"kvalitet" N
+   1 	"utvikling" N ™		"ur" N ™			"trakt" N ™				"kon" N
+   1 	"utvikling" N ™		"ur" N ™			"kontrakt" N
+   1 	"utvikling" N ™		"system" N
+   1 	"utvikling" N ™		"sjokk" N
+   1 	"utvikling" N ™		"seksualitet" N
+   1 	"utvikling" N ™		"pubertet" N
+   1 	"utvalg" N ™		"skade" N
+   1 	"utvalg" N ™		"bruker" N
+   1 	"uttrykk" N ™		"kvinne" N
+   1 	"utstyr" N ™		"oksygen" N
+   1 	"utstyr" N ™		"beskyttelse" N
+   1 	"utskrift" N ™		"papir" N
+   1 	"utsagn" N ™		"sykepleie" N
+   1 	"utøver" N ™		"praksis" N
+   1 	"utøver" N ™		"omsorg" N
+   1 	"utnyttelse" N ™		"ressurs" N
+   1 	"utmattelse" N ™		"varme" N
+   1 	"utgift" N ™		"helse" N
+   1 	"utfordring" N ™		"hverdag" N
+   1 	"utfoldelse" N ™		"aktivitet" N
+   1 	"utdanning" N ™		"veileder" N
+   1 	"utdanning" N ™		"sosialfag" N
+   1 	"utdanning" N ™		"kvalitet" N
+   1 	"utbrudd" N ™		"sinne" N
+   1 	"urne" N ™		"bo" N
+   1 	"urin" N ™		"døgn" N
+   1 	"ur" N ™		"kontrakt" N ™			"strek" N
+   1 	"ur" N ™		"kontrakt" N ™			"fleksjon" N
+   1 	"uniform" N ™		"sykepleier" N
+   1 	"unge" N ™		"sel" N
+   1 	"unge" N ™		"ape" N
+   1 	"undervisning" N ™		"gruppe" N
+   1 	"undersøkelse" N ™		"ultralyd" N
+   1 	"undersøkelse" N ™		"strimmel" N
+   1 	"undersøkelse" N ™		"rutine" N
+   1 	"undersøkelse" N ™		"organ" N
+   1 	"undersøkelse" N ™		"kartlegging" N
+   1 	"undersøkelse" N ™		"funksjon" N
+   1 	"undersøkelse" N ™		"effekt" N
+   1 	"undersøkelse" N ™		"EKG" Use/Circ
+   1 	"underskudd" N ™		"søvn" N
+   1 	"ulikhet" N ™		"kjønn" N
+   1 	"tyrk" N ™		"knipe" N
+   1 	"type" N ™		"orgasme" N
+   1 	"type" N ™		"matvare" N
+   1 	"type" N ™		"madrass" N
+   1 	"type" N ™		"hoved" N
+   1 	"type" N ™		"brød" N
+   1 	"type" N ™		"avvik" N
+   1 	"tykkelse" N ™		"fold" N ™			"hud" N
+   1 	"turist" N ™		"ryggsekk" N
+   1 	"tuppe" N ™		"kateter" N
+   1 	"tupp" N ™		"kateter" N
+   1 	"trykksår" N ™		"1" Num ™		 Use/Circ"1" ™		 Use/Circ"1"
+   1 	"trykk" N ™		"veksel" N
+   1 	"trykk" N ™		"urin" N
+   1 	"trykk" N ™		"mot" N
+   1 	"trygghet" N ™		"pasient" N
+   1 	"truse" N ™		"netting" N
+   1 	"truse" N ™		"bomull" N
+   1 	"trøtthet" N ™		"dagtid" N
+   1 	"trinn" N ™		"skole" N
+   1 	"trinn" N ™		"feil" N
+   1 	"tretthet" N ™		"muskel" N
+   1 	"trening" N ™		"koordinasjon" N
+   1 	"trening" N ™		"gang" N
+   1 	"trekk" N ™		"vesen" N
+   1 	"trekk" N ™		"personlighet" N
+   1 	"trekk" N ™		"nakke" N
+   1 	"trekk" N ™		"madrass" N
+   1 	"trekk" N ™		"bein" N
+   1 	"trekant" N ™		"hygiene" N
+   1 	"transport" N ™		"luft" N
+   1 	"transplantasjon" N ™		"nyre" N
+   1 	"trang" N ™		"tømming" N ™			"tarm" N
+   1 	"trål" N ™		"urin" N
+   1 	"trål" N ™		"lys" N
+   1 	"tradisjon" N ™		"orden" N
+   1 	"tradisjon" N ™		"hospital" N
+   1 	"tradisjon" N ™		"fag" N
+   1 	"tradisjon" N ™		"diakoni" N
+   1 	"tråd" N ™		"tann" N
+   1 	"tørking" N ™		"klapp" N
+   1 	"tørke" N ™		"klapp" N
+   1 	"tone" N ™		"under" N
+   1 	"tone" N ™		"grunn" N
+   1 	"tolking" N ™		"skjerm" N
+   1 	"tolk" N ™		"telefon" N
+   1 	"toleranse" N ™		"laktose" N
+   1 	"toleranse" N ™		"aktivitet" N
+   1 	"tokt" N ™		"svette" N
+   1 	"toksin" N ™		"bakterie" N
+   1 	"tjeneste" N ™		"selvhjelp" N
+   1 	"tjeneste" N ™		"melding" N
+   1 	"tjeneste" N ™		"helsesøster" N
+   1 	"tjeneste" N ™		"del" N
+   1 	"tjeneste" N ™		"besøk" N
+   1 	"tjeneste" N ™		"behandling" N
+   1 	"ting" N ™		"vek" N
+   1 	"ting" N ™		"ris" N
+   1 	"ting" N ™		"ri" N
+   1 	"ting" N ™		"krem" N
+   1 	"ting" N ™		"far" N
+   1 	"time" N ™		"lege" N
+   1 	"time" N ™		"24" Num ™		 Use/Circ"24"
+   1 	"tilvekst" N ™		"befolkning" N
+   1 	"tilværelse" N ™		"pensjonist" N
+   1 	"tiltak" N ™		"vektreduksjon" N
+   1 	"tiltak" N ™		"kvalitetssikring" N
+   1 	"tiltak" N ™		"forbedring" N
+   1 	"tiltak" N ™		"ernæring" N
+   1 	"tiltak" N ™		"e-helse" N
+   1 	"tiltak" N ™		"aktivitet" N
+   1 	"tilsyn" N ™		"tann" N
+   1 	"tilsyn" N ™		"lege" N
+   1 	"tilstand" N ™		"unntak" N
+   1 	"tilstand" N ™		"spenning" N
+   1 	"tilstand" N ™		"sjokk" N
+   1 	"tilstand" N ™		"pasient" N
+   1 	"tilstand" N ™		"inflammasjon" N
+   1 	"tilstand" N ™		"følge" N
+   1 	"tilstand" N ™		"depresjon" N
+   1 	"tilstand" N ™		"demens" N
+   1 	"tilstand" N ™		"bevissthet" N
+   1 	"tilstand" N ™		"angst" N
+   1 	"tilskudd" N ™		"protein" N
+   1 	"tilskudd" N ™		"næring" N
+   1 	"tilskudd" N ™		"jern" N
+   1 	"tilskudd" N ™		"ernæring" N
+   1 	"tilnærming" N ™		"hoved" N
+   1 	"tilløp" N ™		"brann" N
+   1 	"tilhørighet" N ™		"klasse" N
+   1 	"tilfredsstillelse" N ™		"behov" N
+   1 	"tilførsel" N ™		"salt" N
+   1 	"tilførsel" N ™		"luft" N
+   1 	"tilførsel" N ™		"jern" N
+   1 	"tilførsel" N ™		"energi" N
+   1 	"tilførsel" N ™		"antibiotika" N
+   1 	"tilfelle" N ™		"sykdom" N
+   1 	"tilegnelse" N ™		"kunnskap" N
+   1 	"tilbud" N ™		"tannhelse" N
+   1 	"tilbud" N ™		"mestring" N
+   1 	"tilbud" N ™		"mat" N
+   1 	"tilbud" N ™		"gruppe" N
+   1 	"tilbud" N ™		"dag" N
+   1 	"tilbud" N ™		"bo" N
+   1 	"tilbud" N ™		"bleie" N
+   1 	"tidsskrift" N ™		"fag" N
+   1 	"tetthet" N ™		"energi" N
+   1 	"testing" N ™		"hypotese" N
+   1 	"test" N ™		"depresjon" N
+   1 	"terskel" N ™		"frustrasjon" N
+   1 	"termometer" N ™		"hud" N
+   1 	"termometer" N ™		"arterie" N
+   1 	"terapi" N ™		"validere" Ex/V
+   1 	"terapi" N ™		"oksygen" N
+   1 	"terapi" N ™		"avledning" N
+   1 	"terapeut" N ™		"syn" N
+   1 	"terapeut" N ™		"familie" N
+   1 	"teppe" N ™		"gulv" N
+   1 	"teori" N ™		"tilknytning" N
+   1 	"teori" N ™		"samfunn" N
+   1 	"teori" N ™		"hoved" N
+   1 	"teori" N ™		"erkjennelse" N
+   1 	"teori" N ™		"bruk" N
+   1 	"teori" N ™		"balanse" N
+   1 	"teori" N ™		"årsak" N
+   1 	"tenkning" N ™		"strategi" N
+   1 	"tenkning" N ™		"prosedyre" N
+   1 	"tenkning" N ™		"menneskerettighet" N
+   1 	"tendens" N ™		"svette" N
+   1 	"tendens" N ™		"forfall" N
+   1 	"tendens" N ™		"fall" N
+   1 	"tempo" N ™		"samtale" N
+   1 	"temperatur" N ™		"morgen" N
+   1 	"temperatur" N ™		"kveld" N
+   1 	"teller" N ™		"dråpe" N
+   1 	"telefon" N ™		"vakt" N
+   1 	"teknologi" N ™		"spill" N
+   1 	"teknologi" N ™		"sensor" N
+   1 	"teknologi" N ™		"robot" N
+   1 	"teknologi" N ™		"omsorg" N
+   1 	"teknologi" N ™		"næringsmiddel" N
+   1 	"teknikk" N ™		"forflytning" N
+   1 	"teknikk" N ™		"behandling" N
+   1 	"teknikk" N ™		"avspenning" N
+   1 	"teig" N ™		"trette" N
+   1 	"tegn" N ™		"smerte" N
+   1 	"tegn" N ™		"pluss" N
+   1 	"tegn" N ™		"minus" N
+   1 	"tegn" N ™		"infeksjon" N
+   1 	"team" N ™		"sykepleier" N
+   1 	"team" N ™		"sår" N
+   1 	"team" N ™		"behandling" N
+   1 	"tavle" N ™		"pasient" N
+   1 	"tavle" N ™		"hus" N
+   1 	"tapet" N ™		"salt" N
+   1 	"tapet" N ™		"blod" N
+   1 	"tante" N ™		"kon" N
+   1 	"tannbørste" N ™		"baby" N
+   1 	"tann" N ™		"pilar" N
+   1 	"tankegang" N ™		"menneskeverd" N
+   1 	"tankegang" N ™		"NPM" Use/Circ
+   1 	"tanke" N ™		"kall" N
+   1 	"tall" N ™		"krybbedød" N
+   1 	"tall" N ™		"1300" Num ™		 Use/Circ"1300"
+   1 	"tale" N ™		"geni" N ™			"uro" N
+   1 	"takt" N ™		"endring" N
+   1 	"tablett" N ™		"melatonin" N
+   1 	"tablett" N ™		"fluor" N
+   1 	"tablett" N ™		"avføring" N
+   1 	"system" N ™		"vene" N
+   1 	"system" N ™		"velferd" N
+   1 	"system" N ™		"tro" N
+   1 	"system" N ™		"skåre" Ex/V
+   1 	"system" N ™		"servering" N
+   1 	"system" N ™		"respons" N
+   1 	"system" N ™		"oppsamling" N ™			"urin" N
+   1 	"system" N ™		"oppsamling" N
+   1 	"system" N ™		"melding" N
+   1 	"system" N ™		"kvalitetsindikator" N
+   1 	"system" N ™		"kantine" N
+   1 	"system" N ™		"fordøyelse" N
+   1 	"system" N ™		"fag" N
+   1 	"system" N ™		"buffer" N
+   1 	"system" N ™		"bestilling" N
+   1 	"system" N ™		"behandling" N
+   1 	"system" N ™		"åre" N
+   1 	"system" N ™		"IT" Use/Circ
+   1 	"system" N ™		"IT" N
+   1 	"syre" N ™		"sitron" N
+   1 	"syre" N ™		"eple" N
+   1 	"synspunkt" N ™		"mestring" N
+   1 	"synspunkt" N ™		"befruktning" N
+   1 	"syne" N ™		"verdi" N
+   1 	"symptom" N ™		"tømming" N
+   1 	"symptom" N ™		"sjokk" N
+   1 	"symptom" N ™		"obstruksjon" N
+   1 	"symptom" N ™		"kardinal" N
+   1 	"symptom" N ™		"hjerteinfarkt" N
+   1 	"symptom" N ™		"grunn" N
+   1 	"symptom" N ™		"depresjon" N
+   1 	"sylinder" N ™		"pus" N
+   1 	"sylinder" N ™		"plast" N
+   1 	"sykepleier" N ™		"helse" N
+   1 	"sykepleier" N ™		"forskning" N
+   1 	"sykepleier" N ™		"fag" N
+   1 	"sykepleier" N ™		"distrikt" N
+   1 	"sykepleie" N ™		"utvikling" N ™			"fag" N
+   1 	"sykepleie" N ™		"kontakt" N
+   1 	"sykepleie" N ™		"forskning" N
+   1 	"sykepleie" N ™		"distrikt" N
+   1 	"sykehjem" N ™		"undervisning" N
+   1 	"sykehjem" N ™		"glede" N ™			"liv" N
+   1 	"sykdom" N ™		"virus" N
+   1 	"sykdom" N ™		"luftvei" N
+   1 	"sykdom" N ™		"kvinne" N
+   1 	"sykdom" N ™		"kol" N
+   1 	"sykdom" N ™		"galle" N
+   1 	"sykdom" N ™		"alder" N
+   1 	"svingning" N ™		"temperatur" N
+   1 	"svingning" N ™		"humør" N
+   1 	"svette" N ™		"kropp" N
+   1 	"svette" N ™		"ansikt" N
+   1 	"svekkelse" N ™		"muskel" N
+   1 	"svar" N ™		"mot" N
+   1 	"svar" N ™		"insulin" N
+   1 	"svane" N ™		"tømming" N ™			"blære" N
+   1 	"svane" N ™		"liv" N
+   1 	"svane" N ™		"kosthold" N
+   1 	"svane" N ™		"avføring" N
+   1 	"svakhet" N ™		"muskel" N
+   1 	"sukker" N ™		"husholdning" N
+   1 	"sukker" N ™		"frukt" N
+   1 	"sukker" N ™		"drue" N
+   1 	"sukk" N ™		"melke" N
+   1 	"substans" N ™		"signal" N
+   1 	"substans" N ™		"bein" N
+   1 	"styrke" N ™		"strekk" N
+   1 	"styrke" N ™		"motivasjon" N
+   1 	"styrke" N ™		"knipe" N
+   1 	"styring" N ™		"lys" N
+   1 	"styring" N ™		"ly" N
+   1 	"styring" N ™		"bruker" N
+   1 	"styre" N ™		"vilje" N
+   1 	"stykke" N ™		"såpe" N
+   1 	"stykke" N ™		"brudd" N
+   1 	"stue" N ™		"operasjon" N
+   1 	"studium" N ™		"religion" N
+   1 	"studium" N ™		"litteratur" N
+   1 	"studium" N ™		"intervensjon" N
+   1 	"studium" N ™		"forskning" N
+   1 	"studie" N ™		"religion" N
+   1 	"studie" N ™		"populasjon" N
+   1 	"studie" N ™		"intervensjon" N
+   1 	"studie" N ™		"forskning" N
+   1 	"studie" N ™		"doktorgrad" N
+   1 	"student" N ™		"medisin" N
+   1 	"stubbe" N ™		"skjegg" N
+   1 	"stubb" N ™		"skjegg" N
+   1 	"struktur" N ™		"makt" N
+   1 	"struktur" N ™		"brusk" N
+   1 	"struktur" N ™		"bein" N
+   1 	"struktur" N ™		"PES" Use/Circ
+   1 	"strøm" N ™		"skog" N
+   1 	"strøm" N ™		"flyktning" N
+   1 	"strøm" N ™		"bro" N
+   1 	"strimmel" N ™		"feste" N
+   1 	"stress" N ™		"arbeid" N
+   1 	"streng" N ™		"navle" N
+   1 	"strekk" N ™		"vesen" N
+   1 	"strekk" N ™		"personlighet" N
+   1 	"strekk" N ™		"nakke" N
+   1 	"strekk" N ™		"bein" N
+   1 	"strategi" N ™		"helse" N
+   1 	"strategi" N ™		"handling" N
+   1 	"strategi" N ™		"forskning" N
+   1 	"strange" N ™		"tømming" N ™			"tarm" N
+   1 	"strand" N ™		"lilje" N
+   1 	"stråle" N ™		"urin" N
+   1 	"stråle" N ™		"midt" N
+   1 	"stråle" N ™		"lys" N
+   1 	"stråle" N ™		"ly" N
+   1 	"støtte" N ™		"kunnskap" N
+   1 	"størrelse" N ™		"kropp" N
+   1 	"størrelse" N ™		"kateter" N
+   1 	"størrelse" N ™		"celle" N
+   1 	"stoffskifte" N ™		"hvile" N
+   1 	"stoffskifte" N ™		"fett" N
+   1 	"stoff" N ™		"urin" N
+   1 	"stoff" N ™		"tilsetning" N
+   1 	"stoff" N ™		"oppbygging" N
+   1 	"stoff" N ™		"mineral" N
+   1 	"stoff" N ™		"fremmed" N
+   1 	"stoff" N ™		"fag" N
+   1 	"stoff" N ™		"bilde" N
+   1 	"stivhet" N ™		"muskel" N
+   1 	"sting" N ™		"ri" N
+   1 	"stimulering" N ™		"under" N
+   1 	"stimulering" N ™		"skjede" N
+   1 	"stimulering" N ™		"klitoris" N
+   1 	"stimulering" N ™		"ansikt" N
+   1 	"stilling" N ™		"toalett" N
+   1 	"stilling" N ™		"stipendiat" N
+   1 	"stilling" N ™		"0" Num ™		 Use/Circ"0"
+   1 	"stigning" N ™		"blodtrykk" N
+   1 	"stemning" N ™		"grunn" N
+   1 	"stell" N ™		"tann" N
+   1 	"stell" N ™		"kveld" N
+   1 	"sted" N ™		"oppsamling" N
+   1 	"status" N ™		"vitamin" N
+   1 	"status" N ™		"kar" N
+   1 	"status" N ™		"SAFE" Use/Circ
+   1 	"status" N ™		"SAFE" N
+   1 	"statistikk" N ™		"omsorg" N
+   1 	"statistikk" N ™		"matforsyning" N
+   1 	"statistikk" N ™		"helse" N
+   1 	"statistikk" N ™		"dødelighet" N
+   1 	"stat" N ™		"by" N
+   1 	"standard" N ™		"IKT" Use/Circ
+   1 	"standard" N ™		"IKT" N
+   1 	"stall" N ™		"krybbedød" N
+   1 	"stadium" N ™		"utvikling" N
+   1 	"stadium" N ™		"pubertet" N
+   1 	"stad" N ™		"kve" N
+   1 	"stad" N ™		"grend" N
+   1 	"stad" N ™		"fil" N
+   1 	"spreng" N ™		"blære" N
+   1 	"spredning" N ™		"ørken" N
+   1 	"spredning" N ™		"infeksjon" N
+   1 	"spørsmål" N ™		"prioritering" N
+   1 	"spørsmål" N ™		"praksis" N
+   1 	"spørsmål" N ™		"livskvalitet" N
+   1 	"spørsmål" N ™		"kontroll" N
+   1 	"spørsmål" N ™		"identitet" N
+   1 	"spiss" N ™		"tube" N
+   1 	"spiss" N ™		"kateter" N
+   1 	"spiller" N ™		"tennis" N
+   1 	"spiller" N ™		"sjakk" N
+   1 	"spill" N ™		"veksel" N
+   1 	"spill" N ™		"pc" N
+   1 	"spesialist" N ™		"søvn" N
+   1 	"spesialist" N ™		"lunge" N
+   1 	"spalte" N ™		"stemme" N
+   1 	"søvn" N ™		"delta" N
+   1 	"sopp" N ™		"mugg" N
+   1 	"sone" N ™		"fare" N
+   1 	"sonde" N ™		"PEG" Use/Circ
+   1 	"søkning" N ™		"trykk" N ™			"buk" N
+   1 	"søkning" N ™		"rykk" N ™			"bukt" N
+   1 	"snitt" N ™		"lengde" N
+   1 	"snitt" N ™		"keiser" N
+   1 	"smerte" N ™		"skjelett" N ™			"muskel" N
+   1 	"smerte" N ™		"skjelett" N
+   1 	"smerte" N ™		"muskel" N
+   1 	"smerte" N ™		"luft" N
+   1 	"smerte" N ™		"kolikk" N
+   1 	"smerte" N ™		"buk" N
+   1 	"slimhinne" N ™		"nese" N
+   1 	"slimhinne" N ™		"blære" N
+   1 	"slange" N ™		"gummi" N
+   1 	"slang" N ™		"gummi" N
+   1 	"skvett" N ™		"urin" N
+   1 	"skur" N ™		"sertifisering" N
+   1 	"skur" N ™		"mestring" N
+   1 	"skolealder" N ™		"ungdom" N
+   1 	"skokk" N ™		"jord" N
+   1 	"skjønn" N ™		"tran" N
+   1 	"skjerm" N ™		"overvåking" N
+   1 	"skjerm" N ™		"berøring" N
+   1 	"skjema" N ™		"risikovurdering" N
+   1 	"skjema" N ™		"oppsummering" N
+   1 	"skjema" N ™		"intervju" N
+   1 	"skjema" N ™		"evaluering" N
+   1 	"skjema" N ™		"PICO" Use/Circ
+   1 	"skjema" N ™		"MNA" Use/Circ
+   1 	"skjede" N ™		"årsak" N
+   1 	"skive" N ™		"ur" N
+   1 	"skive" N ™		"sitron" N
+   1 	"skinn" N ™		"buk" N
+   1 	"skikk" N ™		"yrke" N
+   1 	"skifte" N ™		"sår" N
+   1 	"skifte" N ™		"partner" N
+   1 	"skifte" N ™		"fettstoff" N
+   1 	"skift" N ™		"vakt" N
+   1 	"skift" N ™		"fettstoff" N
+   1 	"skarphet" N ™		"syn" N
+   1 	"skår" N ™		"arbeid" N
+   1 	"skala" N ™		"rang" N
+   1 	"skala" N ™		"farge" N
+   1 	"skål" N ™		"toalett" N
+   1 	"skål" N ™		"såpe" N
+   1 	"skaft" N ™		"plast" N
+   1 	"skaft" N ™		"penis" N
+   1 	"skade" N ™		"stråle" N
+   1 	"skade" N ™		"støy" N
+   1 	"skade" N ™		"stikk" N
+   1 	"skade" N ™		"organ" N
+   1 	"skade" N ™		"nyre" N
+   1 	"skade" N ™		"fødsel" N
+   1 	"skade" N ™		"brudd" N
+   1 	"skade" N ™		"blære" N
+   1 	"skade" N ™		"alkohol" N
+   1 	"sjokk" N ™		"praksis" N
+   1 	"sjokk" N ™		"kultur" N
+   1 	"sjokk" N ™		"blødning" N
+   1 	"sjekk" N ™		"helse" N
+   1 	"situasjon" N ™		"valg" N
+   1 	"situasjon" N ™		"samspill" N
+   1 	"situasjon" N ™		"pleie" N ™			"kropp" N
+   1 	"situasjon" N ™		"innleggelse" N
+   1 	"situasjon" N ™		"hverdag" N
+   1 	"situasjon" N ™		"forurensning" N
+   1 	"situasjon" N ™		"førstehjelp" N
+   1 	"situasjon" N ™		"bruk" N
+   1 	"situasjon" N ™		"beslutning" N
+   1 	"sirkel" N ™		"omsorg" N
+   1 	"sikringstiltak" N ™		"kvalitet" N
+   1 	"signal" N ™		"lys" N
+   1 	"signal" N ™		"ly" N
+   1 	"side" N ™		"vene" N
+   1 	"side" N ™		"tommelfinger" N
+   1 	"side" N ™		"membran" N
+   1 	"side" N ™		"lillefinger" N
+   1 	"side" N ™		"kropp" N
+   1 	"side" N ™		"kort" N
+   1 	"side" N ™		"klokke" N
+   1 	"side" N ™		"informasjon" N
+   1 	"sett" N ™		"formulering" N
+   1 	"sete" N ™		"toalett" N
+   1 	"serviett" N ™		"tøy" N
+   1 	"servering" N ™		"kaffe" N
+   1 	"servering" N ™		"brett" N
+   1 	"senter" N ™		"registrering" N ™			"temperatur" N
+   1 	"senter" N ™		"orgasme" N
+   1 	"senter" N ™		"lukt" N
+   1 	"senter" N ™		"kompetanse" N
+   1 	"senter" N ™		"dag" N
+   1 	"sensor" N ™		"bleie" N
+   1 	"sensasjon" N ™		"verden" N
+   1 	"seng" N ™		"korridor" N
+   1 	"seng" N ™		"institusjon" N
+   1 	"sene" N ™		"hæl" N
+   1 	"selskap" N ™		"reise" N
+   1 	"selleri" N ™		"stang" N
+   1 	"sekresjon" N ™		"slim" N
+   1 	"sekk" N ™		"tøy" N
+   1 	"sekk" N ™		"skittentøy" N
+   1 	"seide" N ™		"stat" N
+   1 	"scoring" N ™		"NEWS" Use/Circ
+   1 	"scenario" N ™		"framtid" N
+   1 	"satsing" N ™		"hoved" N
+   1 	"satsing" N ™		"forbedring" N ™			"kvalitet" N
+   1 	"sats" N ™		"sosialhjelp" N
+   1 	"sårhet" N ™		"munn" N
+   1 	"sans" N ™		"realitet" N
+   1 	"sans" N ™		"likevekt" N
+   1 	"sans" N ™		"hud" N
+   1 	"samtale" N ™		"utskrivning" N
+   1 	"samtale" N ™		"refleksjon" N
+   1 	"samtale" N ™		"kartlegging" N
+   1 	"samtale" N ™		"informasjon" N
+   1 	"sammensetning" N ™		"befolkning" N
+   1 	"sammenheng" N ™		"yrke" N
+   1 	"sammenheng" N ™		"sykdom" N
+   1 	"sammenheng" N ™		"mening" N
+   1 	"sammenheng" N ™		"fag" N
+   1 	"sammenheng" N ™		"arbeid" N
+   1 	"sammenfatning" N ™		"sykepleie" N
+   1 	"sammenblanding" N ™		"rolle" N
+   1 	"samling" N ™		"urin" N ™			"natt" N
+   1 	"samling" N ™		"urin" N ™			"døgn" N
+   1 	"samling" N ™		"urin" N
+   1 	"samling" N ™		"prosedyre" N
+   1 	"samling" N ™		"ødem" N
+   1 	"samling" N ™		"gruppe" N
+   1 	"samling" N ™		"essay" N
+   1 	"samler" N ™		"dråpe" N
+   1 	"samisk" N ™		"sentral" N
+   1 	"samisk" N ™		"fastland" N
+   1 	"samfunn" N ™		"småskala" N
+   1 	"samfunn" N ™		"nett" N
+   1 	"salt" N ™		"mineral" N
+   1 	"salt" N ™		"kalium" N
+   1 	"såle" N ™		"sko" N
+   1 	"saft" N ™		"spytt" N ™			"buk" N
+   1 	"saft" N ™		"pytt" N ™			"buk" N
+   1 	"saft" N ™		"drue" N
+   1 	"saft" N ™		"blåbær" N
+   1 	"rygg" N ™		"pukkel" N
+   1 	"rygg" N ™		"kors" N
+   1 	"rygg" N ™		"kor" N
+   1 	"rutine" N ™		"pleie" N
+   1 	"rutine" N ™		"mat" N
+   1 	"rutine" N ™		"måltid" N
+   1 	"rush" N ™		"morgen" N
+   1 	"rull" N ™		"toalett" N
+   1 	"rolle" N ™		"forsørger" N
+   1 	"robot" N ™		"kommunikasjon" N
+   1 	"risiko" N ™		"ulykke" N
+   1 	"risiko" N ™		"smitte" N
+   1 	"ring" N ™		"vaksine" N
+   1 	"ring" N ™		"trombose" N
+   1 	"ring" N ™		"snø" N
+   1 	"ring" N ™		"klo" N
+   1 	"ring" N ™		"bil" N
+   1 	"rike" N ™		"kunnskap" N
+   1 	"rike" N ™		"karbohydrat" N
+   1 	"rike" N ™		"fiber" N
+   1 	"rettighet" N ™		"minimum" N
+   1 	"rett" N ™		"vegetar" N
+   1 	"rett" N ™		"middag" N
+   1 	"rett" N ™		"kjøtt" N
+   1 	"rett" N ™		"fiske" N
+   1 	"rett" N ™		"egg" N
+   1 	"retning" N ™		"tanke" N
+   1 	"retning" N ™		"impuls" N
+   1 	"retning" N ™		"drift" N
+   1 	"resultat" N ™		"vurdering" N
+   1 	"resultat" N ™		"sykepleie" N
+   1 	"resultat" N ™		"poeng" N
+   1 	"resultat" N ™		"pasient" N
+   1 	"resultat" N ™		"dyrking" N
+   1 	"resultat" N ™		"behandling" N
+   1 	"restriksjon" N ™		"væske" N
+   1 	"restriksjon" N ™		"søvn" N
+   1 	"restriksjon" N ™		"drikke" N
+   1 	"rest" N ™		"sukker" N
+   1 	"ressurs" N ™		"omsorg" N
+   1 	"ressurs" N ™		"motstand" N
+   1 	"reserve" N ™		"protein" N
+   1 	"religion" N ™		"verden" N
+   1 	"relasjon" N ™		"vennskap" N
+   1 	"relasjon" N ™		"samhandling" N
+   1 	"rekke" N ™		"tann" N
+   1 	"rekke" N ™		"tanke" N
+   1 	"rekke" N ™		"nummer" N
+   1 	"rekke" N ™		"handling" N
+   1 	"reguleringssystem" N ™		"døgnrytme" N
+   1 	"regulering" N ™		"temperatur" N ™			"kropp" N
+   1 	"regulering" N ™		"størrelse" N
+   1 	"regulering" N ™		"døgnrytme" N
+   1 	"regle" N ™		"karantene" N
+   1 	"regle" N ™		"hygiene" N
+   1 	"registrering" N ™		"væske" N
+   1 	"registrering" N ™		"mat" N
+   1 	"register" N ™		"resept" N
+   1 	"register" N ™		"kreft" N
+   1 	"region" N ™		"hals" N
+   1 	"region" N ™		"hal" N
+   1 	"region" N ™		"bryst" N
+   1 	"regime" N ™		"trening" N ™			"blære" N
+   1 	"regime" N ™		"tømming" N ™			"tarm" N
+   1 	"regime" N ™		"pleie" N ™			"hud" N
+   1 	"regime" N ™		"kosthold" N
+   1 	"regime" N ™		"isolasjon" N
+   1 	"regime" N ™		"diett" N
+   1 	"regime" N ™		"behandling" N
+   1 	"regel" N ™		"karantene" N
+   1 	"regel" N ™		"hygiene" N
+   1 	"regel" N ™		"huske" N
+   1 	"regel" N ™		"gjensidighet" N
+   1 	"regel" N ™		"bluferdighet" N
+   1 	"regel" N ™		"avhengighet" N
+   1 	"reform" N ™		"tillit" N
+   1 	"reform" N ™		"helsetjeneste" N
+   1 	"refleksjon" N ™		"etikk" N
+   1 	"reduksjon" N ™		"hørsel" N
+   1 	"redskap" N ™		"læring" N
+   1 	"redskap" N ™		"kjøkken" N
+   1 	"redskap" N ™		"datasamling" N
+   1 	"redaktør" N ™		"fag" N
+   1 	"realisering" N ™		"gevinst" N
+   1 	"reaksjon" N ™		"senkning" N
+   1 	"reaksjon" N ™		"hud" N
+   1 	"reaksjon" N ™		"forsvar" N
+   1 	"reaksjon" N ™		"allergi" N
+   1 	"rasjon" N ™		"kast" N
+   1 	"rapport" N ™		"konsensus" N
+   1 	"rapport" N ™		"folkehelse" N
+   1 	"rapport" N ™		"dag" N
+   1 	"rapport" N ™		"OECD" Use/Circ
+   1 	"rand" N ™		"kjøtt" N ™			"tann" N
+   1 	"rampe" N ™		"rullestol" N
+   1 	"ramme" N ™		"tolkning" N
+   1 	"rådgivning" N ™		"telefon" N
+   1 	"rådgivning" N ™		"samliv" N
+   1 	"rådgivning" N ™		"egenomsorg" N
+   1 	"pyramide" N ™		"mat" N
+   1 	"pyramide" N ™		"kunnskap" N
+   1 	"pute" N ™		"skumgummi" N
+   1 	"pust" N ™		"mage" N
+   1 	"pust" N ™		"hvile" N
+   1 	"punkt" N ™		"slutt" N
+   1 	"punkt" N ™		"møte" N
+   1 	"punkt" N ™		"krysning" N
+   1 	"punkt" N ™		"galphabet" N
+   1 	"punkt" N ™		"forbedring" N
+   1 	"punkt" N ™		"Galphabet" N
+   1 	"pumpe" N ™		"penis" N
+   1 	"pumpe" N ™		"ernæring" N
+   1 	"pulsåre" N ™		"hoved" N
+   1 	"publikasjon" N ™		"forskning" N
+   1 	"publikasjon" N ™		"WHO" Use/Circ
+   1 	"publikasjon" N ™		"WHO" N
+   1 	"psykologi" N ™		"utvikling" N
+   1 	"psykologi" N ™		"moral" N
+   1 	"prøve" N ™		"stråle" N ™			"midt" N
+   1 	"prøve" N ™		"pensel" N
+   1 	"protokoll" N ™		"tarm" N
+   1 	"protokoll" N ™		"kontroll" N ™			"tarm" N
+   1 	"protokoll" N ™		"funksjon" N ™			"tarm" N
+   1 	"protese" N ™		"bryst" N
+   1 	"protein" N ™		"plasma" N
+   1 	"protein" N ™		"muskel" N
+   1 	"prosjekt" N ™		"innovasjon" N
+   1 	"prosjekt" N ™		"doktorgrad" N
+   1 	"prosjekt" N ™		"FoU" N
+   1 	"prosess" N ™		"valg" N
+   1 	"prosess" N ™		"tømming" N
+   1 	"prosess" N ™		"tilknytning" N
+   1 	"prosess" N ™		"sorg" N
+   1 	"prosess" N ™		"sivilisere" Ex/V
+   1 	"prosess" N ™		"samvalg" N
+   1 	"prosess" N ™		"rehabilitering" N
+   1 	"prosess" N ™		"oversettelse" N
+   1 	"prosess" N ™		"mestring" N
+   1 	"prosess" N ™		"innvandring" N
+   1 	"prosess" N ™		"informasjon" N
+   1 	"prosess" N ™		"immigrasjon" N
+   1 	"prosess" N ™		"evaluering" N
+   1 	"prosess" N ™		"bedring" N
+   1 	"prosedyre" N ™		"standard" N
+   1 	"propp" N ™		"bunn" N
+   1 	"program" N ™		"teknologi" N ™			"velferd" N
+   1 	"program" N ™		"teknologi" N ™			"ferd" N ™				"vel" N
+   1 	"program" N ™		"støtte" N
+   1 	"program" N ™		"screene" Ex/V
+   1 	"program" N ™		"prinsipp" N
+   1 	"program" N ™		"pasientregister" N
+   1 	"program" N ™		"natur" N
+   1 	"prognose" N ™		"sykdom" N
+   1 	"profesjon" N ™		"yrke" N
+   1 	"profesjon" N ™		"helse" N
+   1 	"produkt" N ™		"pleie" N ™			"hud" N
+   1 	"produkt" N ™		"inkontinens" N
+   1 	"produkt" N ™		"blod" N
+   1 	"produkt" N ™		"behandling" N
+   1 	"produksjon" N ™		"syre" N ™			"urin" N
+   1 	"produksjon" N ™		"østrogen" N
+   1 	"produksjon" N ™		"magesyre" N
+   1 	"produksjon" N ™		"karbondioksid" N
+   1 	"produksjon" N ™		"impuls" N
+   1 	"produksjon" N ™		"hormon" N
+   1 	"problematikk" N ™		"smerte" N
+   1 	"problematikk" N ™		"kjønn" N
+   1 	"problematikk" N ™		"identitet" N ™			"kjønn" N
+   1 	"problem" N ™		"troverdighet" N
+   1 	"problem" N ™		"tømming" N ™			"blære" N
+   1 	"problem" N ™		"tolking" N
+   1 	"problem" N ™		"syn" N
+   1 	"problem" N ™		"sykdom" N
+   1 	"problem" N ™		"smerte" N
+   1 	"problem" N ™		"sår" N
+   1 	"problem" N ™		"samspill" N
+   1 	"problem" N ™		"samliv" N
+   1 	"problem" N ™		"rettferdighet" N
+   1 	"problem" N ™		"lunge" N
+   1 	"problem" N ™		"lukt" N
+   1 	"problem" N ™		"luftvei" N
+   1 	"problem" N ™		"livskvalitet" N
+   1 	"problem" N ™		"liv" N
+   1 	"problem" N ™		"levekår" N
+   1 	"problem" N ™		"lekkasje" N
+   1 	"problem" N ™		"konsentrasjon" N
+   1 	"problem" N ™		"kjerne" N
+   1 	"problem" N ™		"innlæring" N
+   1 	"problem" N ™		"fordøyelse" N
+   1 	"problem" N ™		"fedme" N
+   1 	"problem" N ™		"eliminasjon" N
+   1 	"problem" N ™		"egenomsorg" N
+   1 	"problem" N ™		"blødning" N
+   1 	"problem" N ™		"avføring" N
+   1 	"problem" N ™		"alder" N
+   1 	"prinsipp" N ™		"prioritering" N
+   1 	"prinsipp" N ™		"normalitet" N
+   1 	"prinsipp" N ™		"intervall" N
+   1 	"prinsipp" N ™		"behandling" N
+   1 	"prinsipp" N ™		"balanse" N
+   1 	"prinsipp" N ™		"MONA" Use/Circ
+   1 	"prestasjon" N ™		"skole" N
+   1 	"prestasjon" N ™		"idrett" N
+   1 	"prest" N ™		"sykehus" N
+   1 	"press" N ™		"prestasjon" N
+   1 	"press" N ™		"kryss" N
+   1 	"press" N ™		"effektivitet" N
+   1 	"press" N ™		"buk" N
+   1 	"prat" N ™		"hat" N
+   1 	"prat" N ™		"fotball" N
+   1 	"praktiker" N ™		"sykepleie" N
+   1 	"praksis" N ™		"ernæring" N
+   1 	"potensiale" N ™		"aksjon" N
+   1 	"pose" N ™		"varme" N
+   1 	"port" N ™		"vene" N
+   1 	"port" N ™		"sup" N
+   1 	"porsjon" N ™		"middag" N
+   1 	"populasjon" N ™		"pasient" N
+   1 	"pomade" N ™		"leppe" N
+   1 	"poliklinikk" N ™		"diabetes" N
+   1 	"pole" N ™		"mot" N
+   1 	"plikt" N ™		"dokumentasjon" N
+   1 	"plattform" N ™		"kunnskap" N
+   1 	"plast" N ™		"akryl" N
+   1 	"plassering" N ™		"måltid" N
+   1 	"plass" N ™		"lagring" N
+   1 	"plass" N ™		"dagsenter" N
+   1 	"plasma" N ™		"blod" N
+   1 	"planlegging" N ™		"meny" N
+   1 	"planlegger" N ™		"kosthold" N
+   1 	"plan" N ™		"framtid" N
+   1 	"plakat" N ™		"hygiene" N
+   1 	"plage" N ™		"tømming" N
+   1 	"plage" N ™		"tillegg" N
+   1 	"plage" N ™		"slim" N
+   1 	"plage" N ™		"skjelett" N
+   1 	"plage" N ™		"prostata" N
+   1 	"plage" N ™		"luftvei" N
+   1 	"plage" N ™		"lekkasje" N
+   1 	"plage" N ™		"hud" N
+   1 	"plage" N ™		"forstoppelse" N
+   1 	"plage" N ™		"fordøyelse" N
+   1 	"plage" N ™		"diaré" N
+   1 	"plage" N ™		"avføring" N
+   1 	"pille" N ™		"overs" N
+   1 	"pike" N ™		"bonde" N
+   1 	"perspektiv" N ™		"sykdom" N
+   1 	"perspektiv" N ™		"samhandling" N
+   1 	"perspektiv" N ™		"populasjon" N
+   1 	"perspektiv" N ™		"liv" N
+   1 	"perspektiv" N ™		"helhet" N
+   1 	"perspektiv" N ™		"fordeling" N
+   1 	"personell" N ™		"fag" N
+   1 	"personell" N ™		"behandling" N
+   1 	"personale" N ™		"sykepleie" N
+   1 	"personale" N ™		"sykehus" N
+   1 	"personale" N ™		"fag" N
+   1 	"person" N ™		"støtte" N
+   1 	"person" N ™		"forsøk" N
+   1 	"periode" N ™		"varme" N
+   1 	"periode" N ™		"test" N
+   1 	"periode" N ™		"sykdom" N
+   1 	"periode" N ™		"sult" N
+   1 	"periode" N ™		"barsel" N
+   1 	"pensel" N ™		"skumgummi" N
+   1 	"pedagogikk" N ™		"helse" N
+   1 	"påvirkning" N ™		"rus" N
+   1 	"påvirkning" N ™		"lys" N
+   1 	"påvirkning" N ™		"ly" N
+   1 	"påvirkning" N ™		"legemiddel" N
+   1 	"påvirkning" N ™		"hud" N
+   1 	"påvirkning" N ™		"hormon" N
+   1 	"påvirkning" N ™		"helse" N
+   1 	"påvirkning" N ™		"galle" N
+   1 	"pause" N ™		"do" N
+   1 	"passasje" N ™		"tykktarm" N
+   1 	"passasje" N ™		"luftstrøm" N
+   1 	"pasient" N ™		"slag" N
+   1 	"pasient" N ™		"respirator" N
+   1 	"pasient" N ™		"korridor" N
+   1 	"pasient" N ™		"kol" N
+   1 	"pasient" N ™		"astma" N
+   1 	"pasient" N ™		"MS" Use/Circ
+   1 	"pasient" N ™		"MS" N
+   1 	"partikkel" N ™		"støv" N
+   1 	"parti" N ™		"munn" N
+   1 	"papir" N ™		"filter" N
+   1 	"panel" N ™		"bakterie" N
+   1 	"pakke" N ™		"behandling" N
+   1 	"pakk" N ™		"meieri" N
+   1 	"overskudd" N ™		"varme" N
+   1 	"overskudd" N ™		"syre" N
+   1 	"oversikt" N ™		"kostnad" N
+   1 	"overføring" N ™		"impuls" N ™			"nerve" N
+   1 	"overflate" N ™		"diffusjon" N
+   1 	"øvelse" N ™		"styrke" N
+   1 	"øvelse" N ™		"stimulering" N ™			"ansikt" N
+   1 	"øvelse" N ™		"kondisjon" N
+   1 	"øvelse" N ™		"hoste" N
+   1 	"øvelse" N ™		"avspenning" N
+   1 	"orientering" N ™		"tid" N
+   1 	"orientering" N ™		"realitet" N ™			"for" N
+   1 	"orientering" N ™		"problem" N
+   1 	"orgasme" N ™		"klitoris" N
+   1 	"orgasme" N ™		"blanding" N
+   1 	"organisasjon" N ™		"yrke" N
+   1 	"organisasjon" N ™		"sykepleie" N
+   1 	"organ" N ™		"signal" N
+   1 	"organ" N ™		"likevekt" N
+   1 	"ordning" N ™		"mentor" N
+   1 	"ordning" N ™		"arbeidstid" N
+   1 	"orden" N ™		"samfunn" N
+   1 	"ordbok" N ™		"nynorsk" N
+   1 	"opptak" N ™		"næring" N
+   1 	"oppskrift" N ™		"mat" N
+   1 	"oppsett" N ™		"analyse" N
+   1 	"opplysning" N ™		"livsstil" N
+   1 	"opplysning" N ™		"journal" N
+   1 	"opplysning" N ™		"familie" N
+   1 	"opplevelse" N ™		"tap" N
+   1 	"opplevelse" N ™		"stress" N
+   1 	"opplevelse" N ™		"mestring" N
+   1 	"opplevelse" N ™		"måltid" N
+   1 	"opplevelse" N ™		"kropp" N
+   1 	"opplevelse" N ™		"krig" N
+   1 	"opplevelse" N ™		"kjønn" N
+   1 	"opplevelse" N ™		"identitet" N
+   1 	"opplevelse" N ™		"ensomhet" N
+   1 	"opplevelse" N ™		"berøring" N
+   1 	"opplegg" N ™		"trening" N
+   1 	"opplæring" N ™		"forsker" N
+   1 	"opphold" N ™		"dag" N
+   1 	"opphold" N ™		"avlastning" N
+   1 	"oppgave" N ™		"sykepleier" N
+   1 	"oppgave" N ™		"spesialist" N
+   1 	"oppgave" N ™		"omsorg" N
+   1 	"oppgave" N ™		"kvalitetsutvikling" N
+   1 	"oppgave" N ™		"kjerne" N
+   1 	"oppgave" N ™		"fysioterapi" N
+   1 	"oppfølging" N ™		"avstand" N
+   1 	"oppfatning" N ™		"tro" N
+   1 	"oppfatning" N ™		"kropp" N
+   1 	"oppfatning" N ™		"helse" N
+   1 	"oppfatning" N ™		"feil" N
+   1 	"operasjon" N ™		"tarm" N
+   1 	"operasjon" N ™		"nese" N
+   1 	"omsorg" N ™		"svangerskap" N
+   1 	"omsorg" N ™		"rehabilitering" N
+   1 	"omsorg" N ™		"kreft" N
+   1 	"omsetning" N ™		"fett" N
+   1 	"område" N ™		"under" N
+   1 	"område" N ™		"slum" N
+   1 	"område" N ™		"risiko" N
+   1 	"område" N ™		"pasient" N
+   1 	"område" N ™		"operasjon" N
+   1 	"område" N ™		"mål" N
+   1 	"område" N ™		"lunge" N
+   1 	"område" N ™		"kropp" N
+   1 	"område" N ™		"hofte" N
+   1 	"område" N ™		"fritid" N
+   1 	"område" N ™		"forbedring" N
+   1 	"område" N ™		"ankel" N
+   1 	"område" N ™		"CUV" Use/Circ
+   1 	"omløp" N ™		"blod" N
+   1 	"ombud" N ™		"hud" N
+   1 	"oksid" N ™		"magnesium" N
+   1 	"økonomi" N ™		"familie" N
+   1 	"økning" N ™		"trykk" N ™			"buk" N
+   1 	"økning" N ™		"rykk" N ™			"bukt" N
+   1 	"nyanse" N ™		"farge" N
+   1 	"nummer" N ™		"rom" N
+   1 	"notat" N ™		"sykepleie" N
+   1 	"notat" N ™		"status" N
+   1 	"notat" N ™		"evaluering" N
+   1 	"notat" N ™		"dagbok" N
+   1 	"norm" N ™		"verdi" N
+   1 	"norm" N ™		"samfunn" N
+   1 	"norm" N ™		"forsvarlighet" N
+   1 	"norm" N ™		"bransje" N
+   1 	"norm" N ™		"bemanning" N
+   1 	"nivå" N ™		"termostat" N
+   1 	"nivå" N ™		"smerte" N
+   1 	"nivå" N ™		"prestasjon" N
+   1 	"nivå" N ™		"populasjon" N
+   1 	"nivå" N ™		"palphabet" N
+   1 	"nivå" N ™		"omsorg" N
+   1 	"nivå" N ™		"novise" N
+   1 	"nivå" N ™		"normal" N
+   1 	"nivå" N ™		"minimum" N
+   1 	"nivå" N ™		"konsistens" N
+   1 	"nivå" N ™		"hvile" N
+   1 	"nivå" N ™		"forklaring" N
+   1 	"nivå" N ™		"elite" N
+   1 	"nivå" N ™		"desibel" N
+   1 	"nivå" N ™		"celle" N
+   1 	"nivå" N ™		"behandling" N
+   1 	"nivå" N ™		"angst" N
+   1 	"nivå" N ™		"aktivere" Ex/V
+   1 	"nivå" N ™		"SS" Use/Circ
+   1 	"nivå" N ™		"IT" Use/Circ
+   1 	"nevrose" N ™		"angst" N
+   1 	"never" N ™		"for" N
+   1 	"nettverk" N ™		"stjerne" N
+   1 	"nettverk" N ™		"nabo" N
+   1 	"nettverk" N ™		"forsker" N
+   1 	"nettverk" N ™		"edderkopp" N
+   1 	"nett" N ™		"relasjon" N
+   1 	"nett" N ™		"mobil" N
+   1 	"nedgang" N ™		"vekt" N
+   1 	"myndighet" N ™		"godkjenning" N
+   1 	"muskulatur" N ™		"luftvei" N
+   1 	"muskel" N ™		"ring" N
+   1 	"muskel" N ™		"prostata" N
+   1 	"muskel" N ™		"nakke" N
+   1 	"muskel" N ™		"buk" N
+   1 	"mulighet" N ™		"utfoldelse" N
+   1 	"mulighet" N ™		"parkering" N
+   1 	"mulighet" N ™		"kontakt" N
+   1 	"motsetning" N ™		"verdi" N
+   1 	"motivasjon" N ™		"arbeid" N
+   1 	"motiv" N ™		"omsorg" N
+   1 	"motiv" N ™		"grunn" N
+   1 	"møte" N ™		"tjeneste" N
+   1 	"møte" N ™		"morgen" N
+   1 	"moral" N ™		"krykke" N
+   1 	"mønster" N ™		"trening" N
+   1 	"mønster" N ™		"trappetrinn" N
+   1 	"mønster" N ™		"tanke" N
+   1 	"mønster" N ™		"symptom" N
+   1 	"mønster" N ™		"kosthold" N
+   1 	"mønster" N ™		"kontakt" N
+   1 	"mønster" N ™		"kommunikasjon" N
+   1 	"mønster" N ™		"kjønnsrolle" N
+   1 	"mønster" N ™		"atferd" N
+   1 	"mønster" N ™		"aktivitet" N
+   1 	"monitor" N ™		"EKG" Use/Circ
+   1 	"monitor" N ™		"EKG" N
+   1 	"moment" N ™		"usikkerhet" N
+   1 	"moment" N ™		"overraskelse" N
+   1 	"molekyl" N ™		"signal" N
+   1 	"molekyl" N ™		"glukose" N
+   1 	"modning" N ™		"kjønn" N
+   1 	"modenhet" N ™		"kjønn" N
+   1 	"modell" N ™		"verdi" N
+   1 	"modell" N ™		"tallerken" N
+   1 	"modell" N ™		"system" N
+   1 	"modell" N ™		"regnbue" N
+   1 	"modell" N ™		"helse" N
+   1 	"miljøbelastning" N ™		"arbeid" N
+   1 	"miljø" N ™		"ungdom" N
+   1 	"miljø" N ™		"sykepleie" N
+   1 	"miljø" N ™		"sykehjem" N
+   1 	"miljø" N ™		"omsorg" N
+   1 	"middelalder" N ™		"høy" N
+   1 	"middel" N ™		"sopp" N
+   1 	"middel" N ™		"rengjøring" N
+   1 	"middel" N ™		"prevensjon" N
+   1 	"middel" N ™		"praksis" N
+   1 	"middel" N ™		"hygiene" N ™			"munn" N
+   1 	"middel" N ™		"førstevalg" N
+   1 	"middel" N ™		"fjerning" N ™			"hår" N
+   1 	"middel" N ™		"erstatning" N ™			"spytt" N
+   1 	"middel" N ™		"desinfeksjon" N ™			"hånd" N
+   1 	"middel" N ™		"antikonsepsjon" N
+   1 	"middel" N ™		"anestesi" N
+   1 	"middel" N ™		"FoU" N
+   1 	"midd" N ™		"husstøv" N
+   1 	"metode" N ™		"veiledning" N
+   1 	"metode" N ™		"sykepleie" N
+   1 	"metode" N ™		"operasjon" N
+   1 	"metode" N ™		"kvalitetsutvikling" N
+   1 	"metode" N ™		"datainnsamling" N
+   1 	"mestring" N ™		"stress" N
+   1 	"mestring" N ™		"liv" N
+   1 	"mestring" N ™		"anfall" N
+   1 	"merking" N ™		"hull" N ™			"nøkkel" N
+   1 	"merke" N ™		"strekk" N
+   1 	"merke" N ™		"kropp" N
+   1 	"mengde" N ™		"protein" N
+   1 	"mengde" N ™		"østrogen" N
+   1 	"mengde" N ™		"oksygen" N
+   1 	"mengde" N ™		"muskel" N
+   1 	"mengde" N ™		"minimum" N
+   1 	"mengde" N ™		"mat" N
+   1 	"mengde" N ™		"karbondioksid" N
+   1 	"mengde" N ™		"glukose" N
+   1 	"mengde" N ™		"fett" N
+   1 	"mengde" N ™		"avføring" N
+   1 	"mengde" N ™		"arbeid" N
+   1 	"mengd" N ™		"søvn" N
+   1 	"mengd" N ™		"oksygen" N
+   1 	"mengd" N ™		"mat" N
+   1 	"mengd" N ™		"karbondioksid" N
+   1 	"mengd" N ™		"fiber" N
+   1 	"mengd" N ™		"energi" N
+   1 	"mengd" N ™		"arbeid" N
+   1 	"melk" N ™		"soya" N
+   1 	"melding" N ™		"system" N
+   1 	"melding" N ™		"primærhelsetjeneste" N
+   1 	"melding" N ™		"omsorg" N
+   1 	"melding" N ™		"helseforskjell" N
+   1 	"melding" N ™		"folkehelse" N
+   1 	"melding" N ™		"avvik" N
+   1 	"mekanisme" N ™		"refleks" N
+   1 	"mekanisme" N ™		"lukning" N
+   1 	"mekanisme" N ™		"hoved" N
+   1 	"mekanisme" N ™		"feedback" N
+   1 	"mekanisme" N ™		"ereksjon" N
+   1 	"medvirkning" N ™		"pasient" N
+   1 	"medium" N ™		"næring" N
+   1 	"medisinering" N ™		"tvang" N
+   1 	"medisin" N ™		"sykehjem" N
+   1 	"medisin" N ™		"morgen" N
+   1 	"medisin" N ™		"kreft" N
+   1 	"medisin" N ™		"infeksjon" N
+   1 	"medisin" N ™		"avføring" N
+   1 	"medisin" N ™		"anfall" N
+   1 	"medikament" N ™		"SSRI" Use/Circ
+   1 	"matte" N ™		"alarm" N
+   1 	"matprodukt" N ™		"barne" Cmp/null
+   1 	"mating" N ™		"tvang" N
+   1 	"materiale" N ™		"kunst" N
+   1 	"måte" N ™		"transport" N
+   1 	"måte" N ™		"handling" N
+   1 	"masse" N ™		"knokkel" N
+   1 	"masse" N ™		"bein" N
+   1 	"masse" N ™		"avføring" N
+   1 	"massasje" N ™		"rygg" N
+   1 	"massasje" N ™		"lymfe" N
+   1 	"maskin" N ™		"hoste" N
+   1 	"mark" N ™		"barne" Cmp/null
+   1 	"marg" N ™		"binyre" N
+   1 	"marg" N ™		"bein" N
+   1 	"manøver" N ™		"avledning" N
+   1 	"mann" N ™		"troll" N
+   1 	"mann" N ™		"press" N
+   1 	"mann" N ™		"medisin" N
+   1 	"mann" N ™		"brink" N
+   1 	"mangfold" N ™		"art" N
+   1 	"mangel" N ™		"vitamin" N
+   1 	"mangel" N ™		"østrogen" N
+   1 	"mangel" N ™		"mineral" N
+   1 	"mangel" N ™		"enzym" N
+   1 	"mangel" N ™		"calphabet" N
+   1 	"mangel" N ™		"blod" N
+   1 	"mangel" N ™		"Calphabet" N
+   1 	"måned" N ™		 Use/Circ"15–18"
+   1 	"måltid" N ™		"test" N
+   1 	"måltid" N ™		"skole" N
+   1 	"måltid" N ™		"kveld" N
+   1 	"måltid" N ™		"felle" N
+   1 	"måling" N ™		"vekt" N
+   1 	"måling" N ™		"kvalitet" N
+   1 	"makt" N ™		"militær" N
+   1 	"madrass" N ™		"trykk" N ™			"veksel" N
+   1 	"madrass" N ™		"sykehus" N
+   1 	"madrass" N ™		"avlastning" N ™			"trykk" N
+   1 	"lysestake" N ™		"sølv" N
+   1 	"ly" N ™		"sol" N
+   1 	"ly" N ™		"part" N
+   1 	"ly" N ™		"LED" Use/Circ
+   1 	"lund" N ™		"frø" N
+   1 	"lund" N ™		"eng" N
+   1 	"lukt" N ™		"svette" N
+   1 	"lukt" N ™		"mat" N
+   1 	"luft" N ™		"utånding" N
+   1 	"luft" N ™		"rom" N
+   1 	"luft" N ™		"innånding" N
+   1 	"lovgivning" N ™		"tvang" N
+   1 	"løsning" N ™		"ernæring" N
+   1 	"løsning" N ™		"egg" N
+   1 	"litteratur" N ™		"kvalitetsutvikling" N
+   1 	"liste" N ™		"legemiddel" N
+   1 	"liste" N ™		"energi" N
+   1 	"liste" N ™		"diagnose" N
+   1 	"liste" N ™		"bestilling" N
+   1 	"linje" N ™		"skille" N
+   1 	"linje" N ™		"behandling" N
+   1 	"lidelse" N ™		"tillegg" N
+   1 	"lidelse" N ™		"søvn" N
+   1 	"lidelse" N ™		"pleie" N
+   1 	"lidelse" N ™		"omsorg" N
+   1 	"lidelse" N ™		"lever" N
+   1 	"lidelse" N ™		"demens" N
+   1 	"leverandør" N ™		"kosmetikk" N
+   1 	"leser" N ™		"kode" N ™			"strek" N
+   1 	"lengde" N ™		"liv" N
+   1 	"lengde" N ™		"gjennomsnitt" N
+   1 	"lekkasje" N ™		"væske" N
+   1 	"lekkasje" N ™		"vann" N
+   1 	"leilighet" N ™		"rekkehus" N
+   1 	"leie" N ™		"stemme" N
+   1 	"legeme" N ™		"blod" N
+   1 	"legeforening" N ™		"tann" N
+   1 	"lege" N ™		"barne" Cmp/null
+   1 	"lege" N ™		"LIS" Use/Circ
+   1 	"ledning" N ™		"impuls" N
+   1 	"lederutdanning" N ™		"vei" N
+   1 	"leder" N ™		"urin" N
+   1 	"leder" N ™		"institutt" N
+   1 	"leder" N ™		"aktivitet" N
+   1 	"ledelse" N ™		"sykepleie" N
+   1 	"ledelse" N ™		"institusjon" N
+   1 	"ledelse" N ™		"avdeling" N
+   1 	"ledd" N ™		"finger" N
+   1 	"læring" N ™		"egenomsorg" N
+   1 	"læring" N ™		"arbeidsplass" N
+   1 	"lærer" N ™		"sykepleie" N
+   1 	"lærer" N ™		"høyskole" N
+   1 	"lære" N ™		"mester" N
+   1 	"land" N ™		"under" N
+   1 	"land" N ™		"for" N
+   1 	"land" N ™		"OECD" Use/Circ
+   1 	"land" N ™		"OECD" N
+   1 	"lammelse" N ™		"handling" N
+   1 	"laken" N ™		"bomull" N
+   1 	"lake" N ™		"varme" N
+   1 	"lake" N ™		"stikk" N
+   1 	"lager" N ™		"reserve" N
+   1 	"lager" N ™		"jern" N
+   1 	"lager" N ™		"glykogen" N
+   1 	"lager" N ™		"fett" N
+   1 	"lager" N ™		"blod" N
+   1 	"kylling" N ™		"øre" N
+   1 	"kvinne" N ™		"troll" N
+   1 	"kvalitet" N ™		"service" N
+   1 	"kvalitet" N ™		"sæd" N
+   1 	"kvalitet" N ™		"resultat" N
+   1 	"kvalitet" N ™		"puls" N
+   1 	"kvalitet" N ™		"personell" N
+   1 	"kvalitet" N ™		"opplevelse" N
+   1 	"kvalitet" N ™		"lyd" N
+   1 	"kvalitet" N ™		"helsetjeneste" N
+   1 	"kvalitet" N ™		"ernæring" N
+   1 	"kurve" N ™		"vekt" N
+   1 	"kurve" N ™		"medisin" N
+   1 	"kurve" N ™		"fordeling" N ™			"normal" N
+   1 	"kurve" N ™		"avfall" N
+   1 	"kurve" N ™		"aktivere" Ex/V
+   1 	"kurve" N ™		"KMI" Use/Circ
+   1 	"kurv" N ™		"vekt" N
+   1 	"kurv" N ™		"døgnrytme" N
+   1 	"kurv" N ™		"avfall" N
+   1 	"kurv" N ™		"aktivere" Ex/V
+   1 	"kurv" N ™		"KMI" Use/Circ
+   1 	"kurs" N ™		"sertifisering" N
+   1 	"kurs" N ™		"samliv" N
+   1 	"kurs" N ™		"mestring" N
+   1 	"kurs" N ™		"matlaging" N
+   1 	"kunnskap" N ™		"yrke" N
+   1 	"kunnskap" N ™		"praksis" N
+   1 	"kunnskap" N ™		"norsk" N
+   1 	"kunnskap" N ™		"kjerne" N
+   1 	"kunnskap" N ™		"ernæring" N
+   1 	"kunnskap" N ™		"ekspert" N
+   1 	"kultur" N ™		"pleie" N
+   1 	"kultur" N ™		"omsorg" N
+   1 	"kultur" N ™		"kvalitetsutvikling" N
+   1 	"kultur" N ™		"fag" N
+   1 	"kultur" N ™		"blod" N
+   1 	"krom" N ™		"uro" N
+   1 	"kriterium" N ™		"struktur" N
+   1 	"kriterium" N ™		"resultat" N
+   1 	"kriterium" N ™		"profesjon" N
+   1 	"kriterium" N ™		"prioritering" N
+   1 	"kriterium" N ™		"alvorlighet" N
+   1 	"krise" N ™		"utvikling" N
+   1 	"krig" N ™		"stamme" N
+   1 	"kretsløp" N ™		"system" N
+   1 	"krem" N ™		"natt" N
+   1 	"krem" N ™		"massasje" N
+   1 	"krem" N ™		"hånd" N
+   1 	"kreft" N ™		"underliv" N
+   1 	"kreft" N ™		"kjertel" N ™			"spytt" N ™				"buk" N
+   1 	"kreft" N ™		"kjertel" N ™			"pytt" N ™				"buk" N
+   1 	"kreft" N ™		"anus" N
+   1 	"krave" N ™		"effektivisering" N
+   1 	"krav" N ™		"tillegg" N
+   1 	"krav" N ™		"mengde" N
+   1 	"krav" N ™		"lov" N
+   1 	"krav" N ™		"fromhet" N
+   1 	"krav" N ™		"erstatning" N
+   1 	"krav" N ™		"effektivitet" N
+   1 	"krav" N ™		"effektivisering" N
+   1 	"krans" N ™		"skjede" N
+   1 	"krampe" N ™		"skjede" N
+   1 	"krampe" N ™		"muskel" N
+   1 	"kraft" N ™		"trolldom" N
+   1 	"kraft" N ™		"liv" N
+   1 	"kraft" N ™		"kontraksjon" N
+   1 	"kost" N ™		"ring" N ™			"gele" N
+   1 	"kost" N ™		"flaske" N
+   1 	"kort" N ™		"trygd" N ™			"helse" N
+   1 	"kort" N ™		"stell" N ™			"munn" N
+   1 	"kort" N ™		"prospekt" N
+   1 	"kort" N ™		"bilde" N
+   1 	"kort" N ™		"TT" Use/Circ
+   1 	"kort" N ™		"TT" N
+   1 	"korridor" N ™		"sykehus" N
+   1 	"kopp" N ™		"protese" N
+   1 	"koordinering" N ™		"tjeneste" N
+   1 	"koordinering" N ™		"muskel" N
+   1 	"koordinator" N ™		"program" N
+   1 	"kontroll" N ™		"vekt" N
+   1 	"kontroll" N ™		"temperatur" N
+   1 	"kontroll" N ™		"tarm" N
+   1 	"kontroll" N ™		"syn" N
+   1 	"kontroll" N ™		"blære" N
+   1 	"kontroll" N ™		"adgang" N
+   1 	"kontrast" N ™		"farge" N
+   1 	"kontor" N ™		"fastlege" N
+   1 	"kontekst" N ™		"samfunn" N
+   1 	"kontekst" N ™		"arbeid" N
+   1 	"konsum" N ™		"alkohol" N
+   1 	"konsulent" N ™		"utvikling" N ™			"fag" N
+   1 	"konsistens" N ™		"krem" N
+   1 	"konservering" N ™		"varme" N
+   1 	"konsentrasjon" N ™		"østrogen" N
+   1 	"konsentrasjon" N ™		"natrium" N
+   1 	"konsentrasjon" N ™		"glukose" N
+   1 	"konsentrasjon" N ™		"fluor" N
+   1 	"konsekvens" N ™		"helse" N
+   1 	"konsekvens" N ™		"følge" N
+   1 	"konflikt" N ™		"samliv" N
+   1 	"konflikt" N ™		"rolle" N
+   1 	"konflikt" N ™		"mål" N
+   1 	"kondisjon" N ™		"kretsløp" N
+   1 	"kompresjon" N ™		"bryst" N
+   1 	"komponent" N ™		"nivå" N
+   1 	"komplikasjon" N ™		"svangerskap" N
+   1 	"komplikasjon" N ™		"respirasjon" N
+   1 	"kompetanse" N ™		"metode" N
+   1 	"kompetanse" N ™		"del" N
+   1 	"kompetanse" N ™		"beslutning" N
+   1 	"kommunikasjonsteknologi" N ™		"video" N
+   1 	"kommunikasjon" N ™		"video" N
+   1 	"kommunikasjon" N ™		"helse" N
+   1 	"kommisjon" N ™		"WHO" Use/Circ
+   1 	"kommisjon" N ™		"WHO" N
+   1 	"komfort" N ™		"pasient" N
+   1 	"kokk" N ™		"jord" N
+   1 	"kode" N ™		"tall" N
+   1 	"knute" N ™		"muskel" N
+   1 	"knute" N ™		"lårbein" N
+   1 	"knute" N ™		"AV" Use/Circ
+   1 	"knute" N ™		"AV" N
+   1 	"knepp" N ™		"bak" N
+   1 	"knapp" N ™		"alarm" N
+   1 	"klyster" N ™		"vann" N ™			"salt" N
+   1 	"klubbe" N ™		"medlem" N
+   1 	"klubb" N ™		"medlem" N
+   1 	"klokke" N ™		"puls" N
+   1 	"klipp" N ™		"kort" N
+   1 	"klassifisering" N ™		"standard" N
+   1 	"klassifikasjon" N ™		"NIC" Use/Circ
+   1 	"klapp" N ™		"skulder" N
+   1 	"klaff" N ™		"hjerte" N
+   1 	"kjønn" N ™		"tran" N
+   1 	"kjertel" N ™		"talg" N
+   1 	"kjede" N ™		"hydrokarbon" N
+   1 	"kjede" N ™		"årsak" N
+   1 	"kinn" N ™		"buk" N
+   1 	"kateter" N ™		"vene" N ™			"sentral" N
+   1 	"kateter" N ™		"plast" N
+   1 	"kateter" N ™		"kvinne" N
+   1 	"kateter" N ™		"friksjon" N ™			"lav" N
+   1 	"kategori" N ™		"trykksår" N
+   1 	"kategori" N ™		"svar" N
+   1 	"kategori" N ™		"kjønn" N
+   1 	"katastrofe" N ™		"natur" N
+   1 	"katarr" N ™		"skjede" N
+   1 	"katarr" N ™		"blære" N
+   1 	"kasus" N ™		"pasient" N
+   1 	"kartlegging" N ™		"ernæring" N
+   1 	"kart" N ™		"avføring" N
+   1 	"karse" N ™		"eng" N
+   1 	"kåpe" N ™		"morgen" N
+   1 	"kapasitet" N ™		"reserve" N
+   1 	"kapasitet" N ™		"muskel" N
+   1 	"kapasitet" N ™		"lagring" N
+   1 	"kapasitet" N ™		"absorpsjon" N
+   1 	"kant" N ™		"tallerken" N
+   1 	"kant" N ™		"side" N
+   1 	"kanal" N ™		"vann" N
+   1 	"kamp" N ™		"liv" N
+   1 	"kammer" N ™		"hjerte" N
+   1 	"kake" N ™		"ris" N
+   1 	"kake" N ™		"ri" N
+   1 	"justering" N ™		"kropp" N
+   1 	"journalsystem" N ™		"pasient" N
+   1 	"journal" N ™		"tannhelse" N
+   1 	"journal" N ™		"sykepleie" N
+   1 	"journal" N ™		"ernæring" N
+   1 	"jern" N ™		"serum" N
+   1 	"jekk" N ™		"helse" N
+   1 	"island" N ™		"frø" N
+   1 	"ising" N ™		"organ" N
+   1 	"invasjon" N ™		"bakterie" N
+   1 	"intoleranse" N ™		"gluten" N
+   1 	"intoleranse" N ™		"glukose" N
+   1 	"intervju" N ™		"gruppe" N
+   1 	"instrument" N ™		"vurdering" N ™			"munn" N
+   1 	"instinkt" N ™		"beskyttelse" N
+   1 	"instans" N ™		"behandling" N
+   1 	"inntrykk" N ™		"syn" N
+   1 	"inntrykk" N ™		"hørsel" N
+   1 	"inntak" N ™		"protein" N
+   1 	"inntak" N ™		"næringsstoff" N
+   1 	"inntak" N ™		"fett" N
+   1 	"innskrenkning" N ™		"bevegelse" N
+   1 	"innskrenking" N ™		"bevegelse" N
+   1 	"innsikt" N ™		"konsekvens" N
+   1 	"innleggelse" N ™		"kateter" N
+   1 	"innlegg" N ™		"inkontinens" N
+   1 	"innledning" N ™
+   1 	"innhold" N ™		"protein" N
+   1 	"innhold" N ™		"melatonin" N
+   1 	"innhold" N ™		"mål" N
+   1 	"innhold" N ™		"kalori" N
+   1 	"innhold" N ™		"jobb" N
+   1 	"innhold" N ™		"glukose" N
+   1 	"innhold" N ™		"fag" N
+   1 	"innhold" N ™		"bevissthet" N
+   1 	"innhold" N ™		"betydning" N
+   1 	"innhold" N ™		"begrep" N
+   1 	"innhold" N ™		"bakterie" N
+   1 	"inngrep" N ™		"behandling" N
+   1 	"innehaver" N ™		"rolle" N
+   1 	"inndeling" N ™		"desiliter" N
+   1 	"inkontinens" N ™		"ur" N
+   1 	"infusjon" N ™		"væske" N
+   1 	"informatikk" N ™		"helse" N
+   1 	"informasjon" N ™		"hånd" N ™			"for" N
+   1 	"informant" N ™		"pasient" N
+   1 	"informant" N ™		"nøkkel" N
+   1 	"infeksjon" N ™		"tarm" N
+   1 	"infeksjon" N ™		"sykehus" N
+   1 	"infeksjon" N ™		"kryss" N
+   1 	"infeksjon" N ™		"klamydia" N
+   1 	"infeksjon" N ™		"hals" N
+   1 	"infeksjon" N ™		"hal" N
+   1 	"infeksjon" N ™		"bakterie" N
+   1 	"indeks" N ™		"utvikling" N
+   1 	"identitet" N ™		"sykepleier" N
+   1 	"identitet" N ™		"sykdom" N
+   1 	"identitet" N ™		"hverdag" N
+   1 	"ideal" N ™		"vitenskap" N
+   1 	"ideal" N ™		"menneske" N
+   1 	"ideal" N ™		"helse" N
+   1 	"hygiene" N ™		"tann" N
+   1 	"hygiene" N ™		"næringsmiddel" N
+   1 	"hvile" N ™		"reparasjon" N
+   1 	"hverdag" N ™		"yrke" N
+   1 	"hule" N ™		"nese" N
+   1 	"høyde" N ™		"lår" N
+   1 	"høyde" N ™		"fall" N
+   1 	"høyde" N ™		"ansikt" N
+   1 	"hoste" N ™		"slim" N
+   1 	"hoste" N ™		"irritasjon" N
+   1 	"hormon" N ™		"vev" N
+   1 	"hormon" N ™		"vekst" N
+   1 	"hormon" N ™		"nærhet" N
+   1 	"hormon" N ™		"graviditet" N
+   1 	"hormon" N ™		"bark" N ™			"binyre" N
+   1 	"holme" N ™		"stikk" N
+   1 	"holdning" N ™		"sykepleie" N
+   1 	"hold" N ™		"bil" N
+   1 	"hoff" N ™		"ran" N
+   1 	"hoff" N ™		"blom" N
+   1 	"hode" N ™		"børste" N
+   1 	"hjørne" N ™		"dusj" N
+   1 	"hjem" N ™		"diakonisse" N
+   1 	"hjem" N ™		"diakon" N
+   1 	"hjelpemiddel" N ™		"toalett" N
+   1 	"hjelpemiddel" N ™		"syn" N
+   1 	"hjelpemiddel" N ™		"onani" N
+   1 	"hjelpemiddel" N ™		"kommunikasjon" N
+   1 	"hjelpemiddel" N ™		"inkontinens" N
+   1 	"hjelpemiddel" N ™		"hørsel" N
+   1 	"hjelpemiddel" N ™		"forflytning" N
+   1 	"hjelp" N ™		"ekspert" N
+   1 	"hjelp" N ™		"avføring" N
+   1 	"historikk" N ™		"besøk" N
+   1 	"historie" N ™		"medisin" N
+   1 	"historie" N ™		"kvinne" N
+   1 	"historie" N ™		"helse" N
+   1 	"historie" N ™		"filosofi" N
+   1 	"historie" N ™		"bruker" N
+   1 	"historie" N ™		"bakgrunn" N
+   1 	"hinne" N ™		"nett" N
+   1 	"hinne" N ™		"lunge" N
+   1 	"hinne" N ™		"jomfru" N
+   1 	"hinder" N ™		"avløp" N
+   1 	"hette" N ™		"operasjon" N
+   1 	"hette" N ™		"hårvask" N
+   1 	"hensyn" N ™		"verdi" N
+   1 	"hemning" N ™		"utvikling" N
+   1 	"helsetilbud" N ™		"tann" N
+   1 	"helse" N ™		"munn" N
+   1 	"helse" N ™		"minoritet" N
+   1 	"helse" N ™		"malphabet" N
+   1 	"heis" N ™		"tak" N
+   1 	"hastighet" N ™		"vekt" N
+   1 	"hastighet" N ™		"oppvarming" N
+   1 	"hastighet" N ™		"nedkjøling" N
+   1 	"hastighet" N ™		"luftstrøm" N
+   1 	"hastighet" N ™		"gang" N
+   1 	"hanske" N ™		"vinyl" N
+   1 	"hanske" N ™		"vibrator" N
+   1 	"hanske" N ™		"lateks" N
+   1 	"håndtering" N ™		"symptom" N
+   1 	"håndtak" N ™		"støtte" N
+   1 	"handling" N ™		"plikt" N
+   1 	"handling" N ™		"omsorg" N
+   1 	"håndbok" N ™		"kvalitet" N
+   1 	"håndbok" N ™		"kost" N
+   1 	"håndbok" N ™		"hygiene" N
+   1 	"hals" N ™		"blære" N
+   1 	"gull" N ™		"potet" N
+   1 	"gruppe" N ™		"veiledning" N
+   1 	"gruppe" N ™		"sykepleier" N
+   1 	"gruppe" N ™		"sykdom" N
+   1 	"gruppe" N ™		"refleksjon" N ™			"etikk" N
+   1 	"gruppe" N ™		"kvinne" N
+   1 	"gruppe" N ™		"forskning" N
+   1 	"gruppe" N ™		"aktivitet" N
+   1 	"grunnlag" N ™		"pasient" N
+   1 	"grunnlag" N ™		"handling" N
+   1 	"grunnlag" N ™		"forklaring" N
+   1 	"grunnlag" N ™		"erfaring" N
+   1 	"grunne" N ™		"bekvemmelighet" N
+   1 	"grøt" N ™		"havre" N
+   1 	"grep" N ™		"finger" N
+   1 	"grense" N ™		"smerte" N
+   1 	"grense" N ™		"intimitet" N
+   1 	"grense" N ™		"KMI" Use/Circ
+   1 	"grein" N ™		"bronkie" N
+   1 	"gråt" N ™		"barne" Cmp/null
+   1 	"grad" N ™		"obstruksjon" N
+   1 	"grad" N ™		"enhet" N ™			"våk" N
+   1 	"grad" N ™		"30" Num ™		 Use/Circ"30"
+   1 	"gode" N ™		"basis" N
+   1 	"glukose" N ™		"ualphabet" N
+   1 	"glukose" N ™		"blod" N
+   1 	"glukose" N ™		"Ualphabet" N
+   1 	"glass" N ™		"objekt" N
+   1 	"glass" N ™		"blodprøve" N
+   1 	"gjøring" N ™		"slig" N ™			"kropp" N
+   1 	"gjøremål" N ™		"ADL" Use/Circ
+   1 	"gjest" N ™		"overnatting" N
+   1 	"gjerrighet" N ™		"hevn" N
+   1 	"gjerning" N ™		"sykepleie" N
+   1 	"gjerning" N ™		"kjærlighet" N
+   1 	"gjeng" N ™		"ungdom" N
+   1 	"gevinst" N ™		"million" N
+   1 	"gevinst" N ™		"innsparing" N
+   1 	"garanti" N ™		"service" N
+   1 	"gange" N ™		"melke" N
+   1 	"gange" N ™		"galle" N
+   1 	"gang" N ™		"melke" N
+   1 	"gang" N ™		"galle" N
+   1 	"fyring" N ™		"ved" N
+   1 	"fylling" N ™		"blod" N
+   1 	"fylling" N ™		"blære" N
+   1 	"funksjon" N ™		"yrke" N
+   1 	"funksjon" N ™		"sykepleier" N
+   1 	"funksjon" N ™		"språk" N
+   1 	"funksjon" N ™		"respirasjon" N
+   1 	"funksjon" N ™		"pumpe" N ™			"hjerte" N
+   1 	"funksjon" N ™		"orgasme" N
+   1 	"funksjon" N ™		"nerve" N
+   1 	"funksjon" N ™		"koordinator" N
+   1 	"funksjon" N ™		"knipe" N
+   1 	"funksjon" N ™		"forplantning" N
+   1 	"funksjon" N ™		"feil" N
+   1 	"funksjon" N ™		"arterie" N
+   1 	"frykt" N ™		"fremmed" N
+   1 	"frukt" N ™		"skole" N
+   1 	"fritak" N ™		"godkjenning" N
+   1 	"fremmend" N ™		"velvære" N
+   1 	"fremmend" N ™		"søvn" N
+   1 	"fremmend" N ™		"respirasjon" N
+   1 	"frekvens" N ™		"slag" N
+   1 	"frekvens" N ™		"infeksjon" N
+   1 	"framspring" N ™		"bein" N
+   1 	"frakk" N ™		"beskyttelse" N
+   1 	"fotballag" N ™		"favoritt" N
+   1 	"fot" N ™		"spis" N
+   1 	"foster" N ™		"gutt" N
+   1 	"forverring" N ™		"symptom" N
+   1 	"forum" N ™		"refleksjon" N
+   1 	"fortelling" N ™		"historie" N
+   1 	"forsyning" N ™		"nerve" N
+   1 	"forsyning" N ™		"O" Use/-Spell"2"
+   1 	"forsvar" N ™		"infeksjon" N
+   1 	"forstyrrelse" N ™		"tømming" N ™			"blære" N
+   1 	"forstyrrelse" N ™		"tømming" N
+   1 	"forstyrrelse" N ™		"syn" N
+   1 	"forstyrrelse" N ™		"sirkulasjon" N
+   1 	"forstyrrelse" N ™		"orgasme" N
+   1 	"forstyrrelse" N ™		"ledning" N
+   1 	"forstyrrelse" N ™		"følelse" N
+   1 	"forstyrrelse" N ™		"assosiasjon" N
+   1 	"forstørrelse" N ™		"prostata" N
+   1 	"forstørrelse" N ™		"bryst" N
+   1 	"forståelse" N ™		"system" N
+   1 	"forståelse" N ™		"menneske" N
+   1 	"forståelse" N ™		"grunnlag" N
+   1 	"forståelse" N ™		"for" N
+   1 	"forståelse" N ™		"dybde" N
+   1 	"forsømmelse" N ™		"pleie" N
+   1 	"forsøk" N ™		"tømming" N
+   1 	"forsøk" N ™		"avføring" N
+   1 	"forskning" N ™		"idrett" N
+   1 	"forskning" N ™		"helsetjeneste" N
+   1 	"forskning" N ™		"empati" N
+   1 	"forskning" N ™		"aksjon" N
+   1 	"forskjell" N ™		"søvn" N
+   1 	"forskjell" N ™		"kompetanse" N
+   1 	"forsikring" N ™		"e-helse" N
+   1 	"forordning" N ™		"personvern" N
+   1 	"forordning" N ™		"medisin" N
+   1 	"fornuft" N ™		"handling" N
+   1 	"fornemmelse" N ™		"følelse" N
+   1 	"formulering" N ™		"problem" N
+   1 	"formidling" N ™		"språk" N
+   1 	"formål" N ™		"omsorg" N
+   1 	"formål" N ™		"militær" N
+   1 	"form" N ™		"undersøkelse" N
+   1 	"form" N ™		"tjeneste" N
+   1 	"form" N ™		"servering" N
+   1 	"form" N ™		"pulver" N
+   1 	"form" N ™		"pølse" N
+   1 	"form" N ™		"pille" N
+   1 	"form" N ™		"påstand" N
+   1 	"form" N ™		"dag" N
+   1 	"form" N ™		"applikasjon" N
+   1 	"form" N ™		"administrasjon" N
+   1 	"forløp" N ™		"rehabilitering" N
+   1 	"forløp" N ™		"krise" N
+   1 	"forløp" N ™		"hendelse" N
+   1 	"føring" N ™		"kurve" N
+   1 	"forhøyelse" N ™		"temperatur" N
+   1 	"forhold" N ™		"venninne" N
+   1 	"forhold" N ™		"temperatur" N
+   1 	"forhold" N ™		"støy" N
+   1 	"forhold" N ™		"oppvekst" N
+   1 	"forhold" N ™		"livsstil" N
+   1 	"forhold" N ™		"kjærlighet" N
+   1 	"forhold" N ™		"kjæreste" N
+   1 	"forhold" N ™		"ernæring" N
+   1 	"forhold" N ™		"bygning" N
+   1 	"forgiftning" N ™		"svangerskap" N
+   1 	"forgiftning" N ™		"mat" N
+   1 	"forespørsel" N ™		"kontakt" N
+   1 	"forening" N ™		"tannlege" N
+   1 	"forening" N ™		"pasient" N
+   1 	"forening" N ™		"interesse" N
+   1 	"forening" N ™		"folkehelse" N
+   1 	"forening" N ™		"brystkreft" N
+   1 	"forelder" N ™		"innvandrer" N
+   1 	"forebygging" N ™		"trykksår" N
+   1 	"forebygging" N ™		"infeksjon" N
+   1 	"føre" N ™		"logg" N
+   1 	"fordeling" N ™		"luft" N
+   1 	"fordeling" N ™		"helse" N
+   1 	"fordeling" N ™		"fin" N
+   1 	"forbund" N ™		"sykepleier" N
+   1 	"forbund" N ™		"allergi" N
+   1 	"forbund" N ™		"MS" Use/Circ
+   1 	"forbund" N ™		"MS" N
+   1 	"forbud" N ™		"lov" N
+   1 	"forbruk" N ™		"tid" N
+   1 	"forbruk" N ™		"sukker" N
+   1 	"forbruk" N ™		"helsetjeneste" N
+   1 	"forbruk" N ™		"gjennomsnitt" N
+   1 	"forberedelse" N ™		"vinter" N
+   1 	"forbedring" N ™		"tjeneste" N
+   1 	"forbedring" N ™		"funksjon" N
+   1 	"forankring" N ™		"ledelse" N
+   1 	"forandring" N ™		"trykk" N
+   1 	"forandring" N ™		"temperatur" N
+   1 	"forandring" N ™		"søvn" N
+   1 	"forandring" N ™		"miljø" N
+   1 	"forandring" N ™		"ledd" N
+   1 	"forandring" N ™		"kropp" N
+   1 	"forandring" N ™		"hormon" N
+   1 	"forandring" N ™		"funksjon" N
+   1 	"font" N ™		"normal" N
+   1 	"følsomhet" N ™		"smerte" N
+   1 	"folk" N ™		"lek" N
+   1 	"følelse" N ™		"varme" N
+   1 	"følelse" N ™		"tretthet" N
+   1 	"følelse" N ™		"mestring" N
+   1 	"følelse" N ™		"mage" N
+   1 	"følelse" N ™		"frihet" N
+   1 	"følelse" N ™		"fin" N
+   1 	"følelse" N ™		"ensomhet" N
+   1 	"følelse" N ™		"avhengighet" N
+   1 	"fold" N ™		"slimhinne" N
+   1 	"fokusering" N ™		"produktivitet" N
+   1 	"fokus" N ™		"sykepleie" N
+   1 	"fødsel" N ™		"barne" Cmp/null
+   1 	"fløyte" N ™		"PEP" Use/Circ
+   1 	"flor" N ™		"normal" N
+   1 	"flor" N ™		"bakterie" N
+   1 	"flate" N ™		"utveksling" N ™			"gass" N
+   1 	"flate" N ™		"tann" N
+   1 	"flate" N ™		"sår" N
+   1 	"flate" N ™		"diffusjon" N
+   1 	"fjerning" N ™		"hår" N
+   1 	"fiske" N ™		"flue" N
+   1 	"finger" N ™		"stikke" N ™			"tromme" N
+   1 	"filter" N ™		"kull" N
+   1 	"filosofi" N ™		"styring" N
+   1 	"filosofi" N ™		"moral" N
+   1 	"filosofi" N ™		"erkjennelse" N
+   1 	"filosof" N ™		"omsorg" N
+   1 	"filosof" N ™		"moral" N
+   1 	"film" N ™		"fett" N
+   1 	"figur" N ™		"plysj" N
+   1 	"fiber" N ™		"nerve" N
+   1 	"fett" N ™		"hud" N
+   1 	"ferdighet" N ™		"språk" N
+   1 	"ferdighet" N ™		"skole" N
+   1 	"ferdighet" N ™		"samhandling" N
+   1 	"ferdighet" N ™		"gang" N
+   1 	"fenomen" N ™		"sykepleie" N
+   1 	"felt" N ™		"omsorg" N
+   1 	"fellesskap" N ™		"sykepleier" N
+   1 	"fellesskap" N ™		"måltid" N
+   1 	"fellesskap" N ™		"kommunikasjon" N
+   1 	"feil" N ™		"medisinering" N
+   1 	"feil" N ™		"legemiddel" N
+   1 	"fasong" N ™		"kropp" N
+   1 	"fasong" N ™		"bleie" N
+   1 	"fase" N ™		"retur" N
+   1 	"fase" N ™		"inflammasjon" N
+   1 	"fase" N ™		"feber" N
+   1 	"fase" N ™		"empati" N
+   1 	"fase" N ™		"REM" Use/Circ
+   1 	"farge" N ™		"urin" N
+   1 	"fare" N ™		"uer" N
+   1 	"fare" N ™		"trombose" N
+   1 	"fare" N ™		"komplikasjon" N
+   1 	"fare" N ™		"helse" N
+   1 	"far" N ™		"uer" N
+   1 	"fantasi" N ™		"feber" N
+   1 	"fall" N ™		"østrogen" N
+   1 	"faktor" N ™		"motivasjon" N
+   1 	"faktor" N ™		"mestring" N
+   1 	"faktor" N ™		"makt" N
+   1 	"faktor" N ™		"årsak" N
+   1 	"faggruppe" N ™		"interesse" N
+   1 	"evne" N ™		"ytelse" N
+   1 	"evne" N ™		"tømming" N ™			"blære" N
+   1 	"evne" N ™		"tilknytning" N
+   1 	"evne" N ™		"reproduksjon" N
+   1 	"evne" N ™		"persepsjon" N
+   1 	"evne" N ™		"forplantning" N
+   1 	"evne" N ™		"forestilling" N
+   1 	"evne" N ™		"egenomsorg" N
+   1 	"evne" N ™		"bevegelse" N
+   1 	"evne" N ™		"balanse" N
+   1 	"evaluering" N ™		"produkt" N
+   1 	"evaluering" N ™		"midt" N
+   1 	"etikk" N ™		"sykepleie" N
+   1 	"etikk" N ™		"situasjon" N
+   1 	"etikk" N ™		"profesjon" N
+   1 	"erme" N ™		"genser" N
+   1 	"erklæring" N ™		"prinsipp" N
+   1 	"erfaring" N ™		"sykepleie" N
+   1 	"erfaring" N ™		"praksis" N
+   1 	"erfaring" N ™		"grunn" N
+   1 	"erfaring" N ™		"bruker" N
+   1 	"ereksjon" N ™		"vakuum" N
+   1 	"ereksjon" N ™		"morgen" N
+   1 	"epoke" N ™		"ralphabet" N
+   1 	"episode" N ™		"inkontinens" N
+   1 	"episode" N ™		"avføring" N
+   1 	"epikrise" N ™		"sykepleie" N
+   1 	"epidemi" N ™		"fedme" N
+   1 	"enter" N ™		"respons" N
+   1 	"enter" N ™		"konsul" N ™			"utvikling" N ™				"fag" N
+   1 	"enhet" N ™		"ur" N
+   1 	"enhet" N ™		"rehabilitering" N
+   1 	"enhet" N ™		"kompetanse" N
+   1 	"endring" N ™		"puls" N
+   1 	"endring" N ™		"praksis" N
+   1 	"endring" N ™		"leie" N
+   1 	"endring" N ™		"kvalitet" N
+   1 	"endring" N ™		"kultur" N
+   1 	"endring" N ™		"blodtrykk" N
+   1 	"ending" N ™		"overs" N
+   1 	"ende" N ™		"utsig" N ™			"for" N
+   1 	"ende" N ™		"topp" N ™			"for" N
+   1 	"ende" N ™		"svar" N ™			"saks" N
+   1 	"ende" N ™		"svar" N ™			"sak" N
+   1 	"ende" N ™		"streng" N ™			"behandling" N
+   1 	"ende" N ™		"streng" N ™			"behandle" Ex/V
+   1 	"ende" N ™		"stopp" N ™			"for" N
+   1 	"ende" N ™		"nærvær" N
+   1 	"ende" N ™		"mottak" N
+   1 	"ende" N ™		"likn" N ™			"slim" N
+   1 	"ende" N ™		"likn" N ™			"sel" N
+   1 	"ende" N ™		"likn" N ™			"morfin" N
+   1 	"ende" N ™		"likn" N ™			"menneske" N
+   1 	"ende" N ™		"brudd" N
+   1 	"emne" N ™		"tabu" N
+   1 	"emne" N ™		"føde" N
+   1 	"element" N ™		"fremmed" N
+   1 	"ekspert" N ™		"ernæring" N
+   1 	"eksempel" N ™		"pasient" N
+   1 	"effekt" N ™		"trening" N
+   1 	"effekt" N ™		"gjenkjennelse" N
+   1 	"eddik" N ™		"husholdning" N
+   1 	"dusj" N ™		"hånd" N
+   1 	"drikke" N ™		"energi" N
+   1 	"drag" N ™		"muskel" N
+   1 	"dosering" N ™		"insulin" N
+   1 	"dose" N ™		"medisin" N
+   1 	"dokument" N ™		"papir" N
+   1 	"dødsfall" N ™		"overdose" N
+   1 	"dødelighet" N ™		"barne" Cmp/null
+   1 	"diskriminering" N ™		"alder" N
+   1 	"disiplin" N ™		"vitenskap" N
+   1 	"disiplin" N ™		"fag" N
+   1 	"disiplin" N ™		"basis" N
+   1 	"direktiv" N ™		"EU" Use/Circ
+   1 	"direktiv" N ™		"EU" N
+   1 	"dimensjon" N ™		"tid" N
+   1 	"dimensjon" N ™		"handling" N
+   1 	"diett" N ™		"eksklusjon" N
+   1 	"diaré" N ™		"turist" N
+   1 	"diagnostisering" N ™		"feil" N
+   1 	"diagnose" N ™		"sår" N
+   1 	"diagnose" N ™		"feil" N
+   1 	"diagnose" N ™		"ICNP" Use/Circ
+   1 	"design" N ™		"produkt" N
+   1 	"demokrati" N ™		"samfunn" N
+   1 	"demens" N ™		"alder" N
+   1 	"deltaker" N ™		"prosjekt" N
+   1 	"deltakelse" N ™		"pasient" N
+   1 	"deling" N ™		"fin" N
+   1 	"deklarasjon" N ™		"innhold" N
+   1 	"dekking" N ™		"bor" N
+   1 	"definisjon" N ™		"minimum" N
+   1 	"defekt" N ™		"enzym" N
+   1 	"debut" N ™		"sykdom" N
+   1 	"datum" N ™		"tillegg" N
+   1 	"datum" N ™		"pasient" N
+   1 	"datum" N ™		"kontakt" N
+   1 	"datum" N ™		"helse" N
+   1 	"database" N ™		"forskning" N
+   1 	"danning" N ™		"par" N
+   1 	"dannelse" N ™		"trombose" N
+   1 	"dannelse" N ™		"streng" N
+   1 	"dannelse" N ™		"arr" N
+   1 	"dame" N ™		"nabo" N
+   1 	"dagbok" N ™		"mat" N
+   1 	"dagbok" N ™		"helse" N
+   1 	"cent" N ™		"vin" N
+   1 	"celle" N ™		"termostat" N
+   1 	"celle" N ™		"lukt" N
+   1 	"celle" N ™		"hud" N
+   1 	"celle" N ™		"epitel" N ™			"plate" N
+   1 	"byrde" N ™		"ansvar" N
+   1 	"byrd" N ™		"ansvar" N
+   1 	"bunn" N ™		"hode" N
+   1 	"bunn" N ™		"blære" N
+   1 	"budsjett" N ™		"mat" N
+   1 	"brukerundersøkelse" N ™		"for" N
+   1 	"bruk" N ™		"teknologi" N
+   1 	"bruk" N ™		"maske" N
+   1 	"bruk" N ™		"makt" N
+   1 	"bruk" N ™		"kondom" N
+   1 	"bruk" N ™		"klyster" N
+   1 	"bruk" N ™		"bilde" N
+   1 	"bruk" N ™		"antibiotika" N
+   1 	"brudd" N ™		"ribbein" N
+   1 	"brudd" N ™		"arm" N
+   1 	"brokk" N ™		"ryggmarg" N
+   1 	"brille" N ™		"oksygen" N
+   1 	"brev" N ™		"utskriving" N
+   1 	"brett" N ™		"nattbord" N
+   1 	"bransje" N ™		"senter" N ™			"trening" N
+   1 	"bransje" N ™		"matvare" N
+   1 	"botulisme" N ™		"spedbarn" N
+   1 	"bøtte" N ™		"avfall" N
+   1 	"bord" N ™		"operasjon" N
+   1 	"bord" N ™		"mat" N
+   1 	"bord" N ™		"kaffe" N
+   1 	"bord" N ™		"frokost" N
+   1 	"bønn" N ™		"bord" N
+   1 	"bønn" N ™		"aften" N
+   1 	"bolle" N ™		"sølv" N
+   1 	"bølge" N ™		"varme" N
+   1 	"bølge" N ™		"reform" N
+   1 	"boks" N ™		"varme" N
+   1 	"bluse" N ™		"sommer" N
+   1 	"blødning" N ™		"menstruasjon" N
+   1 	"blødning" N ™		"hud" N
+   1 	"blod" N ™		"vene" N
+   1 	"blod" N ™		"nese" N
+   1 	"blod" N ™		"giver" N
+   1 	"blad" N ™		"skjære" N
+   1 	"bivirkning" N ™		"legemiddel" N
+   1 	"biologi" N ™		"celle" N
+   1 	"bind" N ™		"inkontinens" N
+   1 	"bilde" N ™		"trafikk" N
+   1 	"bilde" N ™		"profil" N
+   1 	"bilde" N ™		"omsorg" N
+   1 	"bilde" N ™		"hormon" N
+   1 	"bilde" N ™		"del" N
+   1 	"bilde" N ™		"barndom" N
+   1 	"bibliotek" N ™		"forskning" N
+   1 	"bevegelse" N ™		"buk" N
+   1 	"bevegelse" N ™		"bein" N
+   1 	"bevegelighet" N ™		"legg" N
+   1 	"betydning" N ™		"tillegg" N
+   1 	"betingelse" N ™		"oppbevaring" N
+   1 	"betennelse" N ™		"kjøtt" N ™			"tann" N
+   1 	"betennelse" N ™		"hinne" N ™			"hjerne" N
+   1 	"betennelse" N ™		"hinne" N ™			"buk" N
+   1 	"besvær" N ™		"gang" N
+   1 	"bestråling" N ™		"sol" N
+   1 	"bestemmelse" N ™		"problem" N
+   1 	"besøk" N ™		"tannlege" N
+   1 	"besøk" N ™		"lege" N
+   1 	"beskytter" N ™		"hofte" N
+   1 	"beskyttelse" N ™		"lov" N
+   1 	"beskrivelse" N ™		"symptom" N
+   1 	"beskrivelse" N ™		"prosedyre" N
+   1 	"beskrivelse" N ™		"metode" N
+   1 	"beskjeftigelse" N ™		"yndling" N
+   1 	"berg" N ™		"rom" N
+   1 	"benk" N ™		"kjøkken" N
+   1 	"belegg" N ™		"bakterie" N
+   1 	"belastning" N ™		"symptom" N
+   1 	"belastning" N ™		"arbeidsmiljø" N
+   1 	"bekreftelse" N ™		"kjønn" N
+   1 	"bekk" N ™		"spiss" N
+   1 	"bekk" N ™		"spis" N
+   1 	"bekk" N ™		"puss" N
+   1 	"bekk" N ™		"pus" N
+   1 	"bekk" N ™		"barne" Cmp/null
+   1 	"bekjempelse" N ™		"fattigdom" N
+   1 	"bein" N ™		"tann" N
+   1 	"bein" N ™		"kors" N
+   1 	"bein" N ™		"kor" N
+   1 	"behov" N ™		"vitamin" N ™			"dalphabet" N
+   1 	"behov" N ™		"vitamin" N ™			"Dalphabet" N
+   1 	"behov" N ™		"trygghet" N
+   1 	"behov" N ™		"sykepleie" N
+   1 	"behov" N ™		"salt" N
+   1 	"behov" N ™		"oppfølging" N
+   1 	"behov" N ™		"læring" N
+   1 	"behov" N ™		"kvalitetsutvikling" N
+   1 	"behov" N ™		"kostnad" N
+   1 	"behov" N ™		"kosthold" N
+   1 	"behov" N ™		"kontakt" N
+   1 	"behov" N ™		"kateter" N
+   1 	"behov" N ™		"fellesskap" N
+   1 	"behov" N ™		"behandling" N
+   1 	"behov" N ™		"D-vitamin" N
+   1 	"beholder" N ™		"oppsamling" N
+   1 	"behandling" N ™		"velvære" N
+   1 	"behandling" N ™		"symptom" N
+   1 	"behandling" N ™		"sykepleie" N
+   1 	"behandling" N ™		"rutine" N
+   1 	"behandling" N ™		"østrogen" N
+   1 	"behandling" N ™		"miljø" N
+   1 	"behandling" N ™		"maske" N
+   1 	"behandling" N ™		"ernæring" N
+   1 	"behandling" N ™		"byggesak" N
+   1 	"behandling" N ™		"anfall" N
+   1 	"behandling" N ™		"MONA" Use/Circ
+   1 	"behandling" N ™		"IVF" Use/Circ
+   1 	"begrep" N ™		"verdi" N
+   1 	"begrep" N ™		"verden" N ™			"liv" N
+   1 	"begrep" N ™		"trygghet" N
+   1 	"begrep" N ™		"sykepleie" N
+   1 	"begrep" N ™		"standard" N
+   1 	"begrep" N ™		"profesjon" N
+   1 	"begrep" N ™		"pasient" N
+   1 	"begrep" N ™		"nøkkel" N
+   1 	"begrep" N ™		"mening" N
+   1 	"begrep" N ™		"folkehelse" N
+   1 	"begrep" N ™		"felle" N
+   1 	"begrep" N ™		"evidens" N
+   1 	"begrep" N ™		"egenomsorg" N
+   1 	"bedrift" N ™		"industri" N
+   1 	"basis" N ™		"verden" N
+   1 	"base" N ™		"EM" Use/Circ
+   1 	"base" N ™		"EM" N
+   1 	"bark" N ™		"binyre" N
+   1 	"bar" N ™		"tål" N
+   1 	"bar" N ™		"kontroller" N
+   1 	"bandasje" N ™		"skum" N
+   1 	"bånd" N ™		"nettverk" N
+   1 	"bånd" N ™		"mål" N
+   1 	"bånd" N ™		"ledd" N
+   1 	"bånd" N ™		"feste" N
+   1 	"bånd" N ™		"blod" N
+   1 	"balle" N ™		"sete" N
+   1 	"ball" N ™		"strikk" N
+   1 	"ball" N ™		"sete" N
+   1 	"balanse" N ™		"kalsium" N
+   1 	"balanse" N ™		"kalium" N
+   1 	"balanse" N ™		"døgn" N
+   1 	"bakterie" N ™		"tykktarm" N
+   1 	"bakterie" N ™		"syre" N ™			"melke" N
+   1 	"bakgrunn" N ™		"kunnskap" N
+   1 	"bakgrunn" N ™		"forståelse" N
+   1 	"bakgrunn" N ™		"erfaring" N
+   1 	"avvik" N ™		"helse" N
+   1 	"avtale" N ™		"IA" Use/Circ
+   1 	"avslutning" N ™		"liv" N
+   1 	"avkok" N ™		"byggryn" N
+   1 	"avhandling" N ™		"magister" N
+   1 	"avfall" N ™		"hår" N
+   1 	"avdeling" N ™		"hud" N
+   1 	"avdeling" N ™		"demens" N
+   1 	"avdeling" N ™		"aktivitet" N
+   1 	"autonomi" N ™		"pasient" N
+   1 	"automat" N ™		"sjokolade" N
+   1 	"automat" N ™		"medisinering" N
+   1 	"atrofi" N ™		"tunge" N
+   1 	"atferd" N ™		"sykdom" N
+   1 	"atferd" N ™		"smerte" N
+   1 	"atferd" N ™		"pasient" N
+   1 	"atferd" N ™		"drikke" N
+   1 	"assistanse" N ™		"språk" N
+   1 	"aspekt" N ™		"hygiene" N
+   1 	"aspekt" N ™		"helse" N
+   1 	"aspekt" N ™		"handling" N
+   1 	"aspekt" N ™		"atferd" N
+   1 	"artikkel" N ™		"oversikt" N
+   1 	"artikkel" N ™		"debatt" N
+   1 	"arterie" N ™		"lunge" N
+   1 	"årsjubileum" N ™		"40" Num ™		 Use/Circ"40"
+   1 	"årsdag" N ™		"70" Num ™		 Use/Circ"70"
+   1 	"åring" N ™		"7" Num ™		 Use/Circ"7"
+   1 	"åring" N ™		"4" Num ™		 Use/Circ"4"
+   1 	"åring" N ™		"19" Num ™		 Use/Circ"19"
+   1 	"åring" N ™		"15" Num ™		 Use/Circ"15"
+   1 	"arena" N ™		"kontakt" N
+   1 	"arbeider" N ™		"skift" N
+   1 	"arbeide" N ™		"sykepleie" N
+   1 	"arbeide" N ™		"støtte" N
+   1 	"arbeide" N ™		"sorg" N
+   1 	"arbeide" N ™		"helsefag" N
+   1 	"arbeide" N ™		"evaluering" N
+   1 	"arbeide" N ™		"endring" N
+   1 	"arbeid" N ™		"tydning" N
+   1 	"arbeid" N ™		"team" N
+   1 	"arbeid" N ™		"sykepleie" N
+   1 	"arbeid" N ™		"støtte" N
+   1 	"arbeid" N ™		"sorg" N
+   1 	"arbeid" N ™		"kveld" N
+   1 	"arbeid" N ™		"kvalitetssikring" N
+   1 	"arbeid" N ™		"kvalitet" N
+   1 	"arbeid" N ™		"hygiene" N
+   1 	"arbeid" N ™		"helsefag" N
+   1 	"arbeid" N ™		"evaluering" N
+   1 	"applikasjon" N ™		"nettbrett" N
+   1 	"applikasjon" N ™		"helse" N
+   1 	"apparat" N ™		"surstoff" N
+   1 	"apparat" N ™		"omsorg" N
+   1 	"apparat" N ™		"massasje" N
+   1 	"apparat" N ™		"husholdning" N
+   1 	"apparat" N ™		"blodsukker" N
+   1 	"apparat" N ™		"bevegelse" N
+   1 	"åpning" N ™		"nese" N
+   1 	"anvendelse" N ™		"IKT" Use/Circ
+   1 	"anvendelse" N ™		"IKT" N
+   1 	"anstrengelse" N ™		"muskel" N
+   1 	"anskuelse" N ™		"verden" N
+   1 	"ansatt" N ™		"pleie" N
+   1 	"ansamling" N ™		"kolesterol" N
+   1 	"ansamling" N ™		"blod" N
+   1 	"annonse" N ™		"avis" N
+   1 	"angst" N ™		"død" N
+   1 	"angiver" N ™		"tid" N
+   1 	"angivelse" N ™		"tall" N
+   1 	"angivelse" N ™		"grad" N
+   1 	"anfall" N ™		"tein" N ™			"galle" N
+   1 	"anfall" N ™		"stein" N ™			"galle" N
+   1 	"anfall" N ™		"latter" N
+   1 	"anfall" N ™		"hoste" N
+   1 	"analyse" N ™		"urin" N
+   1 	"analyse" N ™		"hormon" N
+   1 	"amputasjon" N ™		"bryst" N
+   1 	"amin" N ™		"styr" N ™			"kole" N
+   1 	"alter" N ™		"mineral" N
+   1 	"alter" N ™		"kalium" N
+   1 	"alter" N ™		"fosfat" N ™			"natrium" N
+   1 	"allergi" N ™		"protein" N ™			"melke" N
+   1 	"allergi" N ™		"matvare" N
+   1 	"allergi" N ™		"lateks" N
+   1 	"allergi" N ™		"kryss" N
+   1 	"alder" N ™		"ungdomsskole" N
+   1 	"alder" N ™		"ungdom" N
+   1 	"alder" N ™		"tiår" N
+   1 	"alder" N ™		"lav" N
+   1 	"albumin" N ™		"ualphabet" N
+   1 	"albumin" N ™		"Ualphabet" N
+   1 	"alarm" N ™		"truse" N
+   1 	"alarm" N ™		"overvåking" N
+   1 	"alarm" N ™		"fall" N
+   1 	"aktivitet" N ™		"reise" N
+   1 	"aktivitet" N ™		"pasient" N
+   1 	"aktivitet" N ™		"hverdag" N
+   1 	"aktivitet" N ™		"hjerte" N
+   1 	"aksjon" N ™		"hjerte" N
+   1 	"?" CLB ™	"teknologi" N ™		"velferd" N
+   1 	"?" CLB ™	"status" N ™		"ernæring" N
+   1 	"?" CLB ™	"opplysning" N ™		"person" N
+   1 	"?" CLB ™	"gruppe" N ™		"matvare" N
+   1 	"?" CLB ™	"fremmend" N ™		"helse" N
+   1 	"?" CLB ™	"direktorat" N ™		"helse" N
+   1 	"?" CLB ™	"beskrivelse" N ™		"situasjon" N
+   1 	":" CLB ™	"vekt" N ™		"kropp" N
+   1 	":" CLB ™	"tokt" N ™		"hete" N
+   1 	":" CLB ™	"tilbud" N ™		"mat" N
+   1 	":" CLB ™	"stråling" N ™		"varme" N
+   1 	":" CLB ™	"skade" N ™		"vev" N
+   1 	":" CLB ™	"skade" N ™		"ryggmarg" N
+   1 	":" CLB ™	"plan" N ™		"pleie" N
+   1 	":" CLB ™	"person" N ™		"forankring" N
+   1 	":" CLB ™	"orientering" N ™		"relasjon" N
+   1 	":" CLB ™	"nivå" N ™		"bevissthet" N
+   1 	":" CLB ™	"middel" N ™		"tykning" N ™			"for" N
+   1 	":" CLB ™	"maskin" N ™		"rengjøring" N ™			"robot" N
+   1 	":" CLB ™	"maske" N ™		"PEP" Use/Circ
+   1 	":" CLB ™	"kvalitet" N ™		"bo" N
+   1 	":" CLB ™	"kontroll" N ™		"stimulus" N
+   1 	":" CLB ™	"inkontinens" N ™		"urin" N
+   1 	":" CLB ™	"hode" N ™		"bak" N
+   1 	":" CLB ™	"hjelp" N ™		"helse" N
+   1 	":" CLB ™	"folk" N ™		"lek" N
+   1 	":" CLB ™	"fase" N ™		"kulde" N
+   1 	":" CLB ™	"evne" N ™		"orientering" N
+   1 	":" CLB ™	"drakt" N ™		"robot" N
+   1 	":" CLB ™	"detektor" N ™		"fall" N
+   1 	":" CLB ™	"bilde" N ™		"kropp" N
+   1 	"." CLB ™	"yrke" N ™		"lege" N
+   1 	"." CLB ™	"volum" N ™		"minutt" N
+   1 	"." CLB ™	"vogn" N ™		"mat" N
+   1 	"." CLB ™	"vitenskap" N ™		"sykepleie" N
+   1 	"." CLB ™	"virksomhet" N ™		"tanke" N
+   1 	"." CLB ™	"virksomhet" N ™		"helse" N
+   1 	"." CLB ™	"vesen" N ™		"helse" N
+   1 	"." CLB ™	"versjon" N ™		"hoved" N
+   1 	"." CLB ™	"verktøy" N ™		"kartlegging" N
+   1 	"." CLB ™	"verdi" N ™		"omsorg" N
+   1 	"." CLB ™	"verdi" N ™		"blod" N
+   1 	"." CLB ™	"verdi" N ™		"KMI" Use/Circ
+   1 	"." CLB ™	"ventilasjon" N ™		"minutt" N
+   1 	"." CLB ™	"vekt" N ™		"under" N
+   1 	"." CLB ™	"vekt" N ™		"kropp" N
+   1 	"." CLB ™	"veiledning" N ™		"kosthold" N
+   1 	"." CLB ™	"veiledning" N ™		"kost" N
+   1 	"." CLB ™	"væske" N ™		"sæd" N
+   1 	"." CLB ™	"væske" N ™		"ernæring" N
+   1 	"." CLB ™	"varme" N ™		"kropp" N
+   1 	"." CLB ™	"vanske" N ™		"tale" N
+   1 	"." CLB ™	"vanske" N ™		"kommunikasjon" N
+   1 	"." CLB ™	"vanske" N ™		"hørsel" N
+   1 	"." CLB ™	"vann" N ™		"salt" N
+   1 	"." CLB ™	"vane" N ™		"mat" N
+   1 	"." CLB ™	"vane" N ™		"drikke" N
+   1 	"." CLB ™	"utvikling" N ™		"teori" N
+   1 	"." CLB ™	"utvikling" N ™		"sykdom" N
+   1 	"." CLB ™	"utvikling" N ™		"pubertet" N
+   1 	"." CLB ™	"utvidelse" N ™		"vene" N
+   1 	"." CLB ™	"uttrykk" N ™		"symptom" N
+   1 	"." CLB ™	"utstyr" N ™		"inkontinens" N
+   1 	"." CLB ™	"utskilling" N ™		"varme" N
+   1 	"." CLB ™	"utskilling" N ™		"karbondioksid" N
+   1 	"." CLB ™	"utøvelse" N ™		"sykepleie" N
+   1 	"." CLB ™	"utfoldelse" N ™		"aktivitet" N
+   1 	"." CLB ™	"urin" N ™		"natt" N
+   1 	"." CLB ™	"urin" N ™		"døgn" N
+   1 	"." CLB ™	"ur" N ™		"kontrakt" N ™			"ledd" N
+   1 	"." CLB ™	"undersøkelse" N ™		"røntgen" N
+   1 	"." CLB ™	"undersøkelse" N ™		"funksjon" N ™			"lunge" N
+   1 	"." CLB ™	"undersøkelse" N ™		"EKG" N
+   1 	"." CLB ™	"type" N ™		"kateter" N
+   1 	"." CLB ™	"type" N ™		"hud" N
+   1 	"." CLB ™	"type" N ™		"bakterie" N
+   1 	"." CLB ™	"trykk" N ™		"under" N
+   1 	"." CLB ™	"trykk" N ™		"buk" N
+   1 	"." CLB ™	"trening" N ™		"utholdenhet" N
+   1 	"." CLB ™	"tråd" N ™		"kos" N
+   1 	"." CLB ™	"tjeneste" N ™		"hjemmesykepleie" N
+   1 	"." CLB ™	"tilstand" N ™		"feber" N
+   1 	"." CLB ™	"tilstand" N ™		"ernæring" N
+   1 	"." CLB ™	"tilstand" N ™		"bevissthet" N
+   1 	"." CLB ™	"tilskudd" N ™		"kost" N
+   1 	"." CLB ™	"tilhørighet" N ™		"gruppe" N
+   1 	"." CLB ™	"tilbud" N ™		"bleie" N
+   1 	"." CLB ™	"tetthet" N ™		"energi" N
+   1 	"." CLB ™	"test" N ™		"veiing" N ™			"bleie" N
+   1 	"." CLB ™	"terapi" N ™		"samtale" N
+   1 	"." CLB ™	"terapi" N ™		"par" N
+   1 	"." CLB ™	"teori" N ™		"tilknytning" N
+   1 	"." CLB ™	"teori" N ™		"buffer" N
+   1 	"." CLB ™	"temperatur" N ™		"vann" N
+   1 	"." CLB ™	"temperatur" N ™		"kjerne" N
+   1 	"." CLB ™	"temperatur" N ™		"hud" N
+   1 	"." CLB ™	"telefon" N ™		"vakt" N
+   1 	"." CLB ™	"teknologi" N ™		"sensor" N
+   1 	"." CLB ™	"teknologi" N ™		"lokalisering" N
+   1 	"." CLB ™	"tapet" N ™		"varme" N
+   1 	"." CLB ™	"tannbørste" N ™		"solo" N
+   1 	"." CLB ™	"tann" N ™		"under" N
+   1 	"." CLB ™	"tall" N ™		"bakterie" N
+   1 	"." CLB ™	"system" N ™		"respirasjon" N
+   1 	"." CLB ™	"system" N ™		"pumpe" N ™			"vene" N
+   1 	"." CLB ™	"syre" N ™		"fosfor" N
+   1 	"." CLB ™	"syre" N ™		"eple" N
+   1 	"." CLB ™	"symptom" N ™		"obstruksjon" N
+   1 	"." CLB ™	"symptom" N ™		"lagring" N
+   1 	"." CLB ™	"symptom" N ™		"alarm" N
+   1 	"." CLB ™	"syklus" N ™		"søvn" N
+   1 	"." CLB ™	"sykepleier" N ™		"kontakt" N
+   1 	"." CLB ™	"sykepleie" N ™		"kreft" N
+   1 	"." CLB ™	"sykepleie" N ™		"kontakt" N
+   1 	"." CLB ™	"sykdom" N ™		"pest" N
+   1 	"." CLB ™	"svar" N ™		"analyse" N
+   1 	"." CLB ™	"stykke" N ™		"såpe" N
+   1 	"." CLB ™	"strange" N ™		"avføring" N
+   1 	"." CLB ™	"støy" N ™		"bakgrunn" N
+   1 	"." CLB ™	"støtte" N ™		"beslutning" N
+   1 	"." CLB ™	"størrelse" N ™		"kateter" N
+   1 	"." CLB ™	"stol" N ™		"do" N
+   1 	"." CLB ™	"stilling" N ™		"sykepleier" N ™			"fag" N
+   1 	"." CLB ™	"stadium" N ™		"søvn" N
+   1 	"." CLB ™	"stad" N ™		"grend" N
+   1 	"." CLB ™	"spiss" N ™		"kateter" N
+   1 	"." CLB ™	"spenning" N ™		"muskel" N
+   1 	"." CLB ™	"søvn" N ™		"NREM" Use/Circ
+   1 	"." CLB ™	"smerte" N ™		"sår" N
+   1 	"." CLB ™	"smerte" N ™		"luft" N
+   1 	"." CLB ™	"slag" N ™		"hete" N
+   1 	"." CLB ™	"skyllemiddel" N ™		"munn" N
+   1 	"." CLB ™	"skur" N ™		"samliv" N
+   1 	"." CLB ™	"skjema" N ™		"evaluering" N
+   1 	"." CLB ™	"skjema" N ™		"PICO" Use/Circ
+   1 	"." CLB ™	"skala" N ™		"risikovurdering" N
+   1 	"." CLB ™	"skade" N ™		"trykk" N
+   1 	"." CLB ™	"sirkel" N ™		"behandling" N
+   1 	"." CLB ™	"setting" N ™		"klyster" N
+   1 	"." CLB ™	"senter" N ™		"regulering" N ™			"temperatur" N
+   1 	"." CLB ™	"senter" N ™		"brekning" N
+   1 	"." CLB ™	"seng" N ™		"institusjon" N
+   1 	"." CLB ™	"seksualisme" N ™		"tran" N
+   1 	"." CLB ™	"sekresjon" N ™		"spytt" N
+   1 	"." CLB ™	"sans" N ™		"temperatur" N
+   1 	"." CLB ™	"sans" N ™		"smerte" N
+   1 	"." CLB ™	"sans" N ™		"ledd" N
+   1 	"." CLB ™	"samtale" N ™		"kost" N
+   1 	"." CLB ™	"samling" N ™		"gruppe" N ™			"minne" N
+   1 	"." CLB ™	"samler" N ™		"dråpe" N
+   1 	"." CLB ™	"samhold" N ™		"familie" N
+   1 	"." CLB ™	"saft" N ™		"mage" N
+   1 	"." CLB ™	"rytme" N ™		"puls" N
+   1 	"." CLB ™	"røyking" N ™		"sigarett" N
+   1 	"." CLB ™	"ring" N ™		"lei" N
+   1 	"." CLB ™	"rest" N ™		"skjegg" N
+   1 	"." CLB ™	"relasjon" N ™		"partner" N
+   1 	"." CLB ™	"registrering" N ™		"PEF" Use/Circ
+   1 	"." CLB ™	"regime" N ™		"tømming" N
+   1 	"." CLB ™	"regel" N ™		"bluferdighet" N
+   1 	"." CLB ™	"regel" N ™		"avhengighet" N
+   1 	"." CLB ™	"refleks" N ™		"tømming" N
+   1 	"." CLB ™	"rapport" N ™		"tilsyn" N
+   1 	"." CLB ™	"rapport" N ™		"OECD" N
+   1 	"." CLB ™	"pute" N ™		"skumgummi" N
+   1 	"." CLB ™	"puss" N ™		"tann" N
+   1 	"." CLB ™	"pumpe" N ™		"ereksjon" N
+   1 	"." CLB ™	"prøve" N ™		"stråle" N ™			"midt" N
+   1 	"." CLB ™	"prøve" N ™		"pose" N
+   1 	"." CLB ™	"prøve" N ™		"kateter" N
+   1 	"." CLB ™	"prøve" N ™		"doktorgrad" N
+   1 	"." CLB ™	"protese" N ™		"bryst" N
+   1 	"." CLB ™	"prosess" N ™		"tanke" N
+   1 	"." CLB ™	"prosess" N ™		"sykdom" N
+   1 	"." CLB ™	"program" N ™		"doktorgrad" N
+   1 	"." CLB ™	"produksjon" N ™		"sæd" N
+   1 	"." CLB ™	"produksjon" N ™		"østrogen" N
+   1 	"." CLB ™	"problematikk" N ™		"lukt" N
+   1 	"." CLB ™	"problem" N ™		"sirkulasjon" N
+   1 	"." CLB ™	"problem" N ™		"munn" N
+   1 	"." CLB ™	"problem" N ™		"helse" N
+   1 	"." CLB ™	"prinsipp" N ™		"trekant" N
+   1 	"." CLB ™	"prinsipp" N ™		"rettferdighet" N
+   1 	"." CLB ™	"praksis" N ™		"dokumentasjon" N
+   1 	"." CLB ™	"portal" N ™		"nett" N
+   1 	"." CLB ™	"porsjon" N ™		"mat" N
+   1 	"." CLB ™	"pleie" N ™		"munn" N
+   1 	"." CLB ™	"pleie" N ™		"kropp" N
+   1 	"." CLB ™	"plakat" N ™		"reklame" N
+   1 	"." CLB ™	"plage" N ™		"diaré" N
+   1 	"." CLB ™	"plage" N ™		"astma" N
+   1 	"." CLB ™	"pille" N ™		"stikk" N
+   1 	"." CLB ™	"perspektiv" N ™		"påvirkning" N
+   1 	"." CLB ™	"perspektiv" N ™		"faktor" N ™			"ramme" N
+   1 	"." CLB ™	"person" N ™		"forankring" N
+   1 	"." CLB ™	"periode" N ™		"enhet" N ™			"våk" N
+   1 	"." CLB ™	"pedagogikk" N ™		"helse" N
+   1 	"." CLB ™	"pass" N ™		"stil" N ™			"sisten" N ™				"kon" N
+   1 	"." CLB ™	"part" N ™		"hoved" N
+   1 	"." CLB ™	"panorama" N ™		"sykdom" N
+   1 	"." CLB ™	"orgasme" N ™		"klitoris" N
+   1 	"." CLB ™	"organ" N ™		"kjønn" N
+   1 	"." CLB ™	"oppvekst" N ™		"bakterie" N
+   1 	"." CLB ™	"opplevelse" N ™		"tid" N
+   1 	"." CLB ™	"opplevelse" N ™		"sykdom" N
+   1 	"." CLB ™	"opplevelse" N ™		"pasient" N
+   1 	"." CLB ™	"omsetning" N ™		"energi" N
+   1 	"." CLB ™	"økning" N ™		"vekt" N
+   1 	"." CLB ™	"nivå" N ™		"bevissthet" N
+   1 	"." CLB ™	"nivå" N ™		"SS" N
+   1 	"." CLB ™	"nivå" N ™		"Palphabet" N
+   1 	"." CLB ™	"nivå" N ™		"LI" Use/Circ
+   1 	"." CLB ™	"nivå" N ™		"IT" N
+   1 	"." CLB ™	"nervesystem" N ™		"sentral" N
+   1 	"." CLB ™	"muskel" N ™		"ring" N
+   1 	"." CLB ™	"mulighet" N ™		"behandling" N
+   1 	"." CLB ™	"moral" N ™		"norm" N
+   1 	"." CLB ™	"mønster" N ™		"søvn" N
+   1 	"." CLB ™	"mønster" N ™		"aktivitet" N
+   1 	"." CLB ™	"middel" N ™		"tykning" N ™			"for" N
+   1 	"." CLB ™	"middel" N ™		"tilsetning" N
+   1 	"." CLB ™	"middel" N ™		"klyster" N
+   1 	"." CLB ™	"metafor" N ™		"teater" N
+   1 	"." CLB ™	"metabolisme" N ™		"celle" N
+   1 	"." CLB ™	"mengd" N ™		"sekresjon" N
+   1 	"." CLB ™	"mengd" N ™		"glukose" N
+   1 	"." CLB ™	"mengd" N ™		"fiber" N
+   1 	"." CLB ™	"melding" N ™		"folkehelse" N
+   1 	"." CLB ™	"mekanisme" N ™		"virkning" N
+   1 	"." CLB ™	"mekanisme" N ™		"regulering" N
+   1 	"." CLB ™	"medisin" N ™		"morgen" N
+   1 	"." CLB ™	"medisin" N ™		"kreft" N
+   1 	"." CLB ™	"medisin" N ™		"ereksjon" N
+   1 	"." CLB ™	"medhjelper" N ™		"pleie" N
+   1 	"." CLB ™	"medarbeider" N ™		"butikk" N
+   1 	"." CLB ™	"materiale" N ™		"kateter" N
+   1 	"." CLB ™	"maskin" N ™		"ultralyd" N
+   1 	"." CLB ™	"mansjett" N ™		"blodtrykk" N
+   1 	"." CLB ™	"måling" N ™		"blodtrykk" N
+   1 	"." CLB ™	"ly" N ™		"natt" N
+   1 	"." CLB ™	"løsning" N ™		"sonde" N
+   1 	"." CLB ™	"løsning" N ™		"næring" N
+   1 	"." CLB ™	"løsning" N ™		"journal" N
+   1 	"." CLB ™	"løsning" N ™		"egg" N
+   1 	"." CLB ™	"lidelse" N ™		"mareritt" N
+   1 	"." CLB ™	"lidelse" N ™		"døgnrytme" N
+   1 	"." CLB ™	"lidelse" N ™		"arbeider" N ™			"skift" N
+   1 	"." CLB ™	"lidelse" N ™		"angst" N
+   1 	"." CLB ™	"lege" N ™		"LIS" Use/Circ
+   1 	"." CLB ™	"ledd" N ™		"skulder" N
+   1 	"." CLB ™	"kunnskap" N ™		"hverdag" N
+   1 	"." CLB ™	"kunnskap" N ™		"handling" N
+   1 	"." CLB ™	"kunnskap" N ™		"bruker" N
+   1 	"." CLB ™	"kriterium" N ™		"prioritering" N
+   1 	"." CLB ™	"krem" N ™		"fuktighet" N
+   1 	"." CLB ™	"kreft" N ™		"livmorhals" N
+   1 	"." CLB ™	"krav" N ™		"mengde" N
+   1 	"." CLB ™	"kraft" N ™		"tyngde" N
+   1 	"." CLB ™	"kraft" N ™		"liv" N
+   1 	"." CLB ™	"kost" N ™		"ring" N ™			"gele" N
+   1 	"." CLB ™	"kost" N ™		"allergi" N
+   1 	"." CLB ™	"kontraksjon" N ™		"muskel" N
+   1 	"." CLB ™	"kontakt" N ™		"hud" N
+   1 	"." CLB ™	"kontakt" N ™		"berøring" N
+   1 	"." CLB ™	"konflikt" N ™		"rolle" N
+   1 	"." CLB ™	"kompetanse" N ™		"helse" N
+   1 	"." CLB ™	"kjøtt" N ™		"tann" N
+   1 	"." CLB ™	"kjertel" N ™		"talg" N
+   1 	"." CLB ™	"kjertel" N ™		"prostata" N
+   1 	"." CLB ™	"kartlegging" N ™		"nettverk" N
+   1 	"." CLB ™	"kart" N ™		"nettverk" N
+   1 	"." CLB ™	"kapasitet" N ™		"sykepleie" N
+   1 	"." CLB ™	"kapasitet" N ™		"bevegelse" N
+   1 	"." CLB ™	"journalsystem" N ™		"pasient" N
+   1 	"." CLB ™	"intoleranse" N ™		"matvare" N
+   1 	"." CLB ™	"inspeksjon" N ™		"hud" N
+   1 	"." CLB ™	"inntak" N ™		"sukker" N
+   1 	"." CLB ™	"inntak" N ™		"mat" N
+   1 	"." CLB ™	"inntak" N ™		"fiber" N
+   1 	"." CLB ™	"innstilling" N ™		"termostat" N
+   1 	"." CLB ™	"innskrenkning" N ™		"bevegelse" N
+   1 	"." CLB ™	"innhold" N ™		"vann" N
+   1 	"." CLB ™	"innhold" N ™		"tarm" N
+   1 	"." CLB ™	"innhold" N ™		"bakterie" N
+   1 	"." CLB ™	"inkontinens" N ™		"blanding" N
+   1 	"." CLB ™	"infeksjon" N ™		"tarm" N
+   1 	"." CLB ™	"infeksjon" N ™		"sopp" N
+   1 	"." CLB ™	"infeksjon" N ™		"sår" N
+   1 	"." CLB ™	"infeksjon" N ™		"klamydia" N
+   1 	"." CLB ™	"indeks" N ™		"masse" N ™			"kropp" N
+   1 	"." CLB ™	"identitet" N ™		"kjønn" N
+   1 	"." CLB ™	"hygiene" N ™		"mat" N
+   1 	"." CLB ™	"hygiene" N ™		"hånd" N
+   1 	"." CLB ™	"hjelpemiddel" N ™		"forstørrelse" N
+   1 	"." CLB ™	"hjelp" N ™		"helse" N
+   1 	"." CLB ™	"hette" N ™		"hårvask" N
+   1 	"." CLB ™	"hendelse" N ™		"liv" N
+   1 	"." CLB ™	"hendelse" N ™		"avvik" N
+   1 	"." CLB ™	"helse" N ™		"Malphabet" N
+   1 	"." CLB ™	"helse" N ™		"Ealphabet" N
+   1 	"." CLB ™	"gruppe" N ™		"matvare" N
+   1 	"." CLB ™	"gruppe" N ™		"hoved" N
+   1 	"." CLB ™	"grøt" N ™		"kjøttbolle" N
+   1 	"." CLB ™	"grense" N ™		"minimum" N
+   1 	"." CLB ™	"godkjenning" N ™		"spesialist" N
+   1 	"." CLB ™	"glass" N ™		"prøve" N
+   1 	"." CLB ™	"gift" N ™		"tobakk" N
+   1 	"." CLB ™	"gass" N ™		"tarm" N
+   1 	"." CLB ™	"gass" N ™		"blod" N
+   1 	"." CLB ™	"funksjon" N ™		"kropp" N
+   1 	"." CLB ™	"frekvens" N ™		"respirasjon" N
+   1 	"." CLB ™	"fot" N ™		"spis" N
+   1 	"." CLB ™	"forventning" N ™		"rolle" N
+   1 	"." CLB ™	"forstyrrelse" N ™		"søvn" N
+   1 	"." CLB ™	"forstyrrelse" N ™		"døgnrytme" N
+   1 	"." CLB ™	"forskyvning" N ™		"fase" N
+   1 	"." CLB ™	"forskrift" N ™		"diett" N
+   1 	"." CLB ™	"forskning" N ™		"identitet" N
+   1 	"." CLB ™	"forskjell" N ™		"hoved" N
+   1 	"." CLB ™	"forsker" N ™		"sykepleie" N
+   1 	"." CLB ™	"forsker" N ™		"empati" N
+   1 	"." CLB ™	"form" N ™		"kunnskap" N
+   1 	"." CLB ™	"forhøyelse" N ™		"temperatur" N
+   1 	"." CLB ™	"foretak" N ™		"helse" N
+   1 	"." CLB ™	"forening" N ™		"innvandrer" N
+   1 	"." CLB ™	"fordeling" N ™		"blod" N
+   1 	"." CLB ™	"forbruk" N ™		"tid" N
+   1 	"." CLB ™	"forbruk" N ™		"sukker" N
+   1 	"." CLB ™	"forbruk" N ™		"kjøtt" N
+   1 	"." CLB ™	"forandring" N ™		"stilling" N
+   1 	"." CLB ™	"forandring" N ™		"pubertet" N
+   1 	"." CLB ™	"forandring" N ™		"farge" N
+   1 	"." CLB ™	"forandring" N ™		"alder" N
+   1 	"." CLB ™	"følelse" N ™		"tap" N
+   1 	"." CLB ™	"fasong" N ™		"kropp" N
+   1 	"." CLB ™	"fase" N ™		"sykdom" N
+   1 	"." CLB ™	"fase" N ™		"platå" N
+   1 	"." CLB ™	"fase" N ™		"kulde" N
+   1 	"." CLB ™	"fargestoff" N ™		"galle" N
+   1 	"." CLB ™	"far" N ™		"trombose" N
+   1 	"." CLB ™	"fall" N ™		"østrogen" N
+   1 	"." CLB ™	"faktor" N ™		"omgivelse" N
+   1 	"." CLB ™	"evne" N ™		"orientering" N
+   1 	"." CLB ™	"evne" N ™		"empati" N
+   1 	"." CLB ™	"evaluering" N ™		"prosess" N
+   1 	"." CLB ™	"ernæring" N ™		"sonde" N
+   1 	"." CLB ™	"erfaring" N ™		"pasient" N
+   1 	"." CLB ™	"epoke" N ™		"Ralphabet" N
+   1 	"." CLB ™	"endring" N ™		"volum" N
+   1 	"." CLB ™	"endring" N ™		"stilling" N
+   1 	"." CLB ™	"ende" N ™		"likn" N ™			"krampe" N
+   1 	"." CLB ™	"ende" N ™		"hode" N
+   1 	"." CLB ™	"ende" N ™		"driv" N ™			"vann" N
+   1 	"." CLB ™	"egenskap" N ™		"personlighet" N
+   1 	"." CLB ™	"dybde" N ™		"respirasjon" N
+   1 	"." CLB ™	"drikk" N ™		"næring" N
+   1 	"." CLB ™	"dimensjon" N ™		"ånd" N
+   1 	"." CLB ™	"desinfeksjon" N ™		"hånd" N
+   1 	"." CLB ™	"danning" N ™		"slim" N
+   1 	"." CLB ™	"dannelse" N ™		"gass" N
+   1 	"." CLB ™	"celle" N ™		"nerve" N
+   1 	"." CLB ™	"celle" N ™		"epitel" N
+   1 	"." CLB ™	"bytte" N ™		"bleie" N
+   1 	"." CLB ™	"brukerundersøkelse" N ™		"for" N
+   1 	"." CLB ™	"bruk" N ™		"feil" N
+   1 	"." CLB ™	"brev" N ™		"utskriving" N
+   1 	"." CLB ™	"brett" N ™		"skjerm" N
+   1 	"." CLB ™	"bransje" N ™		"senter" N ™			"trene" Ex/V
+   1 	"." CLB ™	"bølge" N ™		"trykk" N
+   1 	"." CLB ™	"blødning" N ™		"punkt" N
+   1 	"." CLB ™	"blødning" N ™		"hud" N
+   1 	"." CLB ™	"blære" N ™		"urin" N
+   1 	"." CLB ™	"bind" N ™		"kompresjon" N
+   1 	"." CLB ™	"bilde" N ™		"mote" N
+   1 	"." CLB ™	"betennelse" N ™		"kjøtt" N ™			"tann" N
+   1 	"." CLB ™	"besvær" N ™		"tømming" N ™			"tarm" N
+   1 	"." CLB ™	"besvær" N ™		"respirasjon" N
+   1 	"." CLB ™	"besøk" N ™		"toalett" N
+   1 	"." CLB ™	"behandling" N ™		"sår" N
+   1 	"." CLB ™	"behandling" N ™		"miljø" N
+   1 	"." CLB ™	"begrep" N ™		"verden" N ™			"liv" N
+   1 	"." CLB ™	"begrep" N ™		"sykdom" N
+   1 	"." CLB ™	"begrep" N ™		"kunnskap" N
+   1 	"." CLB ™	"begrep" N ™		"identitet" N
+   1 	"." CLB ™	"begrep" N ™		"helse" N
+   1 	"." CLB ™	"begrep" N ™		"ICNP" Use/Circ
+   1 	"." CLB ™	"begrensning" N ™		"aktivitet" N
+   1 	"." CLB ™	"balanse" N ™		"væske" N
+   1 	"." CLB ™	"balanse" N ™		"energi" N
+   1 	"." CLB ™	"avfall" N ™		"hår" N
+   1 	"." CLB ™	"atom" N ™		"karbon" N
+   1 	"." CLB ™	"asiat" N ™		"sør" N
+   1 	"." CLB ™	"arbeid" N ™		"kvalitetssikring" N
+   1 	"." CLB ™	"arbeid" N ™		"ernæring" N
+   1 	"." CLB ™	"ansamling" N ™		"slim" N
+   1 	"." CLB ™	"analyse" N ™		"vitamin" N
+   1 	"." CLB ™	"albumin" N ™		"serum" N
+   1 	"." CLB ™	"aktivitet" N ™		"planlegging" N
+   1 	"." CLB ™	"aktivitet" N ™		"muskel" N
+   1 	"." CLB ™	"aktivitet" N ™		"minne" N
+   1 	"." CLB ™		"vha" N ™	"dagbok" N ™		"søvn" N
+   1 	"." CLB ™		"vha" N ™	"MORBID" ?
+   1 	"." CLB ™		"t" N ™	"og" CC
+   1 	"." CLB ™		"t" N ™	"hastverk" N
+   1 	"." CLB ™		"ss" N ™	"167" Num
+   1 	"." CLB ™		"sek" N ™	"håndvask" N
+   1 	"." CLB ™		"s" N ™	"92" A
+   1 	"." CLB ™		"s" N ™	"88" A
+   1 	"." CLB ™		"s" N ™	"85" A
+   1 	"." CLB ™		"s" N ™	"844" Num
+   1 	"." CLB ™		"s" N ™	"8" A
+   1 	"." CLB ™		"s" N ™	"72" A
+   1 	"." CLB ™		"s" N ™	"71" A
+   1 	"." CLB ™		"s" N ™	"66" A
+   1 	"." CLB ™		"s" N ™	"65" A
+   1 	"." CLB ™		"s" N ™	"64" A
+   1 	"." CLB ™		"s" N ™	"61" A
+   1 	"." CLB ™		"s" N ™	"543" Num
+   1 	"." CLB ™		"s" N ™	"54" A
+   1 	"." CLB ™		"s" N ™	"531" Num
+   1 	"." CLB ™		"s" N ™	"530" Num
+   1 	"." CLB ™		"s" N ™	"517" Num
+   1 	"." CLB ™		"s" N ™	"509" Num
+   1 	"." CLB ™		"s" N ™	"499" Num
+   1 	"." CLB ™		"s" N ™	"484" Num
+   1 	"." CLB ™		"s" N ™	"481" Num
+   1 	"." CLB ™		"s" N ™	"480" Num
+   1 	"." CLB ™		"s" N ™	"471" Num
+   1 	"." CLB ™		"s" N ™	"47" A
+   1 	"." CLB ™		"s" N ™	"459" Num
+   1 	"." CLB ™		"s" N ™	"451" Num
+   1 	"." CLB ™		"s" N ™	"448" Num
+   1 	"." CLB ™		"s" N ™	"44" A
+   1 	"." CLB ™		"s" N ™	"43" A
+   1 	"." CLB ™		"s" N ™	"429" Num
+   1 	"." CLB ™		"s" N ™	"426" Num
+   1 	"." CLB ™		"s" N ™	"422" Num
+   1 	"." CLB ™		"s" N ™	"42" A
+   1 	"." CLB ™		"s" N ™	"418" Num
+   1 	"." CLB ™		"s" N ™	"416" Num
+   1 	"." CLB ™		"s" N ™	"415" Num
+   1 	"." CLB ™		"s" N ™	"414" Num
+   1 	"." CLB ™		"s" N ™	"405" Num
+   1 	"." CLB ™		"s" N ™	"403" Num
+   1 	"." CLB ™		"s" N ™	"402" Num
+   1 	"." CLB ™		"s" N ™	"40" A
+   1 	"." CLB ™		"s" N ™	"4" A
+   1 	"." CLB ™		"s" N ™	"391" Num
+   1 	"." CLB ™		"s" N ™	"39" A
+   1 	"." CLB ™		"s" N ™	"389" Num
+   1 	"." CLB ™		"s" N ™	"386" Num
+   1 	"." CLB ™		"s" N ™	"385" Num
+   1 	"." CLB ™		"s" N ™	"383" Num
+   1 	"." CLB ™		"s" N ™	"38" A
+   1 	"." CLB ™		"s" N ™	"377" Num
+   1 	"." CLB ™		"s" N ™	"376" Num
+   1 	"." CLB ™		"s" N ™	"369" Num
+   1 	"." CLB ™		"s" N ™	"367" Num
+   1 	"." CLB ™		"s" N ™	"365" Num
+   1 	"." CLB ™		"s" N ™	"362" Num
+   1 	"." CLB ™		"s" N ™	"360" Num
+   1 	"." CLB ™		"s" N ™	"36" A
+   1 	"." CLB ™		"s" N ™	"357" Num
+   1 	"." CLB ™		"s" N ™	"351" Num
+   1 	"." CLB ™		"s" N ™	"347" Num
+   1 	"." CLB ™		"s" N ™	"346" Num
+   1 	"." CLB ™		"s" N ™	"344" Num
+   1 	"." CLB ™		"s" N ™	"343" Num
+   1 	"." CLB ™		"s" N ™	"342" Num
+   1 	"." CLB ™		"s" N ™	"340" Num
+   1 	"." CLB ™		"s" N ™	"34" A
+   1 	"." CLB ™		"s" N ™	"336" Num
+   1 	"." CLB ™		"s" N ™	"334" Num
+   1 	"." CLB ™		"s" N ™	"330" Num
+   1 	"." CLB ™		"s" N ™	"327" Num
+   1 	"." CLB ™		"s" N ™	"326" Num
+   1 	"." CLB ™		"s" N ™	"323" Num
+   1 	"." CLB ™		"s" N ™	"315" Num
+   1 	"." CLB ™		"s" N ™	"308" Num
+   1 	"." CLB ™		"s" N ™	"306" Num
+   1 	"." CLB ™		"s" N ™	"304" Num
+   1 	"." CLB ™		"s" N ™	"303" Num
+   1 	"." CLB ™		"s" N ™	"300" Num
+   1 	"." CLB ™		"s" N ™	"3" A
+   1 	"." CLB ™		"s" N ™	"295" Num
+   1 	"." CLB ™		"s" N ™	"294" Num
+   1 	"." CLB ™		"s" N ™	"291" Num
+   1 	"." CLB ™		"s" N ™	"286" Num
+   1 	"." CLB ™		"s" N ™	"284" Num
+   1 	"." CLB ™		"s" N ™	"275" Num
+   1 	"." CLB ™		"s" N ™	"27" A
+   1 	"." CLB ™		"s" N ™	"269" Num
+   1 	"." CLB ™		"s" N ™	"268" Num
+   1 	"." CLB ™		"s" N ™	"264" Num
+   1 	"." CLB ™		"s" N ™	"253" Num
+   1 	"." CLB ™		"s" N ™	"252" Num
+   1 	"." CLB ™		"s" N ™	"25" A
+   1 	"." CLB ™		"s" N ™	"248" Num
+   1 	"." CLB ™		"s" N ™	"245" Num
+   1 	"." CLB ™		"s" N ™	"243" Num
+   1 	"." CLB ™		"s" N ™	"242" Num
+   1 	"." CLB ™		"s" N ™	"241" Num
+   1 	"." CLB ™		"s" N ™	"240" Num
+   1 	"." CLB ™		"s" N ™	"24" A
+   1 	"." CLB ™		"s" N ™	"238" Num
+   1 	"." CLB ™		"s" N ™	"236" Num
+   1 	"." CLB ™		"s" N ™	"235" Num
+   1 	"." CLB ™		"s" N ™	"225" Num
+   1 	"." CLB ™		"s" N ™	"220" Num
+   1 	"." CLB ™		"s" N ™	"218" Num
+   1 	"." CLB ™		"s" N ™	"216" Num
+   1 	"." CLB ™		"s" N ™	"212" Num
+   1 	"." CLB ™		"s" N ™	"208" Num
+   1 	"." CLB ™		"s" N ™	"202" Num
+   1 	"." CLB ™		"s" N ™	"196" Num
+   1 	"." CLB ™		"s" N ™	"193" Num
+   1 	"." CLB ™		"s" N ™	"192" Num
+   1 	"." CLB ™		"s" N ™	"190" Num
+   1 	"." CLB ™		"s" N ™	"189" Num
+   1 	"." CLB ™		"s" N ™	"185" Num
+   1 	"." CLB ™		"s" N ™	"184" Num
+   1 	"." CLB ™		"s" N ™	"183" Num
+   1 	"." CLB ™		"s" N ™	"178" Num
+   1 	"." CLB ™		"s" N ™	"173" Num
+   1 	"." CLB ™		"s" N ™	"172" Num
+   1 	"." CLB ™		"s" N ™	"169" Num
+   1 	"." CLB ™		"s" N ™	"167" Num
+   1 	"." CLB ™		"s" N ™	"164" Num
+   1 	"." CLB ™		"s" N ™	"161" Num
+   1 	"." CLB ™		"s" N ™	"160" Num
+   1 	"." CLB ™		"s" N ™	"157" Num
+   1 	"." CLB ™		"s" N ™	"153" Num
+   1 	"." CLB ™		"s" N ™	"152" Num
+   1 	"." CLB ™		"s" N ™	"151" Num
+   1 	"." CLB ™		"s" N ™	"145" Num
+   1 	"." CLB ™		"s" N ™	"14" A
+   1 	"." CLB ™		"s" N ™	"138" Num
+   1 	"." CLB ™		"s" N ™	"130" Num
+   1 	"." CLB ™		"s" N ™	"128" Num
+   1 	"." CLB ™		"s" N ™	"123" Num
+   1 	"." CLB ™		"s" N ™	"121" Num
+   1 	"." CLB ™		"s" N ™	"118" Num
+   1 	"." CLB ™		"s" N ™	"115" Num
+   1 	"." CLB ™		"s" N ™	"11" A
+   1 	"." CLB ™		"s" N ™	"107" Num
+   1 	"." CLB ™		"s" N ™	"104" Num
+   1 	"." CLB ™		"s" N ™	"102" Num
+   1 	"." CLB ™		"s" N ™	"1" A
+   1 	"." CLB ™		"s" N ™	 Use/Circ"86–89"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"77–78"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"71–72"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"66–68"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"645–646"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"643–644"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"641–642"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"59–64"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"58–59"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"533–536"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"4–11"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"47–48"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"462–463"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"460–461"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"326–336"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"302–314"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"260–261"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"225–226"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"201–202"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"19–20"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"184–185"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"176–177"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"155–156"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"135–136"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"108–109"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"103–104"
+   1 	"." CLB ™		"s" N ™	 Use/Circ"101–106"
+   1 	"." CLB ™		"pr" N ™	"minutt" N
+   1 	"." CLB ™		"pkt" N ™	"1.3" Num
+   1 	"." CLB ™		"pga" N ™	"infeksjon" N
+   1 	"." CLB ™		"pga" N ™	"infarctus" ?
+   1 	"." CLB ™		"pga" N ™	"»" PUNCT
+   1 	"." CLB ™		"pc" N ™	"i" Pr
+   1 	"." CLB ™		"osv" N ™	"sykepleie" N
+   1 	"." CLB ™		"osv" N ™	"på" Pr
+   1 	"." CLB ™		"osv" N ™	"også" Adv
+   1 	"." CLB ™		"osv" N ™	"," CLB
+   1 	"." CLB ™		"osv" N ™	")" PUNCT
+   1 	"." CLB ™		"osv" N ™	"(" PUNCT
+   1 	"." CLB ™		"ord" N ™	"volum" N ™		"stemme" N
+   1 	"." CLB ™		"ord" N ™	"slik" Det
+   1 	"." CLB ™		"ord" N ™	"mange" Adv
+   1 	"." CLB ™		"ord" N ™	"i" Pr
+   1 	"." CLB ™		"ord" N ™	"for" Pr
+   1 	"." CLB ™		"ord" N ™	"det" Pron
+   1 	"." CLB ™		"ord" N ™	"den" Det
+   1 	"." CLB ™		"om" Adv ™	"prat" N ™		"sex" N
+   1 	"." CLB ™		"o.l" N ™	"som" Pr
+   1 	"." CLB ™		"o.l" N ™	"i" Pr
+   1 	"." CLB ™		"o.l" N ™	"?" CLB ™	"hvilken" Det
+   1 	"." CLB ™		"o.l" N ™	"," CLB
+   1 	"." CLB ™		"nr" N ™	"81" A
+   1 	"." CLB ™		"nr" N ™	"66" A
+   1 	"." CLB ™		"nr" N ™	"169" Num
+   1 	"." CLB ™		"nr" N ™	"1" Use/SpellNoSugg"b"
+   1 	"." CLB ™		"mv" N ™	"være" V
+   1 	"." CLB ™		"mv" N ™	"av" Pr
+   1 	"." CLB ™		"mv" N ™	"Loven" N
+   1 	"." CLB ™		"mfl" N ™	"måtte" V
+   1 	"." CLB ™		"mfl" N ™	"2019" Use/SpellNoSugg"d"
+   1 	"." CLB ™		"mfl" N ™	"2019" Use/SpellNoSugg"c"
+   1 	"." CLB ™		"mfl" N ™	"2016" Use/SpellNoSugg"a"
+   1 	"." CLB ™		"mfl" N ™	"2014" Use/SpellNoSugg"a"
+   1 	"." CLB ™		"mfl" N ™	"1999" Num
+   1 	"." CLB ™		"mfl" N ™	"1996" Num
+   1 	"." CLB ™		"mfl" N ™	"1994" Num
+   1 	"." CLB ™		"mfl" N ™	"1992" Num
+   1 	"." CLB ™		"mfl" N ™	"1988" Num
+   1 	"." CLB ™		"mfl" N ™	"1987" Num
+   1 	"." CLB ™		"mfl" N ™	"1981" Num
+   1 	"." CLB ™		"mfl" N ™	"1978" Num
+   1 	"." CLB ™		"mfl" N ™	"1970" Num
+   1 	"." CLB ™		"mfl" N ™	"1948" Num
+   1 	"." CLB ™		"mfl" N ™	"," CLB
+   1 	"." CLB ™		"md" N ™	"?" CLB ™	"nei" Interj
+   1 	"." CLB ™		"mat" N ™	"ved" Pr
+   1 	"." CLB ™		"mat" N ™	"spesielt" Adv
+   1 	"." CLB ™		"mat" N ™	"selv" Adv
+   1 	"." CLB ™		"mat" N ™	"ofte" Adv
+   1 	"." CLB ™		"mat" N ™	"nå" Adv
+   1 	"." CLB ™		"mat" N ™	"men" CC
+   1 	"." CLB ™		"mat" N ™	"mat" N
+   1 	"." CLB ™		"mat" N ™	"mange" A
+   1 	"." CLB ™		"mat" N ™	"ivaretakelse" N
+   1 	"." CLB ™		"mat" N ™	"ingen" Pron
+   1 	"." CLB ™		"mat" N ™	"image" N
+   1 	"." CLB ™		"mat" N ™	"høyde" N
+   1 	"." CLB ™		"mat" N ™	"generell" A
+   1 	"." CLB ™		"mat" N ™	"et" Det
+   1 	"." CLB ™		"mat" N ™	"de" Pron
+   1 	"." CLB ™		"mat" N ™	"Andre" N
+   1 	"." CLB ™		"m.m" N ™	"verdighet" N
+   1 	"." CLB ™		"m.m" N ™	"kreve" V
+   1 	"." CLB ™		"m.m" N ™	"kortsiktig" A
+   1 	"." CLB ™		"m.m" N ™	"," CLB
+   1 	"." CLB ™		"m" N ™	"quadriceps" ?
+   1 	"." CLB ™		"kom" N ™	"den" Pron
+   1 	"." CLB ™		"kl" N ™	"8" A
+   1 	"." CLB ™		"kl" N ™	"4" A
+   1 	"." CLB ™		"kl" N ™	"14.00–15.30" Num
+   1 	"." CLB ™		"kl" N ™	"14.00–15.00" Num
+   1 	"." CLB ™		"kl" N ™	"12" A
+   1 	"." CLB ™		"kg" N ™	"eliminasjon" N
+   1 	"." CLB ™		"kap" N ™	"6" A
+   1 	"." CLB ™		"kap" N ™	"1" A
+   1 	"." CLB ™		"jfr" N ™	"figur" N
+   1 	"." CLB ™		"jf" N ™	"yrkesetisk" A
+   1 	"." CLB ™		"jf" N ™	"urinprøvetaking" ?
+   1 	"." CLB ™		"jf" N ™	"sosial" A
+   1 	"." CLB ™		"jf" N ™	"samvalg" N
+   1 	"." CLB ™		"jf" N ™	"refleksjon" N
+   1 	"." CLB ™		"jf" N ™	"ramme" N
+   1 	"." CLB ™		"jf" N ™	"punkt" N
+   1 	"." CLB ™		"jf" N ™	"pedagogikk" N ™		"helse" N
+   1 	"." CLB ™		"jf" N ™	"over" Adv
+   1 	"." CLB ™		"jf" N ™	"også" Adv
+   1 	"." CLB ™		"jf" N ™	"neste" A
+   1 	"." CLB ™		"jf" N ™	"modell" N ™		"sykepleie" N
+   1 	"." CLB ™		"jf" N ™	"mestring.no" URL
+   1 	"." CLB ™		"jf" N ™	"lidelse" N ™		"pleie" N
+   1 	"." CLB ™		"jf" N ™	"juridisk" A
+   1 	"." CLB ™		"jf" N ™	"historie" N
+   1 	"." CLB ™		"jf" N ™	"helsepersonellov" N
+   1 	"." CLB ™		"jf" N ™	"forsvarlighetskrav" N
+   1 	"." CLB ™		"jf" N ™	"faglig" A
+   1 	"." CLB ™		"jf" N ™	"diskusjon" N
+   1 	"." CLB ™		"jf" N ™	"definisjon" N
+   1 	"." CLB ™		"jf" N ™	"ankel-arm" ?
+   1 	"." CLB ™		"jf" N ™	"WHO" N
+   1 	"." CLB ™		"jf" N ™	"Virginia" N
+   1 	"." CLB ™		"jf" N ™	"." CLB ™		"s" N
+   1 	"." CLB ™		"inkl" N ™	"puss" N ™		"tann" N
+   1 	"." CLB ™		"h" N ™	"Miksjonslisten" ?
+   1 	"." CLB ™		"gram" N ™	"ved" Pr
+   1 	"." CLB ™		"gram" N ™	"spise" V
+   1 	"." CLB ™		"gram" N ™	"protein" N
+   1 	"." CLB ™		"gr" N ™	"episteme" ?
+   1 	"." CLB ™		"gr" N ™	"«" PUNCT
+   1 	"." CLB ™		"fr" N ™	")" PUNCT
+   1 	"." CLB ™		"f.eks" N ™	"spørsmål" N
+   1 	"." CLB ™		"f.eks" N ™	"rettferdighet" N
+   1 	"." CLB ™		"f.eks" N ™	"psykologi" N
+   1 	"." CLB ™		"f.eks" N ™	"medisinsk" A
+   1 	"." CLB ™		"f.eks" N ™	"i" Pr
+   1 	"." CLB ™		"f.eks" N ™	"hjerteinfarkt" N
+   1 	"." CLB ™		"f.eks" N ™	"guide" N ™		"datasamling" N
+   1 	"." CLB ™		"f.eks" N ™	"fysioterapi" N
+   1 	"." CLB ™		"f.eks" N ™	"forhøyet" ?
+   1 	"." CLB ™		"f.eks" N ™	"filosofi" N
+   1 	"." CLB ™		"f.eks" N ™	"eliminasjon" N
+   1 	"." CLB ™		"f.eks" N ™	"drikke" V
+   1 	"." CLB ™		"f.eks" N ™	"biologi" N ™		"celle" N
+   1 	"." CLB ™		"f.eks" N ™	"biokjemi" N
+   1 	"." CLB ™		"f.eks" N ™	"avlaste" V
+   1 	"." CLB ™		"f.eks" N ™	"av" Adv
+   1 	"." CLB ™		"f.eks" N ™	"allmennmedisin" N
+   1 	"." CLB ™		"f.eks" N ™	"administrering" N
+   1 	"." CLB ™		"f.eks" N ™	"abdomen" ?
+   1 	"." CLB ™		"f.eks" N ™	"120/80" Num
+   1 	"." CLB ™		"f.Kr" N ™	"begynne" V
+   1 	"." CLB ™		"f" N ™	"1983" Num
+   1 	"." CLB ™		"f" N ™	"1980" Num
+   1 	"." CLB ™		"f" N ™	"1957" Num
+   1 	"." CLB ™		"f" N ™	"1952" Num
+   1 	"." CLB ™		"f" N ™	"1950" Num
+   1 	"." CLB ™		"f" N ™	"1948" Num
+   1 	"." CLB ™		"f" N ™	"1943" Num
+   1 	"." CLB ™		"ev" N ™	"stomipropp" ?
+   1 	"." CLB ™		"ev" N ™	"overfølsomhet" ?
+   1 	"." CLB ™		"ev" N ™	"føre" N
+   1 	"." CLB ™		"ev" N ™	"engangstermometer" ?
+   1 	"." CLB ™		"eks" N ™	"olivenolje" N
+   1 	"." CLB ™		"e.l" N ™	")" PUNCT
+   1 	"." CLB ™		"e.Kr" N ™	"," CLB
+   1 	"." CLB ™		"e" N ™	"coli-bakterien" ?
+   1 	"." CLB ™		"e" N ™	"coli" ?
+   1 	"." CLB ™		"e" N ™	"Løgstrup" N
+   1 	"." CLB ™		"e" N ™	"Deming" ?
+   1 	"." CLB ™		"e" N ™	"." CLB ™		"H" Use/SpellNoSugg
+   1 	"." CLB ™		"dvs" N ™	"ønske" N
+   1 	"." CLB ™		"dvs" N ™	"kraft" N
+   1 	"." CLB ™		"dvs" N ™	"evne" N
+   1 	"." CLB ™		"dvs" N ™	"allé" N
+   1 	"." CLB ™		"dr.philos" N ™	"i" Pr
+   1 	"." CLB ™		"cm" N ™	"mange" A
+   1 	"." CLB ™		"ca" N ™	"ti" Det
+   1 	"." CLB ™		"ca" N ™	"over" Pr
+   1 	"." CLB ™		"ca" N ™	"halvpart" N
+   1 	"." CLB ™		"ca" N ™	"en" Det
+   1 	"." CLB ™		"ca" N ™	"900" Num
+   1 	"." CLB ™		"ca" N ™	"9" A
+   1 	"." CLB ™		"ca" N ™	"70" A
+   1 	"." CLB ™		"ca" N ™	"7" A
+   1 	"." CLB ™		"ca" N ™	"5000" Num
+   1 	"." CLB ™		"ca" N ™	"500" Num
+   1 	"." CLB ™		"ca" N ™	"42" A
+   1 	"." CLB ™		"ca" N ™	"25" A
+   1 	"." CLB ™		"ca" N ™	"125" Num
+   1 	"." CLB ™		"ca" N ™	"1200" Num
+   1 	"." CLB ™		"ca" N ™	"11" A
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"85
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"75–85"
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"70–90"
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"65
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"60
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"50
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"5
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"30
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"3,5"
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"2–2,5"
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"1–2"
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"150
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"12–14"
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"11
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"0,9"
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"0,4"
+   1 	"." CLB ™		"ca" N ™	 Use/Circ"0,1"
+   1 	"." CLB ™		"bl.a" N ™	"gjennom" Pr
+   1 	"." CLB ™		"bl.a" N ™	"forhold" N ™		"sirkulasjon" N
+   1 	"." CLB ™		"bl.a" N ™	"at" CS
+   1 	"." CLB ™		"bl.a" N ™	":" CLB ™	"oppleve" V
+   1 	"." CLB ™		"balphabet" N ™	"mer" Adv
+   1 	"." CLB ™		"balphabet" N ™	"mål" N
+   1 	"." CLB ™		"att" N ™	"selv" Adv
+   1 	"." CLB ™		"art" N ™	"formulering" N
+   1 	"." CLB ™		"art" N ™	"dimensjon" N ™		"kropp" N
+   1 	"." CLB ™		"art" N ™	"det" Pron
+   1 	"." CLB ™		"art" N ™	"Hansen" N
+   1 	"." CLB ™		"art" N ™	"1" A
+   1 	"." CLB ™		"TV" N ™	"gå" V
+   1 	"." CLB ™		"St" N ™	"Hanshaugen" ?
+   1 	"." CLB ™		 Use/Circ"6" ™		 Use/Circ"6" ™	"teori" N ™		"sykepleie" N
+   1 	"." CLB ™		 Use/Circ"5" ™		 Use/Circ"5" ™	"funksjon" N ™		"sykepleie" N
+   1 	"." CLB ™		 Use/Circ"30" ™		 Use/Circ"30" ™	"form" N ™		"kunnskap" N
+   1 	"." CLB ™		 Use/Circ"26" ™		 Use/Circ"26" ™	"opplevelse" N ™		"sykdom" N
+   1 	"." CLB ™		 Use/Circ"1" ™		 Use/Circ"1" ™	"kvalitetsbegrep" N ™		"liv" N
+   1 	"!" CLB ™	"hygiene" N ™		"hånd" N

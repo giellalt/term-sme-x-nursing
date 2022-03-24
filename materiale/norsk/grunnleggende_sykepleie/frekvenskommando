@@ -1,0 +1,5 @@
+
+# frekvens
+
+cat ~/Documents/sjukepleieterminologi/grunnleggende_1.txt |hfst-tokenise -cg tools/tokenisers/tokeniser-disamb-gt-desc.pmhfst |vislcg3 -g src/cg3/disambiguator.cg3 |grep -v '^"<'|cut -d" " -f1,2|uniq|tr '\n' '£'|sed 's/£               / = /g;'|tr '£' '\n'|l
+
