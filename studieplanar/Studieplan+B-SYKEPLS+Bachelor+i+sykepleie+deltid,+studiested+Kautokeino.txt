@@ -1,18 +1,9 @@
 Studieplan
-
-Studieplan bachelor i sykepleie deltid, studiested Kautokeino
+Bachelor i sykepleie deltid, studiested Kautokeino
 180 studiepoeng Det helsevitenskapelige fakultet
 Institutt for helse- og omsorgsfag
-Bygger på: Forskrift om nasjonal retningslinje for sykepleieutdanningen og Forskrift om felles rammeplan
-for helse og –sosialfagutdanninger fastsatt 06.09.2018
-F ogForskrift om nasjonal retningslinje for sykepleierutdanning fastsatt 15.03.2019.
 
-Navn på
-studieprogram
-
-Bokmål: Bachelor i sykepleie
-Nynorsk: Bachelor i sykepleie
-Engelsk: Bachelor in Nursing
+Navn på studieprogram
 
 Oppnådd grad
 
@@ -20,53 +11,34 @@ Bachelor i sykepleie
 
 Målgruppe
 
-Utdanningen er rettet mot personer som ønsker autorisasjon som
-sykepleier og som vil ha særlig kunnskap om samiske kulturelle og helseog sosiale forhold, samiske samfunnsforhold, kulturell trygghet og det gis
-mulighet til å benytte nordsamisk språk i utdanningen.
+Utdanningen er rettet mot personer som ønsker autorisasjon som sykepleier og som vil ha særlig kunnskap om samiske kulturelle og helseog sosiale forhold, samiske samfunnsforhold, kulturell trygghet og det gis mulighet til å benytte nordsamisk språk i utdanningen.
 
-Opptakskrav,
-forkunnskapskrav,
-anbefalte forkunnskaper
+Opptakskrav, forkunnskapskrav, anbefalte forkunnskaper
 
 Generell studiekompetanse eller tilsvarende realkompetanse.
-Søkere må også ha minimum karakteren 3 i matematikk (224 timer) og
-norsk (393 timer) fra videregående skole.
-For søkere til studiet vil karakter i samisk telle sammen med karakter i
-norsk for å dekke kravet. Samisk tilknytning kan dokumenteres med ett
-av følgende:
-
 
-Nordsamisk som første- eller andrespråk i videregående
-opplæring.
+Søkere må også ha minimum karakteren 3 i matematikk (224 timer) og norsk (393 timer) fra videregående skole.
+For søkere til studiet vil karakter i samisk telle sammen med karakter i norsk for å dekke kravet. 
+Samisk tilknytning kan dokumenteres med ett av følgende:
+ Nordsamisk som første- eller andrespråk i videregående opplæring.
+ Vitnemål fra grunnskole som viser nordsamisk som første- eller andrespråk.
+ Bestått 60 studiepoeng eller semesteremne i nordsamisk som morsmål fra universitet eller høgskole.
 
-
+Bachelor i sykepleie er et helsefaglig profesjonsstudium hvor en del av studieplassene er reservert for søkere med nordnorsk tilknytning.
+Nærmere informasjon om opptakskvoter finnes på nettsidene til Samordna opptak.
 
-Vitnemål fra grunnskole som viser nordsamisk som første- eller
-andrespråk.
-
-
-
-Bestått 60 studiepoeng eller semesteremne i nordsamisk som
-morsmål fra universitet eller høgskole.
-
-Bachelor i sykepleie er et helsefaglig profesjonsstudium hvor en del av
-studieplassene er reservert for søkere med nordnorsk tilknytning.
-Nærmere informasjon om opptakskvoter finnes på nettsidene til
-Samordna opptak.
 Politiattest
 
 Taushetsplikt
 
 Skikkethetsvurdering
 
-Det stilles krav om gyldig politiattest ved opptak til bachelorutdanning i
-sykepleie, jf. forskrift om opptak til høyere utdanning, kapittel 6.
-Søkere som får tilbud om studieplass må fremlegge gyldig politiattest, og
-denne kan ikke være eldre enn tre måneder. Gyldig politiattest må være
-levert for å kunne delta i ferdighetslæring og praksisstudier.
-Sykepleiestudenter omfattes av Lov om helsepersonell og har
-taushetsplikt. Studentene plikter å delta i undervisning om taushetsplikt,
-og må signere taushetsløfte i Studentweb ved oppstart av studiene.
+Det stilles krav om gyldig politiattest ved opptak til bachelorutdanning i sykepleie, jf. forskrift om opptak til høyere utdanning, kapittel 6.
+
+Søkere som får tilbud om studieplass må fremlegge gyldig politiattest, og denne kan ikke være eldre enn tre måneder. 
+Gyldig politiattest må være levert for å kunne delta i ferdighetslæring og praksisstudier.
+Sykepleiestudenter omfattes av Lov om helsepersonell og har taushetsplikt. 
+Studentene plikter å delta i undervisning om taushetsplikt, og må signere taushetsløfte i Studentweb ved oppstart av studiene.
 
 Dersom det skal foregå skikkethetsvurdering etter lov om universiteter og
 høgskoler § 4-10 og forskrift om skikkethetsvurdering i høyere utdanning
