@@ -12,10 +12,10 @@ Denne sida presenterer arbeidet med samisk sjukepleieterminologi.
 
 ## Møtereferat
 
-[Agder](diskusjon_agder.md)
-◊ [20.12.21](moete.211220.md)
-◊ [21.12.21](moete.211221.md)
-◊ [15.2.22](diskusjon220215.md)
-◊ [17.3.22](moete.220317.md)
-◊ [Notat](notat_møte.md)
+[Agder](meetings/diskusjon_agder.md)
+◊ [20.12.21](meetings/moete.211220.md)
+◊ [21.12.21](meetings/moete.211221.md)
+◊ [15.2.22](meetings/diskusjon220215.md)
+◊ [17.3.22](meetings/moete.220317.md)
+◊ [Notat](meetings/notat_møte.md)
 
