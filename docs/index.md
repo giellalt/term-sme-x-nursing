@@ -24,6 +24,6 @@ Denne sida presenterer arbeidet med samisk sjukepleieterminologi.
 ◊ [15.2.22](meetings/diskusjon220215.md)
 
 ### Møte med andre
-◊ [14.2.22](meetings/diskusjon_agder.md) (UiA)
+- 2022: [14.2.22](meetings/diskusjon_agder.md) (UiA)
 ◊ [17.3.22](meetings/moete.220317.md) (e-helse)
 
