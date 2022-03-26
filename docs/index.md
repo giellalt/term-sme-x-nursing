@@ -22,6 +22,7 @@ Denne sida presenterer arbeidet med samisk sjukepleieterminologi.
 ◊ [5.1.22](meetings/moete220105.md) (oppstart)
 ◊ [10.1.22](meetings/moete220110.md)
 ◊ [15.2.22](meetings/diskusjon220215.md)
+◊ [21.3.22](meetings/moete.220321.md)
 
 ### Møte med andre
 - 2022: [14.2.22](meetings/diskusjon_agder.md) (UiA)
