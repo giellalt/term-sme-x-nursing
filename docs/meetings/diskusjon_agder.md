@@ -1,6 +1,12 @@
 
-# Møte med UiA
+# Møte med Mariann Fossum UiA
 
+- Tid: 14.2.22.
+- Til stades: Mariann Fossum, Kirsti Kuosa, Trond Trosterud
+
+Notat frå møtet:
+
+## Orientering, termarbeid for sjukepleie i Noreg
 
 - cyberclass i no, sv, da
 - snowmed = den store terminologien
@@ -10,12 +16,11 @@
 - helse midt epic
 - direktoratet for e-helse, Lars Håvind i direktoratet. *lars.havind@ehelse.no*
 
-icnp
+## icnp
 
 - Det skal vere koblingar og strukturar
 - Det bygger på ein spesiell ontologi
 - 19 språk i icnp
-
 - Ei nasjonal referansegruppe og ei internasjonal
 - Eit subsett av den store terminologien
 - Dette subsettet tar vi i mot

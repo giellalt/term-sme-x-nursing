@@ -1,5 +1,7 @@
 
-# Möte 21.12.21
+# Møte 21.12.21
+
+Til stades: Kirsti, Linda, Trond.
 
 ## Mål for møtet:
 - Hvilke emner skal vi prioritere?
