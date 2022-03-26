@@ -6,8 +6,9 @@ Denne sida presenterer arbeidet med samisk sjukepleieterminologi.
 
 - [Bakgrunnsdokument, 2021](Bakgrunnsdokument.md)
 
-## Arbeidsplanar, oversyn
+## Arbeidsdokument, oversyn
 
+- [Kjeldefiler](https://github.com/giellalt/term-sme-x-nursing)
 - [Oversyn 10.1.22.](Oversyn_220110.md)
 - [Plan 10.1.22.](Plan_220110.md)
 - [Plan 1.3.22.](Plan_220301.md)
