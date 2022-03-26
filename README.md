@@ -7,4 +7,4 @@ Folders:
 - *studieplanar* contains relevant texts, plans.
 
 The *docs* folder may be accessed via the page
-[github.com/giellalt/term-sme-x-nursing](https://github.com/giellalt/term-sme-x-nursing)
+[giellalt.github.io/term-sme-x-nursing/](https://giellalt.github.io/term-sme-x-nursing/)
