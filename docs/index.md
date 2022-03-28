@@ -19,9 +19,9 @@ Denne sida presenterer arbeidet med samisk sjukepleieterminologi.
 - 2021: [Des. 2021](meetings/notat_møte.md)
 ◊ [20.12.21](meetings/moete.211220.md)
 ◊ [21.12.21](meetings/moete.211221.md)
-- 2022: [4.1.22](meetings/moete220104.md)
-◊ [5.1.22](meetings/moete220105.md) (oppstart)
-◊ [10.1.22](meetings/moete220110.md)
+- 2022: [4.1.22](meetings/moete.220104.md)
+◊ [5.1.22](meetings/moete.220105.md) (oppstart)
+◊ [10.1.22](meetings/moete.220110.md)
 ◊ [15.2.22](meetings/diskusjon220215.md)
 ◊ [21.3.22](meetings/moete.220321.md)
 
