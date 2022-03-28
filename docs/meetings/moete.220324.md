@@ -1,4 +1,5 @@
 # Møte om samisk sjukepleieterminologi
+24.3.2022 kl. 10.00-11.00
 
 Til stades: Beate Kristiansen, Marte Rime Bø (Direktoratet for e-helse), Kirsti Kuosa, Trond Trosterud (UiT)
 
