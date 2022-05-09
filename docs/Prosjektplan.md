@@ -9,7 +9,7 @@ Prosjektet treng fagfolk med innsikt i sjukepleiarutdanninga og sjukepleie som f
 
 Situasjonen for samisk sjukepleieterminologi krev to innfalsvinklar, ein *leksiografisk* og ein *terminologisk*. For å kunne snakke om sjukdom og sjukepleie treng talarane den delen av det allmenne ordforrådet som gjev ord for akkurat dette. Store delar av dette ordforrådet manglar i dei norsk-samiske ordbøkene. ??? Samtidig krev utviklinga av faget ein språkuavhengig terminologisk struktur, der alle termane også skal ha samisk språkdrakt.
 
-2 Leksikografisk arbeid  <span style="color:blue">KK</span>
+2 Leksikografisk arbeid 
 -----------------------
 
 ### Oversyn
@@ -58,5 +58,17 @@ Arbeid med integreringa av ICNP-terminologien i den samiske termbanken:
 1. Dra ut den terminologiske strukturen frå ICNP
 1. Sende termstruktur og termar til Giellagáldu for godkjenning og publisering  
 1. Presentere den samiske termbasen på relevante måter til lærarar og studentar  
+
+
+4 Ressursar
+-----------
+- iho k 20, trond 20, sa-ki-sa 100
+- nykyinen snomed saameksi + tuntuva osa leksikografiasta ==> sanakirjaan + termitietokantaan + adm
+
+df
+
+- Språkteknolog
+- Sjukepleievitar
+- Leksikograf
 
 
