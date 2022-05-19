@@ -14,17 +14,18 @@ Situasjonen for samisk sjukepleieterminologi krev to innfalsvinklar, ein *leksio
 
 ### Oversyn
 
-Den viktigaste kjelda til leksikografisk arbeid er fagtekst på norsk. Vi har gått gjennom pensumboka *Grunnbok i sykepleie 1-3*, og der funne ca. 2500 norske ord som er relevant for sjukepleiefaget men som ikkje finst i eksisterande norsk-samiske ordbøker. Denne pensumboka dekkjer ca. 1/3 av pensum i grunnutdanninga, og vi anslår at ei utviding av ordboksressursane med 5000 nye ordpar vil dekke store delar av behovet i pensumlitteraturen. <== 
+Den viktigaste kjelda til leksikografisk arbeid er fagtekst på norsk. Vi har gått gjennom pensumboka *Grunnbok i sykepleie 1-3*, og der funne ca. 2500 norske ord som er relevant for sjukepleiefaget men som ikkje finst i eksisterande norsk-samiske ordbøker. Denne pensumboka dekkjer ca. 1/3 av pensum i grunnutdanninga, og vi anslår at ei utviding av ordboksressursane med 5000 nye ordpar vil dekke store delar av behovet i pensumlitteraturen.  Andre delar av pensum vil bli lagt til i samråd med undervisarane.
 
 ### Konkret arbeidsplan
 
 Kandidatorda vil bli henta ut frå pensumtekstane med språkteknologisk analyse og deretter omsett og  lagt til i den norsk-samiske ordboksbasen av ein samisk leksikograf. Arbeidet går fram stegvis:
 
-1. Kartlegge behov: Hvilke fagområder trenger vi, prioriterer vi?
-1. Kartlegge eksisterende samisk ordforråd  for sjukepleie
-1. Velge samiske ord i samarbeid med underviserne på den samiske sykepleierutdanninga 
-1. Legg orda inn i relevante ordbøker
-1. Presentere ordsamlingane på relevante måter til lærere og studenter  
+1. Kartlegge behov: Kva fagområder trenger vi, prioriterer vi?
+1. Kartlegge eksisterande samisk ordforråd for sjukepleie (publiserte og upubliserte)
+1. Analysere pensumtekstar og generere lister av norske kandidatord 
+1. Velje samiske ord i samarbeid med undervisarane på den samiske sykepleierutdanninga 
+1. Legg orda inn i relevante ordbøker og termsamlingar
+1. Presentere ordsamlingane på relevante måtar til lærarar og studenter  
 
 
 
@@ -62,13 +63,10 @@ Arbeid med integreringa av ICNP-terminologien i den samiske termbanken:
 
 4 Ressursar
 -----------
-- iho k 20, trond 20, sa-ki-sa 100
-- nykyinen snomed saameksi + tuntuva osa leksikografiasta ==> sanakirjaan + termitietokantaan + adm
 
-df
+- Sjukepleievitar: Kirsti Kuosa sin arbeidsinnsats
+- Språkteknolog: Trond Trosterud, 20% 
+- Samiskspråkleg sjukepleiar: 100%
 
-- Språkteknolog
-- Sjukepleievitar
-- Leksikograf
 
 
