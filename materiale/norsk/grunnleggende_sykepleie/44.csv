@@ -1,44 +1,88 @@
-blindtarmbetennelse	N	
-blodlegeme	N	
-blodomløp	N	
-blodtrykksmåling	N	
-blærekatarr	N	
-brystbein	N	
-brystmuskel	N	
-bukhinne	N	
-eggcelle	N	
-fingerledd	N	
-gallegang	N	
-gallestein	N	
-hjernestamme	N	
-hjertebank	N	
-hjertekammer	N	
-hjerteklaff	N	
-hjertemuskel	N	
-hudavdeling	N	
-håndledd	N	
-kjønnsorgan	N	
-korsbein	N	
-kroppsvarme	N	
-kroppsvekt	N	
-magesmerte	N	
-muskelcelle	N	
-muskelkrampe	N	
-navlestreng	N	
-nervecelle	N	
-netthinne	N	
-nyresykdom	N	
-skulderledd	N	
-snorking	N	
-spyttkjertel	N	
-stoffskiftesykdom	N	
-strupelokk	N	
-stær	N	
-sædblære	N	
-sædcelle	N	
-tannbein	N	
-tannemalje	N	
-tannkjøtt	N	
-tarmkanal	N	
-urinblære	N	
-urinleder	N	
+blindtarmbetennelse	N		
+
+blodlegeme	N		
+
+blodomløp	N		
+
+blodtrykksmåling	N		
+
+blærekatarr	N		
+
+brystbein	N		
+
+brystmuskel	N		
+
+bukhinne	N		
+
+eggcelle	N		munasolu
+
+fingerledd	N		
+
+gallegang	N		
+
+gallestein	N		
+
+hjernestamme	N		
+
+hjertebank	N		
+
+hjertekammer	N		
+
+hjerteklaff	N		aorttaläppä
+
+hjertemuskel	N		
+
+hudavdeling	N		
+
+håndledd	N		ranne
+
+kjønnsorgan	N		sukupuolielin
+
+korsbein	N		ristiluu
+
+kroppsvarme	N		
+
+kroppsvekt	N		
+
+magesmerte	N		
+
+muskelcelle	N		lihassolu
+
+muskelkrampe	N		
+
+navlestreng	N		
+
+nervecelle	N		hermosolu
+
+netthinne	N		verkkokalvo
+
+nyresykdom	N		
+
+skulderledd	N		
+
+snorking	N		kuorsaus
+
+spyttkjertel	N		
+
+stoffskiftesykdom	N		
+
+strupelokk	N		
+
+stær	N		kottarainen
+
+sædblære	N		
+
+sædcelle	N		siittiö
+
+tannbein	N		
+
+tannemalje	N		
+
+tannkjøtt	N		
+
+tarmkanal	N		
+
+urinblære	N		
+
+urinleder	N		
+
