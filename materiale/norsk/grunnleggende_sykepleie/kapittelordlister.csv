@@ -7,11 +7,11 @@ disciplined body, cultur 	kroppsdisiplin
 body odor/odour 	kroppslukt
 body shame 	kroppsskam
 basic needs 	grunnleggende behov
-comfort, well-being 	velvære
-acknowledgement 	anerkjennelse
+comfort, well-being 	velvære	hyvinvointi
+acknowledgement 	anerkjennelse	tunnustaminen
 model of practical skill performance 	modell for praktisk ferdighetsutøvelse
 bodywork 	arbeid med fokus direkte på andres kropper
-touch 	berøring
+touch 	berøring	kosketus
 embarrassment 	flauhet
 
 
@@ -29,23 +29,23 @@ nursing assessment 	sykepleievurdering
 nursing diagnosis 	sykepleiediagnose
 nursing outcomes 	mål for sykepleie
 nursing interventions 	sykepleiehandlinger/sykepleietiltak
-observation 	observasjon
+observation 	observasjon	havainto
 electronic health records 	elektronisk pasientjournal
 
 
 
 Engelsk 	Norsk
-feeling safe 	trygghet
-trust 	tillit
+feeling safe 	trygghet	turvallisuss
+trust 	tillit	luottamus
 confidence 	tiltro
-safety 	sikkerhet
+safety 	sikkerhet	varmuus
 uncertainty 	uvisshet
 
 
 Engelsk 	Norsk
 bed-bath 	sengebad
 body care 	kroppspleie
-foot care 	fotstell
+foot care 	fotstell	jalkahoito
 hand hygiene 	håndhygiene
 mouth care 	munnstell
 oral hygiene 	munn- og tannhygiene
@@ -57,9 +57,9 @@ xerostomi 	munntørrhet
 
 Engelsk 	Norsk
 breath sounds breathing 	lungelyder pusting
-breathing difficulties breathing discomfort 	pustevansker
+breathing difficulties breathing discomfort 	pustevansker	hengitysvaikeus
 breathlessness 	andpustenhet
-cough 	hoste
+cough 	hoste	yskä
 Cheyne-Stokes Respiration 	Cheyne-Stokes’ respirasjon
 dyspnoea 	dyspné
 hyperventilation 	hyperventilering
@@ -74,8 +74,8 @@ vital signs 	vitale tegn
 
 
 Engelsk 	Norsk
-pressure ulcer 	trykksår
-decubitus 	trykksår
+pressure ulcer 	trykksår	painehaava
+decubitus 	trykksår	painehaava
 edema 	ødem
 leg ulcer 	leggsår
 ischemi(a) 	iskemi
@@ -83,7 +83,7 @@ risk assessment 	risikovurdering
 venous ulcers 	venøse sår
 venous insufficiency 	venøs svikt
 compression garments 	kompresjonsbehandling
-foot ulcer 	fotsår
+foot ulcer 	fotsår	jalkahaava
 dyspnea 	dyspné
 quality of life 	livskvalitet
 
@@ -123,7 +123,7 @@ undernourishment, malnutrition 	underernæring
 
 
 Engelsk 	Norsk
-diarrhea 	diaré
+diarrhea 	diaré	ripuli
 catheterize 	kateterisere
 elimination 	eliminasjon
 fecal incontinence 	avføringsinkontinens
@@ -134,7 +134,7 @@ urin retension 	urinretensjon
 
 
 Engelsk 	Norsk
-activity 	aktivitet
+activity 	aktivitet	touhu
 inactivity 	inaktivitet
 immobility 	immobilitet
 physical activity 	fysisk aktivitet
@@ -150,9 +150,9 @@ sensory deprivation 	sensorisk deprivasjon
 
 
 Engelsk 	Norsk
-sleep 	søvn
+sleep 	søvn	uni
 circadian rhythm 	cirkadianske rytmer
-insomnia 	søvnløshet
+insomnia 	søvnløshet	unettomuus
 sleep disorder 	søvnsykdom
 polysomnography 	polysomnografi
 sleep stages 	søvnstadier
@@ -175,5 +175,5 @@ social capital 	sosial kapital
 social network 	sosialt nettverk
 social support 	sosial støtte
 loneliness 	ensomhet
-isolation 	isolasjon
+isolation 	isolasjon	eristys
 
