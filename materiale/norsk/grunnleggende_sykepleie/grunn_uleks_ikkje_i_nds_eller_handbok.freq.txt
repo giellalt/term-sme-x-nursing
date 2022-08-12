@@ -1,1824 +1,1819 @@
-Tässä ovat Grunnbok i sykepleie-sanat jotka eivät löydy NDS:stä eikä Utsin sanakirjasta, mutta jotka ovat sanakirjan.
-Työtehtävä: Poista listalta sanat, jotka eivät ole ajankohtaisia sairaanhoitajille.
-Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
-Sanat eivät (vielä) ole norjan kielen analyysiohjelmassa, eli ne pitää lisätä.
+# Tässä ovat Grunnbok i sykepleie-sanat jotka eivät löydy NDS:stä eikä Utsin sanakirjasta, mutta jotka ovat sanakirjan.
+# Työtehtävä: Poista listalta sanat, jotka eivät ole ajankohtaisia sairaanhoitajille.
+# Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
+# Sanat eivät (vielä) ole norjan kielen analyysiohjelmassa, eli ne pitää lisätä.
 
-Laitoin paljon s:iä. Ovatkohan oikein? ---
-Ovat. Etsi:
-Trond sjekka språk hit
 
-Kirsti on katsonut loppuun asti: riville 1822. Lopussa paljon sanoja, jotka toistuva ja on väärin kirjoitettu.
-
-sykepleiediagnose
-ernæringsstatus
-kroppstemperatur
-fenomen
-helsehjelp
-sykepleietiltak
-væskeinntak
-munnstell
-sykepleieteori
-pasientjournal
-tarmtømming
-sykepleieplan
-helsefremmende
-kvalitetssystem
-helsebegrep
-pasientsituasjon
-sykepleiemodell
-respirasjonsproblem
-urinlekkasje
-matinntak
-respirasjonsfrekvens
-oksygentilførsel
-brukerrettighet
-sideleie
-urininkontinens
-blodvolum
-helseproblem
-sykepleievitenskap
-sykepleietjeneste
-kjernetemperatur
-sirkulasjonssystem
-tannpuss
-sykepleiepraksis
-energiomsetning
-muskelmasse
-ryggleie
-sykdomstilstand
-blodsirkulasjon
-sykdomsopplevelse
-minnegruppe
-søvnbehov
-sykepleieprosess
-urinmengde
-toalettbesøk
-minuttvolum
-sykepleierstudent
-kroppsstell
-tyngdekraft
-sykepleiekompetanse
-næringsinntak
-oksygeninnhold
-sykepleieforskning
-kostfiber
-livsytring
-tjenesteutvikling
-lokaliseringsteknologi
-varmeproduksjon
-faselidelse
-helseforetak
-blodtrykksfall
-ansiktsuttrykk
-klassifikasjonssystem
-REMsøvn
-sykepleiesituasjon
-pulsfrekvens
-kroppsbilde
-respirasjonsbesvær
-normalverdi
-kvalitetsutviklingsarbeid
-gassutveksling
-livsutfoldelse
-pusting
-morgenstell
-bevissthetsnivå
-energiinntak
-kvalitetsutviklingsarbeid
-ernæringstilstand
-fagprosedyre
-risikopasient
-tarminnhold
-sykepleiehandling
-sykepleiefunksjon
-kunnskapsform
-sykdomsforløp
-sårbehandling
-oksygenbehandling
-kroppsvask
-sykepleieutøvelse
-resturin
-kontraktur
-sykepleiesystem
-magesekk
-behandlingsplan
-helseplage
-funksjonsområde
-sentralnervesystem
-håndhygiene
-pasientforløp
-aldersforandring
-kompresjonsbehandling
-muskelaktivitet
-toalettvane
-kroppsstilling
-vevskade
-reguleringssenter
-temperaturregulering
-stressinkontinens
-hovedgruppe
-alvorlighetsgrad
-søvnforstyrrelse
-våkenhet
-væskebalanse
-omsorgsverdi
-matvane
-fagutvikling
-blæretrening
-varmetapet
-søvnstadium
-brannskade
-urinproduksjon
-slimproduksjon
-hudpleie
-væskeopphopning
-søvnmønster
-sykepleiehåndbok
-sykepleieferdighet
-sykepleiedefinisjon
-tidsbruk
-oksygenbehov
-respirasjonsarbeid
-endringsarbeid
-søvnvane
-venetrombose
-blodtilførsel
-sykepleiesammenheng
-snevring
-pasientomsorg
-urinmengde
-temperaturmåling
-menneskekropp
-kjønnsidentitet
-legemiddelhåndbok
-normalfunksjon
-sykdomsforståelse
-kartleggingsverktøy
-sykdomsutvikling
-utviklingstrinn
-kostråd
-trykkskade
-hosterefleks
-tannprotese
-pleieplan
-pasientopplysning
-normalområde
-forskningsmetode
-sykepleiekunnskap
-arbeidshverdag
-pasienthistorie
-blodforsyning
-fargeforandring
-omsorgsfilosofi
-tranfett
-livsstilsendring
-fyllende
-blodcelle
-respirasjonsbevegelse
-skrekkanfall
-helsevirksomhet
-sædvæske
-teoriutvikling
-buktrykk
-blæretømming
-væsketilførsel
-blodstrøm
-helserisiko
-mageregion
-tankeprosess
-kvalitetsutviklingsprosess
-sirkulasjonsproblem
-hudproblem
-tidspress
-urinpose
-vektøkning
-individnivå
-gruppenivå
-aktivitetsnivå
-skjelettmuskulatur
-handlingsmønster
-helsekompetanse
-nettverksintervensjon
-kjønnshormon
-tarmfunksjon
-nyrefunksjon
-parforhold
-ernæringsbehov
-astmaanfall
-grunnvilkår
-vitenskapstradisjon
-sykepleietenkning
-hosteteknikk
-kontaktsykepleier
-kreftsykdom
-hvilestilling
-heteslag
-leiring
-avføringsprøve
-sykepleieproblem
-pasientproblem
-personopplysning
-sykepleieoppgave
-respirasjonsmuskel
-pleiemiddel
-mageleie
-sykepleiekapasitet
-energiinnhold
-sårinfeksjon
-hjernehalvdel
-lungefunksjon
-beslutningsforum
-funksjonsforstyrrelse
-tjenesteforløp
-energiforbruk
-hudfold
-gallefargestoff
-helsefagarbeider
-stillingsendring
-kvalitetsdimensjon
-diabetesdagbok
-sykdomsbyrde
-kompresjonsbind
-fordøyelsesbesvær
-sædavgang
-behandlingsalternativ
-slagvolum
-hvilevolum
-saltvann
-beinutspring
-behandlingstiltak
-næringstilførsel
-menstruasjonssyklus
-allmennsykepleie
-kompresjonsstrømpe
-varmestråling
-sporstoff
-drikkeskjema
-sårskift
-hudskade
-iverksetting
-respirasjonssenter
-spyttsekresjon
-leddsans
-hjerterytme
-sykdomsprosess
-ernæringsproblem
-autonomiprinsipp
-ernæringsplan
-helsenett
-blæremuskel
-næringsløsning
-blærekateter
-kjernejournal
-sykehusinnleggelse
-saltinnhold
-luftveisinfeksjon
-livshendelse
-sykepleieforsker
-oksygenforbruk
-orienteringsevne
-sondeernæring
-næringsdrikke
-næringsdrikk
-helsedefinisjon
-legemiddelbehandling
-sykdomsbegrep
-energibalanse
-forbedringsarbeid
-væskeansamling
-bakterievekst
-tarmvegg
-handlingsvalg
-kvalitetsutviklingsprosjekt
-tjenesteutøvelse
-morgenurin
-kontraktur
-ernæringstrapp
-helsepersonelltjeneste
-respirasjonssystem
-tarmsykdom
-sykepleiestudent
-tarmslimhinne
-frostskade
-sykdomssituasjon
-grensesetting
-nekrose
-yrkesrolle
-omsorgsrelasjon
-handlingsrefleksjon
-vurderingsprosess
-sykepleierprofesjon
-talgproduksjon
-kvalitetsproblem
-folkehelseproblem
-ereksjonsproblem
-pleiepersonale
-transperson
-talsperson
-søvnperiode
-oksygenopptak
-behovsområde
-funksjonsnivå
-følelsesmodus
-sykdomsmodell
-reguleringsmekanisme
-pleiemedhjelper
-blodtrykksmåling
-søvnlengde
-erfaringslæring
-søvnkvalitet
-erfaringskunnskap
-organisasjonskultur
-kvalitetskultur
-nyttekriterium
-termostatinnstilling
-avføringsinkontinens
-munnhygiene
-matvaregruppe
-prøveglass
-cellegift
-ernæringsfysiolog
-kvalitetsforskrift
-behandlingsforløp
-understøttelsesflate
-urinflaske
-pasienteksempel
-steindannelse
-epitelcelle
-muskelbruk
-beinbrudd
-skjermbrett
-tilleggsbelastning
-væskebehov
-velbehag
-funksjonsbegrensning
-tarmbakterie
-innvandrerbakgrunn
-trygghetsalarm
-tarmaktivitet
-minneaktivitet
-skjedevegg
-infusjonsvæske
-drikkevane
-bakterievandring
-urinutskilling
-ferdighetsutøvelse
-stereotype
-katetertype
-håndtrykk
-overstrekk
-avføringstrang
-hetetokt
-febertilstand
-samtaleterapi
-interaksjonsteori
-nyrestein
-organsystem
-ledningssystem
-diagnosesystem
-EPJ-system
-utviklingssykepleier
-kreftsykepleier
-dostol
-sinnsstemning
-sårstell
-nyrestein
-muskelspenning
-munnspeil
-livslang
-ryggmargsskade
-hodeskade
-mestringssenter
-væskeregnskap
-legemiddelregime
-pasientsikkerhetsprogram
-hudoverflate
-respirasjonsorgan
-bukorgan
-bakterieoppvekst
-væskeopphopning
-rehabiliteringsopphold
-pasientopphold
-lungeødem
-samfunnsnivå
-kvalitetsnivå
-hemoglobinnivå
-blodsukkernivå
-abstraksjonsnivå
-tenningsmønster
-respirasjonsmønster
-forklaringsmodell
-behovsmodell
-slimmobilisering
-desinfeksjonsmiddel
-hullmerke
-væskemengde
-transportmedium
-sondeløsning
-drikkeliste
-symptomlindring
-sykdomslære
-legemiddelkurve
-handlingskunnskap
-fortrolighetskunnskap
-brukerkunnskap
-omgangskrets
-muskelkontraksjon
-handlingsklokskap
-prostatakjertel
-væskeinnhold
-vanninnhold
-karbondioksidinnhold
-pasientinformasjon
-soppinfeksjon
-masseindeks
-nerveimpuls
-avvikshåndtering
-selvhjelpsgruppe
-tradisjonsgrunnlag
-spesialistgodkjenning
-pumpefunksjon
-hjertefrekvens
-døgnrytmeforstyrrelse
-helhetsforståelse
-sirkulasjonsforhold
-stillingsforandring
-tørstfølelse
-sykdomsfølelse
-sykepleiefilosofi
-sykdomsfase
-rehabiliteringsfase
-livsstilsfaktor
-pasienterfaring
-hodeende
-gassdannelse
-sårbunn
-tvangsbruk
-hoftebrudd
-hjernebølge
-omsorgsbegrep
-kunnskapsbegrep
-nervebane
-lungeavsnitt
-sykdomsårsak
-dødsårsak
-ernæringsarbeid
-muskelarbeid
-næringsstoffanbefaling
-malabsorpsjon
-blærevolum
-D-vitamin
-legevisitt
-tankevirksomhet
-hårvekst
-sårveiledning
-bukvegg
-smerteuttrykk
-inkontinensutstyr
-helseutfall
-doktorgradsutdanning
-blæretrykk
-familietolk
-helsetjenestetilbud
-vekting
-risting
-kremting
-smertetilstand
-stillstand
-fibertilskudd
-varmetilførsel
-helsetjenestetilbud
-beintetthet
-livstestament
-øretermometer
-musikkterapi
-hudtemperatur
-avslapningsteknikk
-helseteam
-karsystem
-dokumentasjonssystem
-søvnsyklus
-respirasjonssyklus
-søvnsykdom
-demenssykdom
-prøvesvar
-avføringstrang
-dusjstol
-samleiestilling
-feilstilling
-tannstatus
-respirasjonsstatus
-ryggsøyle
-realitetssjokk
-praksissituasjon
-pleiesituasjon
-pasientrolle
-energirik
-inflammasjonsreaksjon
-infeksjonsrate
-stolpute
-garpete
-bunnpunkt
-delprotese
-energiprosent
-spyttproduksjon
-orgasmeproblem
-hukommelsesproblem
-sykepleieprinsipp
-nettportal
-matportal
-sykehusplan
-stikkpille
-helseopplysning
-smerteopplevelse
-hudområde
-karbondioksidnivå
-hjertemuskulatur
-magemuskel
-behandlingsmulighet
-omsorgsmodell
-interaksjonsmodell
-tykningsmiddel
-blodmengde
-væskemengde
-seksualitetsmangfold
-proteinmangel
-forskningslitteratur
-søvnlengde
-stemningsleie
-fremmedlegeme
-sykehjemslege
-blæreskylling
-sykepleiekvalitet
-ressurskriterium
-fuktighetskrem
-ansiktskrem
-muskelkraft
-matkort
-kroppskontakt
-oljeklyster
-smittekjede
-bevegelseskapasitet
-sårkant
-sykepleieintervensjon
-søvnhygiene
-penishode
-bakhode
-sykdomshistorie
-produktivitetshensyn
-datasamlingsguide
-muskelgruppe
-sammenlikningsgrunnlag
-litteraturgjennomgang
-omsorgsgiver
-helsegevinst
-pasientfortelling
-årsaksforklaring
-hudforandring
-bakterieflora
-rammefaktor
-taleevne
-ereksjonsevne
-symptomerfaring
-sykdomserfaring
-volumendring
-vektendring
-kroppsendring
-funksjonsdyktighet
-respirasjonsdybde
-risikodiagnose
-hånddesinfeksjon
-søvndagbok
-hovedbolk
-helsebibliotek
-tarmbevegelse
-sirkelbevegelse
-kroppsbevegelse
-antibiotikabehandling
-låsbar
-blodbane
-sykehusavdeling
-fagartikkel
-behandlingsansvar
-handlingsalternativ
-minnealbum
-yrkesvirksomhet
-støtteverktøy
-blodsukkerverdi
-KMI-verdi
-minuttventilasjon
-kostholdsveiledning
-kostveiledning
-brystvegg
-årevegg
-vevsvæske
-ernæringsvæske
-kornvare
-drikkevare
-talevanske
-søvnvanske
-kvalitetsutviklingstiltak
-vektutvikling
-gassutvikling
-kvalitetsutvalg
-kroppsuttrykk
-sædutløsning
-røntgenundersøkelse
-funksjonsundersøkelse
-væskeunderskudd
-underernæring
-kosttype
-hudtype
-bakterietype
-fingertrykk
-utholdenhetstrening
-oksygentransport
-forbedringstiltak
-likevektstilstand
-østrogentilskudd
-kosttilskudd
-gruppetilhørighet
-veiingstest
-atferdsterapi
-praksisteori
-egenomsorgsteori
-behovsteori
-sykepleieteoretiker
-balansetenkning
-lufttemperatur
-pulstelling
-tannbørste
-bakterietall
-skjelettsystem
-alarmsymptom
-kroppsstruktur
-urinstrøm
-beslutningsstøtte
-porsjonsstørrelse
-massasjestav
-vitaminstatus
-SAFE-status
-respirasjonsstans
-hjertestans
-leddsmerte
-hvilesmerte
-omsorgssjef
-samhandlingssituasjon
-problemsituasjon
-verdisett
-infusjonssett
-sykehusseng
-transseksualisme
-temperatursans
-smertesans
-hudsans
-gruppesamling
-magesaft
-respirasjonsrytme
-søvnrutine
-trykksårrisiko
-fallrisiko
-prøveresultat
-helseresultat
-væskerestriksjon
-såperest
-helseressurs
-handlingsrepertoar
-kostregistreringsskjema
-tømmingsregime
-tømmingsrefleks
-betennelsesreaksjon
-formålsrasjonalitet
-tilsynsrapport
-smertepumpe
-ereksjonspumpe
-hvilepuls
-kateterprøve
-stoffskifteprosess
-livsprosess
-interaksjonsprosess
-aldringsprosess
-sykepleieprosedyre
-øvingsprogram
-doktorgradsprogram
-sykepleieprofesjon
-stoffskifteprodukt
-kroppsprodukt
-sædproduksjon
-luktproblematikk
-tømmingsproblem
-inkontinensproblem
-trekantprinsipp
-jernpreparat
-normalposisjon
-luftplage
-sykepleieperspektiv
-prosessperspektiv
-helsepedagogikk
-luftpassasje
-sykehjemspasient
-kreftpasient
-samtalepartner
-svelgparese
-væskeoverskudd
-maktovergrep
-tidsopplevelse
-symptomopplevelse
-pasientopplevelse
-pleieoppgave
-sykdomsoppfatning
-helhetsoppfatning
-omsorgstjeneste
-vedlikeholdsomsorg
-stoffomsetning
-livsområde
-kunnskapsområde
-forskningsområde
-adaptasjonsområde
-slimhinneødem
-luftstrømobstruksjon
-teorinivå
-østrogennivå
-oksygennivå
-hormonnivå
-adaptasjonsnivå
-funksjonsnedsettelse
-respirasjonsmuskulatur
-leggmuskulatur
-bukmuskulatur
-mestringsmulighet
-livsmulighet
-tømmingsmønster
-livsmønster
-avføringsmønster
-nettmobbing
-måltidsmiljø
-fødemiddel
-cellemetabolisme
-energimengde
-blodmengde
-cellemembran
-fettmasse
-blodtrykksmansjett
-væskemangel
-østrogenmangel
-matmangel
-livssituasjon
-kontaktlinse
-smertelindring
-grunnlidelse
-påkledd
-varmelaken
-livkvalitetsbegrep
-pulskvalitet
-mestringskurs
-hverdagskunnskap
-hovedkriterium
-skjedekrampe
-koloskopi
-praksiskontekst
-hudkontakt
-hovedkomponent
-samtykkekompetanse
-vitenskapskomité
-sinusknute
-lymfeknute
-spyttkjertel
-urinkateter
-syrekappe
-kommunikasjonskapasitet
-saltinntak
-karbohydratinntak
-kaloriinntak
-fiberinntak
-ernæringsinntak
-næringsinnhold
-hemoglobininnhold
-hastverksinkontinens
-blandingsinkontinens
-ADL-indeks
-stresshormon
-ganghjelpemiddel
-avvikshendelse
-tannhals
-risikogruppe
-normalgrense
-kompresjonsgrad
-matglede
-blodgass
-tarmgass
-hjernefunksjon
-gangfunksjon
-temperaturforstyrrelse
-rytmeforstyrrelse
-respirasjonsforstyrrelse
-bevegelsesforstyrrelse
-teknologiforståelse
-bakgrunnsforståelse
-tyngdefornemmelse
-forståelsesform
-kontaktforhold
-helseforhold
-pigmentforandring
-fingerforandring
-muskelfiber
-bofellesskap
-søvnfase
-sårfase
-platåfase
-orgasmefase
-kartleggingsfase
-tonefall
-stressfaktor
-miljøfaktor
-empatievne
-omsorgsetikk
-klitorisereksjon
-krybbedødepidemi
-fordøyelsesenzym
-aldersendring
-personlighetsegenskap
-vitamindråpe
-D-vitamindråpe
-tidsdimensjon
-omsorgsdepartement
-varedeklarasjon
-sårdannelse
-teknologibruk
-rusmiddelbruk
-kondombruk
-antibiotikabruk
-kompresjonsbrudd
-menstruasjonsblod
-prostatabesvær
-væskebehandling
-hormonbehandling
-livskvalitetsbegrep
-tålbar
-kontrollerbar
-urinavgang
-sykehjemsavdeling
-forskningsartikkel
-muskelarbeid
-skjedeåpning
-arbeidsantrekk
-gruppeaktivitet
-sykepleieryrke
-sårvurdering
-hudvurdering
-funksjonsvurdering
-urinvolum
-tarmvolum
-stemmevolum
-lungevolum
-matvogn
-sykepleievitenskap
-legemiddelvirkning
-buffervirkning
-livvidde
-klitorisvibrator
-vurderingsverktøy
-støtteverktøy
-selvhjelpsverktøy
-prosedyreverktøy
-termostatverdi
-hemoglobinverdi
-blodverdi
-velvære
-undervekt
-skjeggvekst
-lengdevekst
-karvegg
-normalvariasjon
-døgnvariasjon
-kommunikasjonsvanske
-hørselsvanske
-springvann
-såpevann
-kullsyrevann
-kroppsvann
-isvann
-helsevane
-behandlingsvalg
-temperaturutvikling
-pubertetsutvikling
-kjønnsutvikling
-følelsesuttrykk
-melatoninutskilling
-urinutskillelse
-profesjonsutøver
-fagutøver
-kunstutøvelse
-livsutfordring
-aktivitetsutfoldelse
-sinneutbrudd
-stråleurin
-døgnurin
-kontraktur
-fissur
-pasientundervisning
-forbrukerundersøkelse
-termometertype
-sårtype
-fibertype
-feiltrinn
-bevegelighetstrening
-beinstrekk
-blodtransfusjon
-omsorgstradisjon
-habiliteringstjeneste
-vektreduksjonstiltak
-aktivitetstiltak
-legetilsyn
-blodtilstrømning
-krisetilstand
-infeksjonstilstand
-bevissthetstilstand
-betennelsestilstand
-proteintilskudd
-jerntilskudd
-kjønnstilhørighet
-sykepleietilbud
-mestringstilbud
-mattilbud
-medisineringstidspunkt
-energitetthet
-svelgtest
-nyreterskel
-dørterskel
-kontakttermometer
-ICNP-terminologi
-tilknytningsteori
-systemteori
-omsorgsteori
-bufferteori
-årsakstenkning
-blødningstendens
-samtaletempo
-omgivelsestemperatur
-normaltemperatur
-vakttelefon
-velværeteknologi
-sikkerhetsteknologi
-sensorteknologi
-gallestein
-smertetegn
-minustegn
-genitale
-tarmsystem
-serveringssystem
-responssystem
-oppsamlingssystem
-lymfesystem
-katetersystem
-behandlingssystem
-balansesystem
-eplesyre
-utmattelsessyndrom
-unnlatelsessynder
-unnlatelsessynd
-angstsymptom
-allmennsykepleier
-kontaktsykepleier
-helsesykepleier
-muskelsykdom
-betennelsessykdom
-arteriesykdom
-kreftsvulst
-hjernesvulst
-blodprøvesvar
-melkesukker
-såpestykke
-kjønnsstudium
-litteraturstudie
-kjønnsstudie
-bachelorstudent
-respirasjonsstøtte
-kateterstørrelse
-giftstoff
-cellestoff
-feberstigning
-blodsukkerstigning
-kompetansestige
-næringstett
-sykepleierstemme
-tannstell
-praksissted
-bakteriestamme
-inngangsport
-praksisspørsmål
-livskvalitetsspørsmål
-kontrollspørsmål
-sondespiss
-kateterspiss
-ernæringsonde
-lengdesnitt
-keisersnitt
-luftsmerte
-munnslimhinne
-mestringskur
-sykehusskjorte
-væskeskjema
-oppsummeringsskjema
-evalueringsskjema
-avviksskjema
-anamneseskjema
-PICO-skjema
-MNA-skjema
-bandasjeskift
-arbeidskår
-behandlingssituasjon
-studiesirkel
-kostsirkel
-frivillighetssentral
-responssenter
-orgasmesenter
-institusjonsseng
-sårsekresjon
-lungesekk
-smertescore
-kostsamtale
-ekspertsammenslutning
-næringssammensetning
-kroppssammensetning
-dråpesamler
-sinusrytme
-samfunnsrytme
-toalettrutine
-hygienerutine
-arbeidsrutine
-sykepleierrolle
-nøkkelrolle
-avføringsrest
-slagrehabilitering
-hverdagsrehabilitering
-søvnregistrering
-kostregistrering
-inkontinensregister
-nyreregion
-blæreregion
-treningsregime
-handlingsregel
-bluferdighetsregel
-avhengighetsregel
-faglighetsreform
-avføringsrefleks
-sorgreaksjon
-krisereaksjon
-morgenrapport
-forståelsesramme
-skumgummipute
-leppepust
-infusjonspumpe
-stråleprøve
-porsjonsprøve
-brystprotese
-forråtnelsesprosess
-fordøyelsesprosess
-betennelsesprosess
-slaggprodukt
-østrogenproduksjon
-sykdomsproblem
-smerteproblem
-livskvalitetsproblem
-levekårsproblem
-hørselsproblem
-hjerteproblem
-avføringsproblem
-prestasjonspress
-oppsamlingspose
-inngangsport
-folkehelsepolitikk
-sårpoliklinikk
-dagsplan
-aktivitetsplan
-tømmingsplage
-søvnplage
-diaréplage
-tilknytningsperson
-feberperiode
-stresspåvirkning
-kuldepåvirkning
-tarmpassasje
-sykehuspasient
-tarmparasitt
-koronapandemi
-syreoverskudd
-smitteoverføring
-kroppsoverflate
-balanseøvelse
-saksorientering
-sakorientering
-klitorisorgasme
-pasientorganisasjon
-fordøyelsesorgan
-trygghetopplevelse
-behandlingsopplegg
-pasientopplæring
-avlastningsopphold
-studieoppgave
-pasientoppfølging
-menneskeoppfatning
-detaljoppfatning
-prostataoperasjon
-vedlikeholdsomsorg
-demensomsorg
-tabuområde
-sykepleieområde
-muskelomfang
-brukerombud
-rapsolje
-refleksjonsnotat
-kvalitetsnorm
-støynivå
-blærenivå
-CO2-narkose
-CO-narkose
-blæremuskulatur
-ringmuskel
-halsmuskel
-ekspansjonsmulighet
-aktivitetsmulighet
-luftstrømmotstand
-luftmotstand
-reaksjonsmønster
-måltidsmønster
-aktivitetsmønster
-sukkermolekyl
-hemoglobinmolekyl
-rollemodell
-egenomsorgsmodell
-sykehusmiljø
-rusmiljø
-institusjonsmiljø
-behandlingsmiljø
-uttrykksmiddel
-oppvaskmiddel
-kommunikasjonsmiddel
-festemiddel
-undersøkelsesmetode
-søvnmengde
-sekresjonsmengde
-fibermengde
-drikkemengde
-fibermengde
-drikkemengde
-vannmelon
-vekstmedium
-morgenmedisin
-kreftmedisin
-MS-medisin
-skummateriale
-protesemateriale
-uttrykksmåte
-reaksjonsmåte
-forståelsesmåte
-kroppsmasse
-diagnosemanual
-søvnmangel
-jodmangel
-testmåltid
-skolemåltid
-kveldsmåltid
-fellesmåltid
-blodsukkermåling
-kjønnsmajoritet
-skummadrass
-vellukt
-matlukt
-tarmluft
-inspirasjonsluft
-tannløsning
-selvhjelpløsning
-eggløsning
-litteraturliste
-baseline
-pleielidelse
-nyrelidelse
-hjertelidelse
-angstlidelse
-avføringslekkasje
-stemmeleie
-legemiddel
-tilsynslege
-allmennlege
-LIS-lege
-organisasjonslæring
-ferdighetslæring
-eksempellæring
-stikklaken
-barselkvinne
-tjenestekvalitet
-proteinkvalitet
-behandlingskvalitet
-feberkurve
-døgnrytmekurve
-samlivskurs
-påstandskunnskap
-ferdighetskunnskap
-idealkropp
-prosesskriterium
-prioriteringskriterium
-evalueringskriterium
-lungekretsløp
-testikkelkreft
-tilleggskrav
-mengdekrav
-erstatningskrav
-hjertekrampe
-pumpekraft
-livskraft
-hostekraft
-ringkost
-ringkost
-ringkost
-ønskekost
-stellekort
-prospektkort
-TT-kort
-ILO-konvensjon
-hjertekontraksjon
-tildelingskontor
-sykehuskontekst
-pasientkontakt
-videokonsultasjon
-hemoglobinkonsentrasjon
-idrettskonkurranse
-rollekonflikt
-kulturkonflikt
-støttekondom
-kunnskapskomponent
-innholdskomponent
-samhandlingskompetanse
-mestringskompetanse
-oppsamlingskolbe
-ankelknoke
-avføringsklump
-rådgivningsklinikk
-veneklaff
-talgkjertel
-lyskilde
-kunnskapskilde
-nesekateter
-avføringskart
-leddkapsel
-syrekapp
-blærekapasitet
-arbeidskapasitet
-blærekanne
-fruktjuice
-pasientjournalsystem
-kunnskapsinteresse
-pasientintegritet
-rehabiliteringsinstitusjon
-synsinntrykk
-bevegelsesinnskrenkning
-plastinnlegg
-inkontinensinnlegg
-målinnhold
-fiberinnhold
-fettinnhold
-bevissthetsinnhold
-betydningsinnhold
-bakterieinnhold
-anstrengelsesinkontinens
-insulininjeksjon
-tarminfeksjon
-klamydiainfeksjon
-yrkesidentitet
-problemidentifisering
-skjønnhetsideal
-kroppsideal
-lufthunger
-bilhold
-sykepleierhøgskole
-sykepleiehjelp
-brysthinne
-passasjehindring
-hårvaskhette
-kvinnehelse
-strømhastighet
-infusjonshastighet
-legemiddelhåndtering
-støttehåndtak
-legevakthåndbok
-samtalegruppe
-refleksjonsgruppe
-helsepersonellgruppe
-forskergruppe
-erfaringsgrunnlag
-bekvemmelighetsgrunn
-kulturgrense
-profesjonsgrad
-strømgods
-måltidsglede
-livsglede
-blodprøveglass
-hodegjerde
-tarmgass
-svelgfunksjon
-organfunksjon
-hjertefunksjon
-blærefunksjon
-ADL-funksjon
-hudfuktighet
-spissfot
-infeksjonsforsvar
-atferdsforstyrrelse
-e-helseforskning
-omsorgsformål
-militærformål
-tablettform
-passform
-læringsform
-rehabiliteringsforløp
-handlingsforløp
-temperaturforhøyelse
-temperaturforhold
-ernæringsforhold
-kreftforening
-loggføre
-allergiforbund
-lovforbud
-pulsforandring
-lekfolk
-virkelighetsflukt
-normalflora
-livsfilosofi
-hudfett
-begrepsfeste
-fingerferdighet
-overskuddsfenomen
-yrkesfelt
-kroppsfasong
-østrogenfall
-atferdsfaktor
-svelgeevne
-pumpeevne
-sykdomsepisode
-kjerneenhet
-kostholdsendring
-atferdsendring
-lungeemboli
-egenomsorgskrav
-egenomsorgskapasitet
-blæredysfunksjon
-sykepleiedokumentasjon
-overdosedødsfall
-sykdomsdiagnose
-arrdanning
-sprekkdannelse
-luftdannelse
-hjernecelle
-sykdomsbyrde
-maskebruk
-maktbruk
-lårhalsbrudd
-utskrivingsbrev
-hudblødning
-arterieblod
-cellebiologi
-livsbetingelse
-kjøttbetennelse
-sykehjemsbestyrer
-taushetsbestemmelse
-handlingsberedskap
-sykepleiebehov
-sykdomsbehandling
-miljøbehandling
-giftbehandling
-dialysebehandling
-verdensbegrep
-kompresjonsbandasje
-trykkavlastning
-håravfall
-barselavdeling
-rolleatferd
-pleieassistent
-kransarterie
-ultralydapparat
-blodtrykksapparat
-syreangrep
-hosteanfall
-virusanalyse
-matallergi
-kontaktallergi
-sykepleieaktivitet
-hjerneaktivitet
-risikovurderingsskjema
-pasientvurdering
-kunnskapsvurdering
-plasmavolum
-muskelvolum
-luftvolum
-inspirasjonsvolum
-døgnvolum
-blodviskositet
-nakkevirvel
-livsvilje
-stillingsvern
-leddvern
-screeneverktøy
-sykepleieverdi
-nonverbal
-stolvekt
-fødselsvekt
-muskelsvekkelse
-telefonveiledning
-sårveiledning
-kollegaveiledning
-helseveiledning
-katetervegg
-blærevegg
-overskuddsvæske
-ødemvæske
-klystervæske
-forbrenningsvæske
-underlivvask
-såpevask
-ryggvask
-katetervask
-kroppsvarme
-fordampningsvarme
-tømmingsvanske
-synsvanske
-tømmingsvane
-dagvakt
-veneutvidelse
-skadeutvalg
-brukerutvalg
-oksygenutstyr
-beskyttelsesutstyr
-omsorgsutøver
-varmeutmattelse
-helseutgift
-natturin
-sykepleieruniform
-ultralydundersøkelse
-strimmelundersøkelse
-røntgenundersøkelse
-kartleggingsundersøkelse
-EKG-undersøkelse
-søvnunderskudd
-kjønnsulikhet
-foldtykkelse
-katetrtupp
-vekseltrykk
-urintrykk
-pasienttrygghet
-nettingstruse
-venetrombose
-madrasstrekk
-hygienetrekant
-tømmingstrang
-urinstråle
-klapptørking
-klapptørke
-laktosetoleranse
-aktivitetstoleranse
-svettetokt
-bakterietoksin
-sykepleietjeneste
-hjemmesykepleietjeneste
-besøkstjeneste
-legetime
-e-helsetiltak
-sjokktilstand
-ernæringstilskudd
-behovstilfredsstillelse
-kontakttermometer
-hudtermometer
-arterietermometer
-oksygenterapi
-avledningsterapi
-forfallstendens
-dråpeteller
-forflytningsteknikk
-krybbedød
-genital
-venesystem
-velferdssystem
-sirkulasjonssystem
-fordøyelsessystem
-utmattelsessyndrom
-pussylinder
-søvnsyklus
-respirasjonssyklus
-undervisningssykehjem
-virussykdom
-pestsykdom
-luftveissykdom
-kvinnesykdom
-kolssykdom
-gallesykdom
-alderssykdom
-livsvane
-signalsubstans
-brukerstyring
-intervensjonsstudie
-tømmingstrang
-urinstråle
-midtstråle
-hvilestoffskifte
-hjertestans
-pubertetsstadium
-blærespreng
-tubespiss
-stemmespalte
-deltasøvn
-muggsopp
-heteslag
-transkjønn
-risikovurderingsskjema
-sårskifte
-vaktskift
-fettstoffskifte
-synsskarphet
-risikovurderingskala
-penisskaft
-vevskade
-stråleskade
-støyskade
-stikkskade
-organskade
-nyreskade
-fødselsskade
-bruddskade
-blæreskade
-alkoholskade
-praksissjokk
-blødningssjokk
-helsesjekk
-sittestilling
-omsorgssirkel
-behandlingssirkel
-membranside
-kroppsside
-klystersetting
-luktsenter
-brekningssenter
-bleiesensor
-korridorseng
-hælsene
-slimsekresjon
-skittentøysekk
-munnsårhet
-realitetssans
-likevektsans
-utskrivningssamtale
-refleksjonssamtale
-kostsamtale
-kartleggingssamtale
-urinsamling
-ødemsamling
-spyttsaft
-pulsrytme
-pukkelrygg
-korsrygg
-nekrose
-smitterisiko
-trombosering
-brukerrettighet
-vegetarrett
-sykepleieresultat
-søvnrestriksjon
-drikkerestriksjon
-omsorgsressurs
-motstandsressurs
-proteinreserve
-karanteneregel
-væskeregistrering
-matregistrering
-reseptregister
-kreftregister
-tømmingsregime
-pleieregime
-kostholdregime
-isolasjonsregime
-diettregime
-behandlingsregime
-tillitreform
-tømmingsrefleks
-senkningsreaksjon
-allergireaksjon
-kastrasjon
-tilsynsrapport
-rullestolrampe
-egenomsorgsrådgivning
-matpyramide
-kunnskapspyramide
-penispumpe
-ernæringspumpe
-hovedpulsåre
-poseprøve
-tarmprotokoll
-plasmaprotein
-muskelprotein
-sorgprosess
-sykdomsprognose
-sykehusprest
-varmepose
-veneport
-dokumentasjonsplikt
-blodplasma
-menyplanlegging
-sykdomsperspektiv
-livsperspektiv
-barselperiode
-tykktarmpassasje
-luftstrømpassasje
-slagpasient
-respiratorpasient
-korridorpasient
-sykdomspanorama
-bakteriepanel
-behandlingspakke
-tidsorientering
-realitetsorientering
-signalorgan
-likevektsorgan
-mentorordning
-livsstilopplysning
-journalopplysning
-helseopplysning
-omsorgsoppgave
-fettomsetning
-hudombud
-sykepleienotat
-novisenivå
-matmunn
-utfoldelsesmulighet	Trond sjekka språk hit
-morgenmøte
-EKGmonitor
-signalmolekyl
-verdimodell
-tallerkenmodell
-regnbuemodell
-helsemodell
-tilsetningsmiddel
-soppmiddel
-klyster
-erstatning
-antikonsepsjonmiddel
-husstøvmidd
-sykepleiemetode
-primærhelsetjeneste
-omsorgsmelding
-folkehelsemelding
-avviksmelding
-pasientmedvirkning
-tvangsmedisinering
-alarmmatte
-tvangsmating
-ultralydmaskin
-hostemaskin
-PEPmaske
-binyremarg
-beinmarg
-avledningsmanøver
-temperaturmåling
-trykkmadrass
-avlastningmadrass
-utåndingsluft
-innåndingsluft
-tvangslovgivning
-ernæringsløsning
-livsmot
-livskvalitet
-legemiddelliste
-omsorgslidelse
-demenslidelse
-livslengde
-mesterlære
-varmelaken
-stikklaken
-reservelager
-glykogenlager
-fettlager
-blodlager
-øreskylling
-vektkurve
-medisinkurve
-sykepleiekunnskap
-pleiekultur
-omsorgskultur
-blodkultur
-systemkretsløp
-skjedekrans
-flaskekost
-allergikost
-trygdekort
-protesekopp
-tarmkontroll
-stimuluskontroll
-blærekontroll
-varmekonservering
-brystkompresjon
-muskelknute
-lårbeinknute
-AVknute
-alarmknapp
-vannklyster
-pulsklokke
-NICklassifikasjon
-transkjønn
-hydrokarbonkjede
-venekateter
-plastkateter
-kvinnekateter
-friksjonskateter
-skjedekatarr
-nettverkskartlegging
-ernæringskartlegging
-reservekapasitet
-tallerkenkant
-sykepleiejournal
-pasientjournal
-kjernejournal
-serumjern
-bakterieinvasjon
-matvareintoleranse
-glutenintoleranse
-glukoseintoleranse
-urininkontinens
-avføringinkontinens
-væskeinfusjon
-helseinformatikk
-pasientinformant
-sykehusinfeksjon
-kryssinfeksjon
-næringsmiddelhygiene
-mathygiene
-reparasjonshvile
-nesehule
-irritasjonshoste
-vevhormon
-veksthormon
-graviditetshormon
-penishode
-diakonisse
-diakonhjem
-forflytningshjelpemiddel
-helsehjelp
-besøkshistorikk
-pasienthistorie
-medisinhistorie
-helsehistorie
-lungehinne
-jomfruhinne
-operasjonshette
-utviklingshemning
-munnhelse
-minoritetshelse
-takheis
-ganghastighet
-blærehals
-refleksjonsgruppe
-fingergrep
-intimitetgrense
-bronkiegrein
-obstruksjonsgrad
-blodglukose
-objektglass
-ADLgjøremål
-gallegang
-melkegang
-blodfylling
-blærefylling
-slagfrekvens
-respirasjonsfrekvens
-forforståelse
-kurveføring
-svangerskapsforgiftning
-normalflora
-bakterieflora
-egenomsorgsevne
-sykepleieepikrise
-turistdiaré
-sykepleiediagnose
-ICNPdiagnose
-aldersdemens
-ryggmargsbrokk
-spissbekken
-pussbekken
-maskebehandling
-MONAbehandling
-IVFbehandling
-ICNPbegrep
-pasientautonomi
-surstoffapparat
-livsverden
-livsytring
-kroppsleie
-sykepleiesepikrise
-basissdisiplin
-EUdirektiv
-ribbeinsbrudd
-armsbrudd
-ryggmargsbrokk
-oksygensbrille
-nattbordsbrett
-spedbarnsbotulisme
-avfallsbøtte
+sykepleiediagnose	N	
+ernæringsstatus	N	
+kroppstemperatur	N	
+fenomen	N	ilmiö
+helsehjelp	N	
+sykepleietiltak	N	
+væskeinntak	N	
+munnstell	N	suuhoito
+sykepleieteori	N	sairaanhoitoteoria
+pasientjournal	N	
+tarmtømming	N	
+sykepleieplan	N	sairaanhoitosuunnitelma
+helsefremmende	A	
+kvalitetssystem	N	laatujärjestelmä
+helsebegrep	N	terveyskäsite
+pasientsituasjon	N	potilastilanne
+sykepleiemodell	N	
+respirasjonsproblem	N	
+urinlekkasje	N	
+matinntak	N	
+respirasjonsfrekvens	N	
+oksygentilførsel	N	
+brukerrettighet	N	
+sideleie	N	
+urininkontinens	N	
+blodvolum	N	
+helseproblem	N	
+sykepleievitenskap	N	
+sykepleietjeneste	N	
+kjernetemperatur	N	
+sirkulasjonssystem	N	
+tannpuss	N	
+sykepleiepraksis	N	
+energiomsetning	N	
+muskelmasse	N	
+ryggleie	N	
+sykdomstilstand	N	
+blodsirkulasjon	N	
+sykdomsopplevelse	N	
+minnegruppe	N	
+søvnbehov	N	
+sykepleieprosess	N	
+urinmengde	N	
+toalettbesøk	N	
+minuttvolum	N	
+sykepleierstudent	N	
+kroppsstell	N	
+tyngdekraft	N	
+sykepleiekompetanse	N	
+næringsinntak	N	
+oksygeninnhold	N	
+sykepleieforskning	N	
+kostfiber	N	
+livsytring	N	
+tjenesteutvikling	N	
+lokaliseringsteknologi	N	
+varmeproduksjon	N	
+faselidelse	N	
+helseforetak	N	
+blodtrykksfall	N	
+ansiktsuttrykk	N	
+klassifikasjonssystem	N	
+REM-søvn	N	
+sykepleiesituasjon	N	
+pulsfrekvens	N	
+kroppsbilde	N	
+respirasjonsbesvær	N	
+normalverdi	N	
+kvalitetsutviklingsarbeid	N	
+gassutveksling	N	
+livsutfoldelse	N	
+pusting	N	
+morgenstell	N	
+bevissthetsnivå	N	
+energiinntak	N	
+kvalitetsutviklingsarbeid	N	
+ernæringstilstand	N	
+fagprosedyre	N	
+risikopasient	N	
+tarminnhold	N	
+sykepleiehandling	N	
+sykepleiefunksjon	N	
+kunnskapsform	N	
+sykdomsforløp	N	
+sårbehandling	N	
+oksygenbehandling	N	
+kroppsvask	N	
+sykepleieutøvelse	N	
+resturin	N	
+kontraktur	N	
+sykepleiesystem	N	
+magesekk	N	
+behandlingsplan	N	
+helseplage	N	
+funksjonsområde	N	
+sentralnervesystem	N	
+håndhygiene	N	
+pasientforløp	N	
+aldersforandring	N	
+kompresjonsbehandling	N	
+muskelaktivitet	N	
+toalettvane	N	
+kroppsstilling	N	
+vevskade	N	
+reguleringssenter	N	
+temperaturregulering	N	
+stressinkontinens	N	
+hovedgruppe	N	
+alvorlighetsgrad	N	
+søvnforstyrrelse	N	
+våkenhet	N	
+væskebalanse	N	
+omsorgsverdi	N	
+matvane	N	
+fagutvikling	N	
+blæretrening	N	
+varmetapet	N	
+søvnstadium	N	
+brannskade	N	
+urinproduksjon	N	
+slimproduksjon	N	
+hudpleie	N	
+væskeopphopning	N	
+søvnmønster	N	
+sykepleiehåndbok	N	
+sykepleieferdighet	N	
+sykepleiedefinisjon	N	
+tidsbruk	N	
+oksygenbehov	N	
+respirasjonsarbeid	N	
+endringsarbeid	N	
+søvnvane	N	
+venetrombose	N	
+blodtilførsel	N	
+sykepleiesammenheng	N	
+snevring	N	
+pasientomsorg	N	
+urinmengde	N	
+temperaturmåling	N	
+menneskekropp	N	
+kjønnsidentitet	N	
+legemiddelhåndbok	N	
+normalfunksjon	N	
+sykdomsforståelse	N	
+kartleggingsverktøy	N	
+sykdomsutvikling	N	
+utviklingstrinn	N	
+kostråd	N	
+trykkskade	N	
+hosterefleks	N	
+tannprotese	N	
+pleieplan	N	
+pasientopplysning	N	
+normalområde	N	
+forskningsmetode	N	
+sykepleiekunnskap	N	
+arbeidshverdag	N	
+pasienthistorie	N	
+blodforsyning	N	
+fargeforandring	N	
+omsorgsfilosofi	N	
+tranfett	N	
+livsstilsendring	N	
+fyllende	N	
+blodcelle	N	
+respirasjonsbevegelse	N	
+skrekkanfall	N	
+helsevirksomhet	N	
+sædvæske	N	
+teoriutvikling	N	
+buktrykk	N	
+blæretømming	N	
+væsketilførsel	N	
+blodstrøm	N	
+helserisiko	N	
+mageregion	N	
+tankeprosess	N	
+kvalitetsutviklingsprosess	N	
+sirkulasjonsproblem	N	
+hudproblem	N	
+tidspress	N	
+urinpose	N	
+vektøkning	N	
+individnivå	N	
+gruppenivå	N	
+aktivitetsnivå	N	
+skjelettmuskulatur	N	
+handlingsmønster	N	
+helsekompetanse	N	
+nettverksintervensjon	N	
+kjønnshormon	N	
+tarmfunksjon	N	
+nyrefunksjon	N	
+parforhold	N	
+ernæringsbehov	N	
+astmaanfall	N	
+grunnvilkår	N	
+vitenskapstradisjon	N	
+sykepleietenkning	N	
+hosteteknikk	N	
+kontaktsykepleier	N	
+kreftsykdom	N	
+hvilestilling	N	
+heteslag	N	
+leiring	N	
+avføringsprøve	N	
+sykepleieproblem	N	
+pasientproblem	N	
+personopplysning	N	
+sykepleieoppgave	N	
+respirasjonsmuskel	N	
+pleiemiddel	N	
+mageleie	N	
+sykepleiekapasitet	N	
+energiinnhold	N	
+sårinfeksjon	N	
+hjernehalvdel	N	
+lungefunksjon	N	
+beslutningsforum	N	
+funksjonsforstyrrelse	N	
+tjenesteforløp	N	
+energiforbruk	N	
+hudfold	N	
+gallefargestoff	N	
+helsefagarbeider	N	
+stillingsendring	N	
+kvalitetsdimensjon	N	
+diabetesdagbok	N	
+sykdomsbyrde	N	
+kompresjonsbind	N	
+fordøyelsesbesvær	N	
+sædavgang	N	
+behandlingsalternativ	N	
+slagvolum	N	
+hvilevolum	N	
+saltvann	N	
+beinutspring	N	
+behandlingstiltak	N	
+næringstilførsel	N	
+menstruasjonssyklus	N	
+allmennsykepleie	N	
+kompresjonsstrømpe	N	
+varmestråling	N	
+sporstoff	N	
+drikkeskjema	N	
+sårskift	N	
+hudskade	N	
+iverksetting	N	
+respirasjonssenter	N	
+spyttsekresjon	N	
+leddsans	N	
+hjerterytme	N	
+sykdomsprosess	N	
+ernæringsproblem	N	
+autonomiprinsipp	N	
+ernæringsplan	N	
+helsenett	N	
+blæremuskel	N	
+næringsløsning	N	
+blærekateter	N	
+kjernejournal	N	
+sykehusinnleggelse	N	
+saltinnhold	N	
+luftveisinfeksjon	N	
+livshendelse	N	
+sykepleieforsker	N	
+oksygenforbruk	N	
+orienteringsevne	N	
+sondeernæring	N	
+næringsdrikke	N	
+næringsdrikk	N	
+helsedefinisjon	N	
+legemiddelbehandling	N	
+sykdomsbegrep	N	
+energibalanse	N	
+forbedringsarbeid	N	
+væskeansamling	N	
+bakterievekst	N	
+tarmvegg	N	
+handlingsvalg	N	
+kvalitetsutviklingsprosjekt	N	
+tjenesteutøvelse	N	
+morgenurin	N	
+kontraktur	N	
+ernæringstrapp	N	
+helsepersonelltjeneste	N	
+respirasjonssystem	N	
+tarmsykdom	N	
+sykepleiestudent	N	
+tarmslimhinne	N	
+frostskade	N	
+sykdomssituasjon	N	
+grensesetting	N	
+nekrose	N	
+yrkesrolle	N	
+omsorgsrelasjon	N	
+handlingsrefleksjon	N	
+vurderingsprosess	N	
+sykepleierprofesjon	N	
+talgproduksjon	N	
+kvalitetsproblem	N	
+folkehelseproblem	N	
+ereksjonsproblem	N	
+pleiepersonale	N	
+transperson	N	
+talsperson	N	
+søvnperiode	N	
+oksygenopptak	N	
+behovsområde	N	
+funksjonsnivå	N	
+følelsesmodus	N	
+sykdomsmodell	N	
+reguleringsmekanisme	N	
+pleiemedhjelper	N	
+blodtrykksmåling	N	
+søvnlengde	N	
+erfaringslæring	N	
+søvnkvalitet	N	
+erfaringskunnskap	N	
+organisasjonskultur	N	
+kvalitetskultur	N	
+nyttekriterium	N	
+termostatinnstilling	N	
+avføringsinkontinens	N	
+munnhygiene	N	
+matvaregruppe	N	
+prøveglass	N	
+cellegift	N	
+ernæringsfysiolog	N	
+kvalitetsforskrift	N	
+behandlingsforløp	N	
+understøttelsesflate	N	
+urinflaske	N	
+pasienteksempel	N	
+steindannelse	N	
+epitelcelle	N	
+muskelbruk	N	
+beinbrudd	N	
+skjermbrett	N	
+tilleggsbelastning	N	
+væskebehov	N	
+velbehag	N	
+funksjonsbegrensning	N	
+tarmbakterie	N	
+innvandrerbakgrunn	N	
+trygghetsalarm	N	
+tarmaktivitet	N	
+minneaktivitet	N	
+skjedevegg	N	
+infusjonsvæske	N	
+drikkevane	N	
+bakterievandring	N	
+urinutskilling	N	
+ferdighetsutøvelse	N	
+stereotype	N	
+katetertype	N	
+håndtrykk	N	
+overstrekk	N	
+avføringstrang	N	
+hetetokt	N	
+febertilstand	N	
+samtaleterapi	N	
+interaksjonsteori	N	
+nyrestein	N	
+organsystem	N	
+ledningssystem	N	
+diagnosesystem	N	
+EPJ-system	N	
+utviklingssykepleier	N	
+kreftsykepleier	N	
+dostol	N	
+sinnsstemning	N	
+sårstell	N	
+nyrestein	N	
+muskelspenning	N	
+munnspeil	N	
+livslang	N	
+ryggmargsskade	N	
+hodeskade	N	
+mestringssenter	N	
+væskeregnskap	N	
+legemiddelregime	N	
+pasientsikkerhetsprogram	N	
+hudoverflate	N	
+respirasjonsorgan	N	
+bukorgan	N	
+bakterieoppvekst	N	
+væskeopphopning	N	
+rehabiliteringsopphold	N	
+pasientopphold	N	
+lungeødem	N	
+samfunnsnivå	N	
+kvalitetsnivå	N	
+hemoglobinnivå	N	
+blodsukkernivå	N	
+abstraksjonsnivå	N	
+tenningsmønster	N	
+respirasjonsmønster	N	
+forklaringsmodell	N	
+behovsmodell	N	
+slimmobilisering	N	
+desinfeksjonsmiddel	N	
+hullmerke	N	
+væskemengde	N	
+transportmedium	N	
+sondeløsning	N	
+drikkeliste	N	
+symptomlindring	N	
+sykdomslære	N	
+legemiddelkurve	N	
+handlingskunnskap	N	
+fortrolighetskunnskap	N	
+brukerkunnskap	N	
+omgangskrets	N	
+muskelkontraksjon	N	
+handlingsklokskap	N	
+prostatakjertel	N	
+væskeinnhold	N	
+vanninnhold	N	
+karbondioksidinnhold	N	
+pasientinformasjon	N	
+soppinfeksjon	N	
+masseindeks	N	
+nerveimpuls	N	
+avvikshåndtering	N	
+selvhjelpsgruppe	N	
+tradisjonsgrunnlag	N	
+spesialistgodkjenning	N	
+pumpefunksjon	N	
+hjertefrekvens	N	
+døgnrytmeforstyrrelse	N	
+helhetsforståelse	N	
+sirkulasjonsforhold	N	
+stillingsforandring	N	
+tørstfølelse	N	
+sykdomsfølelse	N	
+sykepleiefilosofi	N	
+sykdomsfase	N	
+rehabiliteringsfase	N	
+livsstilsfaktor	N	
+pasienterfaring	N	
+hodeende	N	
+gassdannelse	N	
+sårbunn	N	
+tvangsbruk	N	
+hoftebrudd	N	
+hjernebølge	N	
+omsorgsbegrep	N	
+kunnskapsbegrep	N	
+nervebane	N	
+lungeavsnitt	N	
+sykdomsårsak	N	
+dødsårsak	N	
+ernæringsarbeid	N	
+muskelarbeid	N	
+næringsstoffanbefaling	N	
+malabsorpsjon	N	
+blærevolum	N	
+D-vitamin	N	
+legevisitt	N	
+tankevirksomhet	N	
+hårvekst	N	
+sårveiledning	N	
+bukvegg	N	
+smerteuttrykk	N	
+inkontinensutstyr	N	
+helseutfall	N	
+doktorgradsutdanning	N	
+blæretrykk	N	
+familietolk	N	
+helsetjenestetilbud	N	
+vekting	N	
+risting	N	
+kremting	N	
+smertetilstand	N	
+stillstand	N	
+fibertilskudd	N	
+varmetilførsel	N	
+helsetjenestetilbud	N	
+beintetthet	N	
+livstestament	N	
+øretermometer	N	
+musikkterapi	N	
+hudtemperatur	N	
+avslapningsteknikk	N	
+helseteam	N	
+karsystem	N	
+dokumentasjonssystem	N	
+søvnsyklus	N	
+respirasjonssyklus	N	
+søvnsykdom	N	
+demenssykdom	N	
+prøvesvar	N	
+avføringstrang	N	
+dusjstol	N	
+samleiestilling	N	
+feilstilling	N	
+tannstatus	N	
+respirasjonsstatus	N	
+ryggsøyle	N	
+realitetssjokk	N	
+praksissituasjon	N	
+pleiesituasjon	N	
+pasientrolle	N	
+energirik	N	
+inflammasjonsreaksjon	N	
+infeksjonsrate	N	
+stolpute	N	
+garpete	N	
+bunnpunkt	N	
+delprotese	N	
+energiprosent	N	
+spyttproduksjon	N	
+orgasmeproblem	N	
+hukommelsesproblem	N	
+sykepleieprinsipp	N	
+nettportal	N	
+matportal	N	
+sykehusplan	N	
+stikkpille	N	
+helseopplysning	N	
+smerteopplevelse	N	
+hudområde	N	
+karbondioksidnivå	N	
+hjertemuskulatur	N	
+magemuskel	N	
+behandlingsmulighet	N	
+omsorgsmodell	N	
+interaksjonsmodell	N	
+tykningsmiddel	N	
+blodmengde	N	
+væskemengde	N	
+seksualitetsmangfold	N	
+proteinmangel	N	
+forskningslitteratur	N	
+søvnlengde	N	
+stemningsleie	N	
+fremmedlegeme	N	
+sykehjemslege	N	
+blæreskylling	N	
+sykepleiekvalitet	N	
+ressurskriterium	N	
+fuktighetskrem	N	
+ansiktskrem	N	
+muskelkraft	N	
+matkort	N	
+kroppskontakt	N	
+oljeklyster	N	
+smittekjede	N	
+bevegelseskapasitet	N	
+sårkant	N	
+sykepleieintervensjon	N	
+søvnhygiene	N	
+penishode	N	
+bakhode	N	
+sykdomshistorie	N	
+produktivitetshensyn	N	
+datasamlingsguide	N	
+muskelgruppe	N	
+sammenlikningsgrunnlag	N	
+litteraturgjennomgang	N	
+omsorgsgiver	N	
+helsegevinst	N	
+pasientfortelling	N	
+årsaksforklaring	N	
+hudforandring	N	
+bakterieflora	N	
+rammefaktor	N	
+taleevne	N	
+ereksjonsevne	N	
+symptomerfaring	N	
+sykdomserfaring	N	
+volumendring	N	
+vektendring	N	
+kroppsendring	N	
+funksjonsdyktighet	N	
+respirasjonsdybde	N	
+risikodiagnose	N	
+hånddesinfeksjon	N	
+søvndagbok	N	
+hovedbolk	N	
+helsebibliotek	N	
+tarmbevegelse	N	
+sirkelbevegelse	N	
+kroppsbevegelse	N	
+antibiotikabehandling	N	
+låsbar	N	
+blodbane	N	
+sykehusavdeling	N	
+fagartikkel	N	
+behandlingsansvar	N	
+handlingsalternativ	N	
+minnealbum	N	
+yrkesvirksomhet	N	
+støtteverktøy	N	
+blodsukkerverdi	N	
+KMI-verdi	N	
+minuttventilasjon	N	
+kostholdsveiledning	N	
+kostveiledning	N	
+brystvegg	N	
+årevegg	N	
+vevsvæske	N	
+ernæringsvæske	N	
+kornvare	N	
+drikkevare	N	
+talevanske	N	
+søvnvanske	N	
+kvalitetsutviklingstiltak	N	
+vektutvikling	N	
+gassutvikling	N	
+kvalitetsutvalg	N	
+kroppsuttrykk	N	
+sædutløsning	N	
+røntgenundersøkelse	N	
+funksjonsundersøkelse	N	
+væskeunderskudd	N	
+underernæring	N	
+kosttype	N	
+hudtype	N	
+bakterietype	N	
+fingertrykk	N	
+utholdenhetstrening	N	
+oksygentransport	N	
+forbedringstiltak	N	
+likevektstilstand	N	
+østrogentilskudd	N	
+kosttilskudd	N	
+gruppetilhørighet	N	
+veiingstest	N	
+atferdsterapi	N	
+praksisteori	N	
+egenomsorgsteori	N	
+behovsteori	N	
+sykepleieteoretiker	N	
+balansetenkning	N	
+lufttemperatur	N	
+pulstelling	N	
+tannbørste	N	
+bakterietall	N	
+skjelettsystem	N	
+alarmsymptom	N	
+kroppsstruktur	N	
+urinstrøm	N	
+beslutningsstøtte	N	
+porsjonsstørrelse	N	
+massasjestav	N	
+vitaminstatus	N	
+SAFE-status	N	
+respirasjonsstans	N	
+hjertestans	N	
+leddsmerte	N	
+hvilesmerte	N	
+omsorgssjef	N	
+samhandlingssituasjon	N	
+problemsituasjon	N	
+verdisett	N	
+infusjonssett	N	
+sykehusseng	N	
+transseksualisme	N	
+temperatursans	N	
+smertesans	N	
+hudsans	N	
+gruppesamling	N	
+magesaft	N	
+respirasjonsrytme	N	
+søvnrutine	N	
+trykksårrisiko	N	
+fallrisiko	N	
+prøveresultat	N	
+helseresultat	N	
+væskerestriksjon	N	
+såperest	N	
+helseressurs	N	
+handlingsrepertoar	N	
+kostregistreringsskjema	N	
+tømmingsregime	N	
+tømmingsrefleks	N	
+betennelsesreaksjon	N	
+formålsrasjonalitet	N	
+tilsynsrapport	N	
+smertepumpe	N	
+ereksjonspumpe	N	
+hvilepuls	N	
+kateterprøve	N	
+stoffskifteprosess	N	
+livsprosess	N	
+interaksjonsprosess	N	
+aldringsprosess	N	
+sykepleieprosedyre	N	
+øvingsprogram	N	
+doktorgradsprogram	N	
+sykepleieprofesjon	N	
+stoffskifteprodukt	N	
+kroppsprodukt	N	
+sædproduksjon	N	
+luktproblematikk	N	
+tømmingsproblem	N	
+inkontinensproblem	N	
+trekantprinsipp	N	
+jernpreparat	N	
+normalposisjon	N	
+luftplage	N	
+sykepleieperspektiv	N	
+prosessperspektiv	N	
+helsepedagogikk	N	
+luftpassasje	N	
+sykehjemspasient	N	
+kreftpasient	N	
+samtalepartner	N	
+svelgparese	N	
+væskeoverskudd	N	
+maktovergrep	N	
+tidsopplevelse	N	
+symptomopplevelse	N	
+pasientopplevelse	N	
+pleieoppgave	N	
+sykdomsoppfatning	N	
+helhetsoppfatning	N	
+omsorgstjeneste	N	
+vedlikeholdsomsorg	N	
+stoffomsetning	N	
+livsområde	N	
+kunnskapsområde	N	
+forskningsområde	N	
+adaptasjonsområde	N	
+slimhinneødem	N	
+luftstrømobstruksjon	N	
+teorinivå	N	
+østrogennivå	N	
+oksygennivå	N	
+hormonnivå	N	
+adaptasjonsnivå	N	
+funksjonsnedsettelse	N	
+respirasjonsmuskulatur	N	
+leggmuskulatur	N	
+bukmuskulatur	N	
+mestringsmulighet	N	
+livsmulighet	N	
+tømmingsmønster	N	
+livsmønster	N	
+avføringsmønster	N	
+nettmobbing	N	
+måltidsmiljø	N	
+fødemiddel	N	
+cellemetabolisme	N	
+energimengde	N	
+blodmengde	N	
+cellemembran	N	
+fettmasse	N	
+blodtrykksmansjett	N	
+væskemangel	N	
+østrogenmangel	N	
+matmangel	N	
+livssituasjon	N	
+kontaktlinse	N	
+smertelindring	N	
+grunnlidelse	N	
+påkledd	N	
+varmelaken	N	
+livkvalitetsbegrep	N	
+pulskvalitet	N	
+mestringskurs	N	
+hverdagskunnskap	N	
+hovedkriterium	N	
+skjedekrampe	N	
+koloskopi	N	
+praksiskontekst	N	
+hudkontakt	N	
+hovedkomponent	N	
+samtykkekompetanse	N	
+vitenskapskomité	N	
+sinusknute	N	
+lymfeknute	N	
+spyttkjertel	N	
+urinkateter	N	
+syrekappe	N	
+kommunikasjonskapasitet	N	
+saltinntak	N	
+karbohydratinntak	N	
+kaloriinntak	N	
+fiberinntak	N	
+ernæringsinntak	N	
+næringsinnhold	N	
+hemoglobininnhold	N	
+hastverksinkontinens	N	
+blandingsinkontinens	N	
+ADL-indeks	N	
+stresshormon	N	
+ganghjelpemiddel	N	
+avvikshendelse	N	
+tannhals	N	
+risikogruppe	N	
+normalgrense	N	
+kompresjonsgrad	N	
+matglede	N	
+blodgass	N	
+tarmgass	N	
+hjernefunksjon	N	
+gangfunksjon	N	
+temperaturforstyrrelse	N	
+rytmeforstyrrelse	N	
+respirasjonsforstyrrelse	N	
+bevegelsesforstyrrelse	N	
+teknologiforståelse	N	
+bakgrunnsforståelse	N	
+tyngdefornemmelse	N	
+forståelsesform	N	
+kontaktforhold	N	
+helseforhold	N	
+pigmentforandring	N	
+fingerforandring	N	
+muskelfiber	N	
+bofellesskap	N	
+søvnfase	N	
+sårfase	N	
+platåfase	N	
+orgasmefase	N	
+kartleggingsfase	N	
+tonefall	N	
+stressfaktor	N	
+miljøfaktor	N	
+empatievne	N	
+omsorgsetikk	N	
+klitorisereksjon	N	
+krybbedødepidemi	N	
+fordøyelsesenzym	N	
+aldersendring	N	
+personlighetsegenskap	N	
+vitamindråpe	N	
+D-vitamindråpe	N	
+tidsdimensjon	N	
+omsorgsdepartement	N	
+varedeklarasjon	N	
+sårdannelse	N	
+teknologibruk	N	
+rusmiddelbruk	N	
+kondombruk	N	
+antibiotikabruk	N	
+kompresjonsbrudd	N	
+menstruasjonsblod	N	
+prostatabesvær	N	
+væskebehandling	N	
+hormonbehandling	N	
+livskvalitetsbegrep	N	
+tålbar	N	
+kontrollerbar	N	
+urinavgang	N	
+sykehjemsavdeling	N	
+forskningsartikkel	N	
+muskelarbeid	N	
+skjedeåpning	N	
+arbeidsantrekk	N	
+gruppeaktivitet	N	
+sykepleieryrke	N	
+sårvurdering	N	
+hudvurdering	N	
+funksjonsvurdering	N	
+urinvolum	N	
+tarmvolum	N	
+stemmevolum	N	
+lungevolum	N	
+matvogn	N	
+sykepleievitenskap	N	
+legemiddelvirkning	N	
+buffervirkning	N	
+livvidde	N	
+klitorisvibrator	N	
+vurderingsverktøy	N	
+støtteverktøy	N	
+selvhjelpsverktøy	N	
+prosedyreverktøy	N	
+termostatverdi	N	
+hemoglobinverdi	N	
+blodverdi	N	
+velvære	N	
+undervekt	N	
+skjeggvekst	N	
+lengdevekst	N	
+karvegg	N	
+normalvariasjon	N	
+døgnvariasjon	N	
+kommunikasjonsvanske	N	
+hørselsvanske	N	
+springvann	N	
+såpevann	N	
+kullsyrevann	N	
+kroppsvann	N	
+isvann	N	
+helsevane	N	
+behandlingsvalg	N	
+temperaturutvikling	N	
+pubertetsutvikling	N	
+kjønnsutvikling	N	
+følelsesuttrykk	N	
+melatoninutskilling	N	
+urinutskillelse	N	
+profesjonsutøver	N	
+fagutøver	N	
+kunstutøvelse	N	
+livsutfordring	N	
+aktivitetsutfoldelse	N	
+sinneutbrudd	N	
+stråleurin	N	
+døgnurin	N	
+kontraktur	N	
+fissur	N	
+pasientundervisning	N	
+forbrukerundersøkelse	N	
+termometertype	N	
+sårtype	N	
+fibertype	N	
+feiltrinn	N	
+bevegelighetstrening	N	
+beinstrekk	N	
+blodtransfusjon	N	
+omsorgstradisjon	N	
+habiliteringstjeneste	N	
+vektreduksjonstiltak	N	
+aktivitetstiltak	N	
+legetilsyn	N	
+blodtilstrømning	N	
+krisetilstand	N	
+infeksjonstilstand	N	
+bevissthetstilstand	N	
+betennelsestilstand	N	
+proteintilskudd	N	
+jerntilskudd	N	
+kjønnstilhørighet	N	
+sykepleietilbud	N	
+mestringstilbud	N	
+mattilbud	N	
+medisineringstidspunkt	N	
+energitetthet	N	
+svelgtest	N	
+nyreterskel	N	
+dørterskel	N	
+kontakttermometer	N	
+ICNP-terminologi	N	
+tilknytningsteori	N	
+systemteori	N	
+omsorgsteori	N	
+bufferteori	N	
+årsakstenkning	N	
+blødningstendens	N	
+samtaletempo	N	
+omgivelsestemperatur	N	
+normaltemperatur	N	
+vakttelefon	N	
+velværeteknologi	N	
+sikkerhetsteknologi	N	
+sensorteknologi	N	
+gallestein	N	
+smertetegn	N	
+minustegn	N	
+genitale	N	
+tarmsystem	N	
+serveringssystem	N	
+responssystem	N	
+oppsamlingssystem	N	
+lymfesystem	N	
+katetersystem	N	
+behandlingssystem	N	
+balansesystem	N	
+eplesyre	N	
+utmattelsessyndrom	N	
+unnlatelsessynder	N	
+unnlatelsessynd	N	
+angstsymptom	N	
+allmennsykepleier	N	
+kontaktsykepleier	N	
+helsesykepleier	N	
+muskelsykdom	N	
+betennelsessykdom	N	
+arteriesykdom	N	
+kreftsvulst	N	
+hjernesvulst	N	
+blodprøvesvar	N	
+melkesukker	N	
+såpestykke	N	
+kjønnsstudium	N	
+litteraturstudie	N	
+kjønnsstudie	N	
+bachelorstudent	N	
+respirasjonsstøtte	N	
+kateterstørrelse	N	
+giftstoff	N	
+cellestoff	N	
+feberstigning	N	
+blodsukkerstigning	N	
+kompetansestige	N	
+næringstett	N	
+sykepleierstemme	N	
+tannstell	N	
+praksissted	N	
+bakteriestamme	N	
+inngangsport	N	
+praksisspørsmål	N	
+livskvalitetsspørsmål	N	
+kontrollspørsmål	N	
+sondespiss	N	
+kateterspiss	N	
+ernæringsonde	N	
+lengdesnitt	N	
+keisersnitt	N	
+luftsmerte	N	
+munnslimhinne	N	
+mestringskur	N	
+sykehusskjorte	N	
+væskeskjema	N	
+oppsummeringsskjema	N	
+evalueringsskjema	N	
+avviksskjema	N	
+anamneseskjema	N	
+PICO-skjema	N	
+MNA-skjema	N	
+bandasjeskift	N	
+arbeidskår	N	
+behandlingssituasjon	N	
+studiesirkel	N	
+kostsirkel	N	
+frivillighetssentral	N	
+responssenter	N	
+orgasmesenter	N	
+institusjonsseng	N	
+sårsekresjon	N	
+lungesekk	N	
+smertescore	N	
+kostsamtale	N	
+ekspertsammenslutning	N	
+næringssammensetning	N	
+kroppssammensetning	N	
+dråpesamler	N	
+sinusrytme	N	
+samfunnsrytme	N	
+toalettrutine	N	
+hygienerutine	N	
+arbeidsrutine	N	
+sykepleierrolle	N	
+nøkkelrolle	N	
+avføringsrest	N	
+slagrehabilitering	N	
+hverdagsrehabilitering	N	
+søvnregistrering	N	
+kostregistrering	N	
+inkontinensregister	N	
+nyreregion	N	
+blæreregion	N	
+treningsregime	N	
+handlingsregel	N	
+bluferdighetsregel	N	
+avhengighetsregel	N	
+faglighetsreform	N	
+avføringsrefleks	N	
+sorgreaksjon	N	
+krisereaksjon	N	
+morgenrapport	N	
+forståelsesramme	N	
+skumgummipute	N	
+leppepust	N	
+infusjonspumpe	N	
+stråleprøve	N	
+porsjonsprøve	N	
+brystprotese	N	
+forråtnelsesprosess	N	
+fordøyelsesprosess	N	
+betennelsesprosess	N	
+slaggprodukt	N	
+østrogenproduksjon	N	
+sykdomsproblem	N	
+smerteproblem	N	
+livskvalitetsproblem	N	
+levekårsproblem	N	
+hørselsproblem	N	
+hjerteproblem	N	
+avføringsproblem	N	
+prestasjonspress	N	
+oppsamlingspose	N	
+inngangsport	N	
+folkehelsepolitikk	N	
+sårpoliklinikk	N	
+dagsplan	N	
+aktivitetsplan	N	
+tømmingsplage	N	
+søvnplage	N	
+diaréplage	N	
+tilknytningsperson	N	
+feberperiode	N	
+stresspåvirkning	N	
+kuldepåvirkning	N	
+tarmpassasje	N	
+sykehuspasient	N	
+tarmparasitt	N	
+koronapandemi	N	
+syreoverskudd	N	
+smitteoverføring	N	
+kroppsoverflate	N	
+balanseøvelse	N	
+saksorientering	N	
+sakorientering	N	
+klitorisorgasme	N	
+pasientorganisasjon	N	
+fordøyelsesorgan	N	
+trygghetopplevelse	N	
+behandlingsopplegg	N	
+pasientopplæring	N	
+avlastningsopphold	N	
+studieoppgave	N	
+pasientoppfølging	N	
+menneskeoppfatning	N	
+detaljoppfatning	N	
+prostataoperasjon	N	
+vedlikeholdsomsorg	N	
+demensomsorg	N	
+tabuområde	N	
+sykepleieområde	N	
+muskelomfang	N	
+brukerombud	N	
+rapsolje	N	
+refleksjonsnotat	N	
+kvalitetsnorm	N	
+støynivå	N	
+blærenivå	N	
+CO2-narkose	N	
+CO-narkose	N	
+blæremuskulatur	N	
+ringmuskel	N	
+halsmuskel	N	
+ekspansjonsmulighet	N	
+aktivitetsmulighet	N	
+luftstrømmotstand	N	
+luftmotstand	N	
+reaksjonsmønster	N	
+måltidsmønster	N	
+aktivitetsmønster	N	
+sukkermolekyl	N	
+hemoglobinmolekyl	N	
+rollemodell	N	
+egenomsorgsmodell	N	
+sykehusmiljø	N	
+rusmiljø	N	
+institusjonsmiljø	N	
+behandlingsmiljø	N	
+uttrykksmiddel	N	
+oppvaskmiddel	N	
+kommunikasjonsmiddel	N	
+festemiddel	N	
+undersøkelsesmetode	N	
+søvnmengde	N	
+sekresjonsmengde	N	
+fibermengde	N	
+drikkemengde	N	
+fibermengde	N	
+drikkemengde	N	
+vannmelon	N	
+vekstmedium	N	
+morgenmedisin	N	
+kreftmedisin	N	
+MS-medisin	N	
+skummateriale	N	
+protesemateriale	N	
+uttrykksmåte	N	
+reaksjonsmåte	N	
+forståelsesmåte	N	
+kroppsmasse	N	
+diagnosemanual	N	
+søvnmangel	N	
+jodmangel	N	
+testmåltid	N	
+skolemåltid	N	
+kveldsmåltid	N	
+fellesmåltid	N	
+blodsukkermåling	N	
+kjønnsmajoritet	N	
+skummadrass	N	
+vellukt	N	
+matlukt	N	
+tarmluft	N	
+inspirasjonsluft	N	
+tannløsning	N	
+selvhjelpløsning	N	
+eggløsning	N	
+litteraturliste	N	
+baseline	N	
+pleielidelse	N	
+nyrelidelse	N	
+hjertelidelse	N	
+angstlidelse	N	
+avføringslekkasje	N	
+stemmeleie	N	
+legemiddel	N	
+tilsynslege	N	
+allmennlege	N	
+LIS-lege	N	
+organisasjonslæring	N	
+ferdighetslæring	N	
+eksempellæring	N	
+stikklaken	N	
+barselkvinne	N	
+tjenestekvalitet	N	
+proteinkvalitet	N	
+behandlingskvalitet	N	
+feberkurve	N	
+døgnrytmekurve	N	
+samlivskurs	N	
+påstandskunnskap	N	
+ferdighetskunnskap	N	
+idealkropp	N	
+prosesskriterium	N	
+prioriteringskriterium	N	
+evalueringskriterium	N	
+lungekretsløp	N	
+testikkelkreft	N	
+tilleggskrav	N	
+mengdekrav	N	
+erstatningskrav	N	
+hjertekrampe	N	
+pumpekraft	N	
+livskraft	N	
+hostekraft	N	
+ringkost	N	
+ringkost	N	
+ringkost	N	
+ønskekost	N	
+stellekort	N	
+prospektkort	N	
+TT-kort	N	
+ILO-konvensjon	N	
+hjertekontraksjon	N	
+tildelingskontor	N	
+sykehuskontekst	N	
+pasientkontakt	N	
+videokonsultasjon	N	
+hemoglobinkonsentrasjon	N	
+idrettskonkurranse	N	
+rollekonflikt	N	
+kulturkonflikt	N	
+støttekondom	N	
+kunnskapskomponent	N	
+innholdskomponent	N	
+samhandlingskompetanse	N	
+mestringskompetanse	N	
+oppsamlingskolbe	N	
+ankelknoke	N	
+avføringsklump	N	
+rådgivningsklinikk	N	
+veneklaff	N	
+talgkjertel	N	
+lyskilde	N	
+kunnskapskilde	N	
+nesekateter	N	
+avføringskart	N	
+leddkapsel	N	
+syrekapp	N	
+blærekapasitet	N	
+arbeidskapasitet	N	
+blærekanne	N	
+fruktjuice	N	
+pasientjournalsystem	N	
+kunnskapsinteresse	N	
+pasientintegritet	N	
+rehabiliteringsinstitusjon	N	
+synsinntrykk	N	
+bevegelsesinnskrenkning	N	
+plastinnlegg	N	
+inkontinensinnlegg	N	
+målinnhold	N	
+fiberinnhold	N	
+fettinnhold	N	
+bevissthetsinnhold	N	
+betydningsinnhold	N	
+bakterieinnhold	N	
+anstrengelsesinkontinens	N	
+insulininjeksjon	N	
+tarminfeksjon	N	
+klamydiainfeksjon	N	
+yrkesidentitet	N	
+problemidentifisering	N	
+skjønnhetsideal	N	
+kroppsideal	N	
+lufthunger	N	
+bilhold	N	
+sykepleierhøgskole	N	
+sykepleiehjelp	N	
+brysthinne	N	
+passasjehindring	N	
+hårvaskhette	N	
+kvinnehelse	N	
+strømhastighet	N	
+infusjonshastighet	N	
+legemiddelhåndtering	N	
+støttehåndtak	N	
+legevakthåndbok	N	
+samtalegruppe	N	
+refleksjonsgruppe	N	
+helsepersonellgruppe	N	
+forskergruppe	N	
+erfaringsgrunnlag	N	
+bekvemmelighetsgrunn	N	
+kulturgrense	N	
+profesjonsgrad	N	
+strømgods	N	
+måltidsglede	N	
+livsglede	N	
+blodprøveglass	N	
+hodegjerde	N	
+tarmgass	N	
+svelgfunksjon	N	
+organfunksjon	N	
+hjertefunksjon	N	
+blærefunksjon	N	
+ADL-funksjon	N	
+hudfuktighet	N	
+spissfot	N	
+infeksjonsforsvar	N	
+atferdsforstyrrelse	N	
+e-helseforskning	N	
+omsorgsformål	N	
+militærformål	N	
+tablettform	N	
+passform	N	
+læringsform	N	
+rehabiliteringsforløp	N	
+handlingsforløp	N	
+temperaturforhøyelse	N	
+temperaturforhold	N	
+ernæringsforhold	N	
+kreftforening	N	
+loggføre	N	
+allergiforbund	N	
+lovforbud	N	
+pulsforandring	N	
+lekfolk	N	
+virkelighetsflukt	N	
+normalflora	N	
+livsfilosofi	N	
+hudfett	N	
+begrepsfeste	N	
+fingerferdighet	N	
+overskuddsfenomen	N	
+yrkesfelt	N	
+kroppsfasong	N	
+østrogenfall	N	
+atferdsfaktor	N	
+svelgeevne	N	
+pumpeevne	N	
+sykdomsepisode	N	
+kjerneenhet	N	
+kostholdsendring	N	
+atferdsendring	N	
+lungeemboli	N	
+egenomsorgskrav	N	
+egenomsorgskapasitet	N	
+blæredysfunksjon	N	
+sykepleiedokumentasjon	N	
+overdosedødsfall	N	
+sykdomsdiagnose	N	
+arrdanning	N	
+sprekkdannelse	N	
+luftdannelse	N	
+hjernecelle	N	
+sykdomsbyrde	N	
+maskebruk	N	
+maktbruk	N	
+lårhalsbrudd	N	
+utskrivingsbrev	N	
+hudblødning	N	
+arterieblod	N	
+cellebiologi	N	
+livsbetingelse	N	
+kjøttbetennelse	N	
+sykehjemsbestyrer	N	
+taushetsbestemmelse	N	
+handlingsberedskap	N	
+sykepleiebehov	N	
+sykdomsbehandling	N	
+miljøbehandling	N	
+giftbehandling	N	
+dialysebehandling	N	
+verdensbegrep	N	
+kompresjonsbandasje	N	
+trykkavlastning	N	
+håravfall	N	
+barselavdeling	N	
+rolleatferd	N	
+pleieassistent	N	
+kransarterie	N	
+ultralydapparat	N	
+blodtrykksapparat	N	
+syreangrep	N	
+hosteanfall	N	
+virusanalyse	N	
+matallergi	N	
+kontaktallergi	N	
+sykepleieaktivitet	N	
+hjerneaktivitet	N	
+risikovurderingsskjema	N	
+pasientvurdering	N	
+kunnskapsvurdering	N	
+plasmavolum	N	
+muskelvolum	N	
+luftvolum	N	
+inspirasjonsvolum	N	
+døgnvolum	N	
+blodviskositet	N	
+nakkevirvel	N	
+livsvilje	N	
+stillingsvern	N	
+leddvern	N	
+screeneverktøy	N	
+sykepleieverdi	N	
+nonverbal	N	
+stolvekt	N	
+fødselsvekt	N	
+muskelsvekkelse	N	
+telefonveiledning	N	
+sårveiledning	N	
+kollegaveiledning	N	
+helseveiledning	N	
+katetervegg	N	
+blærevegg	N	
+overskuddsvæske	N	
+ødemvæske	N	
+klystervæske	N	
+forbrenningsvæske	N	
+underlivvask	N	
+såpevask	N	
+ryggvask	N	
+katetervask	N	
+kroppsvarme	N	
+fordampningsvarme	N	
+tømmingsvanske	N	
+synsvanske	N	
+tømmingsvane	N	
+dagvakt	N	
+veneutvidelse	N	
+skadeutvalg	N	
+brukerutvalg	N	
+oksygenutstyr	N	
+beskyttelsesutstyr	N	
+omsorgsutøver	N	
+varmeutmattelse	N	
+helseutgift	N	
+natturin	N	
+sykepleieruniform	N	
+ultralydundersøkelse	N	
+strimmelundersøkelse	N	
+røntgenundersøkelse	N	
+kartleggingsundersøkelse	N	
+EKG-undersøkelse	N	
+søvnunderskudd	N	
+kjønnsulikhet	N	
+foldtykkelse	N	
+katetertupp	N	
+vekseltrykk	N	
+urintrykk	N	
+pasienttrygghet	N	
+nettingstruse	N	
+venetrombose	N	
+madrasstrekk	N	
+hygienetrekant	N	
+tømmingstrang	N	
+urinstråle	N	
+klapptørking	N	
+klapptørke	N	
+laktosetoleranse	N	
+aktivitetstoleranse	N	
+svettetokt	N	
+bakterietoksin	N	
+sykepleietjeneste	N	
+hjemmesykepleietjeneste	N	
+besøkstjeneste	N	
+legetime	N	
+e-helsetiltak	N	
+sjokktilstand	N	
+ernæringstilskudd	N	
+behovstilfredsstillelse	N	
+kontakttermometer	N	
+hudtermometer	N	
+arterietermometer	N	
+oksygenterapi	N	
+avledningsterapi	N	
+forfallstendens	N	
+dråpeteller	N	
+forflytningsteknikk	N	
+krybbedød	N	
+genital	N	
+venesystem	N	
+velferdssystem	N	
+sirkulasjonssystem	N	
+fordøyelsessystem	N	
+utmattelsessyndrom	N	
+pussylinder	N	
+søvnsyklus	N	
+respirasjonssyklus	N	
+undervisningssykehjem	N	
+virussykdom	N	
+pestsykdom	N	
+luftveissykdom	N	
+kvinnesykdom	N	
+kolssykdom	N	
+gallesykdom	N	
+alderssykdom	N	
+livsvane	N	
+signalsubstans	N	
+brukerstyring	N	
+intervensjonsstudie	N	
+tømmingstrang	N	
+urinstråle	N	
+midtstråle	N	
+hvilestoffskifte	N	
+hjertestans	N	
+pubertetsstadium	N	
+blærespreng	N	
+tubespiss	N	
+stemmespalte	N	
+deltasøvn	N	
+muggsopp	N	
+heteslag	N	
+transkjønn	N	
+risikovurderingsskjema	N	
+sårskifte	N	
+vaktskift	N	
+fettstoffskifte	N	
+synsskarphet	N	
+risikovurderingskala	N	
+penisskaft	N	
+vevskade	N	
+stråleskade	N	
+støyskade	N	
+stikkskade	N	
+organskade	N	
+nyreskade	N	
+fødselsskade	N	
+bruddskade	N	
+blæreskade	N	
+alkoholskade	N	
+praksissjokk	N	
+blødningssjokk	N	
+helsesjekk	N	
+sittestilling	N	
+omsorgssirkel	N	
+behandlingssirkel	N	
+membranside	N	
+kroppsside	N	
+klystersetting	N	
+luktsenter	N	
+brekningssenter	N	
+bleiesensor	N	
+korridorseng	N	
+hælsene	N	
+slimsekresjon	N	
+skittentøysekk	N	
+munnsårhet	N	
+realitetssans	N	
+likevektsans	N	
+utskrivningssamtale	N	
+refleksjonssamtale	N	
+kostsamtale	N	
+kartleggingssamtale	N	
+urinsamling	N	
+ødemsamling	N	
+spyttsaft	N	
+pulsrytme	N	
+pukkelrygg	N	
+korsrygg	N	
+nekrose	N	
+smitterisiko	N	
+trombosering	N	
+brukerrettighet	N	
+vegetarrett	N	
+sykepleieresultat	N	
+søvnrestriksjon	N	
+drikkerestriksjon	N	
+omsorgsressurs	N	
+motstandsressurs	N	
+proteinreserve	N	
+karanteneregel	N	
+væskeregistrering	N	
+matregistrering	N	
+reseptregister	N	
+kreftregister	N	
+tømmingsregime	N	
+pleieregime	N	
+kostholdregime	N	
+isolasjonsregime	N	
+diettregime	N	
+behandlingsregime	N	
+tillitreform	N	
+tømmingsrefleks	N	
+senkningsreaksjon	N	
+allergireaksjon	N	
+kastrasjon	N	
+tilsynsrapport	N	
+rullestolrampe	N	
+egenomsorgsrådgivning	N	
+matpyramide	N	
+kunnskapspyramide	N	
+penispumpe	N	
+ernæringspumpe	N	
+hovedpulsåre	N	
+poseprøve	N	
+tarmprotokoll	N	
+plasmaprotein	N	
+muskelprotein	N	
+sorgprosess	N	
+sykdomsprognose	N	
+sykehusprest	N	
+varmepose	N	
+veneport	N	
+dokumentasjonsplikt	N	
+blodplasma	N	
+menyplanlegging	N	
+sykdomsperspektiv	N	
+livsperspektiv	N	
+barselperiode	N	
+tykktarmpassasje	N	
+luftstrømpassasje	N	
+slagpasient	N	
+respiratorpasient	N	
+korridorpasient	N	
+sykdomspanorama	N	
+bakteriepanel	N	
+behandlingspakke	N	
+tidsorientering	N	
+realitetsorientering	N	
+signalorgan	N	
+likevektsorgan	N	
+mentorordning	N	
+livsstilopplysning	N	
+journalopplysning	N	
+helseopplysning	N	
+omsorgsoppgave	N	
+fettomsetning	N	
+hudombud	N	
+sykepleienotat	N	
+novisenivå	N	
+matmunn	N	
+utfoldelsesmulighet	Trond sjekka språk hit	N	
+morgenmøte	N	
+EKG-monitor	N	
+signalmolekyl	N	
+verdimodell	N	
+tallerkenmodell	N	
+regnbuemodell	N	
+helsemodell	N	
+tilsetningsmiddel	N	
+soppmiddel	N	
+klyster	N	
+erstatning	N	
+antikonsepsjonsmiddel	N	
+husstøvmidd	N	
+sykepleiemetode	N	
+primærhelsetjeneste	N	
+omsorgsmelding	N	
+folkehelsemelding	N	
+avviksmelding	N	
+pasientmedvirkning	N	
+tvangsmedisinering	N	
+alarmmatte	N	
+tvangsmating	N	
+ultralydmaskin	N	
+hostemaskin	N	
+PEP-maske	N	
+binyremarg	N	
+beinmarg	N	
+avledningsmanøver	N	
+temperaturmåling	N	
+trykkmadrass	N	
+avlastningsmadrass	N	
+utåndingsluft	N	
+innåndingsluft	N	
+tvangslovgivning	N	
+ernæringsløsning	N	
+livsmot	N	
+livskvalitet	N	
+legemiddelliste	N	
+omsorgslidelse	N	
+demenslidelse	N	
+livslengde	N	
+mesterlære	N	
+varmelaken	N	
+stikklaken	N	
+reservelager	N	
+glykogenlager	N	
+fettlager	N	
+blodlager	N	
+øreskylling	N	
+vektkurve	N	
+medisinkurve	N	
+sykepleiekunnskap	N	
+pleiekultur	N	
+omsorgskultur	N	
+blodkultur	N	
+systemkretsløp	N	
+skjedekrans	N	
+flaskekost	N	
+allergikost	N	
+trygdekort	N	
+protesekopp	N	
+tarmkontroll	N	
+stimuluskontroll	N	
+blærekontroll	N	
+varmekonservering	N	
+brystkompresjon	N	
+muskelknute	N	
+lårbeinknute	N	
+AV-knute	N	
+alarmknapp	N	
+vannklyster	N	
+pulsklokke	N	
+NIC-klassifikasjon	N	
+transkjønn	N	
+hydrokarbonkjede	N	
+venekateter	N	
+plastkateter	N	
+kvinnekateter	N	
+friksjonskateter	N	
+skjedekatarr	N	
+nettverkskartlegging	N	
+ernæringskartlegging	N	
+reservekapasitet	N	
+tallerkenkant	N	
+sykepleiejournal	N	
+pasientjournal	N	
+kjernejournal	N	
+serumjern	N	
+bakterieinvasjon	N	
+matvareintoleranse	N	
+glutenintoleranse	N	
+glukoseintoleranse	N	
+urininkontinens	N	
+avføringsinkontinens	N	
+væskeinfusjon	N	
+helseinformatikk	N	
+pasientinformant	N	
+sykehusinfeksjon	N	
+kryssinfeksjon	N	
+næringsmiddelhygiene	N	
+mathygiene	N	
+reparasjonshvile	N	
+nesehule	N	
+irritasjonshoste	N	
+vevhormon	N	
+veksthormon	N	
+graviditetshormon	N	
+penishode	N	
+diakonisse	N	
+diakonhjem	N	
+forflytningshjelpemiddel	N	
+helsehjelp	N	
+besøkshistorikk	N	
+pasienthistorie	N	
+medisinhistorie	N	
+helsehistorie	N	
+lungehinne	N	
+jomfruhinne	N	
+operasjonshette	N	
+utviklingshemning	N	
+munnhelse	N	
+minoritetshelse	N	
+takheis	N	
+ganghastighet	N	
+blærehals	N	
+refleksjonsgruppe	N	
+fingergrep	N	
+intimitetsgrense	N	
+bronkiegrein	N	
+obstruksjonsgrad	N	
+blodglukose	N	
+objektglass	N	
+ADL-gjøremål	N	
+gallegang	N	
+melkegang	N	
+blodfylling	N	
+blærefylling	N	
+slagfrekvens	N	
+respirasjonsfrekvens	N	
+forforståelse	N	
+kurveføring	N	
+svangerskapsforgiftning	N	
+normalflora	N	
+bakterieflora	N	
+egenomsorgsevne	N	
+sykepleieepikrise	N	
+turistdiaré	N	
+sykepleiediagnose	N	
+ICNP-diagnose	N	
+aldersdemens	N	
+ryggmargsbrokk	N	
+spissbekken	N	
+pussbekken	N	
+maskebehandling	N	
+MONA-behandling	N	
+IVF-behandling	N	
+ICNP-begrep	N	
+pasientautonomi	N	
+surstoffapparat	N	
+livsverden	N	
+livsytring	N	
+kroppsleie	N	
+sykepleieepikrise	N	
+basisdisiplin	N	
+EU-direktiv	N	
+ribbeinsbrudd	N	
+armbrudd	N	
+ryggmargsbrokk	N	
+oksygensbrille	N	
+nattbordsbrett	N	
+spedbarnsbotulisme	N	
+avfallsbøtte	N	
 
 
