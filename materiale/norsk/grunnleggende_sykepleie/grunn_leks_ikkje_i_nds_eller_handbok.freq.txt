@@ -1,552 +1,1104 @@
-Tässä ovat Grunnbok i sykepleie-sanat jotka eivät löydy NDS:stä eikä Utsin sanakirjasta, mutta jotka ovat sanakirjan.
-Työtehtävä: Poista listalta sanat, jotka eivät ole ajankohtaisia sairaanhoitajille.
-Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
-Sanat ovat jo norjan kielen analyysiohjelmassa.
+# Tässä ovat Grunnbok i sykepleie-sanat jotka eivät löydy NDS:stä eikä Utsin sanakirjasta, mutta jotka ovat sanakirjan.
+# Työtehtävä: Käännä suomeksi ja saameksi.
+# Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
+# Sanat ovat jo norjan kielen analyysiohjelmassa.
 
-stell
-trykksår
-respirasjon
-ødem
-mestring
-inntak
-egenomsorg
-empati
-datasamling
-helsetilstand
-avfallsstoff
-problemløsning
-egenomsorgsbehov
-sykepleiefag
-innleggelse
-intensitet
-helsesvikt
-intuisjon
-egenomsorgskrav
-inkontinens
-protese
-egenomsorgskapasitet
-sengeleie
-karbondioksid
-arterie	N	váibmosuotna
-understøtte
-samvalg
-komplikasjon
-fenomen	N	albmoneapmi	fenomena
-brukermedvirkning
-allmenntilstand
-persepsjon
-e-helse
-dehydrere
-væsketap
-tømming
-spedbarn
-munntørrhet
-yrkesutøvelse
-utskilling
-tilførsel
-klyster
-hjertesykdom
-eliminasjon
-dysfunksjon
-antibiotika
-sårbarhet
-forsvarlighet
-karbohydrat
-påkledning
-nyresvikt
-mikroorganisme
-graviditet
-funksjonssvikt
-amming
-varhet
-utførelse
-traume
-søvnighet
-sårhet
-konsentrasjon
-kalsium
-funksjonstap
-fordampning
-fastlege
-vekttap
-overkropp
-interaksjon
-hjemmeoppfølging
-test	N	teasta
-romtemperatur
-bluferdighet
-nedkjøling
-irritasjon
-intervensjon
-diagnostisering
-barmhjertighet
-omverden
-nestekjærlighet
-mikrobe
-leveår
-egenaktivitet
-dannelse
-sykepleieutøving
-sykehusopphold
-spesialist
-samvalgsverktøy
-profesjonsfag
-lindring
-kvalitetsmål
-identifisering
-glukose
-belegg
-behandler
-yrkesutøving
-strålebehandling
-stetoskop
-ømhet
-normalitetsbegrep
-natrium
-milliliter
-kroppsvæske
-kontraksjon
-kcal
-hjelpemetode
-helsepersonellov
-fjerning
-evidens
-egenomsorgshandling
-vektreduksjon
-stimuli
-ressurssvikt
-øyekontakt
-muskelatrofi
-mobilisering
-hjerteslag
-forløp
-forflytning
-fenomenologi
-ergoterapeut
-virus
-urørlighetssone
-trombose
-sykepleierske
-sug
-metabolisme
-livsmot
-liggetid
-leddgikt
-koordinasjon
-hemoglobin
-fleksjon
-aspirasjon
-yteevne
-utfoldelse
-syntese
-slange
-sittestilling
-sansing
-nærvær
-multippel
-motstandskraft
-metaanalyse
-laken
-krybbedød
-håndlag
-enzym
-enkeltpasient
-e-konsultasjon
-brukerrettighetslov
-biomedisin
-basis
-utånding
-tillitsforhold
-tilfredsstillelse
-tetthet
-svelgeproblem
-smertebehandling
-sklerose
-sjenanse
-sensitivitet
-samlebetegnelse
-reminisens
-regulering
-puss
-perkusjon
-medisindispenser
-livshistorie
-livsfase
-livserfaring
-kroppsholdning
-injeksjon
-fistel
-ekstensjon
-egenomsorgssvikt
-diagnostikk
-utmattelse
-temperaturstigning
-talg
-smittespredning
-slapphet
-slang
-skår
-score
-overvåkning
-østrogen
-oksygenmangel
-metasyntese
-master
-massasje
-litteratursøk
-laktose
-krykke
-kompresjon
-kliniker
-individualisme
-førlighet
-fibromyalgi
-blotte
-blåmerke
-bevisstgjøring
-altruisme
-verdikonflikt
-velgjørenhetsprinsipp
-uttørring
-utsondre
-uegennytte
-tilsetning
-termostat
-teoretiker
-tapping
-syrer
-sunnhet
-sekundærlitteratur
-sårheling
-samordning
-rullator
-kolesterol
-kjeve
-kalium
-innånding
-fosfat
-fluor
-fakte
-egenmestring
-datainnsamling
-bronkie
-biokjemi
-adaptasjon
-absorpsjon
-viskositet
-termometer
-sykehjemsbeboer
-sykdomssyn
-spekter
-sovestilling
-skrøpelighet
-selvrealisering
-schizofreni
-primærsykepleier
-preparat
-praktiker
-plukking
-paternalisme
-palliasjon
-overflowinkontinens
-obstruksjon
-nyanse
-novise
-muskeltonus
-morfin
-mask
-magnesium
-kognisjon
-kjønnslemlestelse
-karies
-kalori
-intimitet
-internundervisning
-integrering
-hjertebrett
-emboli
-dosering
-desibel
-antistoff
-adrenalin
-acetylsalisylsyre
-unnlatelse
-tutekopp
-tuppe
-transduser
-toksin
-toalettforhøyer
-tilsynssak
-spesialseng
-screene
-sakkarin
-reviewstudie
-reinnleggelse
-referanseverdi
-reaksjonsevne
-psykiater
-ph
-pasientskadeerstatning
-pandemi
-nitrat
-nattevakt
-narrativ
-narkose
-mortalitet
-monosakkarid
-mol
-mimikk
-mikroskop
-mansjett
-mani
-logoped
-klamydia
-kilokalori
-kilojoule
-infarkt
-individualisere
-immunologi
-hvese
-humoralpatologi
-hovedmåltid
-genetikk
-forordning
-formynderi
-forhud
-egenomsorgstenkning
-bevissthetstap
-atrofi
-anestesisykepleier
-åndedrag
-anamnese
-aids
-vaginisme
-utskrivelse
-ukrenkelighet
-totalprotese
-surhetsgrad
-supinasjon
-sukrose
-ståseng
-standpunkt
-ss
-søkemotor
-skiftarbeid
-selvhjulpenhet
-sansning
-sansehage
-samelov
-saltsyre
-restitusjon
-reproduksjon
-rapportering
-pronasjon
-praksisperiode
-positivisme
-pigment
-penicillin
-patofysiologi
-parkinsonisme
-overdose
-oppsamling
-opphopning
-omsorgstjenestelov
-nestenuhell
-muskelvev
-monitor
-ml
-mishandling
-malaria
-lukking
-luftforurensning
-kolonisering
-kolbe
-klor
-kinin
-journalføring
-isolering
-infusjon
-identifikasjon
-hospital
-holdbarhet
-hg
-hematom
-helseomsorg
-helhetsvurdering
-healing
-hallusinasjon
-guiding
-glyserol
-gingivitt
-genitalium
-gasbind
-fremmedgjøring
-fosfor
-epikrise
-eksponering
-egenvekt
-dualisme
-drypp
-disiplinfag
-diffusjon
-diakonisse
-diabetiker
-determinant
-delirium
-colon
-bust
-brysthule
-blindtarmsbetennelse
-besvimelse
-bakk
-bachelor
-aversjon
-atrium
-amfetamin
-allmennmedisin
-akupunktur
-virkemåte
-valium
-utskriving
-utenforskap
-urinering
-underrapportering
-umyndiggjøring
-tvangsbehandling
-tunnelsyn
-tumor
-trigger
-transfusjon
-tortur
-tertiærnæring
-synsvidde
-synkope
-svovelsyre
-svartedauden
-sulfat
-stoffmisbruker
-stimulans
-spolorm
-somatikk
-skikkethet
-skifting
-skavank
-sirkulære
-silikon
-sengeklær
-selvskading
-selvbeherskelse
-selvaktelse
-selen
-sanitærforhold
-rusmisbruker
-rommelighet
-retardasjon
-resp
-rehabilitere
-psykose
-projeksjon
-pool
-pollusjon
-pliktfølelse
-piping
-pessimisme
-pessar
-perkutere
-penetrere
-pektin
-pediatri
-parese
-p-pille
-overløpsinkontinens
-osmose
-ordinere
-optiker
-oppgulp
-nitrogen
-nikotin
-nevrose
-nevrologi
-nevrolog
-nattkjole
-muskelsvinn
-molekyl
-mikstur
-mikroteori
-migrene
-meskalin
-melatonin
-marihuana
-lidokain
-legemiddelsløyfe
-lanolin
-laktoseintoleranse
-kunnskapsbase
-kullsyre
-kullos
-kroppsforståelse
-krom
-kontur
-koldbrann
-katalysator
-jour
-joule
-inflasjon
-indium
-hospitering
-hospitalisere
-homoseksualitet
-hodeplagg
-heroin
-hepatitt
-hemning
-handikap
-hallusinogen
-habilitering
-gynekologi
-glykogen
-gluten
-globalisering
-gisping
-gipse
-gåstol
-gåsehud
-gallesyre
-galaktose
-frysning
-fronesiskunnskap
-ferdighetstrening
-farmasi
-erosjon
-ernære
-emisjon
-elektrode
-ekstrakt
-ekskrement
-eksistensialisme
-dl
-disputas
-diskurs
-dioksin
-dikotomi
-difteri
-dialyse
-dialektikk
-ben
-beinklær
-behovsdekning
-behandlingssvikt
-behandlingsrutine
-bedøvelse
-balje
-baktericid
-avvenne
-autisme
-aspirere
-åreforkalkning
-arbeidslys
-apopleksi
-amøbe
-ambivalens
-albumin
-adaptasjonsevne
+stell	N	hoito
+
+trykksår	N	painehaava
+
+respirasjon	N	
+
+ødem	N	
+
+mestring	N	
+
+inntak	N	saanti
+
+egenomsorg	N	itsehoito
+
+empati	N	empatia
+
+datasamling	N	
+
+helsetilstand	N	terveydentila
+
+avfallsstoff	N	
+
+problemløsning	N	
+
+egenomsorgsbehov	N	
+
+sykepleiefag	N	
+
+innleggelse	N	
+
+intensitet	N	intensiteetti
+
+helsesvikt	N	terveyshäiriö
+
+intuisjon	N	intuitio
+
+egenomsorgskrav	N	
+
+inkontinens	N	inkontinenssi
+
+protese	N	
+
+egenomsorgskapasitet	N	itsehoitokyky
+
+sengeleie	N	
+
+karbondioksid	N	
+
+arterie	N	valtimo	váibmosuotna
+
+understøtte	N	
+
+samvalg	N	
+
+komplikasjon	N	
+
+fenomen	N	ilmiö	albmoneapmi	fenomena
+
+brukermedvirkning	N	
+
+allmenntilstand	N	
+
+persepsjon	N	
+
+e-helse	N	
+
+dehydrere	N	
+
+væsketap	N	
+
+tømming	N	
+
+spedbarn	N	
+
+munntørrhet	N	
+
+yrkesutøvelse	N	ammatinharjoitus
+
+utskilling	N	eritys
+
+tilførsel	N	lisäys
+
+klyster	N	peräruiske
+
+hjertesykdom	N	
+
+eliminasjon	N	
+
+dysfunksjon	N	toimintahäiriö
+
+antibiotika	N	antibiootti
+
+sårbarhet	N	haavoittuvuus
+
+forsvarlighet	N	
+
+karbohydrat	N	hiilihydraatti
+
+påkledning	N	pukeutuminen
+
+nyresvikt	N	
+
+mikroorganisme	N	
+
+graviditet	N	raskaus
+
+funksjonssvikt	N	
+
+amming	N	
+
+varhet	N	
+
+utførelse	N	suorittaminen
+
+traume	N	
+
+søvnighet	N	
+
+sårhet	N	
+
+konsentrasjon	N	keskittyminen
+
+kalsium	N	kalsium
+
+funksjonstap	N	
+
+fordampning	N	
+
+fastlege	N	
+
+vekttap	N	
+
+overkropp	N	
+
+interaksjon	N	vuorovaikutus
+
+hjemmeoppfølging	N	
+
+test	N	testi	teasta
+
+romtemperatur	N	huonelämpötila
+
+bluferdighet	N	
+
+nedkjøling	N	
+
+irritasjon	N	
+
+intervensjon	N	väliintulo
+
+diagnostisering	N	
+
+barmhjertighet	N	armo
+
+omverden	N	
+
+nestekjærlighet	N	
+
+mikrobe	N	
+
+leveår	N	
+
+egenaktivitet	N	
+
+dannelse	N	
+
+sykepleieutøving	N	
+
+sykehusopphold	N	
+
+spesialist	N	
+
+samvalgsverktøy	N	
+
+profesjonsfag	N	
+
+lindring	N	
+
+kvalitetsmål	N	
+
+identifisering	N	
+
+glukose	N	glukoosi
+
+belegg	N	peite
+
+behandler	N	
+
+yrkesutøving	N	
+
+strålebehandling	N	
+
+stetoskop	N	stetoskooppi
+
+ømhet	N	hellyys
+ømhet	N	herkkyys
+
+normalitetsbegrep	N	
+
+natrium	N	natrium
+
+milliliter	N	
+
+kroppsvæske	N	
+
+kontraksjon	N	
+
+kcal	N	
+
+hjelpemetode	N	
+
+helsepersonellov	N	
+
+fjerning	N	poisto
+
+evidens	N	
+
+egenomsorgshandling	N	
+
+vektreduksjon	N	
+
+stimuli	N	
+
+ressurssvikt	N	
+
+øyekontakt	N	
+
+muskelatrofi	N	
+
+mobilisering	N	
+
+hjerteslag	N	
+
+forløp	N	
+
+forflytning	N	
+
+fenomenologi	N	fenomenologia
+
+ergoterapeut	N	
+
+virus	N	virus
+
+urørlighetssone	N	
+
+trombose	N	
+
+sykepleierske	N	
+
+sug	N	
+
+metabolisme	N	
+
+livsmot	N	
+
+liggetid	N	
+
+leddgikt	N	
+
+koordinasjon	N	koordinointi
+
+hemoglobin	N	hemoglobiini
+
+fleksjon	N	
+
+aspirasjon	N	
+
+yteevne	N	
+
+utfoldelse	N	
+
+syntese	N	synteesi
+
+slange	N	letku
+
+sittestilling	N	
+
+sansing	N	aistiminen
+
+nærvær	N	läsnäolo
+
+multippel	N	
+
+motstandskraft	N	
+
+metaanalyse	N	
+
+laken	N	lakana
+
+krybbedød	N	
+
+håndlag	N	
+
+enzym	N	entsyymi
+
+enkeltpasient	N	
+
+e-konsultasjon	N	
+
+brukerrettighetslov	N	
+
+biomedisin	N	
+
+basis	N	alusta
+
+utånding	N	
+
+tillitsforhold	N	
+
+tilfredsstillelse	N	
+
+tetthet	N	tiheys
+
+svelgeproblem	N	
+
+smertebehandling	N	
+
+sklerose	N	
+
+sjenanse	N	
+
+sensitivitet	N	
+
+samlebetegnelse	N	
+
+reminisens	N	
+
+regulering	N	säännöstely
+regulering	N	sääntely
+regulering	N	säätely
+
+puss	N	mätä
+
+perkusjon	N	
+
+medisindispenser	N	
+
+livshistorie	N	
+
+livsfase	N	elämänvaihe
+
+livserfaring	N	
+
+kroppsholdning	N	ryhti
+
+injeksjon	N	injektio
+
+fistel	N	
+
+ekstensjon	N	
+
+egenomsorgssvikt	N	
+
+diagnostikk	N	
+
+utmattelse	N	
+
+temperaturstigning	N	
+
+talg	N	
+
+smittespredning	N	
+
+slapphet	N	
+
+slang	N	slangi
+
+skår	N	
+
+score	N	
+
+overvåkning	N	
+
+østrogen	N	
+
+oksygenmangel	N	hapenpuute
+
+metasyntese	N	
+
+master	N	
+
+massasje	N	
+
+litteratursøk	N	
+
+laktose	N	laktoosi
+
+krykke	N	
+
+kompresjon	N	kompressio
+
+kliniker	N	
+
+individualisme	N	
+
+førlighet	N	
+
+fibromyalgi	N	
+
+blotte	N	
+
+blåmerke	N	
+
+bevisstgjøring	N	
+
+altruisme	N	altruismi
+
+verdikonflikt	N	
+
+velgjørenhetsprinsipp	N	
+
+uttørring	N	
+
+utsondre	N	erittää
+
+uegennytte	N	
+
+tilsetning	N	
+
+termostat	N	termostaatti
+
+teoretiker	N	teoreetikko
+
+tapping	N	
+
+syrer	N	syyrialainen
+
+sunnhet	N	
+
+sekundærlitteratur	N	
+
+sårheling	N	
+
+samordning	N	
+
+rullator	N	
+
+kolesterol	N	kolesteroli
+
+kjeve	N	leuka
+kjeve	N	leukapieli
+
+kalium	N	
+
+innånding	N	
+
+fosfat	N	fosfaatti
+
+fluor	N	
+
+fakte	N	
+
+egenmestring	N	
+
+datainnsamling	N	
+
+bronkie	N	
+
+biokjemi	N	biokemia
+
+adaptasjon	N	
+
+absorpsjon	N	
+
+viskositet	N	viskositeetti
+
+termometer	N	
+
+sykehjemsbeboer	N	
+
+sykdomssyn	N	
+
+spekter	N	
+
+sovestilling	N	
+
+skrøpelighet	N	
+
+selvrealisering	N	
+
+schizofreni	N	
+
+primærsykepleier	N	
+
+preparat	N	preparaatti
+
+praktiker	N	
+
+plukking	N	
+
+paternalisme	N	
+
+palliasjon	N	
+
+overflowinkontinens	N	
+
+obstruksjon	N	hidastus
+
+nyanse	N	sävy
+
+novise	N	
+
+muskeltonus	N	lihasjänteys
+
+morfin	N	morfiini
+
+mask	N	
+
+magnesium	N	
+
+kognisjon	N	
+
+kjønnslemlestelse	N	
+
+karies	N	hammasmätä
+
+kalori	N	
+
+intimitet	N	
+
+internundervisning	N	
+
+integrering	N	yhdentyminen
+
+hjertebrett	N	
+
+emboli	N	
+
+dosering	N	
+
+desibel	N	
+
+antistoff	N	
+
+adrenalin	N	adrenaliini
+
+acetylsalisylsyre	N	asetyylisalisyylihappo
+
+unnlatelse	N	
+
+tutekopp	N	
+
+tuppe	N	
+
+transduser	N	
+
+toksin	N	toksiini
+
+toalettforhøyer	N	
+
+tilsynssak	N	
+
+spesialseng	N	
+
+screene	N	
+
+sakkarin	N	
+
+reviewstudie	N	
+
+reinnleggelse	N	
+
+referanseverdi	N	
+
+reaksjonsevne	N	
+
+psykiater	N	psykiatri
+
+ph	N	
+
+pasientskadeerstatning	N	
+
+pandemi	N	
+
+nitrat	N	
+
+nattevakt	N	
+
+narrativ	N	
+
+narkose	N	
+
+mortalitet	N	
+
+monosakkarid	N	monosakkaridi
+
+mol	N	
+
+mimikk	N	
+
+mikroskop	N	
+
+mansjett	N	
+
+mani	N	mania
+
+logoped	N	
+
+klamydia	N	klamydia
+
+kilokalori	N	
+
+kilojoule	N	
+
+infarkt	N	infarkti
+
+individualisere	N	
+
+immunologi	N	immunologia
+
+hvese	N	
+
+humoralpatologi	N	
+
+hovedmåltid	N	
+
+genetikk	N	genetiikka
+
+forordning	N	
+
+formynderi	N	
+
+forhud	N	esinahka
+
+egenomsorgstenkning	N	
+
+bevissthetstap	N	
+
+atrofi	N	
+
+anestesisykepleier	N	
+
+åndedrag	N	
+
+anamnese	N	
+
+aids	N	aids
+
+vaginisme	N	
+
+utskrivelse	N	
+
+ukrenkelighet	N	
+
+totalprotese	N	
+
+surhetsgrad	N	
+
+supinasjon	N	
+
+sukrose	N	
+
+ståseng	N	
+
+standpunkt	N	
+
+ss	N	
+
+søkemotor	N	hakukone
+
+skiftarbeid	N	
+
+selvhjulpenhet	N	
+
+sansning	N	
+
+sansehage	N	
+
+samelov	N	
+
+saltsyre	N	suolahappo
+
+restitusjon	N	
+
+reproduksjon	N	
+
+rapportering	N	
+
+pronasjon	N	
+
+praksisperiode	N	
+
+positivisme	N	positivismi
+
+pigment	N	
+
+penicillin	N	
+
+patofysiologi	N	
+
+parkinsonisme	N	
+
+overdose	N	yliannostus
+
+oppsamling	N	
+
+opphopning	N	
+
+omsorgstjenestelov	N	
+
+nestenuhell	N	
+
+muskelvev	N	lihaskudos
+
+monitor	N	
+
+ml	N	
+
+mishandling	N	
+
+malaria	N	malaria
+
+lukking	N	
+
+luftforurensning	N	
+
+kolonisering	N	
+
+kolbe	N	
+
+klor	N	
+
+kinin	N	
+
+journalføring	N	
+
+isolering	N	eristäminen
+
+infusjon	N	
+
+identifikasjon	N	
+
+hospital	N	
+
+holdbarhet	N	
+
+hg	N	
+
+hematom	N	hematooma
+
+helseomsorg	N	
+
+helhetsvurdering	N	
+
+healing	N	
+
+hallusinasjon	N	aistiharha
+
+guiding	N	
+
+glyserol	N	
+
+gingivitt	N	ientulehdus
+
+genitalium	N	
+
+gasbind	N	
+
+fremmedgjøring	N	
+
+fosfor	N	fosfori
+
+epikrise	N	
+
+eksponering	N	
+
+egenvekt	N	
+
+dualisme	N	dualismi
+
+drypp	N	
+
+disiplinfag	N	
+
+diffusjon	N	
+
+diakonisse	N	
+
+diabetiker	N	diabeetikko
+
+determinant	N	
+
+delirium	N	
+
+colon	N	
+
+bust	N	
+
+brysthule	N	
+
+blindtarmsbetennelse	N	
+
+besvimelse	N	
+
+bakk	N	
+
+bachelor	N	
+
+aversjon	N	
+
+atrium	N	
+
+amfetamin	N	amfetamiini
+
+allmennmedisin	N	
+
+akupunktur	N	akupunktio
+
+virkemåte	N	toimintamuoto
+
+valium	N	
+
+utskriving	N	
+
+utenforskap	N	
+
+urinering	N	
+
+underrapportering	N	
+
+umyndiggjøring	N	
+
+tvangsbehandling	N	
+
+tunnelsyn	N	
+
+tumor	N	
+
+trigger	N	
+
+transfusjon	N	verensiirto
+
+tortur	N	kidutus
+
+tertiærnæring	N	
+
+synsvidde	N	
+
+synkope	N	synkopee
+
+svovelsyre	N	rikkihappo
+
+svartedauden	N	
+
+sulfat	N	
+
+stoffmisbruker	N	
+
+stimulans	N	stimulanssi
+stimulans	N	ärsyke
+
+spolorm	N	
+
+somatikk	N	
+
+skikkethet	N	
+
+skifting	N	
+
+skavank	N	
+
+sirkulære	N	
+
+silikon	N	
+
+sengeklær	N	
+
+selvskading	N	
+
+selvbeherskelse	N	itsehillintä
+
+selvaktelse	N	
+
+selen	N	seleeni
+
+sanitærforhold	N	
+
+rusmisbruker	N	
+
+rommelighet	N	
+
+retardasjon	N	
+
+resp	N	
+
+rehabilitere	N	
+
+psykose	N	psykoosi
+
+projeksjon	N	
+
+pool	N	
+
+pollusjon	N	
+
+pliktfølelse	N	
+
+piping	N	
+
+pessimisme	N	
+
+pessar	N	
+
+perkutere	N	
+
+penetrere	N	
+
+pektin	N	pektiini
+
+pediatri	N	
+
+parese	N	
+
+p-pille	N	
+
+overløpsinkontinens	N	
+
+osmose	N	
+
+ordinere	N	
+
+optiker	N	
+
+oppgulp	N	
+
+nitrogen	N	
+
+nikotin	N	nikotiini
+
+nevrose	N	
+
+nevrologi	N	
+
+nevrolog	N	
+
+nattkjole	N	
+
+muskelsvinn	N	
+
+molekyl	N	molekyyli
+
+mikstur	N	
+
+mikroteori	N	
+
+migrene	N	
+
+meskalin	N	
+
+melatonin	N	melatoniini
+
+marihuana	N	
+
+lidokain	N	
+
+legemiddelsløyfe	N	
+
+lanolin	N	
+
+laktoseintoleranse	N	
+
+kunnskapsbase	N	tietopohja
+
+kullsyre	N	
+
+kullos	N	
+
+kroppsforståelse	N	
+
+krom	N	kromi
+
+kontur	N	
+
+koldbrann	N	
+
+katalysator	N	katalysaattori
+
+jour	N	päivystys
+
+joule	N	joule
+
+inflasjon	N	inflaatio
+
+indium	N	
+
+hospitering	N	
+
+hospitalisere	N	
+
+homoseksualitet	N	homoseksuaalisuus
+
+hodeplagg	N	päähine
+
+heroin	N	heroiini
+
+hepatitt	N	
+
+hemning	N	
+
+handikap	N	
+
+hallusinogen	N	
+
+habilitering	N	
+
+gynekologi	N	gynekologia
+
+glykogen	N	
+
+gluten	N	gluteeni
+
+globalisering	N	globalisaatio
+
+gisping	N	
+
+gipse	N	
+
+gåstol	N	
+
+gåsehud	N	
+
+gallesyre	N	sappineste
+
+galaktose	N	galaktoosi
+
+frysning	N	
+
+fronesiskunnskap	N	
+
+ferdighetstrening	N	
+
+farmasi	N	
+
+erosjon	N	eroosio
+
+ernære	N	
+
+emisjon	N	
+
+elektrode	N	elektrodi
+
+ekstrakt	N	
+
+ekskrement	N	
+
+eksistensialisme	N	eksistentialismi
+
+dl	N	
+
+disputas	N	
+
+diskurs	N	diskurssi
+
+dioksin	N	dioksiini
+
+dikotomi	N	
+
+difteri	N	difteria
+
+dialyse	N	dialyysi
+
+dialektikk	N	dialektiikka
+
+ben	N	
+
+beinklær	N	
+
+behovsdekning	N	
+
+behandlingssvikt	N	
+
+behandlingsrutine	N	
+
+bedøvelse	N	
+
+balje	N	
+
+baktericid	N	
+
+avvenne	N	
+
+autisme	N	autismi
+
+aspirere	N	
+
+åreforkalkning	N	
+
+arbeidslys	N	
+
+apopleksi	N	
+
+amøbe	N	
+
+ambivalens	N	
+
+albumin	N	
+
+adaptasjonsevne	N	
+
