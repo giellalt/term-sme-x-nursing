@@ -4,7 +4,7 @@ blodlegeme	N		verisolu
 
 blodomløp	N		verenkierto
 
-blodtrykksmåling	N	verenpaineen mittaus
+blodtrykksmåling	N		verenpaineen mittaus
 
 blærekatarr	N		virtsarakontulehdus
 
@@ -48,7 +48,7 @@ magesmerte	N		vatsakipu
 
 muskelcelle	N		lihassolu
 
-muskelkrampe	N		lihaskramppi	
+muskelkrampe	N		lihaskramppi	suonenveto	
 
 navlestreng	N		napanuora
 
@@ -62,9 +62,9 @@ skulderledd	N		olkanivel
 
 snorking	N		kuorsaus
 
-spyttkjertel	N	sylkirauhanen	
+spyttkjertel	N		sylkirauhanen	
 
-stoffskiftesykdom	N	aineenvaihduntasairaus	
+stoffskiftesykdom	N		aineenvaihduntasairaus	
 
 strupelokk	N		kurkunkansi	
 
