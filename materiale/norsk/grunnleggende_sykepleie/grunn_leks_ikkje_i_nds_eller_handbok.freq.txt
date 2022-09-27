@@ -3,6 +3,8 @@
 # Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
 # Sanat ovat jo norjan kielen analyysiohjelmassa.
 
+nob	POS	fin	fin	sme	sme
+
 stell	N	hoito
 
 trykksår	N	painehaavauma
@@ -33,7 +35,7 @@ sykepleiefag	N	??
 
 innleggelse	N	sisäänotto
 
-intensitet	N	intensiteetti, voimakkuus
+intensitet	N	intensiteetti	voimakkuus
 
 helsesvikt	N	terveyshäiriö
 
@@ -41,17 +43,17 @@ intuisjon	N	intuitio
 
 egenomsorgskrav	N	itsehoitovaatimus
 
-inkontinens	N	inkontinenssi, virtsn karkailu
+inkontinens	N	inkontinenssi	virtsn karkailu
 
 protese	N	proteesi
 
 egenomsorgskapasitet	N	itsehoitokyky
 
-sengeleie	N	makuuasento, vuodehoito
+sengeleie	N	makuuasento	vuodehoito
 
 karbondioksid	N	hiilidioksidi
 
-arterie	N	valtimo	váibmosuotna
+arterie	N	valtimo		váibmosuotna
 
 understøtte	N	tukea
 
@@ -59,7 +61,7 @@ samvalg	N	yhteispäätös
 
 komplikasjon	N	komplikaatio
 
-fenomen	N	ilmiö	albmoneapmi	fenomena
+fenomen	N	ilmiö		albmoneapmi	fenomena
 
 brukermedvirkning	N	potilaan osallistuminen hoitoon
 
@@ -113,7 +115,7 @@ funksjonssvikt	N	alentunut toimintakyky
 
 amming	N	imetys
 
-varhet	N	varovaisuus, helläkätisyys
+varhet	N	varovaisuus	helläkätisyys
 
 utførelse	N	suorittaminen
 
@@ -141,7 +143,7 @@ interaksjon	N	vuorovaikutus
 
 hjemmeoppfølging	N	kotiseuranta
 
-test	N	testi	teasta
+test	N	testi		teasta
 
 romtemperatur	N	huonelämpötila
 
@@ -218,7 +220,7 @@ helsepersonellov	N	terveydenhuollon henkilöstöä koskeva laki
 
 fjerning	N	poisto
 
-evidens	N	evidenssi, näyttö
+evidens	N	evidenssi	näyttö
 
 egenomsorgshandling	N	itsehoidollinen toiminta
 
@@ -238,7 +240,7 @@ hjerteslag	N	sydämensyke
 
 forløp	N	kulku
 
-forflytning	N	siirto, siirtäminen
+forflytning	N	siirto	siirtäminen
 
 fenomenologi	N	fenomenologia
 
