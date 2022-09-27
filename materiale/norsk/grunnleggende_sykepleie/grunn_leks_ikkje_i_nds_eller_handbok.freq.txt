@@ -5,79 +5,79 @@
 
 stell	N	hoito
 
-trykksår	N	painehaava
+trykksår	N	painehaavauma
 
-respirasjon	N	
+respirasjon	N	hengitys
 
-ødem	N	
+ødem	N	turvotus
 
-mestring	N	
+mestring	N	selviytyminen
 
-inntak	N	saanti
+inntak	N	saanti???
 
 egenomsorg	N	itsehoito
 
 empati	N	empatia
 
-datasamling	N	
+datasamling	N	tietojen keruu
 
 helsetilstand	N	terveydentila
 
-avfallsstoff	N	
+avfallsstoff	N	kuonanaineet
 
-problemløsning	N	
+problemløsning	N	ongelman ratkaisu
 
-egenomsorgsbehov	N	
+egenomsorgsbehov	N	itsehoitotarve
 
-sykepleiefag	N	
+sykepleiefag	N	??
 
-innleggelse	N	
+innleggelse	N	sisäänotto
 
-intensitet	N	intensiteetti
+intensitet	N	intensiteetti, voimakkuus
 
 helsesvikt	N	terveyshäiriö
 
 intuisjon	N	intuitio
 
-egenomsorgskrav	N	
+egenomsorgskrav	N	itsehoitovaatimus
 
-inkontinens	N	inkontinenssi
+inkontinens	N	inkontinenssi, virtsn karkailu
 
-protese	N	
+protese	N	proteesi
 
 egenomsorgskapasitet	N	itsehoitokyky
 
-sengeleie	N	
+sengeleie	N	makuuasento, vuodehoito
 
-karbondioksid	N	
+karbondioksid	N	hiilidioksidi
 
 arterie	N	valtimo	váibmosuotna
 
-understøtte	N	
+understøtte	N	tukea
 
-samvalg	N	
+samvalg	N	yhteispäätös
 
-komplikasjon	N	
+komplikasjon	N	komplikaatio
 
 fenomen	N	ilmiö	albmoneapmi	fenomena
 
-brukermedvirkning	N	
+brukermedvirkning	N	potilaan osallistuminen hoitoon
 
-allmenntilstand	N	
+allmenntilstand	N	terveydentila
 
-persepsjon	N	
+persepsjon	N	havaitseminen
 
-e-helse	N	
+e-helse	N	e-terveyspalvelut
 
-dehydrere	N	
+dehydrere	N	kuivua
 
-væsketap	N	
+væsketap	N	nestevajaus
 
-tømming	N	
+tømming	N	tyhjennys
 
-spedbarn	N	
+spedbarn	N	vauvaikäinen
 
-munntørrhet	N	
+munntørrhet	N	suun kuivuus
 
 yrkesutøvelse	N	ammatinharjoitus
 
@@ -87,9 +87,9 @@ tilførsel	N	lisäys
 
 klyster	N	peräruiske
 
-hjertesykdom	N	
+hjertesykdom	N	sydansairaus
 
-eliminasjon	N	
+eliminasjon	N	eritys
 
 dysfunksjon	N	toimintahäiriö
 
@@ -97,152 +97,152 @@ antibiotika	N	antibiootti
 
 sårbarhet	N	haavoittuvuus
 
-forsvarlighet	N	
+forsvarlighet	N	riittävä hoito
 
 karbohydrat	N	hiilihydraatti
 
 påkledning	N	pukeutuminen
 
-nyresvikt	N	
+nyresvikt	N	munuaisten vajaatoiminta
 
-mikroorganisme	N	
+mikroorganisme	N	mikro-organismi
 
 graviditet	N	raskaus
 
-funksjonssvikt	N	
+funksjonssvikt	N	alentunut toimintakyky
 
-amming	N	
+amming	N	imetys
 
-varhet	N	
+varhet	N	varovaisuus, helläkätisyys
 
 utførelse	N	suorittaminen
 
-traume	N	
+traume	N	trauma
 
-søvnighet	N	
+søvnighet	N	unisuus
 
-sårhet	N	
+sårhet	N	arkuus
 
 konsentrasjon	N	keskittyminen
 
 kalsium	N	kalsium
 
-funksjonstap	N	
+funksjonstap	N	toimintakyvyn vaje
 
-fordampning	N	
+fordampning	N	haihdunta
 
-fastlege	N	
+fastlege	N	omalääkäri
 
-vekttap	N	
+vekttap	N	painon putoaminen
 
-overkropp	N	
+overkropp	N	yläruumis
 
 interaksjon	N	vuorovaikutus
 
-hjemmeoppfølging	N	
+hjemmeoppfølging	N	kotiseuranta
 
 test	N	testi	teasta
 
 romtemperatur	N	huonelämpötila
 
-bluferdighet	N	
+bluferdighet	N	häveliäisyys
 
-nedkjøling	N	
+nedkjøling	N	kylmettyminen
 
-irritasjon	N	
+irritasjon	N	ärtyneisyys
 
 intervensjon	N	väliintulo
 
-diagnostisering	N	
+diagnostisering	N	diagnosointi
 
 barmhjertighet	N	armo
 
-omverden	N	
+omverden	N	ympäristö
 
-nestekjærlighet	N	
+nestekjærlighet	N	lähimmäisenrakkaus
 
-mikrobe	N	
+mikrobe	N	mikrobi
 
-leveår	N	
+leveår	N	elinvuosi
 
-egenaktivitet	N	
+egenaktivitet	N	omaehtoinen aktiivisuus
 
-dannelse	N	
+dannelse	N	tapakasvatus
 
-sykepleieutøving	N	
+sykepleieutøving	N	sairaanhoidon suoritus
 
-sykehusopphold	N	
+sykehusopphold	N	hoitojakso sairaalassa
 
-spesialist	N	
+spesialist	N	spesialisti
 
-samvalgsverktøy	N	
+samvalgsverktøy	N	yhteispäätöstä auttava väline
 
-profesjonsfag	N	
+profesjonsfag	N	ammattiopinnot
 
-lindring	N	
+lindring	N	lievitys
 
-kvalitetsmål	N	
+kvalitetsmål	N	laatutavoite
 
-identifisering	N	
+identifisering	N	identifiointi
 
 glukose	N	glukoosi
 
 belegg	N	peite
 
-behandler	N	
+behandler	N	???
 
-yrkesutøving	N	
+yrkesutøving	N	ammatin harjoittaminen
 
-strålebehandling	N	
+strålebehandling	N	sädehoito
 
 stetoskop	N	stetoskooppi
 
 ømhet	N	hellyys
 ømhet	N	herkkyys
 
-normalitetsbegrep	N	
+normalitetsbegrep	N	normaalisuuskäsite
 
 natrium	N	natrium
 
-milliliter	N	
+milliliter	N	millilitra
 
-kroppsvæske	N	
+kroppsvæske	N	kehon nesteet
 
-kontraksjon	N	
+kontraksjon	N	supistus
 
-kcal	N	
+kcal	N	kilokalori
 
-hjelpemetode	N	
+hjelpemetode	N	auttamistoimenpide
 
-helsepersonellov	N	
+helsepersonellov	N	terveydenhuollon henkilöstöä koskeva laki
 
 fjerning	N	poisto
 
-evidens	N	
+evidens	N	evidenssi, näyttö
 
-egenomsorgshandling	N	
+egenomsorgshandling	N	itsehoidollinen toiminta
 
-vektreduksjon	N	
+vektreduksjon	N	painonpudotus
 
-stimuli	N	
+stimuli	N	ärsyke
 
-ressurssvikt	N	
+ressurssvikt	N	resurssivaje
 
-øyekontakt	N	
+øyekontakt	N	silmäkontakti
 
-muskelatrofi	N	
+muskelatrofi	N	lihasten surkastuminen
 
-mobilisering	N	
+mobilisering	N	liikkeellelähtö
 
-hjerteslag	N	
+hjerteslag	N	sydämensyke
 
-forløp	N	
+forløp	N	kulku
 
-forflytning	N	
+forflytning	N	siirto, siirtäminen
 
 fenomenologi	N	fenomenologia
 
-ergoterapeut	N	
+ergoterapeut	N	toimintaterapeutti.
 
 virus	N	virus
 
