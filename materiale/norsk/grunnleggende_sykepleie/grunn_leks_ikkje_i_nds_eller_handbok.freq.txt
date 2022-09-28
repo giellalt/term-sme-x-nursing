@@ -3,6 +3,9 @@
 # Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
 # Sanat ovat jo norjan kielen analyysiohjelmassa.
 
+Ehdotan poistettvaksi: enkeltpasient, fakte
+Laita egennytte. oma hyöty
+
 nob	POS	fin	fin	sme	sme
 
 stell	N	hoito
@@ -247,7 +250,7 @@ ergoterapeut	N	toimintaterapeutti
 
 virus	N	virus
 
-urørlighetssone	N	henkilökohtainen koskemattomuus
+urørlighetssone	N	koskemattomuusvyöhyke
 
 trombose	N	veritulppa
 
@@ -267,254 +270,245 @@ koordinasjon	N	koordinointi
 
 hemoglobin	N	hemoglobiini
 
-fleksjon	N	
+fleksjon	N	koukistus
 
-aspirasjon	N	
+aspirasjon	N	aspiraatio	keuhkoihin vetäminen
 
-yteevne	N	
+yteevne	N	suorituskyky
 
-utfoldelse	N	
+utfoldelse	N	avautuminen	tapahtuminen
 
 syntese	N	synteesi
 
 slange	N	letku
 
-sittestilling	N	
+sittestilling	N	istuma-asento
 
 sansing	N	aistiminen
 
 nærvær	N	läsnäolo
 
-multippel	N	
+multippel	N	multippeli
 
-motstandskraft	N	
+motstandskraft	N	vastustuskyky
 
-metaanalyse	N	
+metaanalyse	N	meta-analyysi
 
 laken	N	lakana
 
-krybbedød	N	
+krybbedød	N	kätkytkuolema
 
-håndlag	N	
+håndlag	N	kädentaito	ote
 
 enzym	N	entsyymi
 
 enkeltpasient	N	
 
-e-konsultasjon	N	
+e-konsultasjon	N	eKonsultaatio	etävastaanotto
 
-brukerrettighetslov	N	
+brukerrettighetslov	N	laki potilaan oikeuksista
 
-biomedisin	N	
+biomedisin	N	biolääketiede
 
 basis	N	alusta
 
-utånding	N	
+utånding	N	uloshengitys
 
-tillitsforhold	N	
+tillitsforhold	N	luottamussuhde
 
-tilfredsstillelse	N	
+tilfredsstillelse	N	tyydyttyminen
 
 tetthet	N	tiheys
 
-svelgeproblem	N	
+svelgeproblem	N	nielemisvaikeus
 
-smertebehandling	N	
+smertebehandling	N	kivunhoito
 
-sklerose	N	
+sklerose	N	skleroosi	kovettuma
 
-sjenanse	N	
+sjenanse	N	kainous	häpeä
 
-sensitivitet	N	
+sensitivitet	N	herkkyys
 
-samlebetegnelse	N	
+samlebetegnelse	N	yhteiskäsite
 
-reminisens	N	
+reminisens	N	muistelu
 
-regulering	N	säännöstely
-regulering	N	sääntely
-regulering	N	säätely
+regulering	N	säännöstely	säätely
 
-puss	N	mätä
+puss	N	mätä	märkäinen erite
 
-perkusjon	N	
+perkusjon	N	naputtelu
 
-medisindispenser	N	
+medisindispenser	N	lääkeannostelija
 
-livshistorie	N	
+livshistorie	N	elämäntarina
 
 livsfase	N	elämänvaihe
 
-livserfaring	N	
+livserfaring	N	elämänkokemus
 
 kroppsholdning	N	ryhti
 
 injeksjon	N	injektio
 
-fistel	N	
+fistel	N	fisteli
 
-ekstensjon	N	
+ekstensjon	N	ojennus
 
-egenomsorgssvikt	N	
+egenomsorgssvikt	N	itsehoidon vaje
 
-diagnostikk	N	
+diagnostikk	N	diagnostiikka
 
-utmattelse	N	
+utmattelse	N	uupumus
 
-temperaturstigning	N	
+temperaturstigning	N	lämmönnousu
 
-talg	N	
+talg	N	tali
 
-smittespredning	N	
+smittespredning	N	tartunnan lviäminen
 
-slapphet	N	
+slapphet	N	voimattomuus
 
 slang	N	slangi
 
-skår	N	
+skår	N	pisteytys
 
-score	N	
+score	N	pisteytys
 
-overvåkning	N	
+overvåkning	N	valvonta
 
-østrogen	N	
+østrogen	N	estrogeeni
 
 oksygenmangel	N	hapenpuute
 
-metasyntese	N	
+metasyntese	N	metasynteesi
 
-master	N	
+master	N	master
 
-massasje	N	
+massasje	N	hieronta
 
-litteratursøk	N	
+litteratursøk	N	kirjallisuuskatsaus
 
 laktose	N	laktoosi
 
-krykke	N	
+krykke	N	kyynärsauva
 
 kompresjon	N	kompressio
 
-kliniker	N	
+individualisme	N	yksilällisyys
 
-individualisme	N	
+førlighet	N	liikuntakyky
 
-førlighet	N	
+fibromyalgi	N	fibromyalgia
 
-fibromyalgi	N	
+blotte	N	paljastaa
 
-blotte	N	
+blåmerke	N	mustelma
 
-blåmerke	N	
-
-bevisstgjøring	N	
+bevisstgjøring	N	tietoiseksi tekeminen
 
 altruisme	N	altruismi
 
-verdikonflikt	N	
+verdikonflikt	N	arvokonflikti	arvoristiriita
 
-velgjørenhetsprinsipp	N	
+velgjørenhetsprinsipp	N	hyväntekemisen periaate
 
-uttørring	N	
+uttørring	N	kuivuminen
 
 utsondre	N	erittää
 
-uegennytte	N	
-
-tilsetning	N	
+tilsetning	N	lisä
 
 termostat	N	termostaatti
 
 teoretiker	N	teoreetikko
 
-tapping	N	
+tapping	N	tyhjentäminen	poisvaluttaminen
 
 syrer	N	syyrialainen
 
-sunnhet	N	
+sunnhet	N	terveys
 
-sekundærlitteratur	N	
+sekundærlitteratur	N	sekundäärikirjallisuus	toissijainen kirjallisuus
 
-sårheling	N	
+sårheling	N	haavan paraneminen
 
-samordning	N	
+samordning	N	yhteensovittaminen
 
-rullator	N	
+rullator	N	rollaattori
 
 kolesterol	N	kolesteroli
 
-kjeve	N	leuka
-kjeve	N	leukapieli
+kjeve	N	leuka	leukapieli
 
-kalium	N	
+kalium	N	kalium
 
-innånding	N	
+innånding	N	sisäänhengitys
 
 fosfat	N	fosfaatti
 
-fluor	N	
+fluor	N	fluori
 
-fakte	N	
+egenmestring	N	suoriutuminen itse
 
-egenmestring	N	
+datainnsamling	N	tietojenkeruu
 
-datainnsamling	N	
-
-bronkie	N	
+bronkie	N	keuhkoputki
 
 biokjemi	N	biokemia
 
-adaptasjon	N	
+adaptasjon	N	adaptaatio
 
-absorpsjon	N	
+absorpsjon	N	imeytyminen
 
 viskositet	N	viskositeetti
 
-termometer	N	
+termometer	N	lämpömittari
 
-sykehjemsbeboer	N	
+sykehjemsbeboer	N	hoitokodin asukas
 
-sykdomssyn	N	
+sykdomssyn	N	sairauskäsitys
 
-spekter	N	
+spekter	N	kirjo
 
-sovestilling	N	
+sovestilling	N	nukkumisasento
 
-skrøpelighet	N	
+skrøpelighet	N	hauraus
 
-selvrealisering	N	
+selvrealisering	N	itsensä toteuttaminen
 
-schizofreni	N	
+schizofreni	N	skitsofrenia
 
-primærsykepleier	N	
+primærsykepleier	N	oma sairaanhoitaja
 
 preparat	N	preparaatti
 
-praktiker	N	
+praktiker	N	käytännön toimija
 
-plukking	N	
+plukking	N	poimiminen	nyppiminen
 
-paternalisme	N	
+paternalisme	N	paternalismi
 
-palliasjon	N	
+palliasjon	N	palliatiivinen hoito	oireita lievittävä hoito
 
-overflowinkontinens	N	
+overflowinkontinens	N	ylivuotoinkontinessi
 
-obstruksjon	N	hidastus
+obstruksjon	N	ahtautuminen	tukkeutuminen
 
 nyanse	N	sävy
 
-novise	N	
+novise	N	noviisi	vasta-alkaja
 
 muskeltonus	N	lihasjänteys
 
 morfin	N	morfiini
 
-mask	N	
+mask	N	maski
 
-magnesium	N	
+magnesium	N	magnesium
 
-kognisjon	N	
+kognisjon	N	kognitio	tiedonkäsittelytoiminta
 
 kjønnslemlestelse	N	
 
