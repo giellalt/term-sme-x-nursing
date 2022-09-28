@@ -199,8 +199,7 @@ strålebehandling	N	sädehoito
 
 stetoskop	N	stetoskooppi
 
-ømhet	N	hellyys
-ømhet	N	herkkyys
+ømhet	N	hellyys	herkkyys
 
 normalitetsbegrep	N	normaalisuuskäsite
 
@@ -244,25 +243,25 @@ forflytning	N	siirto	siirtäminen
 
 fenomenologi	N	fenomenologia
 
-ergoterapeut	N	toimintaterapeutti.
+ergoterapeut	N	toimintaterapeutti
 
 virus	N	virus
 
-urørlighetssone	N	
+urørlighetssone	N	henkilökohtainen koskemattomuus
 
-trombose	N	
+trombose	N	veritulppa
 
-sykepleierske	N	
+sykepleierske	N	sairaanhoitajatar
 
-sug	N	
+sug	N	imu
 
-metabolisme	N	
+metabolisme	N	aineenvaihdunta	metabolia
 
-livsmot	N	
+livsmot	N	elämänhalu
 
-liggetid	N	
+liggetid	N	sairaalassaoloaika
 
-leddgikt	N	
+leddgikt	N	nivelreuma
 
 koordinasjon	N	koordinointi
 
