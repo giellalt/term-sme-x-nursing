@@ -514,49 +514,47 @@ kjønnslemlestelse	N
 
 karies	N	hammasmätä
 
-kalori	N	
+kalori	N	kalori
 
-intimitet	N	
+intimitet	N	intimiteetti
 
-internundervisning	N	
+internundervisning	N	yksikön sisäinen koulutus
 
-integrering	N	yhdentyminen
+integrering	N	integratio	liittäminen
 
-hjertebrett	N	
+hjertebrett	N	sängyn selkäosa
 
-emboli	N	
+emboli	N	embolia	veritulppa
 
-dosering	N	
+dosering	N	annostelu
 
-desibel	N	
+desibel	N	desibeli
 
-antistoff	N	
+antistoff	N	vasta-aine
 
 adrenalin	N	adrenaliini
 
 acetylsalisylsyre	N	asetyylisalisyylihappo
 
-unnlatelse	N	
+unnlatelse	N	tekemättä jättäminen
 
-tutekopp	N	
+tutekopp	N	nokkamuki
 
-tuppe	N	
-
-transduser	N	
+transduser	N	muunnin
 
 toksin	N	toksiini
 
-toalettforhøyer	N	
+toalettforhøyer	N	WC-istuimen koroke
 
-tilsynssak	N	
+tilsynssak	N	valvonta-asia
 
-spesialseng	N	
+spesialseng	N	erikoissänky
 
-screene	N	
+screene	N	seuloa
 
-sakkarin	N	
+sakkarin	N	sakkariini
 
-reviewstudie	N	
+reviewstudie	N	systemaattinen kirjallisuuskatsaus
 
 reinnleggelse	N	
 
