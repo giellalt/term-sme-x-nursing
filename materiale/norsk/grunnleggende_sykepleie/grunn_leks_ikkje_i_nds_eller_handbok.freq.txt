@@ -3,7 +3,7 @@
 # Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
 # Sanat ovat jo norjan kielen analyysiohjelmassa.
 
-Ehdotan poistettvaksi: enkeltpasient, fakte
+Ehdotan poistettvaksi: enkeltpasient, fakte, samelov
 Laita egennytte. oma hyöty
 
 nob	POS	fin	fin	sme	sme
@@ -556,167 +556,165 @@ sakkarin	N	sakkariini
 
 reviewstudie	N	systemaattinen kirjallisuuskatsaus
 
-reinnleggelse	N	
+reinnleggelse	N	toistuva sairaalahoito???
 
-referanseverdi	N	
+referanseverdi	N	viitearvo
 
-reaksjonsevne	N	
+reaksjonsevne	N	reaktiokyky
 
 psykiater	N	psykiatri
 
-ph	N	
+ph	N	pH	happamuus
 
-pasientskadeerstatning	N	
+pasientskadeerstatning	N	potilasvahinkokorvaus
 
-pandemi	N	
+pandemi	N	pandemia	erittäin laajalle levinnyt epidemia
 
-nitrat	N	
+nitrat	N	nitraatti
 
-nattevakt	N	
+nattevakt	N	yövuoro
 
-narrativ	N	
+narrativ	N	narratiivi	kertomus
 
-narkose	N	
+narkose	N	nukutus	yleisanestesia
 
-mortalitet	N	
+mortalitet	N	mortaliteetti	kuolleisuus
 
 monosakkarid	N	monosakkaridi
 
-mol	N	
+mol	N	mooli
 
-mimikk	N	
+mimikk	N	mimiikka 	ilmehtiminen
 
-mikroskop	N	
+mikroskop	N	mikroskooppi
 
-mansjett	N	
+mansjett	N	mansetti
 
 mani	N	mania
 
-logoped	N	
+logoped	N	puheterapeutti
 
 klamydia	N	klamydia
 
-kilokalori	N	
+kilokalori	N	kilokalori
 
-kilojoule	N	
+kilojoule	N	kilojoule
 
 infarkt	N	infarkti
 
-individualisere	N	
+individualisere	N	yksilöllistää
 
 immunologi	N	immunologia
 
-hvese	N	
+hvese	N	sihistä	kähistä
 
-humoralpatologi	N	
+humoralpatologi	N	humoraalioppi
 
-hovedmåltid	N	
+hovedmåltid	N	pääateria
 
-genetikk	N	genetiikka
+genetikk	N	genetiikka	perinnöllisyystiede
 
-forordning	N	
+forordning	N	määräys
 
-formynderi	N	
+formynderi	N	huoltajuus
 
 forhud	N	esinahka
 
-egenomsorgstenkning	N	
+egenomsorgstenkning	N	itsehoitoajattelu
 
-bevissthetstap	N	
+bevissthetstap	N	tajunnan menetys
 
-atrofi	N	
+atrofi	N	atrofia	
 
-anestesisykepleier	N	
+anestesisykepleier	N	anestesiasairaanhoitaja
 
-åndedrag	N	
+åndedrag	N	hengenveto
 
-anamnese	N	
+anamnese	N	anamneesi	esitiedot
 
 aids	N	aids
 
-vaginisme	N	
+vaginisme	N	vaginismi	emätinkouristus
 
-utskrivelse	N	
+utskrivelse	N	uloskirjoitus
 
-ukrenkelighet	N	
+ukrenkelighet	N	loukkaamattomuus
 
-totalprotese	N	
+totalprotese	N	kokoproteesi
 
-surhetsgrad	N	
+surhetsgrad	N	happamuusaste
 
-supinasjon	N	
+supinasjon	N	supinaatio	uloskierto
 
-sukrose	N	
+sukrose	N	sakkaroosi	sokeri
 
-ståseng	N	
+ståseng	N	seisomismahdollisuudella varustettu sänky
 
-standpunkt	N	
+standpunkt	N	(näkö)kanta
 
-ss	N	
+ss	N	rkl	ruokalusikka
 
 søkemotor	N	hakukone
 
-skiftarbeid	N	
+skiftarbeid	N	vuorotyö
 
-selvhjulpenhet	N	
+selvhjulpenhet	N	omatoimisuus
 
-sansning	N	
+sansning	N	aistiminen	tuntemus
 
-sansehage	N	
-
-samelov	N	
+sansehage	N	aistipuutarha
 
 saltsyre	N	suolahappo
 
-restitusjon	N	
+restitusjon	N	toipuminen
 
-reproduksjon	N	
+reproduksjon	N	reproduktio	lisääntyminen
 
-rapportering	N	
+rapportering	N	raportointi	antaa raportti
 
-pronasjon	N	
+pronasjon	N	pronaatio	sisäänkierto
 
 praksisperiode	N	
 
 positivisme	N	positivismi
 
-pigment	N	
+pigment	N	pigmentti	
 
-penicillin	N	
+penicillin	N	penisilliini
 
-patofysiologi	N	
+patofysiologi	N	patofysiologia
 
-parkinsonisme	N	
+parkinsonisme	N	parkonsonismi
 
 overdose	N	yliannostus
 
-oppsamling	N	
+oppsamling	N	kerääminen	kerääntyminen
 
-opphopning	N	
+opphopning	N	kasautuminen
 
-omsorgstjenestelov	N	
+omsorgstjenestelov	N	terveydenhuoltolaki
 
-nestenuhell	N	
+nestenuhell	N	lähesonnettomuus
 
 muskelvev	N	lihaskudos
 
-monitor	N	
+monitor	N	monitori
 
-ml	N	
+ml	N	ml	millilitra
 
-mishandling	N	
+mishandling	N	pahoinpitely
 
 malaria	N	malaria
 
-lukking	N	
+lukking	N	lukitseminen	lukitsemislaite
 
-luftforurensning	N	
+luftforurensning	N	ilmansaaste
 
-kolonisering	N	
+kolonisering	N	altistuminen
 
-kolbe	N	
+kolbe	N	(lasi)astia	mittalasi
 
-klor	N	
+klor	N	klooripost@sectoralarm.no
 
 kinin	N	
 
