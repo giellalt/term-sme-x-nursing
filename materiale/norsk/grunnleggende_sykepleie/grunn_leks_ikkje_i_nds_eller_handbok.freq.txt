@@ -6,6 +6,8 @@
 Ehdotan poistettvaksi: enkeltpasient, fakte, samelov
 Laita egennytte. oma hyöty
 
+rommelighet	N	rommelig avara tilava
+
 nob	POS	fin	fin	sme	sme
 
 stell	N	hoito
@@ -824,80 +826,77 @@ tortur	N	kidutus
 
 tertiærnæring	N	palveluelinkeino
 
-synsvidde	N	
+synsvidde	N	???
 
-synkope	N	synkopee
+synkope	N	synkopee	pyörtyminen
 
 svovelsyre	N	rikkihappo
 
-svartedauden	N	
+svartedauden	N	musta surma
 
-sulfat	N	
+sulfat	N	sulfaatti
 
-stoffmisbruker	N	
+stoffmisbruker	N	huumausaineiden väärinkäyttäjä
 
-stimulans	N	stimulanssi
-stimulans	N	ärsyke
+stimulans	N	stimulanssi	ärsyke
 
-spolorm	N	
+spolorm	N	suolinkainen
 
-somatikk	N	
+somatikk	N	elimelliset toiminnot
 
-skikkethet	N	
+skikkethet	N	soveltuvuus
 
-skifting	N	
+skifting	N	vaihto	muutos
 
-skavank	N	
+skavank	N	vamma	vika
 
-sirkulære	N	
+sirkulære	N	kiertää
 
-silikon	N	
+silikon	N	silikoni
 
-sengeklær	N	
+sengeklær	N	vuodevaatteet
 
-selvskading	N	
+selvskading	N	itsensä vahingoittaminen
 
 selvbeherskelse	N	itsehillintä
 
-selvaktelse	N	
+selvaktelse	N	itsetunto	omanarvontunto
 
 selen	N	seleeni
 
-sanitærforhold	N	
+sanitærforhold	N	hygieeniset olosuhteet	hygieeninen tila
 
-rusmisbruker	N	
+rusmisbruker	N	huumausaineiden väärinkäyttäjä	huumeenkäyttäjä
 
-rommelighet	N	
+retardasjon	N	jälkeenjääneisyys	hidastuminen
 
-retardasjon	N	
+respirasjon	N	hengitys	respiraatio
 
-resp	N	
-
-rehabilitere	N	
+rehabilitere	N	kuntouttaa
 
 psykose	N	psykoosi
 
-projeksjon	N	
+projeksjon	N	projektio	sijoittaminen
 
-pool	N	
+pool	N	(sijais)pooli
 
-pollusjon	N	
+pollusjon	N	tahaton siemensyöksy 
 
-pliktfølelse	N	
+pliktfølelse	N	velvollisuudentunto
 
-piping	N	
+piping	N	piippaus
 
-pessimisme	N	
+pessimisme	N	pessimismi
 
-pessar	N	
+pessar	N	pessaari
 
-perkutere	N	
+perkutere	N	naputella ja kuunnella (sisäelimiä)
 
-penetrere	N	
+penetrere	N	tunkeutua sisään	läpäistä
 
 pektin	N	pektiini
 
-pediatri	N	
+pediatri	N	lastentaudit	pediatria
 
 parese	N	
 
