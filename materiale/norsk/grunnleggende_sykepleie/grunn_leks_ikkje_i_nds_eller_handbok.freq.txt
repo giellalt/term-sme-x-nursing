@@ -778,55 +778,51 @@ delirium	N	sekavuustila
 
 colon	N	paksusuoli
 
-bust	N	
+bust	N	takku
 
-brysthule	N	
+brysthule	N	rintaontelo
 
-blindtarmsbetennelse	N	
+blindtarmsbetennelse	N	umpilisäketulehdus
 
-besvimelse	N	
+besvimelse	N	pyörtyminen
 
-bakk	N	
+bachelor	N	alempi korkeakoulututkinto
 
-bachelor	N	
+aversjon	N	inho
 
-aversjon	N	
-
-atrium	N	
+atrium	N	kammio
 
 amfetamin	N	amfetamiini
 
-allmennmedisin	N	
+allmennmedisin	N	yleislääketiede
 
 akupunktur	N	akupunktio
 
-virkemåte	N	toimintamuoto
+virkemåte	N	vaikutustapa
 
-valium	N	
+utskriving	N	uloskirjoitus
 
-utskriving	N	
+utenforskap	N	hyljeksinnän kokemus
 
-utenforskap	N	
+urinering	N	virtsaus
 
-urinering	N	
+underrapportering	N	aliraportointi
 
-underrapportering	N	
+umyndiggjøring	N	vajaavaltaiseksi julistaminen
 
-umyndiggjøring	N	
+tvangsbehandling	N	pakkohoito
 
-tvangsbehandling	N	
+tunnelsyn	N	kapeakatseisuus
 
-tunnelsyn	N	
+tumor	N	kasvain	tuumori
 
-tumor	N	
-
-trigger	N	
+trigger	N	laukaisija
 
 transfusjon	N	verensiirto
 
 tortur	N	kidutus
 
-tertiærnæring	N	
+tertiærnæring	N	palveluelinkeino
 
 synsvidde	N	
 
