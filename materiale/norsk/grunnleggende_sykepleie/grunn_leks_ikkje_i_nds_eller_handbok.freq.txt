@@ -714,71 +714,69 @@ kolonisering	N	altistuminen
 
 kolbe	N	(lasi)astia	mittalasi
 
-klor	N	klooripost@sectoralarm.no
+klor	N	kloori
 
-kinin	N	
+kinin	N	kiniini
 
-journalføring	N	
+journalføring	N	potilastietojen kirjaus
 
 isolering	N	eristäminen
 
-infusjon	N	
+infusjon	N	infuusio	nesteensiirto
 
-identifikasjon	N	
+identifikasjon	N	identifikaatio	samastuminen
 
-hospital	N	
+hospital	N	sairaala
 
-holdbarhet	N	
+holdbarhet	N	kesto	säilyvyys
 
-hg	N	
+hg	N	hg	hektogramma
 
 hematom	N	hematooma
 
-helseomsorg	N	
+helseomsorg	N	terveydestä huolehtiminen
 
-helhetsvurdering	N	
+helhetsvurdering	N	kokonaisarviointi
 
-healing	N	
+healing	N	paraneminen
 
 hallusinasjon	N	aistiharha
 
-guiding	N	
+guiding	N	ohjaus
 
-glyserol	N	
+glyserol	N	glyseroli
 
-gingivitt	N	ientulehdus
+gingivitt	N	ientulehdus	gingiviitti
 
-genitalium	N	
+gasbind	N	sideharso
 
-gasbind	N	
-
-fremmedgjøring	N	
+fremmedgjøring	N	vieraantuminen
 
 fosfor	N	fosfori
 
-epikrise	N	
+epikrise	N	epikriisi	hoitotiivistelmä
 
-eksponering	N	
+eksponering	N	altistuminen
 
-egenvekt	N	
+egenvekt	N	ominaispaino
 
 dualisme	N	dualismi
 
-drypp	N	
+drypp	N	TIA-kohtaus	aivojen iskeeminen kohtaus
 
-disiplinfag	N	
+disiplinfag	N	(akateeminen) oppiaine	tieteenhaara
 
-diffusjon	N	
+diffusjon	N	diffuusio
 
-diakonisse	N	
+diakonisse	N	diakonissa
 
 diabetiker	N	diabeetikko
 
-determinant	N	
+determinant	N	determinantti
 
-delirium	N	
+delirium	N	sekavuustila
 
-colon	N	
+colon	N	paksusuoli
 
 bust	N	
 
