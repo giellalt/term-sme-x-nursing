@@ -6,6 +6,10 @@
 Ehdotan poistettvaksi: enkeltpasient, fakte, samelov
 Laita egennytte. oma hyöty
 
+
+legemiddelsløyfe	N	ei ole Suomessa
+
+
 rommelighet	N	rommelig avara tilava
 
 nob	POS	fin	fin	sme	sme
@@ -898,69 +902,67 @@ pektin	N	pektiini
 
 pediatri	N	lastentaudit	pediatria
 
-parese	N	
+parese	N	osittaishalvaus	pareesi
 
-p-pille	N	
+p-pille	N	e-pilleri	ehkäisypilleri
 
-overløpsinkontinens	N	
+overløpsinkontinens	N	ylivuotoinkontinenssi
 
-osmose	N	
+osmose	N	osmoosi
 
-ordinere	N	
+ordinere	N	määrätä
 
-optiker	N	
+optiker	N	optikko
 
-oppgulp	N	
+oppgulp	N	pulautus
 
-nitrogen	N	
+nitrogen	N	typpi
 
 nikotin	N	nikotiini
 
-nevrose	N	
+nevrose	N	neuroosi	ahdistuneisuushäiriö
 
-nevrologi	N	
+nevrologi	N	neurologia
 
-nevrolog	N	
+nevrolog	N	neurologi
 
-nattkjole	N	
+nattkjole	N	yöpaita
 
-muskelsvinn	N	
+muskelsvinn	N	lihasten surkastuminen	lihasatrofia
 
 molekyl	N	molekyyli
 
-mikstur	N	
+mikstur	N	mikstuura
 
-mikroteori	N	
+mikroteori	N	mikroteoria
 
-migrene	N	
+migrene	N	migreeni
 
-meskalin	N	
+meskalin	N	meskaliini
 
 melatonin	N	melatoniini
 
-marihuana	N	
+marihuana	N	marihuana	kannabis
 
-lidokain	N	
+lidokain	N	lidokaiini
 
-legemiddelsløyfe	N	
+lanolin	N	lanoliini
 
-lanolin	N	
-
-laktoseintoleranse	N	
+laktoseintoleranse	N	laktoosi-intoleranssi
 
 kunnskapsbase	N	tietopohja
 
-kullsyre	N	
+kullsyre	N	hiilihappo
 
-kullos	N	
+kullos	N	häkä	hiilomonoksidi
 
-kroppsforståelse	N	
+kroppsforståelse	N	kehonymmärrys
 
 krom	N	kromi
 
-kontur	N	
+kontur	N	ääriviivat	hahmo
 
-koldbrann	N	
+koldbrann	N	kuolio	nekroosi
 
 katalysator	N	katalysaattori
 
@@ -970,11 +972,11 @@ joule	N	joule
 
 inflasjon	N	inflaatio
 
-indium	N	
+indium	N	indium
 
-hospitering	N	
+hospitering	N	vierailu (oppimistarkoituksessa)
 
-hospitalisere	N	
+hospitalisere	N	kirjautua sairaalahoitoon
 
 homoseksualitet	N	homoseksuaalisuus
 
@@ -982,39 +984,39 @@ hodeplagg	N	päähine
 
 heroin	N	heroiini
 
-hepatitt	N	
+hepatitt	N	hepatiitti	maksatulehdus
 
-hemning	N	
+hemning	N	esto
 
-handikap	N	
+handikap	N	vamma
 
-hallusinogen	N	
+hallusinogen	N	hallusinogeeni
 
-habilitering	N	
+habilitering	N	(lasten) kuntoutus
 
 gynekologi	N	gynekologia
 
-glykogen	N	
+glykogen	N	glykogeeni
 
 gluten	N	gluteeni
 
 globalisering	N	globalisaatio
 
-gisping	N	
+gisping	N	haukottelu
 
-gipse	N	
+gipse	N	kipsata
 
-gåstol	N	
+gåstol	N	rollaattori
 
-gåsehud	N	
+gåsehud	N	iho kananlihalla
 
 gallesyre	N	sappineste
 
 galaktose	N	galaktoosi
 
-frysning	N	
+frysning	N	vilunväristys
 
-fronesiskunnskap	N	
+fronesiskunnskap	N	käytäntöön pohjautuva tieto
 
 ferdighetstrening	N	
 
