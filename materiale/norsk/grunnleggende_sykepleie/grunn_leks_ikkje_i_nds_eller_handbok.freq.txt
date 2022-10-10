@@ -1018,27 +1018,27 @@ frysning	N	vilunväristys
 
 fronesiskunnskap	N	käytäntöön pohjautuva tieto
 
-ferdighetstrening	N	
+ferdighetstrening	N	kädentaitojen harjoittelu
 
-farmasi	N	
+farmasi	N	farmasia
 
 erosjon	N	eroosio
 
-ernære	N	
+ernære	N	ravita
 
-emisjon	N	
+emisjon	N	emissio	säteily
 
 elektrode	N	elektrodi
 
-ekstrakt	N	
+ekstrakt	N	uute
 
-ekskrement	N	
+ekskrement	N	uloste
 
 eksistensialisme	N	eksistentialismi
 
-dl	N	
+dl	N	dl	desilitra
 
-disputas	N	
+disputas	N	väitös(tilaisuus)
 
 diskurs	N	diskurssi
 
@@ -1052,39 +1052,39 @@ dialyse	N	dialyysi
 
 dialektikk	N	dialektiikka
 
-ben	N	
+ben	N	luu
 
-beinklær	N	
+beinklær	N	housut
 
-behovsdekning	N	
+behovsdekning	N	tarpeen tyydytys
 
-behandlingssvikt	N	
+behandlingssvikt	N	hoidon epäonnistuminen
 
-behandlingsrutine	N	
+behandlingsrutine	N	hoitokäytäntö
 
-bedøvelse	N	
+bedøvelse	N	puudutus
 
-balje	N	
+balje	N	astia	allas
 
-baktericid	N	
+baktericid	N	bakterisidi	bakteereja tappava aine
 
-avvenne	N	
+avvenne	N	vieroittaa
 
 autisme	N	autismi
 
-aspirere	N	
+aspirere	N	aspiroida	vetää (henkeen) (pois)
 
-åreforkalkning	N	
+åreforkalkning	N	valtimonkovettumatauti	ateroskleroosi
 
-arbeidslys	N	
+arbeidslys	N	työvalo
 
-apopleksi	N	
+apopleksi	N	aivoverenkiertohäiriö
 
-amøbe	N	
+amøbe	N	ameba
 
-ambivalens	N	
+ambivalens	N	ambivalenssi 	kaksijakoisuus
 
-albumin	N	
+albumin	N	albumiini
 
-adaptasjonsevne	N	
+adaptasjonsevne	N	sopeutumiskyky
 
