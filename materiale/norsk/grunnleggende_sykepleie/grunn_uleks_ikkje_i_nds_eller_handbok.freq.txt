@@ -7,7 +7,6 @@
 sykepleiediagnose	N	
 ernæringsstatus	N	
 kroppstemperatur	N	
-fenomen	N	ilmiö
 helsehjelp	N	
 sykepleietiltak	N	
 væskeinntak	N	
@@ -1355,8 +1354,6 @@ kjerneenhet	N
 kostholdsendring	N	
 atferdsendring	N	
 lungeemboli	N	
-egenomsorgskrav	N	
-egenomsorgskapasitet	N	
 blæredysfunksjon	N	
 sykepleiedokumentasjon	N	
 overdosedødsfall	N	
@@ -1489,7 +1486,6 @@ avledningsterapi	N
 forfallstendens	N	
 dråpeteller	N	
 forflytningsteknikk	N	
-krybbedød	N	
 genital	N	
 venesystem	N	
 velferdssystem	N	
@@ -1544,7 +1540,6 @@ alkoholskade	N
 praksissjokk	N	
 blødningssjokk	N	
 helsesjekk	N	
-sittestilling	N	
 omsorgssirkel	N	
 behandlingssirkel	N	
 membranside	N	
@@ -1652,7 +1647,6 @@ regnbuemodell	N
 helsemodell	N	
 tilsetningsmiddel	N	
 soppmiddel	N	
-klyster	N	
 erstatning	N	
 antikonsepsjonsmiddel	N	
 husstøvmidd	N	
@@ -1678,7 +1672,6 @@ utåndingsluft	N
 innåndingsluft	N	
 tvangslovgivning	N	
 ernæringsløsning	N	
-livsmot	N	
 livskvalitet	N	
 legemiddelliste	N	
 omsorgslidelse	N	
@@ -1751,7 +1744,6 @@ vevhormon	N
 veksthormon	N	
 graviditetshormon	N	
 penishode	N	
-diakonisse	N	
 diakonhjem	N	
 forflytningshjelpemiddel	N	
 helsehjelp	N	
