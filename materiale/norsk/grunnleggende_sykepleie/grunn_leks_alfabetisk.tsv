@@ -1,0 +1,539 @@
+absorpsjon	N	imeytyminen
+acetylsalisylsyre	N	asetyylisalisyylihappo
+adaptasjon	N	adaptaatio
+adaptasjonsevne	N	sopeutumiskyky
+adrenalin	N	adrenaliini
+aids	N	aids
+akupunktur	N	akupunktio
+albumin	N	albumiini
+allmennmedisin	N	yleislääketiede
+allmenntilstand	N	terveydentila
+altruisme	N	altruismi
+ambivalens	N	ambivalenssi 	kaksijakoisuus
+amfetamin	N	amfetamiini
+amming	N	imetys
+amøbe	N	ameba
+anamnese	N	anamneesi	esitiedot
+anestesisykepleier	N	anestesiasairaanhoitaja
+antibiotika	N	antibiootti
+antistoff	N	vasta-aine
+apopleksi	N	aivoverenkiertohäiriö
+arbeidslys	N	työvalo
+arterie	N	valtimo		váibmosuotna
+aspirasjon	N	aspiraatio	keuhkoihin vetäminen
+aspirere	N	aspiroida	vetää (henkeen) (pois)
+atrium	N	kammio
+atrofi	N	atrofia	
+autisme	N	autismi
+aversjon	N	inho
+avfallsstoff	N	kuonanaineet
+avvenne	N	vieroittaa
+bachelor	N	alempi korkeakoulututkinto
+baktericid	N	bakterisidi	bakteereja tappava aine
+balje	N	astia	allas
+barmhjertighet	N	armo
+basis	N	alusta
+bedøvelse	N	puudutus
+behandler	N	???
+behandlingsrutine	N	hoitokäytäntö
+behandlingssvikt	N	hoidon epäonnistuminen
+behovsdekning	N	tarpeen tyydytys
+beinklær	N	housut
+belegg	N	peite
+ben	N	luu
+besvimelse	N	pyörtyminen
+bevisstgjøring	N	tietoiseksi tekeminen
+bevissthetstap	N	tajunnan menetys
+biokjemi	N	biokemia
+biomedisin	N	biolääketiede
+blindtarmsbetennelse	N	umpilisäketulehdus
+blotte	N	paljastaa
+bluferdighet	N	häveliäisyys
+blåmerke	N	mustelma
+bronkie	N	keuhkoputki
+brukermedvirkning	N	potilaan osallistuminen hoitoon
+brukerrettighetslov	N	laki potilaan oikeuksista
+brysthule	N	rintaontelo
+bust	N	takku
+colon	N	paksusuoli
+dannelse	N	tapakasvatus
+datainnsamling	N	tietojenkeruu
+datasamling	N	tietojen keruu
+dehydrere	N	kuivua
+delirium	N	sekavuustila
+desibel	N	desibeli
+determinant	N	determinantti
+diabetiker	N	diabeetikko
+diagnostikk	N	diagnostiikka
+diagnostisering	N	diagnosointi
+diakonisse	N	diakonissa
+dialektikk	N	dialektiikka
+dialyse	N	dialyysi
+diffusjon	N	diffuusio
+difteri	N	difteria
+dikotomi	N	
+dioksin	N	dioksiini
+disiplinfag	N	(akateeminen) oppiaine	tieteenhaara
+diskurs	N	diskurssi
+disputas	N	väitös(tilaisuus)
+dl	N	dl	desilitra
+dosering	N	annostelu
+drypp	N	TIA-kohtaus	aivojen iskeeminen kohtaus
+dualisme	N	dualismi
+dysfunksjon	N	toimintahäiriö
+e-helse	N	e-terveyspalvelut
+e-konsultasjon	N	eKonsultaatio	etävastaanotto
+egenaktivitet	N	omaehtoinen aktiivisuus
+egenmestring	N	suoriutuminen itse
+egenomsorg	N	itsehoito
+egenomsorgsbehov	N	itsehoitotarve
+egenomsorgshandling	N	itsehoidollinen toiminta
+egenomsorgskapasitet	N	itsehoitokyky
+egenomsorgskrav	N	itsehoitovaatimus
+egenomsorgssvikt	N	itsehoidon vaje
+egenomsorgstenkning	N	itsehoitoajattelu
+egenvekt	N	ominaispaino
+eksistensialisme	N	eksistentialismi
+ekskrement	N	uloste
+eksponering	N	altistuminen
+ekstensjon	N	ojennus
+ekstrakt	N	uute
+elektrode	N	elektrodi
+eliminasjon	N	eritys
+emboli	N	embolia	veritulppa
+emisjon	N	emissio	säteily
+empati	N	empatia
+enkeltpasient	N	
+enzym	N	entsyymi
+epikrise	N	epikriisi	hoitotiivistelmä
+ergoterapeut	N	toimintaterapeutti
+ernære	N	ravita
+erosjon	N	eroosio
+evidens	N	evidenssi	näyttö
+farmasi	N	farmasia
+fastlege	N	omalääkäri
+fenomen	N	ilmiö		albmoneapmi	fenomena
+fenomenologi	N	fenomenologia
+ferdighetstrening	N	kädentaitojen harjoittelu
+fibromyalgi	N	fibromyalgia
+fistel	N	fisteli
+fjerning	N	poisto
+fleksjon	N	koukistus
+fluor	N	fluori
+fordampning	N	haihdunta
+forflytning	N	siirto	siirtäminen
+forhud	N	esinahka
+forløp	N	kulku
+formynderi	N	huoltajuus
+forordning	N	määräys
+forsvarlighet	N	riittävä hoito
+fosfat	N	fosfaatti
+fosfor	N	fosfori
+fremmedgjøring	N	vieraantuminen
+fronesiskunnskap	N	käytäntöön pohjautuva tieto
+frysning	N	vilunväristys
+funksjonssvikt	N	alentunut toimintakyky
+funksjonstap	N	toimintakyvyn vaje
+førlighet	N	liikuntakyky
+galaktose	N	galaktoosi
+gallesyre	N	sappineste
+gasbind	N	sideharso
+genetikk	N	genetiikka	perinnöllisyystiede
+gingivitt	N	ientulehdus	gingiviitti
+gipse	N	kipsata
+gisping	N	haukottelu
+globalisering	N	globalisaatio
+glukose	N	glukoosi
+gluten	N	gluteeni
+glykogen	N	glykogeeni
+glyserol	N	glyseroli
+graviditet	N	raskaus
+guiding	N	ohjaus
+gynekologi	N	gynekologia
+gåsehud	N	iho kananlihalla
+gåstol	N	rollaattori
+habilitering	N	(lasten) kuntoutus
+hallusinasjon	N	aistiharha
+hallusinogen	N	hallusinogeeni
+handikap	N	vamma
+healing	N	paraneminen
+helhetsvurdering	N	kokonaisarviointi
+helseomsorg	N	terveydestä huolehtiminen
+helsepersonellov	N	terveydenhuollon henkilöstöä koskeva laki
+helsesvikt	N	terveyshäiriö
+helsetilstand	N	terveydentila
+hematom	N	hematooma
+hemning	N	esto
+hemoglobin	N	hemoglobiini
+hepatitt	N	hepatiitti	maksatulehdus
+heroin	N	heroiini
+hg	N	hg	hektogramma
+hjelpemetode	N	auttamistoimenpide
+hjemmeoppfølging	N	kotiseuranta
+hjertebrett	N	sängyn selkäosa
+hjerteslag	N	sydämensyke
+hjertesykdom	N	sydansairaus
+hodeplagg	N	päähine
+holdbarhet	N	kesto	säilyvyys
+homoseksualitet	N	homoseksuaalisuus
+hospital	N	sairaala
+hospitalisere	N	kirjautua sairaalahoitoon
+hospitering	N	vierailu (oppimistarkoituksessa)
+hovedmåltid	N	pääateria
+humoralpatologi	N	humoraalioppi
+hvese	N	sihistä	kähistä
+håndlag	N	kädentaito	ote
+identifikasjon	N	identifikaatio	samastuminen
+identifisering	N	identifiointi
+immunologi	N	immunologia
+indium	N	indium
+individualisere	N	yksilöllistää
+individualisme	N	yksilällisyys
+infarkt	N	infarkti
+inflasjon	N	inflaatio
+infusjon	N	infuusio	nesteensiirto
+injeksjon	N	injektio
+inkontinens	N	inkontinenssi	virtsn karkailu
+innleggelse	N	sisäänotto
+inntak	N	saanti???
+innånding	N	sisäänhengitys
+integrering	N	integratio	liittäminen
+intensitet	N	intensiteetti	voimakkuus
+interaksjon	N	vuorovaikutus
+internundervisning	N	yksikön sisäinen koulutus
+intervensjon	N	väliintulo
+intimitet	N	intimiteetti
+intuisjon	N	intuitio
+irritasjon	N	ärtyneisyys
+isolering	N	eristäminen
+joule	N	joule
+jour	N	päivystys
+journalføring	N	potilastietojen kirjaus
+kalium	N	kalium
+kalori	N	kalori
+kalsium	N	kalsium
+karbohydrat	N	hiilihydraatti
+karbondioksid	N	hiilidioksidi
+karies	N	hammasmätä
+katalysator	N	katalysaattori
+kcal	N	kilokalori
+kilojoule	N	kilojoule
+kilokalori	N	kilokalori
+kinin	N	kiniini
+kjeve	N	leuka	leukapieli
+kjønnslemlestelse	N	
+klamydia	N	klamydia
+klor	N	kloori
+klyster	N	peräruiske
+kognisjon	N	kognitio	tiedonkäsittelytoiminta
+kolbe	N	(lasi)astia	mittalasi
+koldbrann	N	kuolio	nekroosi
+kolesterol	N	kolesteroli
+kolonisering	N	altistuminen
+komplikasjon	N	komplikaatio
+kompresjon	N	kompressio
+konsentrasjon	N	keskittyminen
+kontraksjon	N	supistus
+kontur	N	ääriviivat	hahmo
+koordinasjon	N	koordinointi
+krom	N	kromi
+kroppsforståelse	N	kehonymmärrys
+kroppsholdning	N	ryhti
+kroppsvæske	N	kehon nesteet
+krybbedød	N	kätkytkuolema
+krykke	N	kyynärsauva
+kullos	N	häkä	hiilomonoksidi
+kullsyre	N	hiilihappo
+kunnskapsbase	N	tietopohja
+kvalitetsmål	N	laatutavoite
+laken	N	lakana
+laktose	N	laktoosi
+laktoseintoleranse	N	laktoosi-intoleranssi
+lanolin	N	lanoliini
+leddgikt	N	nivelreuma
+legemiddelsløyfe	N	ei ole Suomessa
+leveår	N	elinvuosi
+lidokain	N	lidokaiini
+liggetid	N	sairaalassaoloaika
+lindring	N	lievitys
+litteratursøk	N	kirjallisuuskatsaus
+livserfaring	N	elämänkokemus
+livsfase	N	elämänvaihe
+livshistorie	N	elämäntarina
+livsmot	N	elämänhalu
+logoped	N	puheterapeutti
+luftforurensning	N	ilmansaaste
+lukking	N	lukitseminen	lukitsemislaite
+magnesium	N	magnesium
+malaria	N	malaria
+mani	N	mania
+mansjett	N	mansetti
+marihuana	N	marihuana	kannabis
+mask	N	maski
+massasje	N	hieronta
+master	N	master
+medisindispenser	N	lääkeannostelija
+melatonin	N	melatoniini
+meskalin	N	meskaliini
+mestring	N	selviytyminen
+metaanalyse	N	meta-analyysi
+metabolisme	N	aineenvaihdunta	metabolia
+metasyntese	N	metasynteesi
+migrene	N	migreeni
+mikrobe	N	mikrobi
+mikroorganisme	N	mikro-organismi
+mikroskop	N	mikroskooppi
+mikroteori	N	mikroteoria
+mikstur	N	mikstuura
+milliliter	N	millilitra
+mimikk	N	mimiikka 	ilmehtiminen
+mishandling	N	pahoinpitely
+ml	N	ml	millilitra
+mobilisering	N	liikkeellelähtö
+mol	N	mooli
+molekyl	N	molekyyli
+monitor	N	monitori
+monosakkarid	N	monosakkaridi
+morfin	N	morfiini
+mortalitet	N	mortaliteetti	kuolleisuus
+motstandskraft	N	vastustuskyky
+multippel	N	multippeli
+munntørrhet	N	suun kuivuus
+muskelatrofi	N	lihasten surkastuminen
+muskelsvinn	N	lihasten surkastuminen	lihasatrofia
+muskeltonus	N	lihasjänteys
+muskelvev	N	lihaskudos
+narkose	N	nukutus	yleisanestesia
+narrativ	N	narratiivi	kertomus
+natrium	N	natrium
+nattevakt	N	yövuoro
+nattkjole	N	yöpaita
+nedkjøling	N	kylmettyminen
+nestekjærlighet	N	lähimmäisenrakkaus
+nestenuhell	N	lähesonnettomuus
+nevrolog	N	neurologi
+nevrologi	N	neurologia
+nevrose	N	neuroosi	ahdistuneisuushäiriö
+nikotin	N	nikotiini
+nitrat	N	nitraatti
+nitrogen	N	typpi
+nob	POS	fin	fin	sme	sme
+normalitetsbegrep	N	normaalisuuskäsite
+novise	N	noviisi	vasta-alkaja
+nyanse	N	sävy
+nyresvikt	N	munuaisten vajaatoiminta
+nærvær	N	läsnäolo
+obstruksjon	N	ahtautuminen	tukkeutuminen
+oksygenmangel	N	hapenpuute
+omsorgstjenestelov	N	terveydenhuoltolaki
+omverden	N	ympäristö
+oppgulp	N	pulautus
+opphopning	N	kasautuminen
+oppsamling	N	kerääminen	kerääntyminen
+optiker	N	optikko
+ordinere	N	määrätä
+osmose	N	osmoosi
+overdose	N	yliannostus
+overflowinkontinens	N	ylivuotoinkontinessi
+overkropp	N	yläruumis
+overløpsinkontinens	N	ylivuotoinkontinenssi
+overvåkning	N	valvonta
+p-pille	N	e-pilleri	ehkäisypilleri
+palliasjon	N	palliatiivinen hoito	oireita lievittävä hoito
+pandemi	N	pandemia	erittäin laajalle levinnyt epidemia
+parese	N	osittaishalvaus	pareesi
+parkinsonisme	N	parkonsonismi
+pasientskadeerstatning	N	potilasvahinkokorvaus
+paternalisme	N	paternalismi
+patofysiologi	N	patofysiologia
+pediatri	N	lastentaudit	pediatria
+pektin	N	pektiini
+penetrere	N	tunkeutua sisään	läpäistä
+penicillin	N	penisilliini
+perkusjon	N	naputtelu
+perkutere	N	naputella ja kuunnella (sisäelimiä)
+persepsjon	N	havaitseminen
+pessar	N	pessaari
+pessimisme	N	pessimismi
+ph	N	pH	happamuus
+pigment	N	pigmentti	
+piping	N	piippaus
+pliktfølelse	N	velvollisuudentunto
+plukking	N	poimiminen	nyppiminen
+pollusjon	N	tahaton siemensyöksy 
+pool	N	(sijais)pooli
+positivisme	N	positivismi
+praksisperiode	N	
+praktiker	N	käytännön toimija
+preparat	N	preparaatti
+primærsykepleier	N	oma sairaanhoitaja
+problemløsning	N	ongelman ratkaisu
+profesjonsfag	N	ammattiopinnot
+projeksjon	N	projektio	sijoittaminen
+pronasjon	N	pronaatio	sisäänkierto
+protese	N	proteesi
+psykiater	N	psykiatri
+psykose	N	psykoosi
+puss	N	mätä	märkäinen erite
+påkledning	N	pukeutuminen
+rapportering	N	raportointi	antaa raportti
+reaksjonsevne	N	reaktiokyky
+referanseverdi	N	viitearvo
+regulering	N	säännöstely	säätely
+rehabilitere	N	kuntouttaa
+reinnleggelse	N	toistuva sairaalahoito???
+reminisens	N	muistelu
+reproduksjon	N	reproduktio	lisääntyminen
+respirasjon	N	hengitys	respiraatio
+ressurssvikt	N	resurssivaje
+restitusjon	N	toipuminen
+retardasjon	N	jälkeenjääneisyys	hidastuminen
+reviewstudie	N	systemaattinen kirjallisuuskatsaus
+rommelighet	N	rommelig avara tilava
+romtemperatur	N	huonelämpötila
+rullator	N	rollaattori
+rusmisbruker	N	huumausaineiden väärinkäyttäjä	huumeenkäyttäjä
+sakkarin	N	sakkariini
+saltsyre	N	suolahappo
+samlebetegnelse	N	yhteiskäsite
+samordning	N	yhteensovittaminen
+samvalg	N	yhteispäätös
+samvalgsverktøy	N	yhteispäätöstä auttava väline
+sanitærforhold	N	hygieeniset olosuhteet	hygieeninen tila
+sansehage	N	aistipuutarha
+sansing	N	aistiminen
+sansning	N	aistiminen	tuntemus
+schizofreni	N	skitsofrenia
+score	N	pisteytys
+screene	N	seuloa
+sekundærlitteratur	N	sekundäärikirjallisuus	toissijainen kirjallisuus
+selen	N	seleeni
+selvaktelse	N	itsetunto	omanarvontunto
+selvbeherskelse	N	itsehillintä
+selvhjulpenhet	N	omatoimisuus
+selvrealisering	N	itsensä toteuttaminen
+selvskading	N	itsensä vahingoittaminen
+sengeklær	N	vuodevaatteet
+sengeleie	N	makuuasento	vuodehoito
+sensitivitet	N	herkkyys
+silikon	N	silikoni
+sirkulære	N	kiertää
+sittestilling	N	istuma-asento
+sjenanse	N	kainous	häpeä
+skavank	N	vamma	vika
+skiftarbeid	N	vuorotyö
+skifting	N	vaihto	muutos
+skikkethet	N	soveltuvuus
+sklerose	N	skleroosi	kovettuma
+skrøpelighet	N	hauraus
+skår	N	pisteytys
+slang	N	slangi
+slange	N	letku
+slapphet	N	voimattomuus
+smertebehandling	N	kivunhoito
+smittespredning	N	tartunnan lviäminen
+somatikk	N	elimelliset toiminnot
+sovestilling	N	nukkumisasento
+spedbarn	N	vauvaikäinen
+spekter	N	kirjo
+spesialist	N	spesialisti
+spesialseng	N	erikoissänky
+spolorm	N	suolinkainen
+ss	N	rkl	ruokalusikka
+standpunkt	N	(näkö)kanta
+stell	N	hoito
+stetoskop	N	stetoskooppi
+stimulans	N	stimulanssi	ärsyke
+stimuli	N	ärsyke
+stoffmisbruker	N	huumausaineiden väärinkäyttäjä
+strålebehandling	N	sädehoito
+ståseng	N	seisomismahdollisuudella varustettu sänky
+sug	N	imu
+sukrose	N	sakkaroosi	sokeri
+sulfat	N	sulfaatti
+sunnhet	N	terveys
+supinasjon	N	supinaatio	uloskierto
+surhetsgrad	N	happamuusaste
+svartedauden	N	musta surma
+svelgeproblem	N	nielemisvaikeus
+svovelsyre	N	rikkihappo
+sykdomssyn	N	sairauskäsitys
+sykehjemsbeboer	N	hoitokodin asukas
+sykehusopphold	N	hoitojakso sairaalassa
+sykepleiefag	N	??
+sykepleierske	N	sairaanhoitajatar
+sykepleieutøving	N	sairaanhoidon suoritus
+synkope	N	synkopee	pyörtyminen
+synsvidde	N	???
+syntese	N	synteesi
+syrer	N	syyrialainen
+sårbarhet	N	haavoittuvuus
+sårheling	N	haavan paraneminen
+sårhet	N	arkuus
+søkemotor	N	hakukone
+søvnighet	N	unisuus
+talg	N	tali
+tapping	N	tyhjentäminen	poisvaluttaminen
+temperaturstigning	N	lämmönnousu
+teoretiker	N	teoreetikko
+termometer	N	lämpömittari
+termostat	N	termostaatti
+tertiærnæring	N	palveluelinkeino
+test	N	testi		teasta
+tetthet	N	tiheys
+tilfredsstillelse	N	tyydyttyminen
+tilførsel	N	lisäys
+tillitsforhold	N	luottamussuhde
+tilsetning	N	lisä
+tilsynssak	N	valvonta-asia
+toalettforhøyer	N	WC-istuimen koroke
+toksin	N	toksiini
+tortur	N	kidutus
+totalprotese	N	kokoproteesi
+transduser	N	muunnin
+transfusjon	N	verensiirto
+traume	N	trauma
+trigger	N	laukaisija
+trombose	N	veritulppa
+trykksår	N	painehaavauma
+tumor	N	kasvain	tuumori
+tunnelsyn	N	kapeakatseisuus
+tutekopp	N	nokkamuki
+tvangsbehandling	N	pakkohoito
+tømming	N	tyhjennys
+ukrenkelighet	N	loukkaamattomuus
+umyndiggjøring	N	vajaavaltaiseksi julistaminen
+underrapportering	N	aliraportointi
+understøtte	N	tukea
+unnlatelse	N	tekemättä jättäminen
+urinering	N	virtsaus
+urørlighetssone	N	koskemattomuusvyöhyke
+utenforskap	N	hyljeksinnän kokemus
+utfoldelse	N	avautuminen	tapahtuminen
+utførelse	N	suorittaminen
+utmattelse	N	uupumus
+utskilling	N	eritys
+utskrivelse	N	uloskirjoitus
+utskriving	N	uloskirjoitus
+utsondre	N	erittää
+uttørring	N	kuivuminen
+utånding	N	uloshengitys
+vaginisme	N	vaginismi	emätinkouristus
+varhet	N	varovaisuus	helläkätisyys
+vektreduksjon	N	painonpudotus
+vekttap	N	painon putoaminen
+velgjørenhetsprinsipp	N	hyväntekemisen periaate
+verdikonflikt	N	arvokonflikti	arvoristiriita
+virkemåte	N	vaikutustapa
+virus	N	virus
+viskositet	N	viskositeetti
+væsketap	N	nestevajaus
+yrkesutøvelse	N	ammatinharjoitus
+yrkesutøving	N	ammatin harjoittaminen
+yteevne	N	suorituskyky
+åndedrag	N	hengenveto
+åreforkalkning	N	valtimonkovettumatauti	ateroskleroosi
+ødem	N	turvotus
+ømhet	N	hellyys	herkkyys
+østrogen	N	estrogeeni
+øyekontakt	N	silmäkontakti
