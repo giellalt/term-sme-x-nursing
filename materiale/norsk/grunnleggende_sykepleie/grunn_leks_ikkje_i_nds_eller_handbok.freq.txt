@@ -4,15 +4,19 @@
 # Sanat ovat jo norjan kielen analyysiohjelmassa.
 
 Ehdotan poistettvaksi: enkeltpasient, fakte, samelov
-Laita egennytte. oma hyöty
-
 
 legemiddelsløyfe	N	ei ole Suomessa
+sykepleiefag	N	hoitotiede??
+behandler	N	???
+
 
 
 rommelighet	N	rommelig avara tilava
 
 nob	POS	fin	fin	sme	sme
+
+
+egennytte	N	oma hyöty
 
 stell	N	hoito
 
@@ -24,7 +28,7 @@ respirasjon	N	hengitys
 
 mestring	N	selviytyminen
 
-inntak	N	saanti???
+inntak	N	saanti
 
 egenomsorg	N	itsehoito
 
@@ -40,8 +44,6 @@ problemløsning	N	ongelman ratkaisu
 
 egenomsorgsbehov	N	itsehoitotarve
 
-sykepleiefag	N	??
-
 innleggelse	N	sisäänotto
 
 intensitet	N	intensiteetti	voimakkuus
@@ -52,7 +54,7 @@ intuisjon	N	intuitio
 
 egenomsorgskrav	N	itsehoitovaatimus
 
-inkontinens	N	inkontinenssi	virtsn karkailu
+inkontinens	N	inkontinenssi	virtsan karkailu
 
 protese	N	proteesi
 
@@ -199,8 +201,6 @@ identifisering	N	identifiointi
 glukose	N	glukoosi
 
 belegg	N	peite
-
-behandler	N	???
 
 yrkesutøving	N	ammatin harjoittaminen
 
@@ -432,7 +432,7 @@ teoretiker	N	teoreetikko
 
 tapping	N	tyhjentäminen	poisvaluttaminen
 
-syrer	N	syyrialainen
+syre	N	happo
 
 sunnhet	N	terveys
 
@@ -680,7 +680,7 @@ rapportering	N	raportointi	antaa raportti
 
 pronasjon	N	pronaatio	sisäänkierto
 
-praksisperiode	N	
+praksisperiode	N	harjoitusjakso
 
 positivisme	N	positivismi
 
@@ -830,7 +830,7 @@ tortur	N	kidutus
 
 tertiærnæring	N	palveluelinkeino
 
-synsvidde	N	???
+synsvidde	N	näkökentän laajuus
 
 synkope	N	synkopee	pyörtyminen
 
