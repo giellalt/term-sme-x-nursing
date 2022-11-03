@@ -1,54 +1,54 @@
-# Tässä ovat Grunnbok i sykepleie-sanat jotka eivät löydy NDS:stä eikä Utsin sanakirjasta, mutta jotka ovat sanakirjan.
+2# Tässä ovat Grunnbok i sykepleie-sanat jotka eivät löydy NDS:stä eikä Utsin sanakirjasta, mutta jotka ovat sanakirjan.
 # Työtehtävä: Poista listalta sanat, jotka eivät ole ajankohtaisia sairaanhoitajille.
 # Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
 # Sanat eivät (vielä) ole norjan kielen analyysiohjelmassa, eli ne pitää lisätä.
 
 
-sykepleiediagnose	N	
-ernæringsstatus	N	
-kroppstemperatur	N	
-helsehjelp	N	
-sykepleietiltak	N	
-væskeinntak	N	
-munnstell	N	suuhoito
-sykepleieteori	N	sairaanhoitoteoria
-pasientjournal	N	
-tarmtømming	N	
-sykepleieplan	N	sairaanhoitosuunnitelma
-helsefremmende	A	
+sykepleiediagnose	N	hoitodiagnoosi
+ernæringsstatus	N	ravitsemustila
+kroppstemperatur	N	kehon lämpötila
+helsehjelp	N	terveydenhoito
+sykepleietiltak	N	hoitotoimet
+væskeinntak	N	nesteensaanti
+munnstell	N	suunhoito
+sykepleieteori	N	hoitotyön teoria
+pasientjournal	N	potilaskertomus
+tarmtømming	N	suolen tyhjennys
+sykepleieplan	N	hoitosuunnitelma
+helsefremmende	A	terveyttä edistävä
 kvalitetssystem	N	laatujärjestelmä
 helsebegrep	N	terveyskäsite
 pasientsituasjon	N	potilastilanne
-sykepleiemodell	N	
-respirasjonsproblem	N	
-urinlekkasje	N	
-matinntak	N	
-respirasjonsfrekvens	N	
-oksygentilførsel	N	
-brukerrettighet	N	
-sideleie	N	
-urininkontinens	N	
-blodvolum	N	
-helseproblem	N	
-sykepleievitenskap	N	
-sykepleietjeneste	N	
-kjernetemperatur	N	
-sirkulasjonssystem	N	
-tannpuss	N	
-sykepleiepraksis	N	
-energiomsetning	N	
-muskelmasse	N	
-ryggleie	N	
-sykdomstilstand	N	
-blodsirkulasjon	N	
-sykdomsopplevelse	N	
-minnegruppe	N	
-søvnbehov	N	
-sykepleieprosess	N	
-urinmengde	N	
-toalettbesøk	N	
-minuttvolum	N	
-sykepleierstudent	N	
+sykepleiemodell	N	hoitotyön malli
+respirasjonsproblem	N	hengitysongelma
+urinlekkasje	N	virtsankarkailu	virtsainkontinenssi
+matinntak	N	ruoan saanti
+respirasjonsfrekvens	N	hengitystiheys
+oksygentilførsel	N	hapen anto
+brukerrettighet	N	käyttäjän oikeudet
+sideleie	N	kylkiasento
+urininkontinens	N	virtsankarkailu	virtsainkontinenssi
+blodvolum	N	verivolyymi
+helseproblem	N	terveysongelma
+sykepleievitenskap	N	hoitotiede
+sykepleietjeneste	N	sairaanhoidon palvelut
+kjernetemperatur	N	ydinlämpötila
+sirkulasjonssystem	N	verenkiertojärjestelmä
+tannpuss	N	hampaiden puhdistus
+sykepleiepraksis	N	sairanhoitokäytäntö
+energiomsetning	N	energia-aineenvaihdunta
+muskelmasse	N	lihasmassa
+ryggleie	N	selinmakuu 
+sykdomstilstand	N	sairaudentila
+blodsirkulasjon	N	verenkierto
+sykdomsopplevelse	N	sairauskokemus
+minnegruppe	N	muisteluryhmä
+søvnbehov	N	unentarve
+sykepleieprosess	N	hoitotyön prosessi
+urinmengde	N	virtsamäärä
+toalettbesøk	N	vessassa käynti
+minuttvolum	N	minuuttivolyymi
+sykepleierstudent	N	sairaanhoidon opiskelija
 kroppsstell	N	
 tyngdekraft	N	
 sykepleiekompetanse	N	
