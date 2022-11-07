@@ -49,16 +49,16 @@ urinmengde	N	virtsamäärä
 toalettbesøk	N	vessassa käynti
 minuttvolum	N	minuuttivolyymi
 sykepleierstudent	N	sairaanhoidon opiskelija
-kroppsstell	N	
-tyngdekraft	N	
-sykepleiekompetanse	N	
-næringsinntak	N	
-oksygeninnhold	N	
-sykepleieforskning	N	
-kostfiber	N	
-livsytring	N	
-tjenesteutvikling	N	
-lokaliseringsteknologi	N	
+kroppsstell	N	kehon hoito
+tyngdekraft	N	painovoima
+sykepleiekompetanse	N	sairaanhoidolliset taidot	sairaanhoidon pätevyys
+næringsinntak	N	ravinnon saanti
+oksygeninnhold	N	happipitoisuus
+sykepleieforskning	N	sairaanhoidon tutkimus
+kostfiber	N	ravintokuitu
+livsytring	N	elämänilmentymä
+tjenesteutvikling	N	palveluiden kehittäminen
+lokaliseringsteknologi	N	paikallistamisteknologia
 varmeproduksjon	N	
 faselidelse	N	
 helseforetak	N	
