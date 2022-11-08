@@ -3,6 +3,12 @@
 # Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
 # Sanat eivät (vielä) ole norjan kielen analyysiohjelmassa, eli ne pitää lisätä.
 
+faselidelse	N	
+helseforetak	N	
+livsutfoldelse	N	
+fagprosedyre	N	alan menetelmät
+sykepleieutøvelse	N	sairaanhoitotoimen harjoittaminen
+
 
 sykepleiediagnose	N	hoitodiagnoosi
 ernæringsstatus	N	ravitsemustila
@@ -59,43 +65,37 @@ kostfiber	N	ravintokuitu
 livsytring	N	elämänilmentymä
 tjenesteutvikling	N	palveluiden kehittäminen
 lokaliseringsteknologi	N	paikallistamisteknologia
-varmeproduksjon	N	
-faselidelse	N	
-helseforetak	N	
-blodtrykksfall	N	
-ansiktsuttrykk	N	
-klassifikasjonssystem	N	
-REM-søvn	N	
-sykepleiesituasjon	N	
-pulsfrekvens	N	
-kroppsbilde	N	
-respirasjonsbesvær	N	
-normalverdi	N	
-kvalitetsutviklingsarbeid	N	
-gassutveksling	N	
-livsutfoldelse	N	
-pusting	N	
-morgenstell	N	
-bevissthetsnivå	N	
-energiinntak	N	
-kvalitetsutviklingsarbeid	N	
-ernæringstilstand	N	
-fagprosedyre	N	
-risikopasient	N	
-tarminnhold	N	
-sykepleiehandling	N	
-sykepleiefunksjon	N	
-kunnskapsform	N	
-sykdomsforløp	N	
-sårbehandling	N	
-oksygenbehandling	N	
-kroppsvask	N	
-sykepleieutøvelse	N	
-resturin	N	
-kontraktur	N	
-sykepleiesystem	N	
-magesekk	N	
-behandlingsplan	N	
+varmeproduksjon	N	lämmön tuotanto	lämmön tuottaminen
+blodtrykksfall	N	verenpaineen laskeminen	verenpaineen lasku
+ansiktsuttrykk	N	kasvojen ilme
+klassifikasjonssystem	N	luokittelujärjestelmä
+REM-søvn	N	REM-uni
+sykepleiesituasjon	N	sairaanhoidon tilanne
+pulsfrekvens	N	sydämen syke(tiheys)
+kroppsbilde	N	kehonkuva
+respirasjonsbesvær	N	hengenahdistus	dyspnea
+normalverdi	N	normaaliarvo
+kvalitetsutviklingsarbeid	N	laadunkehittämistyö
+gassutveksling	N	kaasujen vaihto
+pusting	N	hengittäminen	hengitys
+morgenstell	N	aamupesu
+bevissthetsnivå	N	tajunnan taso
+energiinntak	N	energiansaanti
+ernæringstilstand	N	ravitsemustila
+risikopasient	N	riskipotilas
+tarminnhold	N	suolen sisältö
+sykepleiehandling	N	sairaanhoidollinen toiminta
+sykepleiefunksjon	N	sairaanhoidon tehtävä ???
+kunnskapsform	N	tiedon laji
+sykdomsforløp	N	sairauden kulku
+sårbehandling	N	haavanhoito
+oksygenbehandling	N	happihoito
+kroppsvask	N	kehon pesu
+resturin	N	jäännösvirtsa
+kontraktur	N	kontraktuura	kutistuma
+sykepleiesystem	N	sairaanhoidon järjestelmä
+magesekk	N	vatsalaukku
+behandlingsplan	N	hoitosuunnitelma
 helseplage	N	
 funksjonsområde	N	
 sentralnervesystem	N	
