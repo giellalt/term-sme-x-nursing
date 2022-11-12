@@ -8,6 +8,7 @@ helseforetak	N
 livsutfoldelse	N	
 fagprosedyre	N	alan menetelmät
 sykepleieutøvelse	N	sairaanhoitotoimen harjoittaminen
+helseplage	N	terveysongelma
 
 
 sykepleiediagnose	N	hoitodiagnoosi
@@ -96,35 +97,34 @@ kontraktur	N	kontraktuura	kutistuma
 sykepleiesystem	N	sairaanhoidon järjestelmä
 magesekk	N	vatsalaukku
 behandlingsplan	N	hoitosuunnitelma
-helseplage	N	
-funksjonsområde	N	
-sentralnervesystem	N	
-håndhygiene	N	
-pasientforløp	N	
-aldersforandring	N	
-kompresjonsbehandling	N	
-muskelaktivitet	N	
-toalettvane	N	
-kroppsstilling	N	
-vevskade	N	
-reguleringssenter	N	
-temperaturregulering	N	
-stressinkontinens	N	
-hovedgruppe	N	
-alvorlighetsgrad	N	
-søvnforstyrrelse	N	
-våkenhet	N	
-væskebalanse	N	
-omsorgsverdi	N	
-matvane	N	
-fagutvikling	N	
-blæretrening	N	
-varmetapet	N	
-søvnstadium	N	
-brannskade	N	
-urinproduksjon	N	
-slimproduksjon	N	
-hudpleie	N	
+funksjonsområde	N	toiminta-alue
+sentralnervesystem	N	keskushermosto
+håndhygiene	N	käsihygienia
+pasientforløp	N	hoitopolku
+aldersforandring	N	vanhenemismuutos
+kompresjonsbehandling	N	kompressiohoito
+muskelaktivitet	N	lihastoiminta
+toalettvane	N	vessassakäyntitavat
+kroppsstilling	N	kehon asento
+vevskade	N	kudosvaurio
+reguleringssenter	N	säätelykeskus
+temperaturregulering	N	lämmönsäätely
+stressinkontinens	N	ponnistusinkontinenssi
+hovedgruppe	N	pääryhmä
+alvorlighetsgrad	N	vakavuusaste
+søvnforstyrrelse	N	unihäiriö
+våkenhet	N	valveillaolo
+væskebalanse	N	nestetasapaino
+omsorgsverdi	N	hoitotyön arvot
+matvane	N	ruokailutapa
+fagutvikling	N	ammattialan kehittäminen
+blæretrening	N	virtsarakon harjoitus
+varmetapet	N	lämmmönhukka
+søvnstadium	N	unen vaihe
+brannskade	N	palovamma
+urinproduksjon	N	virtantuotanto
+slimproduksjon	N	liman tuotanto
+hudpleie	N	ihonhoito
 væskeopphopning	N	
 søvnmønster	N	
 sykepleiehåndbok	N	
