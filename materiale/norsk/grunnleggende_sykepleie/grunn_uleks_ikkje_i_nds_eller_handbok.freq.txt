@@ -9,6 +9,7 @@ livsutfoldelse	N
 fagprosedyre	N	alan menetelmät
 sykepleieutøvelse	N	sairaanhoitotoimen harjoittaminen
 helseplage	N	terveysongelma
+esim.sykepleieferdighet	N	hoitotyön taidot meillä monikko
 
 
 sykepleiediagnose	N	hoitodiagnoosi
@@ -125,42 +126,42 @@ brannskade	N	palovamma
 urinproduksjon	N	virtantuotanto
 slimproduksjon	N	liman tuotanto
 hudpleie	N	ihonhoito
-væskeopphopning	N	
-søvnmønster	N	
-sykepleiehåndbok	N	
-sykepleieferdighet	N	
-sykepleiedefinisjon	N	
-tidsbruk	N	
-oksygenbehov	N	
-respirasjonsarbeid	N	
-endringsarbeid	N	
-søvnvane	N	
-venetrombose	N	
-blodtilførsel	N	
-sykepleiesammenheng	N	
-snevring	N	
-pasientomsorg	N	
-urinmengde	N	
-temperaturmåling	N	
-menneskekropp	N	
-kjønnsidentitet	N	
-legemiddelhåndbok	N	
-normalfunksjon	N	
-sykdomsforståelse	N	
-kartleggingsverktøy	N	
-sykdomsutvikling	N	
-utviklingstrinn	N	
-kostråd	N	
-trykkskade	N	
-hosterefleks	N	
-tannprotese	N	
-pleieplan	N	
-pasientopplysning	N	
-normalområde	N	
-forskningsmetode	N	
-sykepleiekunnskap	N	
-arbeidshverdag	N	
-pasienthistorie	N	
+væskeopphopning	N	nestekertymä
+søvnmønster	N	unirytmi
+sykepleiehåndbok	N	hoitotyön käsikirja
+sykepleieferdighet	N	hoitotyön taidot
+sykepleiedefinisjon	N	hoitotyön määritelmä
+tidsbruk	N	ajankäyttö
+oksygenbehov	N	hapentarve
+respirasjonsarbeid	N	hengitystyö
+endringsarbeid	N	muutostyö
+søvnvane	N	unitapa
+venetrombose	N	laskimotukos
+blodtilførsel	N	verensaanti
+sykepleiesammenheng	N	sairaanhoidon asiayhteys
+snevring	N	ahtauma	kurouma
+pasientomsorg	N	potilashoito	
+urinmengde	N	virtsamäärä
+temperaturmåling	N	lämmönmittaus
+menneskekropp	N	ihmiskeho
+kjønnsidentitet	N	sukupuoli-identiteetti
+legemiddelhåndbok	N	lääkeopas
+normalfunksjon	N	normaalitoiminta
+sykdomsforståelse	N	sairauden ymmärrys
+kartleggingsverktøy	N	kartoitusväline
+sykdomsutvikling	N	sairauden kehittyminen	sairauden kulku
+utviklingstrinn	N	kehitysaste
+kostråd	N	ravitsemusneuvo
+trykkskade	N	painevaurio
+hosterefleks	N	yskänrefleksi
+tannprotese	N	hammasproteesi
+pleieplan	N	hoitotyön suunnitelma
+pasientopplysning	N	potilastiedot ??
+normalområde	N	viitealue
+forskningsmetode	N	tutkimusmenetelmä
+sykepleiekunnskap	N	hoitotyön tieto
+arbeidshverdag	N	työarkipäivä
+pasienthistorie	N	potilaan oma kertomus sairastamisesta??
 blodforsyning	N	
 fargeforandring	N	
 omsorgsfilosofi	N	
