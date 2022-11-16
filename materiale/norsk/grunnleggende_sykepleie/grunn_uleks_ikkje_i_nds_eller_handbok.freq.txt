@@ -14,6 +14,13 @@ blodforsyning	N
 skrekkanfall	N	pelkokohtaus
 helsevirksomhet	N	
 tjenesteforløp	N	
+behandlingsalternativ	N	hoitovaihtoehto
+beinutspring	N	
+allmennsykepleie	N	yleissairaanhoito (kuntatasolla)
+sårskift	N	haavanhoito
+helsenett	N	digital arena yksityinen
+sykehusinnleggelse	N	
+
 
 
 sykepleiediagnose	N	hoitodiagnoosi
@@ -225,49 +232,42 @@ hjernehalvdel	N	aivopuolisko
 lungefunksjon	N	keuhkojen toiminta
 beslutningsforum	N	päätöksentekofoorumi
 funksjonsforstyrrelse	N	toimintahäiriö
-
-energiforbruk	N	
-hudfold	N	
-gallefargestoff	N	
-helsefagarbeider	N	
-stillingsendring	N	
-kvalitetsdimensjon	N	
-diabetesdagbok	N	
-sykdomsbyrde	N	
-kompresjonsbind	N	
-fordøyelsesbesvær	N	
-sædavgang	N	
-behandlingsalternativ	N	
-slagvolum	N	
-hvilevolum	N	
-saltvann	N	
-beinutspring	N	
-behandlingstiltak	N	
-næringstilførsel	N	
-menstruasjonssyklus	N	
-allmennsykepleie	N	
-kompresjonsstrømpe	N	
-varmestråling	N	
-sporstoff	N	
-drikkeskjema	N	
-sårskift	N	
-hudskade	N	
-iverksetting	N	
-respirasjonssenter	N	
-spyttsekresjon	N	
-leddsans	N	
-hjerterytme	N	
-sykdomsprosess	N	
-ernæringsproblem	N	
-autonomiprinsipp	N	
-ernæringsplan	N	
-helsenett	N	
-blæremuskel	N	
-næringsløsning	N	
-blærekateter	N	
-kjernejournal	N	
-sykehusinnleggelse	N	
-saltinnhold	N	
+energiforbruk	N	energiankulutus
+hudfold	N	ihopoimu
+gallefargestoff	N	sappiväriaine
+helsefagarbeider	N	lähihoitaja
+stillingsendring	N	asennonvaihto
+kvalitetsdimensjon	N	laatu-ulottuvuus
+diabetesdagbok	N	diabetespäiväkirja
+sykdomsbyrde	N	tautitaakka	sairauden taakka
+kompresjonsbind	N	tukiside	paineside
+fordøyelsesbesvær	N	ruoansulatusvaiva
+sædavgang	N	siemensyöksy
+slagvolum	N	iskutilavuus	iskuvolyymi
+hvilevolum	N	lepovolyymi
+saltvann	N	suolaliuos
+behandlingstiltak	N	hoitotoimenpide
+næringstilførsel	N	ravinnonsaanti
+menstruasjonssyklus	N	kuukautiskierto
+kompresjonsstrømpe	N	tukisukka 
+varmestråling	N	lämmönsäteily
+sporstoff	N	hivenaine
+drikkeskjema	N	nestelista
+hudskade	N	ihovaurio
+iverksetting	N	toimeenpaneminen
+respirasjonssenter	N	hengityskeskus
+spyttsekresjon	N	syljeneritys
+leddsans	N	niveltunto
+hjerterytme	N	sydämen rytmi
+sykdomsprosess	N	sairausprosessi	sairauden kulku
+ernæringsproblem	N	ravitsemusongelma
+autonomiprinsipp	N	autonomian periaate
+ernæringsplan	N	ravitsemussuunnitelma
+blæremuskel	N	rakkolihas
+næringsløsning	N	ravintoneste
+blærekateter	N	rakkokatetri
+kjernejournal	N	potilaskertomus
+saltinnhold	N	suolapitoisuus
 luftveisinfeksjon	N	
 livshendelse	N	
 sykepleieforsker	N	
