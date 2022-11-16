@@ -10,6 +10,10 @@ fagprosedyre	N	alan menetelmät
 sykepleieutøvelse	N	sairaanhoitotoimen harjoittaminen
 helseplage	N	terveysongelma
 esim.sykepleieferdighet	N	hoitotyön taidot meillä monikko
+blodforsyning	N	
+skrekkanfall	N	pelkokohtaus
+helsevirksomhet	N	
+tjenesteforløp	N	
 
 
 sykepleiediagnose	N	hoitodiagnoosi
@@ -162,69 +166,66 @@ forskningsmetode	N	tutkimusmenetelmä
 sykepleiekunnskap	N	hoitotyön tieto
 arbeidshverdag	N	työarkipäivä
 pasienthistorie	N	potilaan oma kertomus sairastamisesta??
-blodforsyning	N	
-fargeforandring	N	
-omsorgsfilosofi	N	
-tranfett	N	
-livsstilsendring	N	
-fyllende	N	
-blodcelle	N	
-respirasjonsbevegelse	N	
-skrekkanfall	N	
-helsevirksomhet	N	
-sædvæske	N	
-teoriutvikling	N	
-buktrykk	N	
-blæretømming	N	
-væsketilførsel	N	
-blodstrøm	N	
-helserisiko	N	
-mageregion	N	
-tankeprosess	N	
-kvalitetsutviklingsprosess	N	
-sirkulasjonsproblem	N	
-hudproblem	N	
-tidspress	N	
-urinpose	N	
-vektøkning	N	
-individnivå	N	
-gruppenivå	N	
-aktivitetsnivå	N	
-skjelettmuskulatur	N	
-handlingsmønster	N	
-helsekompetanse	N	
-nettverksintervensjon	N	
-kjønnshormon	N	
-tarmfunksjon	N	
-nyrefunksjon	N	
-parforhold	N	
-ernæringsbehov	N	
-astmaanfall	N	
-grunnvilkår	N	
-vitenskapstradisjon	N	
-sykepleietenkning	N	
-hosteteknikk	N	
-kontaktsykepleier	N	
-kreftsykdom	N	
-hvilestilling	N	
-heteslag	N	
-leiring	N	
-avføringsprøve	N	
-sykepleieproblem	N	
-pasientproblem	N	
-personopplysning	N	
-sykepleieoppgave	N	
-respirasjonsmuskel	N	
-pleiemiddel	N	
-mageleie	N	
-sykepleiekapasitet	N	
-energiinnhold	N	
-sårinfeksjon	N	
-hjernehalvdel	N	
-lungefunksjon	N	
-beslutningsforum	N	
-funksjonsforstyrrelse	N	
-tjenesteforløp	N	
+fargeforandring	N	värimuutos
+omsorgsfilosofi	N	hoitotyön filosofia
+transfett	N	transrasva
+livsstilsendring	N	elämtapamuutos
+fyllende	N	täydentävä
+blodcelle	N	verisolu
+respirasjonsbevegelse	N	hengitysliike
+sædvæske	N	siemenneste
+teoriutvikling	N	teoriankehitys
+buktrykk	N	vatsanpaine
+blæretømming	N	rakon tyhjentäminen	rakon tyhjentyminen
+væsketilførsel	N	nesteensaanti
+blodstrøm	N	verenvirtaus
+helserisiko	N	terveysriski
+mageregion	N	vatsanseutu
+tankeprosess	N	ajatusprosessi
+kvalitetsutviklingsprosess	N	laadunkehitysprojekti
+sirkulasjonsproblem	N	verenkierto-ongelma
+hudproblem	N	iho-ongelma
+tidspress	N	aikapaine
+urinpose	N	virtsapussi
+vektøkning	N	painonnousu
+individnivå	N	yksilötaso
+gruppenivå	N	ryhmätaso
+aktivitetsnivå	N	aktiviteettitaso
+skjelettmuskulatur	N	luustolihas	luurankolihas
+handlingsmønster	N	toimintatapa	toimintatapa
+helsekompetanse	N	terveyskompetenssi
+nettverksintervensjon	N	verkostotyön menetelmä	verkostotyön interventio
+kjønnshormon	N	sukupuolihormoni
+tarmfunksjon	N	suolen toiminta
+nyrefunksjon	N	munuaisten toiminta
+parforhold	N	parisuhde
+ernæringsbehov	N	energiantarve
+astmaanfall	N	astmakohtaus
+grunnvilkår	N	perusehto
+vitenskapstradisjon	N	tiedetraditio
+sykepleietenkning	N	sairaanhoidollinen ajattelu
+hosteteknikk	N	yskimistekniikka
+kontaktsykepleier	N	vastuusairaanhoitaja
+kreftsykdom	N	syöpätauti
+hvilestilling	N	lepoasento
+heteslag	N	lämpöhalvaus
+leiring	N	asentohoito
+avføringsprøve	N	ulostenäyte
+sykepleieproblem	N	hoitotyön ongelma
+pasientproblem	N	potilasongelma
+personopplysning	N	henkilötieto
+sykepleieoppgave	N	hoitotyön tehtävä
+respirasjonsmuskel	N	hengityslihas
+pleiemiddel	N	hoitoaine
+mageleie	N	vatsa-asento
+sykepleiekapasitet	N	sairaanhoidon kapasiteetti
+energiinnhold	N	energiasisältö
+sårinfeksjon	N	haavatulehdus	haavainfektio
+hjernehalvdel	N	aivopuolisko
+lungefunksjon	N	keuhkojen toiminta
+beslutningsforum	N	päätöksentekofoorumi
+funksjonsforstyrrelse	N	toimintahäiriö
+
 energiforbruk	N	
 hudfold	N	
 gallefargestoff	N	
