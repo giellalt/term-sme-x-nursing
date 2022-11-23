@@ -2,15 +2,14 @@
 # Työtehtävä: Poista listalta sanat, jotka eivät ole ajankohtaisia sairaanhoitajille.
 # Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
 # Sanat eivät (vielä) ole norjan kielen analyysiohjelmassa, eli ne pitää lisätä.
-
 faselidelse	N	
 helseforetak	N	
 livsutfoldelse	N	
 fagprosedyre	N	alan menetelmät
 sykepleieutøvelse	N	sairaanhoitotoimen harjoittaminen
 helseplage	N	terveysongelma
-esim.sykepleieferdighet	N	hoitotyön taidot meillä monikko
-blodforsyning	N	
+sykepleieferdighet	N	hoitotyön taidot
+blodforsyning	N	verensaanti
 skrekkanfall	N	pelkokohtaus
 helsevirksomhet	N	
 tjenesteforløp	N	
@@ -20,9 +19,6 @@ allmennsykepleie	N	yleissairaanhoito (kuntatasolla)
 sårskift	N	haavanhoito
 helsenett	N	digital arena yksityinen
 sykehusinnleggelse	N	
-
-
-
 sykepleiediagnose	N	hoitodiagnoosi
 ernæringsstatus	N	ravitsemustila
 kroppstemperatur	N	kehon lämpötila
