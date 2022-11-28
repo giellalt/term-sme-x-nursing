@@ -2,14 +2,21 @@
 # Työtehtävä: Poista listalta sanat, jotka eivät ole ajankohtaisia sairaanhoitajille.
 # Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
 # Sanat eivät (vielä) ole norjan kielen analyysiohjelmassa, eli ne pitää lisätä.
+tjenesteutøvelse	N	palvelunalan harjoittaminen
+helsepersonelltjeneste	N	terveydenhoitohenkilökunnan palvelut
+handlingsrefleksjon	N	
+sykepleierprofesjon	N	sairaanhoitajien ammattikunta
+følelsesmodus	N	tunnetila
+termostatinnstilling	N	termiostaatin säätö
+
 faselidelse	N	
 helseforetak	N	
 livsutfoldelse	N	
 fagprosedyre	N	alan menetelmät
 sykepleieutøvelse	N	sairaanhoitotoimen harjoittaminen
 helseplage	N	terveysongelma
-sykepleieferdighet	N	hoitotyön taidot
-blodforsyning	N	verensaanti
+esim.sykepleieferdighet	N	hoitotyön taidot meillä monikko
+blodforsyning	N	
 skrekkanfall	N	pelkokohtaus
 helsevirksomhet	N	
 tjenesteforløp	N	
@@ -17,8 +24,15 @@ behandlingsalternativ	N	hoitovaihtoehto
 beinutspring	N	
 allmennsykepleie	N	yleissairaanhoito (kuntatasolla)
 sårskift	N	haavanhoito
-helsenett	N	yksityinen digitaalinen areena 
+helsenett	N	digital arena yksityinen
 sykehusinnleggelse	N	
+orienteringsevne	N	evne til å kjenne oss igjen og til å finne fram i omgivelsene
+talsperson	N	
+termostatinnstilling	N	termiostaatin 
+prøveglass	N	näyteputki
+
+
+
 sykepleiediagnose	N	hoitodiagnoosi
 ernæringsstatus	N	ravitsemustila
 kroppstemperatur	N	kehon lämpötila
@@ -50,7 +64,7 @@ sykepleietjeneste	N	sairaanhoidon palvelut
 kjernetemperatur	N	ydinlämpötila
 sirkulasjonssystem	N	verenkiertojärjestelmä
 tannpuss	N	hampaiden puhdistus
-sykepleiepraksis	N	sairaanhoitokäytäntö
+sykepleiepraksis	N	sairanhoitokäytäntö
 energiomsetning	N	energia-aineenvaihdunta
 muskelmasse	N	lihasmassa
 ryggleie	N	selinmakuu 
@@ -264,71 +278,61 @@ næringsløsning	N	ravintoneste
 blærekateter	N	rakkokatetri
 kjernejournal	N	potilaskertomus
 saltinnhold	N	suolapitoisuus
-luftveisinfeksjon	N	
-livshendelse	N	
-sykepleieforsker	N	
-oksygenforbruk	N	
-orienteringsevne	N	
-sondeernæring	N	
-næringsdrikke	N	
-næringsdrikk	N	
-helsedefinisjon	N	
-legemiddelbehandling	N	
-sykdomsbegrep	N	
-energibalanse	N	
-forbedringsarbeid	N	
-væskeansamling	N	
-bakterievekst	N	
-tarmvegg	N	
-handlingsvalg	N	
-kvalitetsutviklingsprosjekt	N	
-tjenesteutøvelse	N	
-morgenurin	N	
-kontraktur	N	
-ernæringstrapp	N	
-helsepersonelltjeneste	N	
-respirasjonssystem	N	
-tarmsykdom	N	
-sykepleiestudent	N	
-tarmslimhinne	N	
-frostskade	N	
-sykdomssituasjon	N	
-grensesetting	N	
-nekrose	N	
-yrkesrolle	N	
-omsorgsrelasjon	N	
-handlingsrefleksjon	N	
-vurderingsprosess	N	
-sykepleierprofesjon	N	
-talgproduksjon	N	
-kvalitetsproblem	N	
-folkehelseproblem	N	
-ereksjonsproblem	N	
-pleiepersonale	N	
-transperson	N	
-talsperson	N	
-søvnperiode	N	
-oksygenopptak	N	
-behovsområde	N	
-funksjonsnivå	N	
-følelsesmodus	N	
-sykdomsmodell	N	
-reguleringsmekanisme	N	
-pleiemedhjelper	N	
-blodtrykksmåling	N	
-søvnlengde	N	
-erfaringslæring	N	
-søvnkvalitet	N	
-erfaringskunnskap	N	
-organisasjonskultur	N	
-kvalitetskultur	N	
-nyttekriterium	N	
-termostatinnstilling	N	
-avføringsinkontinens	N	
-munnhygiene	N	
-matvaregruppe	N	
-prøveglass	N	
-cellegift	N	
+luftveisinfeksjon	N	hengitystieinfektio
+livshendelse	N	elämän tapahtuma
+sykepleieforsker	N	sairaanhoidon tutkija
+oksygenforbruk	N	hapen käyttö
+sondeernæring	N	lekturuokinta	enteraalinen ravitsemus
+næringsdrikke	N	ravintojuoma
+helsedefinisjon	N	terveyden määritelmä 
+legemiddelbehandling	N	lääkehoito
+sykdomsbegrep	N	sairauden määritelmä
+energibalanse	N	ravitsemustasapaino
+forbedringsarbeid	N	parannustyö
+væskeansamling	N	nestekertymä
+bakterievekst	N	bakteerikasvu
+tarmvegg	N	suolen seinämä
+handlingsvalg	N	toimintatavan valinta
+kvalitetsutviklingsprosjekt	N	laadunparannusohjelma
+morgenurin	N	aamuvirtsa
+kontraktur	N	kutistuma	kontraktuura
+ernæringstrapp	N	ravitsemuksen portaat
+respirasjonssystem	N	hengitysjärjestelmä
+tarmsykdom	N	suolistosairaus
+sykepleiestudent	N	sairaanhoidon opiskelija
+tarmslimhinne	N	suoliston limakalvo
+frostskade	N	paleltuma
+sykdomssituasjon	N	sairaudentila
+grensesetting	N	rajojen asettaminen
+nekrose	N	kuolio	nekroosi
+yrkesrolle	N	ammattirooli
+omsorgsrelasjon	N	hoitosuhde
+vurderingsprosess	N	arviointiprosessi
+talgproduksjon	N	talineritys
+kvalitetsproblem	N	laatuongelma
+folkehelseproblem	N	kansanterveysongelma
+ereksjonsproblem	N	erektio-ongelma
+pleiepersonale	N	hoitohenkilökunta
+transperson	N	transhenkilö
+søvnperiode	N	unijakso
+oksygenopptak	N	hapenotto
+behovsområde	N	tarvealue
+funksjonsnivå	N	toiminta-aste
+sykdomsmodell	N	tautimalli
+reguleringsmekanisme	N	säätelymekanismi
+pleiemedhjelper	N	hoitoavustaja
+blodtrykksmåling	N	verenpaineen mittaus
+søvnlengde	N	unen pituus
+erfaringslæring	N	kokemusoppiminen
+søvnkvalitet	N	unen laatu
+erfaringskunnskap	N	kokemustieto
+organisasjonskultur	N	organisaatiokulttuuri
+kvalitetskultur	N	laatukulttuuri
+nyttekriterium	N	hyötykriteeri
+avføringsinkontinens	N	ulosteinkontinenssi	ulosteen pidätyskyvyttömyys
+munnhygiene	N	suuhygienia
+matvaregruppe	N	ruokatavararyhmä
+cellegift	N	solumyrkky
 ernæringsfysiolog	N	
 kvalitetsforskrift	N	
 behandlingsforløp	N	
