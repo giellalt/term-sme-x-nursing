@@ -22,7 +22,7 @@ helsevirksomhet	N
 tjenesteforløp	N	
 behandlingsalternativ	N	hoitovaihtoehto
 beinutspring	N	
-allmennsykepleie	N	yleissairaanhoito (kuntatasolla)
+allmennsykepleie	N	yleissairaanhoito kuntatasolla
 sårskift	N	haavanhoito
 helsenett	N	digital arena yksityinen
 sykehusinnleggelse	N	
