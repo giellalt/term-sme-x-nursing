@@ -17,7 +17,7 @@ behandlingsalternativ	N	hoitovaihtoehto
 beinutspring	N	
 allmennsykepleie	N	yleissairaanhoito (kuntatasolla)
 sårskift	N	haavanhoito
-helsenett	N	digital arena yksityinen
+helsenett	N	yksityinen digitaalinen areena 
 sykehusinnleggelse	N	
 sykepleiediagnose	N	hoitodiagnoosi
 ernæringsstatus	N	ravitsemustila
@@ -50,7 +50,7 @@ sykepleietjeneste	N	sairaanhoidon palvelut
 kjernetemperatur	N	ydinlämpötila
 sirkulasjonssystem	N	verenkiertojärjestelmä
 tannpuss	N	hampaiden puhdistus
-sykepleiepraksis	N	sairanhoitokäytäntö
+sykepleiepraksis	N	sairaanhoitokäytäntö
 energiomsetning	N	energia-aineenvaihdunta
 muskelmasse	N	lihasmassa
 ryggleie	N	selinmakuu 
