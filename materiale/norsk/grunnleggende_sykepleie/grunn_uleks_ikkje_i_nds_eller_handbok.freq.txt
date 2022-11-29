@@ -333,12 +333,12 @@ avføringsinkontinens	N	ulosteinkontinenssi	ulosteen pidätyskyvyttömyys
 munnhygiene	N	suuhygienia
 matvaregruppe	N	ruokatavararyhmä
 cellegift	N	solumyrkky
-ernæringsfysiolog	N	
-kvalitetsforskrift	N	
-behandlingsforløp	N	
+ernæringsfysiolog	N	ravitsemusfysiologi
+kvalitetsforskrift	N	laatuasetus
+behandlingsforløp	N	hoitoketju
 understøttelsesflate	N	
 urinflaske	N	
-pasienteksempel	N	
+pasienteksempel	N	potilasesimerkki
 steindannelse	N	
 epitelcelle	N	
 muskelbruk	N	
