@@ -8,7 +8,7 @@ handlingsrefleksjon	N
 sykepleierprofesjon	N	sairaanhoitajien ammattikunta
 følelsesmodus	N	tunnetila
 termostatinnstilling	N	termiostaatin säätö
-
+understøttelsesflate
 faselidelse	N	
 helseforetak	N	
 livsutfoldelse	N	
@@ -30,7 +30,13 @@ orienteringsevne	N	evne til å kjenne oss igjen og til å finne fram i omgivelse
 talsperson	N	
 termostatinnstilling	N	termiostaatin 
 prøveglass	N	näyteputki
-
+minneaktivitet	N	
+overstrekk	N	
+utviklingssykepleier	N
+mestringssenter	N	
+legemiddelregime	N	lääkehoidon järjestelmä 
+transportmedium	N   näytteen kuljetusputki esim.
+transportmedium	N
 
 
 sykepleiediagnose	N	hoitodiagnoosi
@@ -333,102 +339,94 @@ avføringsinkontinens	N	ulosteinkontinenssi	ulosteen pidätyskyvyttömyys
 munnhygiene	N	suuhygienia
 matvaregruppe	N	ruokatavararyhmä
 cellegift	N	solumyrkky
-ernæringsfysiolog	N	ravitsemusfysiologi
+ernæringsfysiolog	N	ravitsemusterapeutti
 kvalitetsforskrift	N	laatuasetus
 behandlingsforløp	N	hoitoketju
-understøttelsesflate	N	
-urinflaske	N	
+urinflaske	N	virtsapullo
 pasienteksempel	N	potilasesimerkki
-steindannelse	N	
-epitelcelle	N	
-muskelbruk	N	
-beinbrudd	N	
-skjermbrett	N	
-tilleggsbelastning	N	
-væskebehov	N	
-velbehag	N	
-funksjonsbegrensning	N	
-tarmbakterie	N	
-innvandrerbakgrunn	N	
-trygghetsalarm	N	
-tarmaktivitet	N	
-minneaktivitet	N	
-skjedevegg	N	
-infusjonsvæske	N	
-drikkevane	N	
-bakterievandring	N	
-urinutskilling	N	
-ferdighetsutøvelse	N	
-stereotype	N	
-katetertype	N	
-håndtrykk	N	
-overstrekk	N	
-avføringstrang	N	
-hetetokt	N	
-febertilstand	N	
-samtaleterapi	N	
-interaksjonsteori	N	
-nyrestein	N	
-organsystem	N	
-ledningssystem	N	
-diagnosesystem	N	
-EPJ-system	N	
-utviklingssykepleier	N	
-kreftsykepleier	N	
-dostol	N	
-sinnsstemning	N	
-sårstell	N	
-nyrestein	N	
-muskelspenning	N	
-munnspeil	N	
-livslang	N	
-ryggmargsskade	N	
-hodeskade	N	
-mestringssenter	N	
-væskeregnskap	N	
-legemiddelregime	N	
-pasientsikkerhetsprogram	N	
-hudoverflate	N	
-respirasjonsorgan	N	
-bukorgan	N	
-bakterieoppvekst	N	
-væskeopphopning	N	
-rehabiliteringsopphold	N	
-pasientopphold	N	
-lungeødem	N	
-samfunnsnivå	N	
-kvalitetsnivå	N	
-hemoglobinnivå	N	
-blodsukkernivå	N	
-abstraksjonsnivå	N	
-tenningsmønster	N	
-respirasjonsmønster	N	
-forklaringsmodell	N	
-behovsmodell	N	
-slimmobilisering	N	
-desinfeksjonsmiddel	N	
-hullmerke	N	
-væskemengde	N	
-transportmedium	N	
-sondeløsning	N	
-drikkeliste	N	
-symptomlindring	N	
-sykdomslære	N	
-legemiddelkurve	N	
-handlingskunnskap	N	
-fortrolighetskunnskap	N	
-brukerkunnskap	N	
-omgangskrets	N	
-muskelkontraksjon	N	
-handlingsklokskap	N	
-prostatakjertel	N	
-væskeinnhold	N	
-vanninnhold	N	
-karbondioksidinnhold	N	
-pasientinformasjon	N	
-soppinfeksjon	N	
-masseindeks	N	
-nerveimpuls	N	
+steindannelse	N	kivien muodostuminen
+epitelcelle	N	epiteelisolu
+muskelbruk	N	lihasten käyttö
+beinbrudd	N	luunmurtuma
+skjermbrett	N	väliverho
+tilleggsbelastning	N	lisätaakka
+væskebehov	N	nesteen tarve
+velbehag	N	hyvinvointi
+funksjonsbegrensning	N	toimintarajoite
+tarmbakterie	N	suolistobakteeri
+innvandrerbakgrunn	N	maahanmuuttajatausta
+trygghetsalarm	N	turvahälytin
+tarmaktivitet	N	suoliston aktiivisuus
+skjedevegg	N	emättimen seinämä   vaginan seinämä
+infusjonsvæske	N	infuusioneste
+drikkevane	N	juomistapa
+bakterievandring	N	bakteerien kulku
+urinutskilling	N	virtsaneritys
+ferdighetsutøvelse	N	käytännön harjoittelu
+stereotype	N	stereotyyppi    kaavoittuma
+katetertype	N	katetrityyppi
+håndtrykk	N	käden puristaminen
+avføringstrang	N	ulostamisen tarve
+hetetokt	N	kuuma aalto
+febertilstand	N	kuumetila
+samtaleterapi	N	keskusteluterapia
+interaksjonsteori	N	interaktioteoria
+nyrestein	N	munuaiskivi
+organsystem	N	elinjärjestelmä
+ledningssystem	N	johtojärjestelmä
+diagnosesystem	N	diagnoosijärjestelmä
+EPJ-system	N	elektroninen sairauskertomus    sähköinen sairauskertomus
+kreftsykepleier	N	syöpätautien eirkoissairaanhoitaja
+dostol	N	WC-tuoli
+sinnsstemning	N	mieliala
+sårstell	N	haavanhoito
+nyrestein	N	munuaiskivi
+muskelspenning	N	lihasjännite
+munnspeil	N	suupeili
+livslang	N	elämänpituinen
+ryggmargsskade	N	selkäydinvaurio
+hodeskade	N	päävamma
+væskeregnskap	N	nestetasapaino 
+pasientsikkerhetsprogram	N	potilasturvallisuusohjelma
+hudoverflate	N	ihon pinta
+respirasjonsorgan	N	hengityselimet
+bukorgan	N	vatsan elimet
+bakterieoppvekst	N	bakteerikasvu
+væskeopphopning	N	nestekertymä
+rehabiliteringsopphold	N	kuntoutusjakso
+pasientopphold	N	potilaana olo
+lungeødem	N	keuhkopöhö  keuhkoedeema
+samfunnsnivå	N	yhteiskuntataso
+kvalitetsnivå	N	laadun taso
+hemoglobinnivå	N	hemoglobiinitaso
+blodsukkernivå	N	verensokeritaso
+abstraksjonsnivå	N	abstraktiotaso
+tenningsmønster	N	syttymistapa
+respirasjonsmønster	N	hengitystapa
+forklaringsmodell	N	selitysmalli
+behovsmodell	N	tarvemalli  tarvekaavio
+slimmobilisering	N	liman liikkeelle saaminen
+desinfeksjonsmiddel	N	desinfektioaine
+hullmerke	N	reikämerkki
+væskemengde	N	nestemäärä
+sondeløsning	N	letkuruokintavalmiste
+drikkeliste	N	nestelista
+symptomlindring	N	oireen lievitys
+sykdomslære	N	tautioppi
+legemiddelkurve	N	lääkityslista   lääkelista
+handlingskunnskap	N	käytännön tieto
+fortrolighetskunnskap	N	kokemusperäinen tieto
+omgangskrets	N	tuttavapiiri
+muskelkontraksjon	N	lihaksen supistus   lihaksen supistaminen
+handlingsklokskap	N	toimintaviisaus
+prostatakjertel	N	eturauhanen
+væskeinnhold	N	nestepitoisuus
+vanninnhold	N	vesipitoisuus
+karbondioksidinnhold	N	hiilidioksidipitoisuus
+pasientinformasjon	N	potilasohjeet
+soppinfeksjon	N	sieni-infektio
+masseindeks	N	massaindeksi
+nerveimpuls	N	hermoimpulssi
 avvikshåndtering	N	
 selvhjelpsgruppe	N	
 tradisjonsgrunnlag	N	
