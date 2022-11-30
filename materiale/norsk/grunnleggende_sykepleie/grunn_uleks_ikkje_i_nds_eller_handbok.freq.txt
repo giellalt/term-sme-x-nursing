@@ -15,7 +15,7 @@ livsutfoldelse	N
 fagprosedyre	N	alan menetelmät
 sykepleieutøvelse	N	sairaanhoitotoimen harjoittaminen
 helseplage	N	terveysongelma
-esim.sykepleieferdighet	N	hoitotyön taidot meillä monikko
+sykepleieferdighet	N	hoitotyön taidot
 blodforsyning	N	
 skrekkanfall	N	pelkokohtaus
 helsevirksomhet	N	
@@ -24,11 +24,11 @@ behandlingsalternativ	N	hoitovaihtoehto
 beinutspring	N	
 allmennsykepleie	N	yleissairaanhoito kuntatasolla
 sårskift	N	haavanhoito
-helsenett	N	digital arena yksityinen
+helsenett	N	
 sykehusinnleggelse	N	
-orienteringsevne	N	evne til å kjenne oss igjen og til å finne fram i omgivelsene
+orienteringsevne	N	
 talsperson	N	
-termostatinnstilling	N	termiostaatin 
+termostatinnstilling	N	termostaatin asento 
 prøveglass	N	näyteputki
 minneaktivitet	N	
 overstrekk	N	
@@ -104,7 +104,7 @@ ansiktsuttrykk	N	kasvojen ilme
 klassifikasjonssystem	N	luokittelujärjestelmä
 REM-søvn	N	REM-uni
 sykepleiesituasjon	N	sairaanhoidon tilanne
-pulsfrekvens	N	sydämen syke(tiheys)
+pulsfrekvens	N	sydämen syke	tiheys
 kroppsbilde	N	kehonkuva
 respirasjonsbesvær	N	hengenahdistus	dyspnea
 normalverdi	N	normaaliarvo
@@ -118,7 +118,7 @@ ernæringstilstand	N	ravitsemustila
 risikopasient	N	riskipotilas
 tarminnhold	N	suolen sisältö
 sykepleiehandling	N	sairaanhoidollinen toiminta
-sykepleiefunksjon	N	sairaanhoidon tehtävä ???
+sykepleiefunksjon	N	sairaanhoidon tehtävä	???
 kunnskapsform	N	tiedon laji
 sykdomsforløp	N	sairauden kulku
 sårbehandling	N	haavanhoito
