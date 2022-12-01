@@ -37,7 +37,11 @@ mestringssenter	N
 legemiddelregime	N	lääkehoidon järjestelmä 
 transportmedium	N   näytteen kuljetusputki esim.
 transportmedium	N
-
+helseutfall	N	terveysvaikutus
+vekting	N	painoarvo
+stillstand	N	
+varmetilførsel	N	lämmön tuotto
+livstestament	N	
 
 sykepleiediagnose	N	hoitodiagnoosi
 ernæringsstatus	N	ravitsemustila
@@ -427,75 +431,68 @@ pasientinformasjon	N	potilasohjeet
 soppinfeksjon	N	sieni-infektio
 masseindeks	N	massaindeksi
 nerveimpuls	N	hermoimpulssi
-avvikshåndtering	N	
-selvhjelpsgruppe	N	
-tradisjonsgrunnlag	N	
-spesialistgodkjenning	N	
-pumpefunksjon	N	
-hjertefrekvens	N	
-døgnrytmeforstyrrelse	N	
-helhetsforståelse	N	
-sirkulasjonsforhold	N	
-stillingsforandring	N	
-tørstfølelse	N	
-sykdomsfølelse	N	
-sykepleiefilosofi	N	
-sykdomsfase	N	
-rehabiliteringsfase	N	
-livsstilsfaktor	N	
-pasienterfaring	N	
-hodeende	N	
-gassdannelse	N	
-sårbunn	N	
-tvangsbruk	N	
-hoftebrudd	N	
-hjernebølge	N	
-omsorgsbegrep	N	
-kunnskapsbegrep	N	
-nervebane	N	
-lungeavsnitt	N	
-sykdomsårsak	N	
-dødsårsak	N	
-ernæringsarbeid	N	
-muskelarbeid	N	
-næringsstoffanbefaling	N	
-malabsorpsjon	N	
-blærevolum	N	
-D-vitamin	N	
-legevisitt	N	
-tankevirksomhet	N	
-hårvekst	N	
-sårveiledning	N	
-bukvegg	N	
-smerteuttrykk	N	
-inkontinensutstyr	N	
-helseutfall	N	
-doktorgradsutdanning	N	
-blæretrykk	N	
-familietolk	N	
-helsetjenestetilbud	N	
-vekting	N	
-risting	N	
-kremting	N	
-smertetilstand	N	
-stillstand	N	
-fibertilskudd	N	
-varmetilførsel	N	
-helsetjenestetilbud	N	
-beintetthet	N	
-livstestament	N	
-øretermometer	N	
-musikkterapi	N	
-hudtemperatur	N	
-avslapningsteknikk	N	
-helseteam	N	
-karsystem	N	
-dokumentasjonssystem	N	
-søvnsyklus	N	
-respirasjonssyklus	N	
-søvnsykdom	N	
-demenssykdom	N	
-prøvesvar	N	
+avvikshåndtering	N	vahinkoilmoitus
+selvhjelpsgruppe	N	oma-apuryhmä
+tradisjonsgrunnlag	N	perinnepohja
+spesialistgodkjenning	N	erikoistumisen hyväksyminen erikoistumisen hyväksyntä
+pumpefunksjon	N	pumppaustoiminta
+hjertefrekvens	N	sydämen syke    sydämen lyöntitiheys
+døgnrytmeforstyrrelse	N	vuorokausirytmin häiriö
+helhetsforståelse	N	kokonaiskäsitys
+sirkulasjonsforhold	N	(veren)kierron tila
+stillingsforandring	N	asennonvaihto
+tørstfølelse	N	janon tunne
+sykdomsfølelse	N	sairauden tunne
+sykepleiefilosofi	N	sairaanhoidon filosofia
+sykdomsfase	N	sairauden vaihe
+rehabiliteringsfase	N	kuntoutusvaihe
+livsstilsfaktor	N	elämäntapaan vaikuttava tekijä 
+pasienterfaring	N	potilaskokemus
+hodeende	N	pääpuoli
+gassdannelse	N	kaasunmuodostus
+sårbunn	N	haavan pohja
+tvangsbruk	N	pakon käyttö
+hoftebrudd	N	lantion murtuma
+hjernebølge	N	aivoaalto
+omsorgsbegrep	N	hoidon käsite
+kunnskapsbegrep	N	tiedon käsite
+nervebane	N	hermorata
+lungeavsnitt	N	keuhkon osa
+sykdomsårsak	N	sairauden syy
+dødsårsak	N	kuolinsyy
+ernæringsarbeid	N	ravitsemustyö
+muskelarbeid	N	lihastyö
+næringsstoffanbefaling	N	ravintoainesuositus
+malabsorpsjon	N	imeytymishäiriö
+blærevolum	N	(virtsa)rakon tilavuus
+D-vitamin	N	D-vitamiini
+legevisitt	N	lääkärinkierto
+tankevirksomhet	N	ajatustoiminta
+hårvekst	N	hiusten kasvu
+sårveiledning	N	havanhoidon ohjaus
+bukvegg	N	vatsan seinämä
+smerteuttrykk	N	kivun ilmenemismuoto
+inkontinensutstyr	N	inkontinenssitarvikkeet
+doktorgradsutdanning	N	tohtorikoulutus
+blæretrykk	N	(virtsa)rakon paine
+helsetjenestetilbud	N	terveyspalvelujen tarjonta
+risting	N	ravistelu
+kremting	N	rykäisy rykiminen
+smertetilstand	N	kiputila
+fibertilskudd	N	kuitulisä	
+beintetthet	N	luuntiheys 
+øretermometer	N	korvakuumemittari
+musikkterapi	N	musiikkiterapia
+hudtemperatur	N	iholämpömittari
+avslapningsteknikk	N	rentoutustekniikka
+helseteam	N	terveysalan monitieteellinen ryhmä 
+karsystem	N	verisuonijärjestelmä
+dokumentasjonssystem	N	kirjaamisjärjestelmä    dokumentaatiojärjestelmä
+søvnsyklus	N	unisykli
+respirasjonssyklus	N	hengityssykli
+søvnsykdom	N	unisairaus
+demenssykdom	N	dementia
+prøvesvar	N	koetulos
 avføringstrang	N	
 dusjstol	N	
 samleiestilling	N	
