@@ -196,7 +196,7 @@ pasienthistorie	N	potilaan oma kertomus sairastamisesta??
 fargeforandring	N	värimuutos
 omsorgsfilosofi	N	hoitotyön filosofia
 transfett	N	transrasva
-livsstilsendring	N	elämtapamuutos
+livsstilsendring	N	elämäntapamuutos
 fyllende	N	täydentävä
 blodcelle	N	verisolu
 respirasjonsbevegelse	N	hengitysliike
