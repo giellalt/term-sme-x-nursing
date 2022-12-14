@@ -42,6 +42,12 @@ vekting	N	painoarvo
 stillstand	N	
 varmetilførsel	N	lämmön tuotto
 livstestament	N	
+realitetssjokk	N	
+praksissituasjon	N	
+garpete	N	
+sykehusplan	N	
+
+
 
 sykepleiediagnose	N	hoitodiagnoosi
 ernæringsstatus	N	ravitsemustila
@@ -493,60 +499,55 @@ respirasjonssyklus	N	hengityssykli
 søvnsykdom	N	unisairaus
 demenssykdom	N	dementia
 prøvesvar	N	koetulos
-avføringstrang	N	
-dusjstol	N	
-samleiestilling	N	
-feilstilling	N	
-tannstatus	N	
-respirasjonsstatus	N	
-ryggsøyle	N	
-realitetssjokk	N	
-praksissituasjon	N	
-pleiesituasjon	N	
-pasientrolle	N	
-energirik	N	
-inflammasjonsreaksjon	N	
-infeksjonsrate	N	
-stolpute	N	
-garpete	N	
-bunnpunkt	N	
-delprotese	N	
-energiprosent	N	
-spyttproduksjon	N	
-orgasmeproblem	N	
-hukommelsesproblem	N	
-sykepleieprinsipp	N	
-nettportal	N	
-matportal	N	
-sykehusplan	N	
-stikkpille	N	
-helseopplysning	N	
-smerteopplevelse	N	
-hudområde	N	
-karbondioksidnivå	N	
-hjertemuskulatur	N	
-magemuskel	N	
-behandlingsmulighet	N	
-omsorgsmodell	N	
-interaksjonsmodell	N	
-tykningsmiddel	N	
-blodmengde	N	
-væskemengde	N	
-seksualitetsmangfold	N	
-proteinmangel	N	
-forskningslitteratur	N	
-søvnlengde	N	
-stemningsleie	N	
-fremmedlegeme	N	
-sykehjemslege	N	
-blæreskylling	N	
-sykepleiekvalitet	N	
-ressurskriterium	N	
-fuktighetskrem	N	
-ansiktskrem	N	
-muskelkraft	N	
-matkort	N	
-kroppskontakt	N	
+avføringstrang	N	ulostamisen tarve
+dusjstol	N	suihkutuoli
+samleiestilling	N	yhdyntäasento
+feilstilling	N	virheasento
+tannstatus	N	hampaiden terveystila
+respirasjonsstatus	N	hengityksen kliininen status
+ryggsøyle	N	selkäranka
+pleiesituasjon	N	hoitotilanne
+pasientrolle	N	potilasrooli
+energirik	N	energiapitoinen
+inflammasjonsreaksjon	N	tulehdusreaktio
+infeksjonsrate	N	infektioiden esiintyvyys
+stolpute	N	istuintyyny
+bunnpunkt	N	alin piste
+delprotese	N	osaproteesi
+energiprosent	N	energiaprosentti
+spyttproduksjon	N	syljeneritys
+orgasmeproblem	N	orgasmiongelma
+hukommelsesproblem	N	muistiongelma
+sykepleieprinsipp	N	sairaanhoidon periaate
+nettportal	N	internetportaali    nettiportaali
+stikkpille	N	peräpuikko  suppo
+helseopplysning	N	terveysinformaatio
+smerteopplevelse	N	kivun kokemus
+hudområde	N	ihoalue
+karbondioksidnivå	N	hiilidioksidipitoisuus
+hjertemuskulatur	N	sydämen lihaksisto
+magemuskel	N	vatsalihas
+behandlingsmulighet	N	hoitomahdollisuus
+omsorgsmodell	N	hoitotyön malli
+interaksjonsmodell	N	interaktiomalli
+tykningsmiddel	N	sakeutusaine
+blodmengde	N	verimäärä
+væskemengde	N	nestemäärä
+seksualitetsmangfold	N	seksuaalisuuden moninaisuus
+proteinmangel	N	proteiinivaje
+forskningslitteratur	N	tutkimuskirjallisuus
+søvnlengde	N	unen pituus
+stemningsleie	N	mieliala
+fremmedlegeme	N	vieras esine
+sykehjemslege	N	sairaalalääkäri
+blæreskylling	N	rakkohuuhtelu
+sykepleiekvalitet	N	sairaanhoidon laatu
+ressurskriterium	N	resurssikriteeri
+fuktighetskrem	N	kosteusvoide
+ansiktskrem	N	kasvovoide
+muskelkraft	N	lihasvoima
+matkort	N	ruokakortti
+kroppskontakt	N	vartalokosketus
 oljeklyster	N	
 smittekjede	N	
 bevegelseskapasitet	N	
