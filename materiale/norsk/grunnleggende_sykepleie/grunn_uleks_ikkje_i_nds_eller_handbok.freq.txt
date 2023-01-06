@@ -547,37 +547,37 @@ fuktighetskrem	N	kosteusvoide
 ansiktskrem	N	kasvovoide
 muskelkraft	N	lihasvoima
 matkort	N	ruokakortti
-kroppskontakt	N	vartalokosketus
-oljeklyster	N	
-smittekjede	N	
-bevegelseskapasitet	N	
-sårkant	N	
-sykepleieintervensjon	N	
-søvnhygiene	N	
-penishode	N	
-bakhode	N	
-sykdomshistorie	N	
-produktivitetshensyn	N	
-datasamlingsguide	N	
-muskelgruppe	N	
-sammenlikningsgrunnlag	N	
-litteraturgjennomgang	N	
-omsorgsgiver	N	
-helsegevinst	N	
-pasientfortelling	N	
-årsaksforklaring	N	
-hudforandring	N	
-bakterieflora	N	
-rammefaktor	N	
-taleevne	N	
-ereksjonsevne	N	
-symptomerfaring	N	
-sykdomserfaring	N	
-volumendring	N	
-vektendring	N	
-kroppsendring	N	
-funksjonsdyktighet	N	
-respirasjonsdybde	N	
+kroppskontakt	N	fyysinen kontakti
+oljeklyster	N	öljyperäruiske
+smittekjede	N	tartuntaketju
+bevegelseskapasitet	N	liikkumiskapasiteetti
+sårkant	N	haavan reuna
+sykepleieintervensjon	N	sairaanhoidon toimenpide
+søvnhygiene	N	unihygienia
+penishode	N	peniksen pää
+bakhode	N	takaraivo
+sykdomshistorie	N	potilaan oma kertomus sairaudestaan
+
+
+muskelgruppe	N	lihasryhmä
+sammenlikningsgrunnlag	N	vertailuperuste
+litteraturgjennomgang	N	kirjallisuuskatsaus
+omsorgsgiver	N	hoitaja
+helsegevinst	N	terveyshyöty
+pasientfortelling	N	(kaunokirjallinen)kertomus sairaudesta ja potilaanaolosta
+årsaksforklaring	N	syy-yhteyden selittäminen
+hudforandring	N	ihomuutos
+bakterieflora	N	bakteerikanta
+rammefaktor	N	???
+taleevne	N	puhekyky
+ereksjonsevne	N	erektiokyky
+symptomerfaring	N	oireiden kokemus
+sykdomserfaring	N	sairauden kokemus
+volumendring	N	tilavuuden muutos
+vektendring	N	painonmuutos
+kroppsendring	N	kehon muutos
+funksjonsdyktighet	N	toimintakyky
+respirasjonsdybde	N	hengityksen syvyys
 risikodiagnose	N	
 hånddesinfeksjon	N	
 søvndagbok	N	
