@@ -46,7 +46,9 @@ realitetssjokk	N
 praksissituasjon	N	
 garpete	N	
 sykehusplan	N	
-
+helsebibliotek	N
+blodbane	N	
+yrkesvirksomhet	N	ammattialan toiminta
 
 
 sykepleiediagnose	N	hoitodiagnoosi
@@ -578,73 +580,73 @@ vektendring	N	painonmuutos
 kroppsendring	N	kehon muutos
 funksjonsdyktighet	N	toimintakyky
 respirasjonsdybde	N	hengityksen syvyys
-risikodiagnose	N	
-hånddesinfeksjon	N	
-søvndagbok	N	
-hovedbolk	N	
-helsebibliotek	N	
-tarmbevegelse	N	
-sirkelbevegelse	N	
-kroppsbevegelse	N	
-antibiotikabehandling	N	
-låsbar	N	
-blodbane	N	
-sykehusavdeling	N	
-fagartikkel	N	
-behandlingsansvar	N	
-handlingsalternativ	N	
-minnealbum	N	
-yrkesvirksomhet	N	
-støtteverktøy	N	
-blodsukkerverdi	N	
-KMI-verdi	N	
-minuttventilasjon	N	
-kostholdsveiledning	N	
-kostveiledning	N	
-brystvegg	N	
-årevegg	N	
-vevsvæske	N	
-ernæringsvæske	N	
-kornvare	N	
-drikkevare	N	
-talevanske	N	
-søvnvanske	N	
-kvalitetsutviklingstiltak	N	
-vektutvikling	N	
-gassutvikling	N	
-kvalitetsutvalg	N	
-kroppsuttrykk	N	
+risikodiagnose	N	riskitiedot
+hånddesinfeksjon	N	käsidesinfektio
+søvndagbok	N	unipäiväkirja
+
+	
+tarmbevegelse	N	suolen liikkeet
+sirkelbevegelse	N	kehäliike
+kroppsbevegelse	N	kehon liike
+antibiotikabehandling	N	antibioottihoito
+låsbar	N	lukittava
+
+sykehusavdeling	N	sairaalaosasto
+fagartikkel	N	ammattialan artikkeli
+behandlingsansvar	N	hoitovastuu
+handlingsalternativ	N	toimintavaihtoehto
+minnealbum	N	muistoalbumi
+
+støtteverktøy	N	tukiväline
+blodsukkerverdi	N	verensokeriarvo
+KMI-verdi	N	painoindeksi    BMI
+minuttventilasjon	N	minuuttikeuhkotuuletus  minuuttiventilaatio
+kostholdsveiledning	N	ravitsemusneuvonta
+kostveiledning	N	ravinto-ohjaus
+brystvegg	N	rinnan seinämä
+årevegg	N	suonen seinämä
+vevsvæske	N	kudosneste
+ernæringsvæske	N	ravintoliuos
+kornvare	N	viljatuote
+drikkevare	N	juotava
+talevanske	N	puhehäirö
+søvnvanske	N	univaikeus
+kvalitetsutviklingstiltak	N	laddunkehittämistoimenpide
+vektutvikling	N	painon kehitys
+gassutvikling	N	kaasunmuodostus
+kvalitetsutvalg	N	laatukomitea
+kroppsuttrykk	N	kehollinen ilmaisu
 sædutløsning	N	
-røntgenundersøkelse	N	
-funksjonsundersøkelse	N	
-væskeunderskudd	N	
-underernæring	N	
-kosttype	N	
-hudtype	N	
-bakterietype	N	
-fingertrykk	N	
-utholdenhetstrening	N	
-oksygentransport	N	
-forbedringstiltak	N	
-likevektstilstand	N	
-østrogentilskudd	N	
-kosttilskudd	N	
-gruppetilhørighet	N	
-veiingstest	N	
-atferdsterapi	N	
-praksisteori	N	
-egenomsorgsteori	N	
-behovsteori	N	
-sykepleieteoretiker	N	
-balansetenkning	N	
-lufttemperatur	N	
-pulstelling	N	
-tannbørste	N	
-bakterietall	N	
-skjelettsystem	N	
-alarmsymptom	N	
-kroppsstruktur	N	
-urinstrøm	N	
+røntgenundersøkelse	N	röntgentutkimus
+funksjonsundersøkelse	N	toimintatutkimus
+væskeunderskudd	N	nestevajaua
+underernæring	N	aliravitsemus
+kosttype	N	ravintotyyppi
+hudtype	N	ihotyyppi
+bakterietype	N	bakteerityyppi
+fingertrykk	N	sormenpainallus
+utholdenhetstrening	N	kestävyysharjoittelu
+oksygentransport	N	hapen kuljetus
+forbedringstiltak	N	parannustoimenpide
+likevektstilstand	N	tasapainotila
+østrogentilskudd	N	estrogeenilisä
+kosttilskudd	N	ravintolisä
+gruppetilhørighet	N	ryhmään kuuluminen
+veiingstest	N	punnitustesti
+atferdsterapi	N	käytösterapia
+praksisteori	N	käytännön teoria
+egenomsorgsteori	N	itsehoitoteoria
+behovsteori	N	tarveteoria
+sykepleieteoretiker	N	hoitotyön teoreetikko
+balansetenkning	N	tasapainoajattelu
+lufttemperatur	N	ilman lämpötila
+pulstelling	N	pulssin laskeminen
+tannbørste	N	hammasharja
+bakterietall	N	bakteeriluku
+skjelettsystem	N	luuranko
+alarmsymptom	N	ennakko-oire    esioire
+kroppsstruktur	N	kehon rakenne
+urinstrøm	N	virtsasuiku
 beslutningsstøtte	N	
 porsjonsstørrelse	N	
 massasjestav	N	
