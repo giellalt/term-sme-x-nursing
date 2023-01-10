@@ -49,6 +49,10 @@ sykehusplan	N
 helsebibliotek	N
 blodbane	N	
 yrkesvirksomhet	N	ammattialan toiminta
+maktovergrep
+mestringsmulighet	N	
+tømmingsmønster	N	tyhjentymis
+
 
 
 sykepleiediagnose	N	hoitodiagnoosi
@@ -705,39 +709,35 @@ luftplage	N	ilmavaiva
 sykepleieperspektiv	N	sairaanhoidon näkökanta
 helsepedagogikk	N	terveyspedagogiikka
 luftpassasje	N	ilmatiehyt
-sykehjemspasient	N	hoivakoti
-kreftpasient	N	
-samtalepartner	N	
-svelgparese	N	
-væskeoverskudd	N	
-maktovergrep	N	
-tidsopplevelse	N	
-symptomopplevelse	N	
-pasientopplevelse	N	
-pleieoppgave	N	
-sykdomsoppfatning	N	
-helhetsoppfatning	N	
-omsorgstjeneste	N	
-vedlikeholdsomsorg	N	
-stoffomsetning	N	
-livsområde	N	
-kunnskapsområde	N	
-forskningsområde	N	
-adaptasjonsområde	N	
-slimhinneødem	N	
-luftstrømobstruksjon	N	
-teorinivå	N	
-østrogennivå	N	
-oksygennivå	N	
-hormonnivå	N	
-adaptasjonsnivå	N	
-funksjonsnedsettelse	N	
-respirasjonsmuskulatur	N	
-leggmuskulatur	N	
-bukmuskulatur	N	
-mestringsmulighet	N	
-livsmulighet	N	
-tømmingsmønster	N	
+sykehjemspasient	N	hoivakotipotilas
+kreftpasient	N	syöpäpotilas
+samtalepartner	N	keskustelukumppani
+svelgparese	N	nielemispareesi
+væskeoverskudd	N	nesteylimäärä
+tidsopplevelse	N	ajan kokemus
+symptomopplevelse	N	oireiden kokemus
+pasientopplevelse	N	kokemus potilaanaolosta
+pleieoppgave	N	hoitotyön toiminto
+sykdomsoppfatning	N	sairauskäsitys
+helhetsoppfatning	N	kokonaiskäsitys
+omsorgstjeneste	N	hoitotyön palvelut
+vedlikeholdsomsorg	N	ylläpitohoito (esim. terveydentilan) 
+stoffomsetning	N	aineenvaihdunta
+forskningsområde	N	tutkimusala
+adaptasjonsområde	N	sopeutumisalue
+slimhinneødem	N	limakalvoturvotus
+luftstrømobstruksjon	N	ilmavirran tukkeuma ilmavirran obstruktio
+teorinivå	N	teoriataso
+østrogennivå	N	estrogeenitaso
+oksygennivå	N	happitaso
+hormonnivå	N	hormoonitaso
+adaptasjonsnivå	N	sopeutumistaso
+funksjonsnedsettelse	N	alentunut toimintakyky
+respirasjonsmuskulatur	N	hengityslihakset
+leggmuskulatur	N	säärilihakset
+bukmuskulatur	N	vatsalihakset
+livsmulighet	N	elämän mahdollisuudet
+
 livsmønster	N	
 avføringsmønster	N	
 nettmobbing	N	
