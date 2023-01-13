@@ -52,6 +52,9 @@ yrkesvirksomhet	N	ammattialan toiminta
 maktovergrep
 mestringsmulighet	N	
 tømmingsmønster	N	tyhjentymis
+livsmønster	N	
+vitenskapskomité	N	??????
+
 
 
 
@@ -737,67 +740,61 @@ respirasjonsmuskulatur	N	hengityslihakset
 leggmuskulatur	N	säärilihakset
 bukmuskulatur	N	vatsalihakset
 livsmulighet	N	elämän mahdollisuudet
-
-livsmønster	N	
-avføringsmønster	N	
-nettmobbing	N	
-måltidsmiljø	N	
-fødemiddel	N	
-cellemetabolisme	N	
-energimengde	N	
-blodmengde	N	
-cellemembran	N	
-fettmasse	N	
-blodtrykksmansjett	N	
-væskemangel	N	
-østrogenmangel	N	
-matmangel	N	
-livssituasjon	N	
-kontaktlinse	N	
-smertelindring	N	
-grunnlidelse	N	
-påkledd	N	
-varmelaken	N	
-livkvalitetsbegrep	N	
-pulskvalitet	N	
-mestringskurs	N	
-hverdagskunnskap	N	
-hovedkriterium	N	
-skjedekrampe	N	
-koloskopi	N	
-praksiskontekst	N	
-hudkontakt	N	
-hovedkomponent	N	
-samtykkekompetanse	N	
-vitenskapskomité	N	
-sinusknute	N	
-lymfeknute	N	
-spyttkjertel	N	
-urinkateter	N	
-syrekappe	N	
+avføringsmønster	N	ulostusrutiinit
+nettmobbing	N	nettikiusaaminen
+måltidsmiljø	N	ruokailuympäristö
+fødemiddel	N	ravintoaine
+cellemetabolisme	N	soluaineenvaihdunta solumetabolia
+energimengde	N	energiamäärä
+blodmengde	N	verimäärä
+cellemembran	N	solukalvo
+fettmasse	N	rasvamassa
+blodtrykksmansjett	N	verenpainemansetti
+væskemangel	N	nestevajaus nestevaje
+østrogenmangel	N	estrogeenivaje
+matmangel	N	ruoan puute
+livssituasjon	N	elämäntilanne
+kontaktlinse	N	piilolinssi
+smertelindring	N	kivunlievitys
+grunnlidelse	N	perussairaus
+påkledd	N	puettu
+varmelaken	N	hätäpeite avaruuspeitto
+livkvalitetsbegrep	N	elämänlaadunkäsite
+mestringskurs	N	hallintakurssi
+hverdagskunnskap	N	arkitieto
+hovedkriterium	N	pääkriteeri
+skjedekrampe	N	emätinkouristus
+koloskopi	N	paksusuolen tähystys
+praksiskontekst	N	käytännön konteksti
+hudkontakt	N	ihokontakti
+hovedkomponent	N	pääosa
+samtykkekompetanse	N   toimintakelpoisuus
+sinusknute	N	sinussolmuka
+lymfeknute	N	imusolmuke
+spyttkjertel	N	sylkirauhanen
+urinkateter	N	virtsakatetri
+syrekappe	N	happovaippa
 kommunikasjonskapasitet	N	
-saltinntak	N	
-karbohydratinntak	N	
-kaloriinntak	N	
-fiberinntak	N	
-ernæringsinntak	N	
-næringsinnhold	N	
-hemoglobininnhold	N	
-hastverksinkontinens	N	
-blandingsinkontinens	N	
-ADL-indeks	N	
-stresshormon	N	
-ganghjelpemiddel	N	
-avvikshendelse	N	
-tannhals	N	
-risikogruppe	N	
-normalgrense	N	
-kompresjonsgrad	N	
-matglede	N	
-blodgass	N	
-tarmgass	N	
-hjernefunksjon	N	
-gangfunksjon	N	
+saltinntak	N	suolansaanti
+karbohydratinntak	N	hiilihydraatien saanti
+kaloriinntak	N	kalorien saanti
+fiberinntak	N	kuidun saanti
+ernæringsinntak	N	ravinnonsaanti
+næringsinnhold	N	ravintosisältö
+hemoglobininnhold	N	hemoglobiinin määrä
+hastverksinkontinens	N	pakkoinkontinenssi
+ADL-indeks	N	ADL-indeksi
+stresshormon	N	stressihormooni
+ganghjelpemiddel	N	kävelyä avustava laite
+avvikshendelse	N	vaaratapahtuma
+tannhals	N	hampaan kaula
+risikogruppe	N	riskiryhmä
+normalgrense	N	normaalin (esim. verensokerin) raja-arvo
+kompresjonsgrad	N	kompressioaste
+blodgass	N	verikaasu
+tarmgass	N	suolistokaasu
+hjernefunksjon	N	aivotoiminta
+gangfunksjon	N	kävelykyky
 temperaturforstyrrelse	N	
 rytmeforstyrrelse	N	
 respirasjonsforstyrrelse	N	
