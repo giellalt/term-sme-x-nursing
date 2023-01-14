@@ -54,6 +54,8 @@ mestringsmulighet	N
 tømmingsmønster	N	tyhjentymis
 livsmønster	N	
 vitenskapskomité	N	??????
+bakgrunnsforståelse	N
+omsorgsdepartement	N	
 
 
 
@@ -795,60 +797,50 @@ blodgass	N	verikaasu
 tarmgass	N	suolistokaasu
 hjernefunksjon	N	aivotoiminta
 gangfunksjon	N	kävelykyky
-temperaturforstyrrelse	N	
-rytmeforstyrrelse	N	
-respirasjonsforstyrrelse	N	
-bevegelsesforstyrrelse	N	
-teknologiforståelse	N	
-bakgrunnsforståelse	N	
-tyngdefornemmelse	N	
-forståelsesform	N	
-kontaktforhold	N	
-helseforhold	N	
-pigmentforandring	N	
-fingerforandring	N	
-muskelfiber	N	
-bofellesskap	N	
-søvnfase	N	
-sårfase	N	
-platåfase	N	
-orgasmefase	N	
-kartleggingsfase	N	
-tonefall	N	
-stressfaktor	N	
-miljøfaktor	N	
-empatievne	N	
-omsorgsetikk	N	
-klitorisereksjon	N	
-krybbedødepidemi	N	
-fordøyelsesenzym	N	
-aldersendring	N	
-personlighetsegenskap	N	
-vitamindråpe	N	
-D-vitamindråpe	N	
-tidsdimensjon	N	
-omsorgsdepartement	N	
-varedeklarasjon	N	
-sårdannelse	N	
-teknologibruk	N	
-rusmiddelbruk	N	
-kondombruk	N	
-antibiotikabruk	N	
-kompresjonsbrudd	N	
-menstruasjonsblod	N	
-prostatabesvær	N	
-væskebehandling	N	
-hormonbehandling	N	
-livskvalitetsbegrep	N	
-tålbar	N	
-kontrollerbar	N	
-urinavgang	N	
-sykehjemsavdeling	N	
-forskningsartikkel	N	
-muskelarbeid	N	
-skjedeåpning	N	
-arbeidsantrekk	N	
-gruppeaktivitet	N	
+temperaturforstyrrelse	N	kehon lämpötilan häiriö
+rytmeforstyrrelse	N	rytmihäiriö
+respirasjonsforstyrrelse	N	hengityshäiriö
+bevegelsesforstyrrelse	N	liikkumishäiirö
+teknologiforståelse	N	teknologian ymmärtäminen
+tyngdefornemmelse	N	painon tunne
+forståelsesform	N	käsitystapa
+kontaktforhold	N	yhdessäolon muoto
+helseforhold	N	terveysolosuhteet
+pigmentforandring	N	pigmenttimuutos
+muskelfiber	N	lihaskuitu
+bofellesskap	N	asumisyhteisö
+søvnfase	N	unen vaihe
+sårfase	N	haavan vaihe
+platåfase	N	tasannevaihe
+orgasmefase	N	orgasmivaihe
+tonefall	N	äänenpaino  äänensävy
+stressfaktor	N	stressitekijä
+miljøfaktor	N	ympäristötekijä
+empatievne	N	empatiakyky
+omsorgsetikk	N	hoitotyön etiikka
+fordøyelsesenzym	N	ruoansulatusentsyymi
+aldersendring	N	ikääntymismuutos
+personlighetsegenskap	N	persoonallisuuden piirteet
+vitamindråpe	N	vitamiinitippa
+D-vitamindråpe	N	D-vitamiinitippa
+tidsdimensjon	N	aikaulottuvuus
+varedeklarasjon	N	tuoteseloste
+sårdannelse	N	haavan synty
+rusmiddelbruk	N	päihteiden käyttö
+antibiotikabruk	N	antibioottien käyttö
+kompresjonsbrudd	N	akompressiomurtuma
+menstruasjonsblod	N	kuukautisveri
+prostatabesvær	N	eturauhasvaiva
+væskebehandling	N	nestehoito
+hormonbehandling	N	hormoonihoito
+tålbar	N	siedettävä
+kontrollerbar	N	hallittavissa oleva
+urinavgang	N	virtsaaminen
+forskningsartikkel	N	tutkimusartikkeli
+muskelarbeid	N	lihastyö
+skjedeåpning	N	emattimen aukko
+arbeidsantrekk	N	työasu
+gruppeaktivitet	N	ryhmätoiminta
 sykepleieryrke	N	
 sårvurdering	N	
 hudvurdering	N	
