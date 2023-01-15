@@ -56,6 +56,8 @@ livsmønster	N
 vitenskapskomité	N	??????
 bakgrunnsforståelse	N
 omsorgsdepartement	N	
+tarmvolum	N   suolen sisällön volyymi
+hørselsvanske	N	kuulo-ongelma
 
 
 
@@ -843,50 +845,46 @@ arbeidsantrekk	N	työasu
 gruppeaktivitet	N	ryhmätoiminta
 sårvurdering	N	haavan arviointi
 hudvurdering	N	ihon (kunnon) arviointi
-funksjonsvurdering	N	toimin
-urinvolum	N	
-tarmvolum	N	
-stemmevolum	N	
-lungevolum	N	
-matvogn	N	
-sykepleievitenskap	N	
-legemiddelvirkning	N	
-buffervirkning	N	
-livvidde	N	
-klitorisvibrator	N	
-vurderingsverktøy	N	
-støtteverktøy	N	
-selvhjelpsverktøy	N	
-prosedyreverktøy	N	
-termostatverdi	N	
-hemoglobinverdi	N	
-blodverdi	N	
-velvære	N	
-undervekt	N	
-skjeggvekst	N	
-lengdevekst	N	
-karvegg	N	
-normalvariasjon	N	
-døgnvariasjon	N	
-kommunikasjonsvanske	N	
-hørselsvanske	N	
-springvann	N	
-såpevann	N	
-kullsyrevann	N	
-kroppsvann	N	
-isvann	N	
-helsevane	N	
-behandlingsvalg	N	
-temperaturutvikling	N	
-pubertetsutvikling	N	
-kjønnsutvikling	N	
-følelsesuttrykk	N	
-melatoninutskilling	N	
-urinutskillelse	N	
-profesjonsutøver	N	
-fagutøver	N	
-kunstutøvelse	N	
-livsutfordring	N	
+funksjonsvurdering	N	toiminnon arviointi
+urinvolum	N	virtsan määrä
+stemmevolum	N	äänen voimakkuus
+lungevolum	N	keuhkojen tilavuus
+matvogn	N	ruokakärryt
+sykepleievitenskap	N	hoitotiede
+legemiddelvirkning	N	lääkeaineen vaikutus
+buffervirkning	N	puskurivaikutus
+livvidde	N	vyötärönmitta
+vurderingsverktøy	N	arviointityökalu
+støtteverktøy	N	tukityökalu
+selvhjelpsverktøy	N	itsehoitoväline
+prosedyreverktøy	N	hoitotoimenpiteiden hakuväline
+hemoglobinverdi	N	hemoglobiiniarvo
+blodverdi	N	veriarvo
+velvære	N	hyvinvointi
+undervekt	N	alipaino
+skjeggvekst	N	parrankasvu
+lengdevekst	N	pituuskasvu
+karvegg	N	suonen seinämä
+normalvariasjon	N	normaalivaihtelu
+døgnvariasjon	N	vuorokausivaihtelu
+kommunikasjonsvanske	N	kommunikaatiovaikeus
+springvann	N	vesijohtovesi   hanavesi
+såpevann	N	saippuavesi
+kullsyrevann	N	hiilihappovesi
+kroppsvann	N	kehon vesi
+isvann	N	jäävesi
+helsevane	N	terveystapa
+behandlingsvalg	N	hoitovalinta
+temperaturutvikling	N	kehon lämpötilan muuttuminen
+pubertetsutvikling	N	puberteettikehitys
+kjønnsutvikling	N	sukupuolikehitys
+følelsesuttrykk	N	tunteenilmaisu
+melatoninutskilling	N	melatoniinin eritys
+urinutskillelse	N	virtsaneritys
+profesjonsutøver	N	ammattialan harjoittaja
+fagutøver	N	ammattialan harjoittaja
+kunstutøvelse	N	taiteen harjoittaminen
+livsutfordring	N	elämän haaste
 aktivitetsutfoldelse	N	
 sinneutbrudd	N	
 stråleurin	N	
