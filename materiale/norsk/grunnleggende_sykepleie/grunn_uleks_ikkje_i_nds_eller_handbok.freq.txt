@@ -841,10 +841,9 @@ muskelarbeid	N	lihastyö
 skjedeåpning	N	emattimen aukko
 arbeidsantrekk	N	työasu
 gruppeaktivitet	N	ryhmätoiminta
-sykepleieryrke	N	
-sårvurdering	N	
-hudvurdering	N	
-funksjonsvurdering	N	
+sårvurdering	N	haavan arviointi
+hudvurdering	N	ihon (kunnon) arviointi
+funksjonsvurdering	N	toimin
 urinvolum	N	
 tarmvolum	N	
 stemmevolum	N	
