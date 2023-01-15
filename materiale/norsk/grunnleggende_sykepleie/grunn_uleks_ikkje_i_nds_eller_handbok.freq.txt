@@ -58,6 +58,9 @@ bakgrunnsforståelse	N
 omsorgsdepartement	N	
 tarmvolum	N   suolen sisällön volyymi
 hørselsvanske	N	kuulo-ongelma
+aktivitetstiltak	N	aktiviteettitoimenpide  aktiviteettikeino
+kjønnstilhørighet	N	sukupuoli
+kontakttermometer	N	
 
 
 
@@ -885,43 +888,37 @@ profesjonsutøver	N	ammattialan harjoittaja
 fagutøver	N	ammattialan harjoittaja
 kunstutøvelse	N	taiteen harjoittaminen
 livsutfordring	N	elämän haaste
-aktivitetsutfoldelse	N	
-sinneutbrudd	N	
-stråleurin	N	
-døgnurin	N	
-kontraktur	N	
-fissur	N	
-pasientundervisning	N	
-forbrukerundersøkelse	N	
-termometertype	N	
-sårtype	N	
-fibertype	N	
-feiltrinn	N	
-bevegelighetstrening	N	
-beinstrekk	N	
-blodtransfusjon	N	
-omsorgstradisjon	N	
-habiliteringstjeneste	N	
-vektreduksjonstiltak	N	
-aktivitetstiltak	N	
-legetilsyn	N	
-blodtilstrømning	N	
-krisetilstand	N	
-infeksjonstilstand	N	
-bevissthetstilstand	N	
-betennelsestilstand	N	
-proteintilskudd	N	
-jerntilskudd	N	
-kjønnstilhørighet	N	
-sykepleietilbud	N	
-mestringstilbud	N	
-mattilbud	N	
-medisineringstidspunkt	N	
-energitetthet	N	
-svelgtest	N	
-nyreterskel	N	
-dørterskel	N	
-kontakttermometer	N	
+aktivitetsutfoldelse	N	aktiviteetin suorittaminen
+sinneutbrudd	N	vihanpurkaus
+døgnurin	N	vuorokausivirtsa
+kontraktur	N	kontraktuura    supistuma
+fissur	N	fissuura    halkeama    haavauma
+forbrukerundersøkelse	N	asiakastutkimus potilastyytyväisyystutkimua
+sårtype	N	haavatyyppi
+fibertype	N	kuitutyyppi
+feiltrinn	N	harha-askel
+bevegelighetstrening	N	liikeharjoittelu
+beinstrekk	N	jalan ojennus
+blodtransfusjon	N	verensiirto
+omsorgstradisjon	N	hoivan perinne
+habiliteringstjeneste	N	(toimintarajoitteisen lapsen) kuntoutus
+rehabilitering  N   (toimintakykynsä menettäneen nuoren tai aikuisen) kuntoutus
+vektreduksjonstiltak	N	painonpudotustoimenpide
+legetilsyn	N	lääkärinhoito
+blodtilstrømning	N	verenvirtaus
+krisetilstand	N	kriisitila
+infeksjonstilstand	N	tulehdustila    infektiotila
+bevissthetstilstand	N	tajunnantila
+betennelsestilstand	N	tulehdustila (ei bakteerin aiheuttama, esim. rasitusvamma)
+proteintilskudd	N	proteiinilisä
+jerntilskudd	N	rautalisä
+mattilbud	N	ruokatarjonta
+medisineringstidspunkt	N	lääkkeenottoaika ??
+energitetthet	N	energiatiheys
+svelgtest	N	nielemistesti nielemiskoe
+nyreterskel	N	munuaiskynnys
+dørterskel	N	ovikynnys
+
 ICNP-terminologi	N	
 tilknytningsteori	N	
 systemteori	N	
