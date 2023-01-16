@@ -918,49 +918,44 @@ energitetthet	N	energiatiheys
 svelgtest	N	nielemistesti nielemiskoe
 nyreterskel	N	munuaiskynnys
 dørterskel	N	ovikynnys
-
-ICNP-terminologi	N	
-tilknytningsteori	N	
-systemteori	N	
-omsorgsteori	N	
-bufferteori	N	
-årsakstenkning	N	
-blødningstendens	N	
-samtaletempo	N	
-omgivelsestemperatur	N	
-normaltemperatur	N	
+tilknytningsteori	N	kiintymyssuhdeteoria
+systemteori	N	systeemiteoria
+bufferteori	N	puskuriteoria
+årsakstenkning	N	syy-yhteysajattelu
+blødningstendens	N	vuototaipumus
+samtaletempo	N	keskustelun tempo
+omgivelsestemperatur	N	ympäristön lämpötila
+normaltemperatur	N	normaali lämpötila
 vakttelefon	N	
 velværeteknologi	N	
 sikkerhetsteknologi	N	
 sensorteknologi	N	
-gallestein	N	
-smertetegn	N	
-minustegn	N	
-genitale	N	
-tarmsystem	N	
-serveringssystem	N	
-responssystem	N	
-oppsamlingssystem	N	
-lymfesystem	N	
-katetersystem	N	
-behandlingssystem	N	
-balansesystem	N	
-eplesyre	N	
-utmattelsessyndrom	N	
-unnlatelsessynder	N	
-unnlatelsessynd	N	
-angstsymptom	N	
-allmennsykepleier	N	
-kontaktsykepleier	N	
-helsesykepleier	N	
-muskelsykdom	N	
-betennelsessykdom	N	
-arteriesykdom	N	
-kreftsvulst	N	
-hjernesvulst	N	
-blodprøvesvar	N	
-melkesukker	N	
-såpestykke	N	
+gallestein	N	päivystyspuhelin
+smertetegn	N	kivun merkki
+minustegn	N	miinusmerkki
+genitale	N	sukupuolielimet
+tarmsystem	N	suolisto
+responssystem	N	palautejärjestelmä
+oppsamlingssystem	N	keräysjärjestelmä
+lymfesystem	N	imusuonisto
+katetersystem	N	katetrijärjestelmä
+behandlingssystem	N	hoitohoitojärjestelmä
+balansesystem	N	tasapainojärjestelmä
+eplesyre	N	omenahappo
+utmattelsessyndrom	N	väsymysoireyhtymä
+unnlatelsessynd	N	tekemättäjättämisen synti
+angstsymptom	N	ahdistusoire
+allmennsykepleier	N	yleissairaanhoitaja
+kontaktsykepleier	N	ohjaava sairaanhoitaja  vastuusairaanhoitaja
+helsesykepleier	N	terveydenhoitaja
+muskelsykdom	N	lihassairaus
+betennelsessykdom	N	tulehdussairaus
+arteriesykdom	N	valtimosairaus
+kreftsvulst	N	syöpäkasvain
+hjernesvulst	N	aivokasvain
+blodprøvesvar	N	verikoevastaus
+melkesukker	N	maitosoker
+såpestykke	N	saippuapala
 kjønnsstudium	N	
 litteraturstudie	N	
 kjønnsstudie	N	
