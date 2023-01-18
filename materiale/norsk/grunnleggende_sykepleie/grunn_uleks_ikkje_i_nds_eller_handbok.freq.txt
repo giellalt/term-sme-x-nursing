@@ -61,6 +61,12 @@ hørselsvanske	N	kuulo-ongelma
 aktivitetstiltak	N	aktiviteettitoimenpide  aktiviteettikeino
 kjønnstilhørighet	N	sukupuoli
 kontakttermometer	N	
+cellestoff	N	kuivauspaperi
+kompetansestige	N	urapolku    urakehitys
+lengdesnitt
+væskeskjema	N	pesutaulukko
+responssenter	N	ottaa vastaan kaikki häsytykset
+ekspertsammenslutning	N	
 
 
 
@@ -956,56 +962,44 @@ hjernesvulst	N	aivokasvain
 blodprøvesvar	N	verikoevastaus
 melkesukker	N	maitosoker
 såpestykke	N	saippuapala
-kjønnsstudium	N	
-litteraturstudie	N	
-kjønnsstudie	N	
-bachelorstudent	N	
-respirasjonsstøtte	N	
-kateterstørrelse	N	
-giftstoff	N	
-cellestoff	N	
-feberstigning	N	
-blodsukkerstigning	N	
-kompetansestige	N	
-næringstett	N	
-sykepleierstemme	N	
-tannstell	N	
-praksissted	N	
-bakteriestamme	N	
-inngangsport	N	
-praksisspørsmål	N	
-livskvalitetsspørsmål	N	
-kontrollspørsmål	N	
-sondespiss	N	
-kateterspiss	N	
-ernæringsonde	N	
-lengdesnitt	N	
-keisersnitt	N	
-luftsmerte	N	
-munnslimhinne	N	
-mestringskur	N	
-sykehusskjorte	N	
-væskeskjema	N	
-oppsummeringsskjema	N	
-evalueringsskjema	N	
-avviksskjema	N	
-anamneseskjema	N	
-PICO-skjema	N	
-MNA-skjema	N	
-bandasjeskift	N	
-arbeidskår	N	
-behandlingssituasjon	N	
-studiesirkel	N	
-kostsirkel	N	
-frivillighetssentral	N	
-responssenter	N	
-orgasmesenter	N	
-institusjonsseng	N	
-sårsekresjon	N	
-lungesekk	N	
-smertescore	N	
-kostsamtale	N	
-ekspertsammenslutning	N	
+kjønnsstudium	N	sukupuolentutkimus
+litteraturstudie	N	kirjallisuuskatsaus
+bachelorstudent	N	alemman korkeakoulutason opiskelija bacheloropiskelija
+respirasjonsstøtte	N	hengitystuki
+kateterstørrelse	N	katetrin koko
+giftstoff	N	myrkkyaine
+feberstigning	N	kuumeen nousu
+blodsukkerstigning	N	verensokerin nousu
+næringstett	N	energiarikas
+tannstell	N	hampaiden hoito
+praksissted	N	käytännön harjoittelupaikka
+bakteriestamme	N	bakteerikanta
+inngangsport	N	sisäänmenoportti
+kontrollspørsmål	N	kontrollikysymys
+sondespiss	N	sondin kärki
+kateterspiss	N	katetrin kärki
+ernæringsonde	N	ravitsemusletku
+keisersnitt	N	keisarileikkaus
+luftsmerte	N	ilmavaiva
+munnslimhinne	N	suun limakavo
+sykehusskjorte	N	potilaspaita
+oppsummeringsskjema	N	koontilomake
+evalueringsskjema	N	arviointilomake
+avviksskjema	N	vahinkoilmoituslomake   vahinkoilmoituslomake
+anamneseskjema	N	esitietolomake
+PICO-skjema	N	PICO-taulukko
+MNA-skjema	N	MNA-testilomake
+bandasjeskift	N	siteen vaihto
+arbeidskår	N	työolosuhteet
+behandlingssituasjon	N	hoitotilanne
+studiesirkel	N	opintopiiri
+kostsirkel	N	ravintoympyrä
+frivillighetssentral	N	vapaaehtoiskeskus
+institusjonsseng	N	hoitosänky
+sårsekresjon	N	haavaerite
+lungesekk	N	keuhkopussi
+smertescore	N	kivun pistemäärä
+
 næringssammensetning	N	
 kroppssammensetning	N	
 dråpesamler	N	
