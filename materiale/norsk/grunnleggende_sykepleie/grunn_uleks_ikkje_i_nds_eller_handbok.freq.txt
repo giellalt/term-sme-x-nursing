@@ -67,6 +67,11 @@ lengdesnitt
 væskeskjema	N	pesutaulukko
 responssenter	N	ottaa vastaan kaikki häsytykset
 ekspertsammenslutning	N	
+kroppssammensetning	N	kehon rakenne
+treningsregime	N	harjoitusohjelma
+faglighetsreform	N	
+forståelsesramme	N	ymmärrysperusta
+levekårsproblem	N	elinehto-ongelma    elinolosuhdeongelma
 
 
 
@@ -579,8 +584,6 @@ søvnhygiene	N	unihygienia
 penishode	N	peniksen pää
 bakhode	N	takaraivo
 sykdomshistorie	N	potilaan oma kertomus sairaudestaan
-
-
 muskelgruppe	N	lihasryhmä
 sammenlikningsgrunnlag	N	vertailuperuste
 litteraturgjennomgang	N	kirjallisuuskatsaus
@@ -603,20 +606,16 @@ respirasjonsdybde	N	hengityksen syvyys
 risikodiagnose	N	riskitiedot
 hånddesinfeksjon	N	käsidesinfektio
 søvndagbok	N	unipäiväkirja
-
-	
 tarmbevegelse	N	suolen liikkeet
 sirkelbevegelse	N	kehäliike
 kroppsbevegelse	N	kehon liike
 antibiotikabehandling	N	antibioottihoito
 låsbar	N	lukittava
-
 sykehusavdeling	N	sairaalaosasto
 fagartikkel	N	ammattialan artikkeli
 behandlingsansvar	N	hoitovastuu
 handlingsalternativ	N	toimintavaihtoehto
 minnealbum	N	muistoalbumi
-
 støtteverktøy	N	tukiväline
 blodsukkerverdi	N	verensokeriarvo
 KMI-verdi	N	painoindeksi    BMI
@@ -671,7 +670,6 @@ beslutningsstøtte	N	päätöstuki
 porsjonsstørrelse	N	annoskoko
 massasjestav	N	hierontasauva
 vitaminstatus	N	vitamiinitila
-
 respirasjonsstans	N	hengityspysähdys
 hjertestans	N	sydänpysähdys
 leddsmerte	N	nivelkipu
@@ -679,7 +677,6 @@ hvilesmerte	N	lepokipu
 omsorgssjef	N	kunnallinen terveyden ja sairaanhoidon johtaja
 samhandlingssituasjon	N	yhteistyötilanne
 problemsituasjon	N	ongelmatilanne
-
 infusjonssett	N	infuusiosetti
 sykehusseng	N	sairaalasänky
 transseksualisme	N	transseksualismi
@@ -999,51 +996,44 @@ institusjonsseng	N	hoitosänky
 sårsekresjon	N	haavaerite
 lungesekk	N	keuhkopussi
 smertescore	N	kivun pistemäärä
-
-næringssammensetning	N	
-kroppssammensetning	N	
-dråpesamler	N	
-sinusrytme	N	
-samfunnsrytme	N	
-toalettrutine	N	
-hygienerutine	N	
-arbeidsrutine	N	
-sykepleierrolle	N	
-nøkkelrolle	N	
-avføringsrest	N	
-slagrehabilitering	N	
-hverdagsrehabilitering	N	
-søvnregistrering	N	
-kostregistrering	N	
-inkontinensregister	N	
-nyreregion	N	
-blæreregion	N	
-treningsregime	N	
-handlingsregel	N	
-bluferdighetsregel	N	
-avhengighetsregel	N	
-faglighetsreform	N	
-avføringsrefleks	N	
-sorgreaksjon	N	
-krisereaksjon	N	
-morgenrapport	N	
-forståelsesramme	N	
-skumgummipute	N	
-leppepust	N	
-infusjonspumpe	N	
-stråleprøve	N	
-porsjonsprøve	N	
-brystprotese	N	
-forråtnelsesprosess	N	
-fordøyelsesprosess	N	
-betennelsesprosess	N	
-slaggprodukt	N	
-østrogenproduksjon	N	
-sykdomsproblem	N	
-smerteproblem	N	
-livskvalitetsproblem	N	
-levekårsproblem	N	
-hørselsproblem	N	
+næringssammensetning	N	ravitsemusyhdistelmä
+dråpesamler	N	virtsankarkailusuoja    tippasuoja
+sinusrytme	N	sinusrytmi
+samfunnsrytme	N	yhteiskunnan rytmi
+toalettrutine	N	vessassakäytnirutiini
+hygienerutine	N	hygieniatapa
+arbeidsrutine	N	työrutiini
+sykepleierrolle	N	sairaanhoitajan rooli
+nøkkelrolle	N	avainrooli
+avføringsrest	N	ulostejäänne
+slagrehabilitering	N	aivoverenkiertohäiriökuntoutus  AVH-kuntoutus
+hverdagsrehabilitering	N	arkikuntoutus
+søvnregistrering	N	unen rekisteröinti
+kostregistrering	N	ravitsemuksen kartoitus
+inkontinensregister	N	inkontinenssirekisteri
+nyreregion	N	munuaisten alue alue
+blæreregion	N	virtsarakon
+handlingsregel	N	toimintasääntö
+bluferdighetsregel	N	siveyssääntö
+uavhengighetsregel	N	riippumattomuussäänös
+avføringsrefleks	N	ulostusrefleksi
+sorgreaksjon	N	surureaktio
+krisereaksjon	N	kriisireaktio
+morgenrapport	N	ammuraportti
+skumgummipute	N	vaahtomuovityyny
+leppepust	N	huulirakohengitys   huulihengitys
+infusjonspumpe	N	infuusiopumppu
+stråleprøve	N	koe virtsasuihkusta
+brystprotese	N	rintaproteesi
+forråtnelsesprosess	N	mätänemisprosessi
+fordøyelsesprosess	N	ruoansulatusprosessi
+betennelsesprosess	N	tulehdusprosessi
+slaggprodukt	N	kuonaaine
+østrogenproduksjon	N	estrogeenin tuotanto
+sykdomsproblem	N	sairausongelma
+smerteproblem	N	kipuongelma
+livskvalitetsproblem	N	elämänlaatuongelma
+hørselsproblem	N	kuuloongelma
 hjerteproblem	N	
 avføringsproblem	N	
 prestasjonspress	N	
