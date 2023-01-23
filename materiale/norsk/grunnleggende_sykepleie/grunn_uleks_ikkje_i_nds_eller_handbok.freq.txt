@@ -72,6 +72,16 @@ treningsregime	N	harjoitusohjelma
 faglighetsreform	N	
 forståelsesramme	N	ymmärrysperusta
 levekårsproblem	N	elinehto-ongelma    elinolosuhdeongelma
+inngangsport	N	
+tilknytningsperson	N	smitteoverføring	N	tartunta ulkopinta
+kroppsoverflate	N	
+saksorientering	N	
+behandlingsopplegg	N	hoito
+muskelomfang	N	lihas
+måltidsmønster	N	aterionti
+uttrykksmiddel	N	ilmaisu
+
+
 
 
 
@@ -929,11 +939,11 @@ blødningstendens	N	vuototaipumus
 samtaletempo	N	keskustelun tempo
 omgivelsestemperatur	N	ympäristön lämpötila
 normaltemperatur	N	normaali lämpötila
-vakttelefon	N	
-velværeteknologi	N	
-sikkerhetsteknologi	N	
-sensorteknologi	N	
-gallestein	N	päivystyspuhelin
+vakttelefon	N	päivystyspuhelin
+velværeteknologi	N	hyvinvointiteknologia
+sikkerhetsteknologi	N	turvallisuusteknologia
+sensorteknologi	N	sensoriteknologia
+gallestein	N	sappikivi
 smertetegn	N	kivun merkki
 minustegn	N	miinusmerkki
 genitale	N	sukupuolielimet
@@ -1033,92 +1043,78 @@ slaggprodukt	N	kuonaaine
 sykdomsproblem	N	sairausongelma
 smerteproblem	N	kipuongelma
 livskvalitetsproblem	N	elämänlaatuongelma
-hørselsproblem	N	kuuloongelma
-hjerteproblem	N	
-avføringsproblem	N	
-prestasjonspress	N	
-oppsamlingspose	N	
-inngangsport	N	
-folkehelsepolitikk	N	
-sårpoliklinikk	N	
-dagsplan	N	
-aktivitetsplan	N	
-tømmingsplage	N	
-søvnplage	N	
-diaréplage	N	
-tilknytningsperson	N	
-feberperiode	N	
-stresspåvirkning	N	
-kuldepåvirkning	N	
-tarmpassasje	N	
-sykehuspasient	N	
-tarmparasitt	N	
-koronapandemi	N	
-syreoverskudd	N	
-smitteoverføring	N	
-kroppsoverflate	N	
-balanseøvelse	N	
-saksorientering	N	
-sakorientering	N	
-klitorisorgasme	N	
-pasientorganisasjon	N	
-fordøyelsesorgan	N	
-trygghetopplevelse	N	
-behandlingsopplegg	N	
-pasientopplæring	N	
-avlastningsopphold	N	
-studieoppgave	N	
-pasientoppfølging	N	
-menneskeoppfatning	N	
-detaljoppfatning	N	
-prostataoperasjon	N	
-vedlikeholdsomsorg	N	
-demensomsorg	N	
-tabuområde	N	
-sykepleieområde	N	
-muskelomfang	N	
-brukerombud	N	
-rapsolje	N	
-refleksjonsnotat	N	
-kvalitetsnorm	N	
-støynivå	N	
-blærenivå	N	
-CO2-narkose	N	
-CO-narkose	N	
-blæremuskulatur	N	
-ringmuskel	N	
-halsmuskel	N	
-ekspansjonsmulighet	N	
-aktivitetsmulighet	N	
-luftstrømmotstand	N	
-luftmotstand	N	
-reaksjonsmønster	N	
-måltidsmønster	N	
-aktivitetsmønster	N	
-sukkermolekyl	N	
-hemoglobinmolekyl	N	
-rollemodell	N	
-egenomsorgsmodell	N	
-sykehusmiljø	N	
-rusmiljø	N	
-institusjonsmiljø	N	
-behandlingsmiljø	N	
-uttrykksmiddel	N	
-oppvaskmiddel	N	
-kommunikasjonsmiddel	N	
-festemiddel	N	
-undersøkelsesmetode	N	
-søvnmengde	N	
-sekresjonsmengde	N	
-fibermengde	N	
-drikkemengde	N	
-fibermengde	N	
-drikkemengde	N	
-vannmelon	N	
-vekstmedium	N	
-morgenmedisin	N	
-kreftmedisin	N	
-MS-medisin	N	
+hørselsproblem	N	kuulo-ongelma
+hjerteproblem	N	sydänongelma
+avføringsproblem	N	ulostusongelma
+prestasjonspress	N	suorituspaine
+oppsamlingspose	N	keräyspussi
+folkehelsepolitikk	N	kansanterveyspolitiikka
+sårpoliklinikk	N	haavapoliklinikka
+dagsplan	N	paiväsuunnitelma
+aktivitetsplan	N	aktiviteettisuunnitelma
+tømmingsplage	N	tyhjennysvaiva
+søvnplage	N	univaikeus
+diaréplage	N   ripulivaiva
+feberperiode	N	kuumejakso
+stresspåvirkning	N	stressin vaikutus
+kuldepåvirkning	N	kylmän vaikutus
+tarmpassasje	N	suolistoreitti
+sykehuspasient	N	sairaalapotilas
+tarmparasitt	N	suolistoloinen  suolistoparasiitti
+koronapandemi	N	koronapandemia
+syreoverskudd	N	happoylijäämä
+balanseøvelse	N	tasapainoharjoitus
+pasientorganisasjon	N	potilasjärjestö
+fordøyelsesorgan	N	ruoansulatuselin
+trygghetopplevelse	N	turvallisuuden kokemus
+pasientopplæring	N	potilasopetus
+avlastningsopphold	N	lyhytaikaishoito
+studieoppgave	N	opintotehtävä
+pasientoppfølging	N	potilaan seuranta
+menneskeoppfatning	N	ihmiskäsitys
+detaljoppfatning	N	yksityiskohtien ymmärrys    yksityiskohtien ymmärtäminen
+prostataoperasjon	N	eturauhasen leikkaus
+vedlikeholdsomsorg	N	ylläpitohoito
+demensomsorg	N	dementian hoito
+tabuområde	N	tabualue
+sykepleieområde  N  sairaanhoidon alue
+brukerombud	N	potilasasiamies
+rapsolje	N	rapsiöljy
+refleksjonsnotat	N	reflektiokirjoitus
+kvalitetsnorm	N	laatunormi
+støynivå	N   melutaso
+CO2-narkose	N	hiilidioksidinarkoosi
+CO-narkose	N	häkämyrkytys
+blæremuskulatur	N	rakkolihakset
+ringmuskel	N	sulkijalihas
+halsmuskel	N	päänkiertäjälihas
+ekspansjonsmulighet	N	laajenemismahdollisuus
+aktivitetsmulighet	N	aktivitettimahdollisuus
+luftstrømmotstand	N	ilmavirran vastus
+luftmotstand	N	ilmanvastus
+reaksjonsmønster	N	reaktiotapa
+aktivitetsmønster	N	aktiviteettitavat
+sukkermolekyl	N	sokerimolekyyli
+hemoglobinmolekyl	N	hemoglobiinimolekyyli
+rollemodell	N	roolimalli
+egenomsorgsmodell	N	itsehoitomalli
+sykehusmiljø	N	sairaalamiljöö
+rusmiljø	N	huumepiiri
+institusjonsmiljø	N	laitosympäristö
+behandlingsmiljø	N	hoitoympäristö
+oppvaskmiddel	N	tiskiaine
+kommunikasjonsmiddel	N	kommunikaatioväline
+festemiddel	N	kiinnitysaine
+undersøkelsesmetode	N	tutkimusmetodi
+søvnmengde	N	unen määrä
+sekresjonsmengde	N	eritteen määrä
+fibermengde	N	kuidun määrä
+drikkemengde	N	juoman määr
+vannmelon	N	vesimeloni
+vekstmedium	N	elatusaine
+morgenmedisin	N	ammulääke
+kreftmedisin	N	syöpälääke
+MS-medisin	N	MS-tautilääke
 skummateriale	N	
 protesemateriale	N	
 uttrykksmåte	N	
