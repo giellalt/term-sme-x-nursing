@@ -80,6 +80,15 @@ behandlingsopplegg	N	hoito
 muskelomfang	N	lihas
 måltidsmønster	N	aterionti
 uttrykksmiddel	N	ilmaisu
+skummateriale	N	
+selvhjelpløsning	N	
+tilsynslege	N	
+barselkvinne	N	juuri synnyttänyt nainen
+påstandskunnskap	N	
+TT-kort	N	
+tildelingskontor	N
+kunnskapskomponent	N	tiedon osatekijät
+innholdskomponent	N	
 
 
 
@@ -1115,102 +1124,87 @@ vekstmedium	N	elatusaine
 morgenmedisin	N	ammulääke
 kreftmedisin	N	syöpälääke
 MS-medisin	N	MS-tautilääke
-skummateriale	N	
-protesemateriale	N	
-uttrykksmåte	N	
-reaksjonsmåte	N	
-forståelsesmåte	N	
-kroppsmasse	N	
-diagnosemanual	N	
-søvnmangel	N	
-jodmangel	N	
-testmåltid	N	
-skolemåltid	N	
-kveldsmåltid	N	
-fellesmåltid	N	
-blodsukkermåling	N	
-kjønnsmajoritet	N	
-skummadrass	N	
-vellukt	N	
-matlukt	N	
-tarmluft	N	
-inspirasjonsluft	N	
-tannløsning	N	
-selvhjelpløsning	N	
-eggløsning	N	
-litteraturliste	N	
-baseline	N	
-pleielidelse	N	
-nyrelidelse	N	
-hjertelidelse	N	
-angstlidelse	N	
-avføringslekkasje	N	
-stemmeleie	N	
-legemiddel	N	
-tilsynslege	N	
-allmennlege	N	
-LIS-lege	N	
-organisasjonslæring	N	
-ferdighetslæring	N	
-eksempellæring	N	
-stikklaken	N	
-barselkvinne	N	
-tjenestekvalitet	N	
-proteinkvalitet	N	
-behandlingskvalitet	N	
-feberkurve	N	
-døgnrytmekurve	N	
-samlivskurs	N	
-påstandskunnskap	N	
-ferdighetskunnskap	N	
-idealkropp	N	
-prosesskriterium	N	
-prioriteringskriterium	N	
-evalueringskriterium	N	
-lungekretsløp	N	
-testikkelkreft	N	
-tilleggskrav	N	
-mengdekrav	N	
-erstatningskrav	N	
-hjertekrampe	N	
-pumpekraft	N	
-livskraft	N	
-hostekraft	N	
-ringkost	N	
-ringkost	N	
-ringkost	N	
-ønskekost	N	
-stellekort	N	
-prospektkort	N	
-TT-kort	N	
-ILO-konvensjon	N	
-hjertekontraksjon	N	
-tildelingskontor	N	
-sykehuskontekst	N	
-pasientkontakt	N	
-videokonsultasjon	N	
-hemoglobinkonsentrasjon	N	
-idrettskonkurranse	N	
-rollekonflikt	N	
-kulturkonflikt	N	
-støttekondom	N	
-kunnskapskomponent	N	
-innholdskomponent	N	
-samhandlingskompetanse	N	
-mestringskompetanse	N	
-oppsamlingskolbe	N	
-ankelknoke	N	
-avføringsklump	N	
-rådgivningsklinikk	N	
-veneklaff	N	
-talgkjertel	N	
-lyskilde	N	
-kunnskapskilde	N	
-nesekateter	N	
-avføringskart	N	
-leddkapsel	N	
-syrekapp	N	
-blærekapasitet	N	
+uttrykksmåte	N	ilmaisutapa
+reaksjonsmåte	N	reaktiotapa
+forståelsesmåte	N	ymmärrystapa
+kroppsmasse	N	kehon massa
+diagnosemanual	N	tautien luokittelun käsikirja   tautien luokittelun ohjekirja
+søvnmangel	N	unen puute
+jodmangel	N	jodin puute
+testmåltid	N	testiateria
+skolemåltid	N	kouluateria
+kveldsmåltid	N	iltapala
+fellesmåltid	N	yhteinen ateria
+blodsukkermåling	N	verensokerin mittaus
+kjønnsmajoritet	N	sukupuolienemmistö
+skummadrass	N	vaahtomuovipatja
+vellukt	N	hyvä tuoksu
+matlukt	N	ruoan tuoksu
+tarmluft	N	suolistoilma
+inspirasjonsluft	N	sisäänhengitysilma
+tannløsning	N	hampaan irtoaminen
+eggløsning	N	munasolun irtoaminen
+litteraturliste	N	lähdeluettelo
+baseline	N	lähtökohta  vertailukohta
+pleielidelse	N	hoitokärsimys
+nyrelidelse	N	munuaistauti
+hjertelidelse	N	sydäntauti
+angstlidelse	N	ahdistuneisuushäiriö
+avføringslekkasje	N	ulosteen karkaaminen    ulosteinkontinenssi
+stemmeleie	N	äänenpaino
+legemiddel	N	lääke  
+allmennlege	N	yleislääkäri
+LIS-lege	N	erikoistuva lääkäri
+organisasjonslæring	N	organisaatioden oppiminen
+ferdighetslæring	N	käytännön taitojen oppiminen
+eksempellæring	N	esimerkin avulla oppiminen
+stikklaken	N	poikkilakana
+tjenestekvalitet	N	palvelun laatu
+proteinkvalitet	N	proteiinin laatu
+behandlingskvalitet	N	hoidon laatu
+feberkurve	N	kuumekäyrä
+døgnrytmekurve	N	vuorokausirytmin käyrä
+samlivskurs	N	parisuhdekurssi
+ferdighetskunnskap	N	käytännön tieto
+idealkropp	N	ideaali keho    ihannekeho
+prosesskriterium	N	prosessikriteeri
+prioriteringskriterium	N	priorisointikriteeri
+evalueringskriterium	N	arviointikriteeri
+lungekretsløp	N	keuhkoverenkierto
+testikkelkreft	N	kivessyöpä
+tilleggskrav	N	lisävaatimus
+mengdekrav	N	määrällinen vaatimus
+erstatningskrav	N	korvausvaatimus
+hjertekrampe	N	sydänkouristus
+pumpekraft	N	pumppausvoima
+livskraft	N	elinvoima
+hostekraft	N	yskimisvoima	
+ønskekost	N	toiveruoka
+stellekort	N	(yksilöllinen) hoito-ohje
+ILO-konvensjon	N	ILO:n sopimus nro 169   Itsenäisten maiden alkuperäis- ja heimokansoja koskeva yleissopimus
+hjertekontraksjon	N	sydänlihaksen supistuminen
+pasientkontakt	N	potilaskontakti
+videokonsultasjon	N	videovastaanotto
+hemoglobinkonsentrasjon	N	hemoglobiinikonsentraatio
+idrettskonkurranse	N	urheilukilpailu
+rollekonflikt	N	rooliristiriita
+kulturkonflikt	N	kultuuriristiriita
+støttekondom	N	tukikondomi
+samhandlingskompetanse	N	yhteistyötaito
+mestringskompetanse	N	hallintataito
+oppsamlingskolbe	N	keräysastia
+ankelknoke	N	kehräsluu
+avføringsklump	N	ulostemöykky
+rådgivningsklinikk	N	neuvontayksikkö neuvontaklinikka
+veneklaff	N	laskimoläppä
+talgkjertel	N	talirauhanen
+lyskilde	N	valonlähde
+kunnskapskilde	N	tietolähde
+nesekateter	N	nenäkatetri
+avføringskart	N	ulosteluokitus
+leddkapsel	N	nivelkapseli
+syrekapp	N	happovaippa
+blærekapasitet	N	virtsarakon??
 arbeidskapasitet	N	
 blærekanne	N	
 fruktjuice	N	
