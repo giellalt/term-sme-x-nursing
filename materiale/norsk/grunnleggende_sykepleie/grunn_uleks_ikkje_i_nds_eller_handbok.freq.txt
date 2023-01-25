@@ -89,7 +89,9 @@ TT-kort	N
 tildelingskontor	N
 kunnskapskomponent	N	tiedon osatekijät
 innholdskomponent	N	
-
+passasjehindring	N	
+legemiddelhåndtering	N	lääkehoito??
+legevakthåndbok	N	
 
 
 
@@ -1204,49 +1206,42 @@ nesekateter	N	nenäkatetri
 avføringskart	N	ulosteluokitus
 leddkapsel	N	nivelkapseli
 syrekapp	N	happovaippa
-blærekapasitet	N	virtsarakon??
-arbeidskapasitet	N	
-blærekanne	N	
-fruktjuice	N	
-pasientjournalsystem	N	
+blærekapasitet	N	virtsarakon kapasiteetti
+arbeidskapasitet	N	työkapasiteetti
+fruktjuice	N	hedelmätuoremehu
+pasientjournalsystem	N	potilaskertomusjärjestelmä
 kunnskapsinteresse	N	
 pasientintegritet	N	
 rehabiliteringsinstitusjon	N	
 synsinntrykk	N	
 bevegelsesinnskrenkning	N	
-plastinnlegg	N	
-inkontinensinnlegg	N	
-målinnhold	N	
-fiberinnhold	N	
-fettinnhold	N	
-bevissthetsinnhold	N	
-betydningsinnhold	N	
-bakterieinnhold	N	
-anstrengelsesinkontinens	N	
-insulininjeksjon	N	
-tarminfeksjon	N	
-klamydiainfeksjon	N	
-yrkesidentitet	N	
-problemidentifisering	N	
-skjønnhetsideal	N	
-kroppsideal	N	
-lufthunger	N	
-bilhold	N	
-sykepleierhøgskole	N	
-sykepleiehjelp	N	
-brysthinne	N	
-passasjehindring	N	
-hårvaskhette	N	
-kvinnehelse	N	
-strømhastighet	N	
-infusjonshastighet	N	
-legemiddelhåndtering	N	
-støttehåndtak	N	
-legevakthåndbok	N	
-samtalegruppe	N	
-refleksjonsgruppe	N	
-helsepersonellgruppe	N	
-forskergruppe	N	
+plastinnlegg	N   tiedonintressi
+inkontinensinnlegg	N	inkontinenssisuoja
+målinnhold	N	tavoitteiden sisältö
+fiberinnhold	N	kuidun sisältö
+fettinnhold	N	rasvan määrä
+bevissthetsinnhold	N	tajunnan sisältö
+betydningsinnhold	N	merkityssisältö
+bakterieinnhold	N	bakteerimäärä
+anstrengelsesinkontinens	N	ponnistusinkontinenssi
+insulininjeksjon	N	insuliini-injektio  insuliinin pistäminen
+tarminfeksjon	N	suolistoinfektio
+klamydiainfeksjon	N	klamydiainfektio
+yrkesidentitet	N	ammatti-identiteetti
+problemidentifisering	N	ongelman tunnistaminen
+skjønnhetsideal	N	kauneusihanne
+kroppsideal	N	kehoihanne
+lufthunger	N	ilmannälkä
+sykepleierhøgskole	N	sairaanhoitaja ammattikorkeakoulu   sairaanhoitaja (AMK)
+sykepleiehjelp	N	sairaanhoito
+brysthinne	N	rintakalvo
+hårvaskhette	N	hiustenpesumyssy
+kvinnehelse	N	naisten terveys
+strømhastighet	N	virtausnopeus
+infusjonshastighet	N	infuusionopeus
+støttehåndtak	N	tukikahva
+samtalegruppe	N	keskusteluryhmä
+refleksjonsgruppe	N	reflektioryhmä
 erfaringsgrunnlag	N	
 bekvemmelighetsgrunn	N	
 kulturgrense	N	
