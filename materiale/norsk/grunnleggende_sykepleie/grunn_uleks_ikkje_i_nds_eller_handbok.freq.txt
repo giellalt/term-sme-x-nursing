@@ -92,7 +92,15 @@ innholdskomponent	N
 passasjehindring	N	
 legemiddelhåndtering	N	lääkehoito??
 legevakthåndbok	N	
-
+e-helseforskning	N	
+militærformål	N	armeijan tarkoitu
+rehabiliteringsforløp	N	kuntoutus???
+handlingsforløp	N	
+temperaturforhold	N	lämpøolosuhteet
+utskrivingsbrev	N	
+kjøttbetennelse	N	
+taushetsbestemmelse	N	vaitiolopäätös
+miljøbehandling	N	ympäristön käsittely
 
 
 
@@ -1242,88 +1250,76 @@ infusjonshastighet	N	infuusionopeus
 støttehåndtak	N	tukikahva
 samtalegruppe	N	keskusteluryhmä
 refleksjonsgruppe	N	reflektioryhmä
-erfaringsgrunnlag	N	
-bekvemmelighetsgrunn	N	
-kulturgrense	N	
-profesjonsgrad	N	
-strømgods	N	
-måltidsglede	N	
-livsglede	N	
-blodprøveglass	N	
-hodegjerde	N	
-tarmgass	N	
-svelgfunksjon	N	
-organfunksjon	N	
-hjertefunksjon	N	
-blærefunksjon	N	
-ADL-funksjon	N	
-hudfuktighet	N	
-spissfot	N	
-infeksjonsforsvar	N	
-atferdsforstyrrelse	N	
-e-helseforskning	N	
-omsorgsformål	N	
-militærformål	N	
-tablettform	N	
-passform	N	
-læringsform	N	
-rehabiliteringsforløp	N	
-handlingsforløp	N	
-temperaturforhøyelse	N	
-temperaturforhold	N	
-ernæringsforhold	N	
-kreftforening	N	
-loggføre	N	
-allergiforbund	N	
-lovforbud	N	
-pulsforandring	N	
-lekfolk	N	
-virkelighetsflukt	N	
-normalflora	N	
-livsfilosofi	N	
-hudfett	N	
+erfaringsgrunnlag	N	kokemusperusta
+bekvemmelighetsgrunn	N	mukavuusperusta
+kulturgrense	N	kulttuuriraja
+profesjonsgrad	N	ammattitutkinto
+livsglede	N	elämänilo
+blodprøveglass	N	verinäytteenottoputki
+hodegjerde	N	pääpuolen sängyn pääty
+tarmgass	N	suolistokaasu
+svelgfunksjon	N	nielemistoiminto
+organfunksjon	N	elintoiminto
+hjertefunksjon	N	sydämentoiminta
+blærefunksjon	N	rakon toiminta
+ADL-funksjon	N	ADL-toiminto
+hudfuktighet	N	ihonkosteus
+spissfot	N	riippujalka
+infeksjonsforsvar	N	infektion vastustuskyky
+atferdsforstyrrelse	N	käytöshäiriö
+omsorgsformål	N	hoivatarkoitus
+tablettform	N	tablettimuoto
+passform	N	sopivuus
+læringsform	N	oppimismenetelmä
+temperaturforhøyelse	N	kuumeen nousu
+ernæringsforhold	N	ravitsemustila
+loggføre	N	kirjata
+allergiforbund	N	allerigaliitto
+lovforbud	N	lailla kielletty
+pulsforandring	N	sykkeen muutos
+lekfolk	N	maallikko
+virkelighetsflukt	N	pako todellisuudesta
+normalflora	N	normaalifloora  normaalimikrobisto
+livsfilosofi	N	elämänfilosofia
+hudfett	N	ihon rasvakerros
 begrepsfeste	N	
 fingerferdighet	N	
-overskuddsfenomen	N	
-yrkesfelt	N	
-kroppsfasong	N	
-østrogenfall	N	
-atferdsfaktor	N	
-svelgeevne	N	
-pumpeevne	N	
-sykdomsepisode	N	
-kjerneenhet	N	
-kostholdsendring	N	
-atferdsendring	N	
-lungeemboli	N	
-blæredysfunksjon	N	
-sykepleiedokumentasjon	N	
-overdosedødsfall	N	
-sykdomsdiagnose	N	
-arrdanning	N	
-sprekkdannelse	N	
-luftdannelse	N	
-hjernecelle	N	
-sykdomsbyrde	N	
-maskebruk	N	
-maktbruk	N	
-lårhalsbrudd	N	
-utskrivingsbrev	N	
-hudblødning	N	
-arterieblod	N	
-cellebiologi	N	
-livsbetingelse	N	
-kjøttbetennelse	N	
-sykehjemsbestyrer	N	
-taushetsbestemmelse	N	
-handlingsberedskap	N	
-sykepleiebehov	N	
-sykdomsbehandling	N	
-miljøbehandling	N	
-giftbehandling	N	
-dialysebehandling	N	
-verdensbegrep	N	
-kompresjonsbandasje	N	
+overskuddsfenomen	N	käsitteellistää
+yrkesfelt	N	ammattiala
+kroppsfasong	N	vartalonmalli
+østrogenfall	N	estrogeenin tason putoaminen
+atferdsfaktor	N	käyttäytymiseen liittyvä tekijä käytöstekijä
+svelgeevne	N	nielemiskyky
+pumpeevne	N	pumppauskyky
+sykdomsepisode	N	sairausjakso
+kjerneenhet	N	ydinyksikkö
+kostholdsendring	N	ravitsemuksen muutos
+atferdsendring	N	käytöksen muutos
+lungeemboli	N	keuhkoembolia
+blæredysfunksjon	N	rakon toimintahäiriö
+sykepleiedokumentasjon	N	hoitotyön kirjaaminen
+overdosedødsfall	N	yliannostuskuolema
+sykdomsdiagnose	N	tautidiagnoosi
+arrdanning	N	arpeutuminen
+sprekkdannelse	N	halkeaman muodostuminen
+luftdannelse	N	ilman muodostuminen
+hjernecelle	N	aivosolu
+sykdomsbyrde	N	sairaustaakka   sairauskuorma
+maskebruk	N	kasvomaskin käyttö  kasvosuojaimen käyttö
+maktbruk	N	vallankäyttö
+lårhalsbrudd	N	reisiluun kaulan murtuma
+hudblødning	N	ihon verenvuoto
+arterieblod	N	valtimoveri
+cellebiologi	N	solubiologia
+livsbetingelse	N	elinolosuhteet
+sykehjemsbestyrer	N	hoivakodin johtaja
+handlingsberedskap	N	toimintavalmius
+sykepleiebehov	N	hoidontarve
+sykdomsbehandling	N	sairauden hoito
+giftbehandling	N	myrkkykäsittely
+dialysebehandling	N	dialyysihoito
+verdensbegrep	N	maailmankuva    maailmankäsitys
+kompresjonsbandasje	N	kompressioside
 trykkavlastning	N	
 håravfall	N	
 barselavdeling	N	
