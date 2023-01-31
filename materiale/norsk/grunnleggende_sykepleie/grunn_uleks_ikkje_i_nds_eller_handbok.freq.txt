@@ -101,6 +101,11 @@ utskrivingsbrev	N
 kjøttbetennelse	N	
 taushetsbestemmelse	N	vaitiolopäätös
 miljøbehandling	N	ympäristön käsittely
+trykkavlastning	N	
+helseveiledning	N   terveysohjaus
+forbrenningsvæske	N	
+skadeutvalg	N	
+brukerutvalg	N	
 
 
 
@@ -1320,86 +1325,76 @@ giftbehandling	N	myrkkykäsittely
 dialysebehandling	N	dialyysihoito
 verdensbegrep	N	maailmankuva    maailmankäsitys
 kompresjonsbandasje	N	kompressioside
-trykkavlastning	N	
-håravfall	N	
-barselavdeling	N	
-rolleatferd	N	
-pleieassistent	N	
-kransarterie	N	
-ultralydapparat	N	
-blodtrykksapparat	N	
-syreangrep	N	
-hosteanfall	N	
-virusanalyse	N	
-matallergi	N	
-kontaktallergi	N	
-sykepleieaktivitet	N	
-hjerneaktivitet	N	
-risikovurderingsskjema	N	
-pasientvurdering	N	
-kunnskapsvurdering	N	
-plasmavolum	N	
-muskelvolum	N	
-luftvolum	N	
-inspirasjonsvolum	N	
-døgnvolum	N	
-blodviskositet	N	
-nakkevirvel	N	
-livsvilje	N	
-stillingsvern	N	
-leddvern	N	
-screeneverktøy	N	
-sykepleieverdi	N	
-nonverbal	N	
-stolvekt	N	
-fødselsvekt	N	
-muskelsvekkelse	N	
-telefonveiledning	N	
-sårveiledning	N	
-kollegaveiledning	N	
-helseveiledning	N	
-katetervegg	N	
-blærevegg	N	
-overskuddsvæske	N	
-ødemvæske	N	
-klystervæske	N	
-forbrenningsvæske	N	
-underlivvask	N	
-såpevask	N	
-ryggvask	N	
-katetervask	N	
-kroppsvarme	N	
-fordampningsvarme	N	
-tømmingsvanske	N	
-synsvanske	N	
-tømmingsvane	N	
-dagvakt	N	
-veneutvidelse	N	
-skadeutvalg	N	
-brukerutvalg	N	
-oksygenutstyr	N	
-beskyttelsesutstyr	N	
-omsorgsutøver	N	
-varmeutmattelse	N	
-helseutgift	N	
-natturin	N	
-sykepleieruniform	N	
+håravfall	N	hiusten lähtö   hiuskato
+barselavdeling	N	synnyttäneiden osasto
+rolleatferd	N	roolikäyttäytyminen
+pleieassistent	N	hoitoapulainen
+kransarterie	N	sepelvaltimo
+ultralydapparat	N	ultraäänilaite
+blodtrykksapparat	N	verenpainemittari
+syreangrep	N	happohyökkäys
+hosteanfall	N	yskänkohtaus
+virusanalyse	N	virusanalyysi
+matallergi	N	ruoka-allergia
+kontaktallergi	N	kosketusihottuma
+hjerneaktivitet	N	aivojen aktiviteetit
+risikovurderingsskjema	N	riskiarviointilomake
+pasientvurdering	N	potilaan (hoidotarpeen) arviointi
+kunnskapsvurdering	N	tiedon arviointi
+plasmavolum	N	plasmatilavuus  plasmavolyymi
+muskelvolum	N	lihasvolyymi
+luftvolum	N	 ilmavolyymi
+inspirasjonsvolum	N	sisäänhengitysvolyymi
+døgnvolum	N	vuorokausivolyymi
+blodviskositet	N	veren viskositeetti
+nakkevirvel	N	kaulanikama
+livsvilje	N	elämänhalu
+stillingsvern	N	työsuhdeturva
+leddvern	N	nivelen suojaus	
+sykepleieverdi	N	hoitotyön arvot
+nonverbal	N	nonverbaalinen  sanaton
+stolvekt	N	tuolivaaka
+fødselsvekt	N	syntymäpaino
+muskelsvekkelse	N	lihasheikkous
+telefonveiledning	N	puhelinohjaus
+sårveiledning	N	haavahoidon ohjaus
+kollegaveiledning	N	vertaisohjaus
+blærevegg	N	rakon seinämä
+overskuddsvæske	N	liika neste
+ødemvæske	N	turvokuksen aiheuttama nestekertymä
+underlivvask	N	alapesu
+såpevask	N	saippuapesu
+ryggvask	N	selänpesu
+kroppsvarme	N	ruumiinlämpö
+fordampningsvarme	N	haihtumislämpö
+tømmingsvanske	N	(rakon) tyhjentämishäiriö
+synsvanske	N	näköhäiriö
+tømmingsvane	N	tyhjentämistapa
+dagvakt	N	päivävuoro
+veneutvidelse	N	laskimolaajentuma
+oksygenutstyr	N	happilaite
+beskyttelsesutstyr	N	suojavaruste
+omsorgsutøver	N	hoidon antaja
+varmeutmattelse	N	hypertermia
+helseutgift	N	terveydenhoitomeno
+natturin	N	yövirtsa
+sykepleieruniform	N	sairaanhoitajan univormu
 ultralydundersøkelse	N	
 strimmelundersøkelse	N	
-røntgenundersøkelse	N	
-kartleggingsundersøkelse	N	
-EKG-undersøkelse	N	
-søvnunderskudd	N	
-kjønnsulikhet	N	
-foldtykkelse	N	
-katetertupp	N	
-vekseltrykk	N	
-urintrykk	N	
-pasienttrygghet	N	
-nettingstruse	N	
-venetrombose	N	
-madrasstrekk	N	
-hygienetrekant	N	
+røntgenundersøkelse	N	kaikututkimus   ultraäänitutkimus
+kartleggingsundersøkelse	N	kartoitustutkimus
+EKG-undersøkelse	N	EKG-tutkimus
+søvnunderskudd	N	univaje
+kjønnsulikhet	N	sukupuoliero
+foldtykkelse	N	(esim. niska)poimun paksuus
+katetertupp	N	katetrin pää
+vekseltrykk	N	vaihtuva paine
+urintrykk	N	virtsan paine
+pasienttrygghet	N	potilasturvallisuus
+nettingstruse	N	verkkohousut
+venetrombose	N	laskimotukos    laskimotromboosi
+madrasstrekk	N	patjansuojus
+hygienetrekant	N	hygienia
 tømmingstrang	N	
 urinstråle	N	
 klapptørking	N	
