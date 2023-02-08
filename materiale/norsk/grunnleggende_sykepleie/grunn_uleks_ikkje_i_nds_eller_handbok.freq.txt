@@ -106,6 +106,9 @@ helseveiledning	N   terveysohjaus
 forbrenningsvæske	N	
 skadeutvalg	N	
 brukerutvalg	N	
+e-helsetiltak	N	
+undervisningssykehjem	N	
+omsorgssirkel	N	
 
 
 
@@ -1395,85 +1398,78 @@ nettingstruse	N	verkkohousut
 venetrombose	N	laskimotukos    laskimotromboosi
 madrasstrekk	N	patjansuojus
 hygienetrekant	N	hygienia
-tømmingstrang	N	
-urinstråle	N	
-klapptørking	N	
-klapptørke	N	
-laktosetoleranse	N	
-aktivitetstoleranse	N	
-svettetokt	N	
-bakterietoksin	N	
-sykepleietjeneste	N	
-hjemmesykepleietjeneste	N	
-besøkstjeneste	N	
-legetime	N	
-e-helsetiltak	N	
-sjokktilstand	N	
-ernæringstilskudd	N	
-behovstilfredsstillelse	N	
+tømmingstrang	N	ulostamisen tarve
+urinstråle	N	virtsasuihku
+klapptørking	N	taputtelukuivaus
+klapptørke	N	kuivata taputtelemalla
+laktosetoleranse	N	laktoosi-intoleranssi
+aktivitetstoleranse	N	liikunnan sietäminen
+svettetokt	N	hikoilukohtaus
+bakterietoksin	N	bakteerimyrkky
+sykepleietjeneste	N	sairaanhoitopalvelut
+hjemmesykepleietjeneste	N	kotisairaanhoidon palvelut
+besøkstjeneste	N	ystävätoiminta
+legetime	N	lääkäriaika
+sjokktilstand	N	shokkitila
+ernæringstilskudd	N	ravintolisä
+behovstilfredsstillelse	N	tarpeen tyydytys
 kontakttermometer	N	
 hudtermometer	N	
 arterietermometer	N	
 oksygenterapi	N	
 avledningsterapi	N	
 forfallstendens	N	
-dråpeteller	N	
-forflytningsteknikk	N	
-genital	N	
-venesystem	N	
-velferdssystem	N	
-sirkulasjonssystem	N	
-fordøyelsessystem	N	
-utmattelsessyndrom	N	
-pussylinder	N	
-søvnsyklus	N	
-respirasjonssyklus	N	
-undervisningssykehjem	N	
-virussykdom	N	
-pestsykdom	N	
-luftveissykdom	N	
-kvinnesykdom	N	
-kolssykdom	N	
-gallesykdom	N	
-alderssykdom	N	
-livsvane	N	
-signalsubstans	N	
-brukerstyring	N	
-intervensjonsstudie	N	
-tømmingstrang	N	
-urinstråle	N	
-midtstråle	N	
-hvilestoffskifte	N	
-hjertestans	N	
-pubertetsstadium	N	
-blærespreng	N	
-tubespiss	N	
-stemmespalte	N	
-deltasøvn	N	
-muggsopp	N	
-heteslag	N	
-transkjønn	N	
-risikovurderingsskjema	N	
-sårskifte	N	
-vaktskift	N	
-fettstoffskifte	N	
-synsskarphet	N	
-risikovurderingskala	N	
-penisskaft	N	
-vevskade	N	
-stråleskade	N	
-støyskade	N	
-stikkskade	N	
-organskade	N	
-nyreskade	N	
-fødselsskade	N	
-bruddskade	N	
-blæreskade	N	
-alkoholskade	N	
-praksissjokk	N	
-blødningssjokk	N	
-helsesjekk	N	
-omsorgssirkel	N	
+dråpeteller	N	kosketuskuumemittari    ihokuumemittari
+forflytningsteknikk	N	siirtotekniikka
+genital	N	sukupulielimet
+venesystem	N	laskimojärjestelmä
+velferdssystem	N	hyvinvointijärjestelmä
+sirkulasjonssystem	N	verenkiertojärjestelmä
+fordøyelsessystem	N	ruoansulatusärjestelmä
+utmattelsessyndrom	N	väsymysoireyhtymä
+søvnsyklus	N	unijakso
+respirasjonssyklus	N   hengityssykli
+virussykdom	N	virussairaus
+pestsykdom	N	ruttotauti
+luftveissykdom	N	hengityselinsairaus
+kvinnesykdom	N	naistentaudit
+kolssykdom	N	keuhkoahtaumatauti
+gallesykdom	N	sappikivitauti
+alderssykdom	N	vanhusten sairaus
+livsvane	N	elintapa
+signalsubstans	N	signaaliaine
+brukerstyring	N	asiakaslähtöisyys
+intervensjonsstudie	N	interventiotutkimus
+hvilestoffskifte	N	lepoaineenvaihdunta
+hjertestans	N	sydänpysähdys
+pubertetsstadium	N	puberteettivaihe
+blærespreng	N	paineen tuntu virtsarakossa
+tubespiss	N	tuubin kärki
+stemmespalte	N   äänirako
+deltasøvn	N	syvä uni    deltauni
+muggsopp	N	homesieni
+heteslag	N	lämpöhalvaus
+transkjønn	N	transsukupuoli
+risikovurderingsskjema	N	riskinarviointilomake
+sårskifte	N	haavanhoito
+vaktskift	N	vuoronvaihto
+fettstoffskifte	N	rasva-aineenvaihdunta
+synsskarphet	N	näöntarkkuus
+risikovurderingskala	N	riskinarviointiasteikko
+penisskaft	N	siittimen varsi
+vevskade	N	kudosvaurio
+stråleskade	N	sädetysvaurio
+støyskade	N	meluvaurio
+stikkskade	N	pistovamma
+organskade	N	elinvaurio
+nyreskade	N	munuaisvaurio
+fødselsskade	N	syntymävamma
+bruddskade	N	murtumavamma
+blæreskade	N	virtsarakon vamma
+alkoholskade	N	alkoholin aiheuttama vamma
+praksissjokk	N	hintashokki
+blødningssjokk	N	vuotosokki
+helsesjekk	N	terveystarkastus
 behandlingssirkel	N	
 membranside	N	
 kroppsside	N	
