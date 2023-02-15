@@ -109,6 +109,13 @@ brukerutvalg	N
 e-helsetiltak	N	
 undervisningssykehjem	N	
 omsorgssirkel	N	
+behandlingssirkel
+tømmingsregime	N	
+kostholdregime	N	
+isolasjonsregime	N	
+diettregime	N	
+behandlingsregime	N
+tillitreform	N	
 
 
 
@@ -1470,57 +1477,48 @@ alkoholskade	N	alkoholin aiheuttama vamma
 praksissjokk	N	hintashokki
 blødningssjokk	N	vuotosokki
 helsesjekk	N	terveystarkastus
-behandlingssirkel	N	
-membranside	N	
-kroppsside	N	
-klystersetting	N	
-luktsenter	N	
-brekningssenter	N	
-bleiesensor	N	
-korridorseng	N	
-hælsene	N	
-slimsekresjon	N	
-skittentøysekk	N	
-munnsårhet	N	
-realitetssans	N	
-likevektsans	N	
-utskrivningssamtale	N	
-refleksjonssamtale	N	
-kostsamtale	N	
-kartleggingssamtale	N	
-urinsamling	N	
-ødemsamling	N	
-spyttsaft	N	
-pulsrytme	N	
-pukkelrygg	N	
-korsrygg	N	
-nekrose	N	
-smitterisiko	N	
-trombosering	N	
-brukerrettighet	N	
-vegetarrett	N	
-sykepleieresultat	N	
-søvnrestriksjon	N	
-drikkerestriksjon	N	
-omsorgsressurs	N	
-motstandsressurs	N	
-proteinreserve	N	
-karanteneregel	N	
-væskeregistrering	N	
-matregistrering	N	
-reseptregister	N	
-kreftregister	N	
-tømmingsregime	N	
-pleieregime	N	
-kostholdregime	N	
-isolasjonsregime	N	
-diettregime	N	
-behandlingsregime	N	
-tillitreform	N	
-tømmingsrefleks	N	
-senkningsreaksjon	N	
-allergireaksjon	N	
-kastrasjon	N	
+membranside	N	kalvopuoli
+kroppsside	N	kylki
+klystersetting	N	peräruiskeen anto
+luktsenter	N	hajukeskus
+brekningssenter	N	oksennuskeskus
+bleiesensor	N	kosteusindikaattori
+hælsene	N	akillesjänne
+slimsekresjon	N	limaneritys
+skittentøysekk	N	pyykkipussi
+munnsårhet	N	suun arkuus
+realitetssans	N	todellisuudentaju
+likevektsans	N	tasapainoaisti
+utskrivningssamtale	N	keskustelu ennen uloskirjoitusta
+refleksjonssamtale	N	reflektointikeskustelu
+kostsamtale	N	ravitsemuskeskustelu
+kartleggingssamtale	N	hoidon tarpeen arviointikeskustelu
+urinsamling	N	virtsankeräys
+ødemsamling	N	nesteen kertyminen kehoon turvotuksen paheneminen
+spyttsaft	N	sylki   sylkineste
+pulsrytme	N	sykkeen rytmi
+pukkelrygg	N	kumararyhti kyttyräselkä    köyryselkä  kyfoosi
+korsrygg	N	ristiselkä
+nekrose	N	kuolionekroosi
+smitterisiko	N	tartuntariski
+trombosering	N	tukosten muodostuminen  veritulppien muodostuminen
+brukerrettighet	N	potilaan oikeudet
+vegetarrett	N	kasvisruoka
+sykepleieresultat	N	hoidon tulos
+søvnrestriksjon	N	unen rajoittaminen
+drikkerestriksjon	N	nesterajoitus
+omsorgsressurs	N	hoivaresurssit
+motstandsressurs	N	vastustusresurssit
+proteinreserve	N	valkuaisainevaranto proteiinivaranto
+karanteneregel	N	karanteenisäännöt
+væskeregistrering	N	nestemäärien kirjaaminen
+matregistrering	N	ruokamäärien kirjaaminen
+reseptregister	N	reseptirekisteri
+kreftregister	N	syöpärekisteri	
+tømmingsrefleks	N	ulostusrefleksi
+senkningsreaksjon	N	lasko   senkka
+allergireaksjon	N	allergiareaktio
+kastrasjon	N	kastraatio  kastroiminen
 tilsynsrapport	N	
 rullestolrampe	N	
 egenomsorgsrådgivning	N	
