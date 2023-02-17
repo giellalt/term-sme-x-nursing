@@ -116,6 +116,21 @@ isolasjonsregime	N
 diettregime	N	
 behandlingsregime	N
 tillitreform	N	
+tilsynsrapport	N	on kai jo
+tarmprotokoll	N	
+barselperiode	N	ensimmäiset 6 viikkoa
+tykktarmpassasje	N	
+luftstrømpassasje	N	
+livsperspektiv	N	
+realitetsorientering	N	
+signalorgan	N	esim koiran häntä
+journalopplysning	N	potilastieto
+sykepleienotat	N	sairaanhoidon merkintä
+matmunn	N	
+omsorgsmelding	N	
+folkehelsemelding	N
+avviksmelding	N	
+PEP-maske	N	PEP-maski
 
 
 
@@ -1519,76 +1534,59 @@ tømmingsrefleks	N	ulostusrefleksi
 senkningsreaksjon	N	lasko   senkka
 allergireaksjon	N	allergiareaktio
 kastrasjon	N	kastraatio  kastroiminen
-tilsynsrapport	N	
-rullestolrampe	N	
-egenomsorgsrådgivning	N	
-matpyramide	N	
-kunnskapspyramide	N	
-penispumpe	N	
-ernæringspumpe	N	
-hovedpulsåre	N	
-poseprøve	N	
-tarmprotokoll	N	
-plasmaprotein	N	
-muskelprotein	N	
-sorgprosess	N	
-sykdomsprognose	N	
-sykehusprest	N	
-varmepose	N	
-veneport	N	
-dokumentasjonsplikt	N	
-blodplasma	N	
-menyplanlegging	N	
-sykdomsperspektiv	N	
-livsperspektiv	N	
-barselperiode	N	
-tykktarmpassasje	N	
-luftstrømpassasje	N	
-slagpasient	N	
-respiratorpasient	N	
-korridorpasient	N	
-sykdomspanorama	N	
-bakteriepanel	N	
-behandlingspakke	N	
-tidsorientering	N	
-realitetsorientering	N	
-signalorgan	N	
-likevektsorgan	N	
-mentorordning	N	
-livsstilopplysning	N	
-journalopplysning	N	
-helseopplysning	N	
-omsorgsoppgave	N	
-fettomsetning	N	
-hudombud	N	
-sykepleienotat	N	
-novisenivå	N	
-matmunn	N	
-utfoldelsesmulighet	Trond sjekka språk hit	N	
-morgenmøte	N	
-EKG-monitor	N	
-signalmolekyl	N	
-verdimodell	N	
-tallerkenmodell	N	
-regnbuemodell	N	
-helsemodell	N	
-tilsetningsmiddel	N	
-soppmiddel	N	
-erstatning	N	
-antikonsepsjonsmiddel	N	
-husstøvmidd	N	
-sykepleiemetode	N	
-primærhelsetjeneste	N	
-omsorgsmelding	N	
-folkehelsemelding	N	
-avviksmelding	N	
-pasientmedvirkning	N	
-tvangsmedisinering	N	
-alarmmatte	N	
-tvangsmating	N	
-ultralydmaskin	N	
-hostemaskin	N	
-PEP-maske	N	
+rullestolrampe	N	pyörätuoliramppi    pyörätuoliluiska
+egenomsorgsrådgivning	N	itsehoidon neuvonta
+matpyramide	N	ruokapyramidi
+kunnskapspyramide	N	tiedon pyramidi 
+penispumpe	N	penispumppu
+ernæringspumpe	N	ravintopumppu
+hovedpulsåre	N	aortta
+poseprøve	N	koe (virtsa)pussista
+plasmaprotein	N	plasmaproteiini
+muskelprotein	N	lihasproteiini
+sorgprosess	N	suruprosessi
+sykdomsprognose	N	sairauden prognoosi sairauden ennuste
+sykehusprest	N	sairaalapappi
+varmepose	N	lämpöpussi
+veneport	N	laskimoportti
+dokumentasjonsplikt	N	kirjaamisvelvollisuus   kirjaamisvelvoite
+blodplasma	N	veriplasma
+menyplanlegging	N	ruokalistan suunnittelu
+sykdomsperspektiv	N	sairausperspektiivi
+slagpasient	N	aivohalvauspotilas
+respiratorpasient	N	hengityskonepotilas
+sykdomspanorama	N	sairauspanoraama
+bakteriepanel	N	bakteeripaneeli
+behandlingspakke	N	hoitopakkaus
+tidsorientering	N	aikaan orientoituminen
+likevektsorgan	N	tasapainoelin
+mentorordning	N	mentorointiohjelma
+livsstilopplysning	N	elämäntapavalistus
+helseopplysning	N	terveystieto
+omsorgsoppgave	N	sairaanhoidon tehtävät  hoivatehtävä
+fettomsetning	N	rasva-aineenvaihdunta
+hudombud	N	iho-ongelmiin paneutunut vastuusairaanhoitaja
+novisenivå	N	noviisitaso aloittelijan taso
+utfoldelsesmulighet	  ???                               Trond sjekka språk hit	N	
+EKG-monitor	N	EKG-monitori
+signalmolekyl	N	signaalimolekyyli
+verdimodell	N	arvomalli
+tallerkenmodell	N	lautasmalli
+regnbuemodell	N	sateenkaarimalli
+helsemodell	N	terveysmalli
+tilsetningsmiddel	N	lisäaine
+soppmiddel	N	sienenestoaine  sienilääke
+erstatning	N	korvike
+antikonsepsjonsmiddel	N	ehkäisyaine
+husstøvmidd	N	pölypunkki
+sykepleiemetode	N	sairaanhoidon menetelmä
+primærhelsetjeneste	N	perusterveydenhuolto
+pasientmedvirkning	N	potilaan osallistaminen
+tvangsmedisinering	N	pakkolääkitys
+alarmmatte	N	hälyttävä matto
+tvangsmating	N	pakkosyöttö
+ultralydmaskin	N	ultraäänilaite
+hostemaskin	N	yskityslaite
 binyremarg	N	
 beinmarg	N	
 avledningsmanøver	N	
