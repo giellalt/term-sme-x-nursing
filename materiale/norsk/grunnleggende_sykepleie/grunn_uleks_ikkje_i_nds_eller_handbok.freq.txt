@@ -131,6 +131,16 @@ omsorgsmelding	N
 folkehelsemelding	N
 avviksmelding	N	
 PEP-maske	N	PEP-maski
+avledningsmanøver	N	
+omsorgslidelse	N	onko jo listassa
+demenslidelse	N	dementiavaiva   dementia oireyhtymä???
+medisinkurve	N	
+varmekonservering	N	lämmön säilyttäminen
+trygdekort	N	sairaanhoitokortti
+friksjonskateter	N	
+
+
+
 
 
 
@@ -1587,64 +1597,56 @@ alarmmatte	N	hälyttävä matto
 tvangsmating	N	pakkosyöttö
 ultralydmaskin	N	ultraäänilaite
 hostemaskin	N	yskityslaite
-binyremarg	N	
-beinmarg	N	
-avledningsmanøver	N	
+binyremarg	N	lisämunuaisydin
+beinmarg	N	luuydin
 temperaturmåling	N	
 trykkmadrass	N	
 avlastningsmadrass	N	
 utåndingsluft	N	
 innåndingsluft	N	
 tvangslovgivning	N	
-ernæringsløsning	N	
-livskvalitet	N	
-legemiddelliste	N	
-omsorgslidelse	N	
-demenslidelse	N	
-livslengde	N	
-mesterlære	N	
-varmelaken	N	
-stikklaken	N	
-reservelager	N	
-glykogenlager	N	
-fettlager	N	
-blodlager	N	
-øreskylling	N	
-vektkurve	N	
-medisinkurve	N	
-sykepleiekunnskap	N	
-pleiekultur	N	
-omsorgskultur	N	
-blodkultur	N	
-systemkretsløp	N	
-skjedekrans	N	
-flaskekost	N	
-allergikost	N	
-trygdekort	N	
-protesekopp	N	
-tarmkontroll	N	
-stimuluskontroll	N	
-blærekontroll	N	
-varmekonservering	N	
-brystkompresjon	N	
-muskelknute	N	
-lårbeinknute	N	
-AV-knute	N	
-alarmknapp	N	
-vannklyster	N	
-pulsklokke	N	
-NIC-klassifikasjon	N	
-transkjønn	N	
-hydrokarbonkjede	N	
-venekateter	N	
-plastkateter	N	
-kvinnekateter	N	
-friksjonskateter	N	
-skjedekatarr	N	
-nettverkskartlegging	N	
-ernæringskartlegging	N	
-reservekapasitet	N	
-tallerkenkant	N	
+ernæringsløsning	N	lämmön mittaaminen
+livskvalitet	N	elämänlaatu
+legemiddelliste	N	lääkityslista   lääkelista
+livslengde	N	elinikä
+mesterlære	N	mestari-kisälli-oppiminen ???
+varmelaken	N	lämpölakana
+stikklaken	N	poikkilakana
+reservelager	N	varmuusvarasto
+glykogenlager	N	glykogeenivarasto
+fettlager	N	rasvavarasto
+blodlager	N	varivarasto
+øreskylling	N	korvien huuhtelu
+vektkurve	N	painokäyrä
+sykepleiekunnskap	N	sairaanhoidon tietämys
+pleiekultur	N	hoitokulttuuri
+omsorgskultur	N	hoivakulttuuri
+blodkultur	N	veriviljely
+systemkretsløp	N	iso verenkierto systeeminen verenkierto
+skjedekrans	N	immenkalvo  hymen
+flaskekost	N	pulloruoka  pulloharja
+allergikost	N	allergiaruoka
+tarmkontroll	N	suolen hallinta
+stimuluskontroll	N	ärsykkeen hallinta
+blærekontroll	N	(virtsa)rakon hallinta
+brystkompresjon	N	rintalastan painelu(elvytys)
+muskelknute	N	lihassolukasvain    myooma
+lårbeinknute	N	iso sarvennoinen trochanter major
+AV-knute	N	AV-solmuke  eteis-kammiosolkuke
+alarmknapp	N	hälytysnappi
+vannklyster	N	vesiperäruiske
+pulsklokke	N	sykekello
+NIC-klassifikasjon	N	NIC-luokitus
+transkjønn	N	transsukupuoli
+hydrokarbonkjede	N	hiilivetyketju
+venekateter	N	laskimokatetri
+plastkateter	N	muovikatetri
+kvinnekateter	N	naisten katetri
+skjedekatarr	N	bakteerivaginoosi
+nettverkskartlegging	N	sosiaalisen verkoston kartoitus
+ernæringskartlegging	N	ravitsemuksen arviointi ravitsemuksen kartoitus
+reservekapasitet	N	reservikapasiteetti
+tallerkenkant	N	lautasen reunus
 sykepleiejournal	N	
 pasientjournal	N	
 kjernejournal	N	
