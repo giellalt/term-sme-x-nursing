@@ -138,6 +138,8 @@ medisinkurve	N
 varmekonservering	N	lämmön säilyttäminen
 trygdekort	N	sairaanhoitokortti
 friksjonskateter	N	
+sykepleiejournal	N	
+reparasjonshvile	N	korjaava lepo??? uni???
 
 
 
@@ -1647,24 +1649,22 @@ nettverkskartlegging	N	sosiaalisen verkoston kartoitus
 ernæringskartlegging	N	ravitsemuksen arviointi ravitsemuksen kartoitus
 reservekapasitet	N	reservikapasiteetti
 tallerkenkant	N	lautasen reunus
-sykepleiejournal	N	
-pasientjournal	N	
-kjernejournal	N	
-serumjern	N	
-bakterieinvasjon	N	
-matvareintoleranse	N	
-glutenintoleranse	N	
-glukoseintoleranse	N	
-urininkontinens	N	
-avføringsinkontinens	N	
-væskeinfusjon	N	
-helseinformatikk	N	
-pasientinformant	N	
-sykehusinfeksjon	N	
-kryssinfeksjon	N	
-næringsmiddelhygiene	N	
-mathygiene	N	
-reparasjonshvile	N	
+pasientjournal	N	potilaskertomus
+kjernejournal	N	en digital løsning for deling av pasientenes helseopplysninger på tvers av virksomheter og nivåer i helsevesenet
+serumjern	N	seerumin rauta
+bakterieinvasjon	N	bakteeri-invaasio
+matvareintoleranse	N	ruoka-aineintoleranssi
+glutenintoleranse	N	gluteeni-intoleranssi
+glukoseintoleranse	N	glukoosi-intoleranssi
+urininkontinens	N	virtsankarkailu
+avføringsinkontinens	N	ulosteinkontinenssi
+væskeinfusjon	N	nesteinfuusio
+helseinformatikk	N	terveystietojenkäsittelytiede
+pasientinformant	N	potilasinformantti
+sykehusinfeksjon	N	sairaalainfektio
+kryssinfeksjon	N	risti-infektio
+næringsmiddelhygiene	N	elintarvikehygienia
+mathygiene	N	ruokahygienia
 nesehule	N	
 irritasjonshoste	N	
 vevhormon	N	
