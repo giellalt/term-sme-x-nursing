@@ -140,7 +140,10 @@ trygdekort	N	sairaanhoitokortti
 friksjonskateter	N	
 sykepleiejournal	N	
 reparasjonshvile	N	korjaava lepo??? uni???
-
+diakonhjem	N	Det norske Diakonhjem (Diakonhjemmet) er en stiftelse som har som formål å fremme diakonal virksomhet i kirke og samfunn
+helsehjelp	N	
+besøkshistorikk	N	
+pasienthistorie	N	potilaan kertomus
 
 
 
@@ -1665,30 +1668,26 @@ sykehusinfeksjon	N	sairaalainfektio
 kryssinfeksjon	N	risti-infektio
 næringsmiddelhygiene	N	elintarvikehygienia
 mathygiene	N	ruokahygienia
-nesehule	N	
-irritasjonshoste	N	
-vevhormon	N	
-veksthormon	N	
-graviditetshormon	N	
-penishode	N	
-diakonhjem	N	
-forflytningshjelpemiddel	N	
-helsehjelp	N	
-besøkshistorikk	N	
-pasienthistorie	N	
-medisinhistorie	N	
-helsehistorie	N	
-lungehinne	N	
-jomfruhinne	N	
-operasjonshette	N	
-utviklingshemning	N	
-munnhelse	N	
-minoritetshelse	N	
+nesehule	N	nenäontelo
+irritasjonshoste	N	ärsytysyskä
+vevhormon	N	kudoshormoni
+veksthormon	N	kasvuhormoni
+graviditetshormon	N	raskaushormoni
+penishode	N	peniksen kärki  terska
+forflytningshjelpemiddel	N	apuväline potilaan siirtämiseen
+medisinhistorie	N	hoitohistoria   lääketieteen historia
+helsehistorie	N	terveyskertomus anamneesi
+lungehinne	N	keuhkon pintaan kiinittyvä kalvo    plaura visceralis
+jomfruhinne	N	immenkalvo  hymen
+operasjonshette	N	hiussuojus  leikkaussalissa käytettävä myssy
+utviklingshemning	N	kehitysvamma
+munnhelse	N	suun terveys
+minoritetshelse	N	vähemmistöjen terveys   vähemmistöterveys
 takheis	N	
 ganghastighet	N	
 blærehals	N	
-refleksjonsgruppe	N	
-fingergrep	N	
+refleksjonsgruppe	N	kattoon kiinnitetty siirtolaite
+fingergrep	N	sormiote
 intimitetsgrense	N	
 bronkiegrein	N	
 obstruksjonsgrad	N	
