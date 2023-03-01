@@ -4,22 +4,22 @@
 # Sanat eivät (vielä) ole norjan kielen analyysiohjelmassa, eli ne pitää lisätä.
 tjenesteutøvelse	N	palvelunalan harjoittaminen
 helsepersonelltjeneste	N	terveydenhoitohenkilökunnan palvelut
-handlingsrefleksjon	N	
-sykepleierprofesjon	N	sairaanhoitajien ammattikunta
+handlingsrefleksjon	N	toiminnan reflektointi
+sykepleierprofesjon	N	sairaanhoitajan ammatti
 følelsesmodus	N	tunnetila
-termostatinnstilling	N	termiostaatin säätö
-understøttelsesflate
-faselidelse	N	
-helseforetak	N	
-livsutfoldelse	N	
-fagprosedyre	N	alan menetelmät
+termostatinnstilling	N	termiostaatin asetus
+understøttelsesflate    N   tukipinta (esim. lattia seisottaessa)
+faselidelse	N	vaiheittainen vaiva
+helseforetak	N	terveydenhoitoalan toimija  terveydenhoitoalan yritys
+livsutfoldelse	N	???
+fagprosedyre	N	amattialan menetelmä
 sykepleieutøvelse	N	sairaanhoitotoimen harjoittaminen
 helseplage	N	terveysongelma
 sykepleieferdighet	N	hoitotyön taidot
-blodforsyning	N	
+blodforsyning	N	???
 skrekkanfall	N	pelkokohtaus
-helsevirksomhet	N	
-tjenesteforløp	N	
+helsevirksomhet	N	terveydenhoidon toimija
+tjenesteforløp	N	hoitopolku
 behandlingsalternativ	N	hoitovaihtoehto
 beinutspring	N	
 allmennsykepleie	N	yleissairaanhoito kuntatasolla
@@ -144,6 +144,11 @@ diakonhjem	N	Det norske Diakonhjem (Diakonhjemmet) er en stiftelse som har som f
 helsehjelp	N	
 besøkshistorikk	N	
 pasienthistorie	N	potilaan kertomus
+refleksjonsgruppe	N	
+intimitetsgrense	N	
+sykepleiediagnose	N	
+livsytring	N	
+basisdisiplin	N	
 
 
 
@@ -1683,55 +1688,48 @@ operasjonshette	N	hiussuojus  leikkaussalissa käytettävä myssy
 utviklingshemning	N	kehitysvamma
 munnhelse	N	suun terveys
 minoritetshelse	N	vähemmistöjen terveys   vähemmistöterveys
-takheis	N	
-ganghastighet	N	
-blærehals	N	
-refleksjonsgruppe	N	kattoon kiinnitetty siirtolaite
+takheis	N	kattoon kiinnitetty siirtolaite
+ganghastighet	N	kävelynopeus
+blærehals	N	virtsarakon kaula
 fingergrep	N	sormiote
-intimitetsgrense	N	
-bronkiegrein	N	
-obstruksjonsgrad	N	
-blodglukose	N	
-objektglass	N	
-ADL-gjøremål	N	
-gallegang	N	
-melkegang	N	
-blodfylling	N	
-blærefylling	N	
-slagfrekvens	N	
-respirasjonsfrekvens	N	
-forforståelse	N	
-kurveføring	N	
-svangerskapsforgiftning	N	
-normalflora	N	
-bakterieflora	N	
-egenomsorgsevne	N	
-sykepleieepikrise	N	
-turistdiaré	N	
-sykepleiediagnose	N	
-ICNP-diagnose	N	
-aldersdemens	N	
-ryggmargsbrokk	N	
-spissbekken	N	
-pussbekken	N	
-maskebehandling	N	
-MONA-behandling	N	
-IVF-behandling	N	
-ICNP-begrep	N	
-pasientautonomi	N	
-surstoffapparat	N	
-livsverden	N	
-livsytring	N	
-kroppsleie	N	
-sykepleieepikrise	N	
-basisdisiplin	N	
-EU-direktiv	N	
-ribbeinsbrudd	N	
-armbrudd	N	
-ryggmargsbrokk	N	
-oksygensbrille	N	
-nattbordsbrett	N	
-spedbarnsbotulisme	N	
-avfallsbøtte	N	
+bronkiegrein	N	keuhkoputken haara
+obstruksjonsgrad	N	ahtauman aste
+blodglukose	N	veren glukoosi
+objektglass	N	näytelasi
+ADL-gjøremål	N	ADL-toiminnot
+gallegang	N	sappitiehyt
+melkegang	N	maitotiehyt
+blodfylling	N	verellä täyttyminen
+blærefylling	N	virtsarakon täyttyminen
+slagfrekvens	N	syketaajuus
+respirasjonsfrekvens	N	hengitystaajuus
+forforståelse	N	esiymmärrys
+kurveføring	N   tietojen kirjaaminen
+svangerskapsforgiftning	N	    pre-eklampsia   raskausmyrkytys
+normalflora	N	normaalifloora
+bakterieflora	N	bakteerifloora  mikrobiomi
+egenomsorgsevne	N	itsehoitokyky
+sykepleieepikrise	N	sairaanhoidon yhteenveto    sairaanhoidon tiivistelmä
+turistdiaré	N	turistiripuli
+ICNP-diagnose	N	ICNP-diagnoosi
+aldersdemens	N	(vanhuuden)dementia
+ryggmargsbrokk	N	hermostoputken sulkeutumishäiriö    meningomyeloseele (MMC)  
+spissbekken	N	naisten alusastia
+pussbekken	N	kaarimalja
+maskebehandling	N	maskilla annettava happihoito
+MONA-behandling	N	akuutissa sydänkohtauksessa käytettävä hoito: morfiini, happi, nitroglyseriini, asetyylisalisyylihappo
+IVF-behandling	N	koeputkihedelmöitys in vitro fertilisaatio (IVF)
+ICNP-begrep	N	ICNP-käsite
+pasientautonomi	N	potilaan itsemääräämisoikeus
+surstoffapparat	N	happilaite
+livsverden	N	elämismaailma
+kroppsleie	N	kehon asento
+EU-direktiv	N	EU-direktiivi
+ribbeinsbrudd	N	kylkiluun murtuma
+armbrudd	N	käsivarren murtuma
+oksygensbrille	N	happiviikset
+nattbordsbrett	N	yöpöydän ruokailutaso
+spedbarn	N	alle 1-vuotias vauva
+avfallsbøtte	N	jäteastia
 
 
