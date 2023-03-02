@@ -72,7 +72,7 @@ treningsregime	N	harjoitusohjelma
 faglighetsreform	N	
 forståelsesramme	N	ymmärrysperusta
 levekårsproblem	N	elinehto-ongelma    elinolosuhdeongelma
-inngangsport	N	
+inngangsport	N	sisäänmenoportti
 tilknytningsperson	N	smitteoverføring	N	tartunta ulkopinta
 kroppsoverflate	N	
 saksorientering	N	
@@ -110,7 +110,7 @@ e-helsetiltak	N
 undervisningssykehjem	N	
 omsorgssirkel	N	
 behandlingssirkel
-tømmingsregime	N	
+tømmingsregime	N	(suolen)tyhjennyssuunnitelma
 kostholdregime	N	
 isolasjonsregime	N	
 diettregime	N	
@@ -141,13 +141,13 @@ friksjonskateter	N
 sykepleiejournal	N	
 reparasjonshvile	N	korjaava lepo??? uni???
 diakonhjem	N	Det norske Diakonhjem (Diakonhjemmet) er en stiftelse som har som formål å fremme diakonal virksomhet i kirke og samfunn
-helsehjelp	N	
+helsehjelp	N	terveydenhoito
 besøkshistorikk	N	
 pasienthistorie	N	potilaan kertomus
-refleksjonsgruppe	N	
+refleksjonsgruppe	N	reflektioryhmä
 intimitetsgrense	N	
-sykepleiediagnose	N	
-livsytring	N	
+sykepleiediagnose	N	hoitodiagnoosi
+livsytring	N	elämänilmentymä
 basisdisiplin	N	
 
 
@@ -1609,7 +1609,6 @@ ultralydmaskin	N	ultraäänilaite
 hostemaskin	N	yskityslaite
 binyremarg	N	lisämunuaisydin
 beinmarg	N	luuydin
-temperaturmåling	N	
 trykkmadrass	N	
 avlastningsmadrass	N	
 utåndingsluft	N	
