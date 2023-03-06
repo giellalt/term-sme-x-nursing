@@ -8,43 +8,33 @@ handlingsrefleksjon	N	toiminnan reflektointi
 sykepleierprofesjon	N	sairaanhoitajan ammatti
 følelsesmodus	N	tunnetila
 termostatinnstilling	N	termiostaatin asetus
-understøttelsesflate    N   tukipinta (esim. lattia seisottaessa)
-faselidelse	N	vaiheittainen vaiva
+understøttelsesflate    N   tukipinta
+faselidelse	N	jaksottainen vaiva
 helseforetak	N	terveydenhoitoalan toimija  terveydenhoitoalan yritys
-livsutfoldelse	N	???
-fagprosedyre	N	amattialan menetelmä
-sykepleieutøvelse	N	sairaanhoitotoimen harjoittaminen
+fagprosedyre	N	amattialan menetelmä    ammattialan toimenpide
 helseplage	N	terveysongelma
-sykepleieferdighet	N	hoitotyön taidot
-blodforsyning	N	???
+sykepleieferdighet	N	hoitotyön (käden)taidot
+blodforsyning	N	veren saanti
 skrekkanfall	N	pelkokohtaus
 helsevirksomhet	N	terveydenhoidon toimija
 tjenesteforløp	N	hoitopolku
 behandlingsalternativ	N	hoitovaihtoehto
-beinutspring	N	
 allmennsykepleie	N	yleissairaanhoito kuntatasolla
 sårskift	N	haavanhoito
-helsenett	N	
-sykehusinnleggelse	N	
-orienteringsevne	N	
-talsperson	N	
+sykehusinnleggelse	N	sairaalapotilaaksi kirjaaminen  sairaalapotilaaksi meneminen
+orienteringsevne	N	orientoitumiskyky
+talsperson	N	edustaja    puolesta puhuja
 termostatinnstilling	N	termostaatin asento 
-prøveglass	N	näyteputki
-minneaktivitet	N	
-overstrekk	N	
-utviklingssykepleier	N
-mestringssenter	N	
-legemiddelregime	N	lääkehoidon järjestelmä 
-transportmedium	N   näytteen kuljetusputki esim.
-transportmedium	N
+prøveglass	N	näytelasi
+minneaktivitet	N	muistelutoiminnot
+overstrekk	N	yliojennus  venähdys
+legemiddelregime	N	lääkehoitosuunnitelma
+transportmedium	N   kuljetusaine
 helseutfall	N	terveysvaikutus
-vekting	N	painoarvo
-stillstand	N	
 varmetilførsel	N	lämmön tuotto
-livstestament	N	
-realitetssjokk	N	
-praksissituasjon	N	
-garpete	N	
+livstestament	N	hoitotestamentti
+realitetssjokk	N	todellisuusshokki   realiteettishokki
+praksissituasjon	N	käytännön tilanne
 sykehusplan	N	
 helsebibliotek	N
 blodbane	N	
