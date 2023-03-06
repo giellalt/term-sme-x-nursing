@@ -34,40 +34,31 @@ helseutfall	N	terveysvaikutus
 varmetilførsel	N	lämmön tuotto
 livstestament	N	hoitotestamentti
 realitetssjokk	N	todellisuusshokki   realiteettishokki
-praksissituasjon	N	käytännön tilanne
-sykehusplan	N	
-helsebibliotek	N
-blodbane	N	
-yrkesvirksomhet	N	ammattialan toiminta
-maktovergrep
-mestringsmulighet	N	
-tømmingsmønster	N	tyhjentymis
-livsmønster	N	
-vitenskapskomité	N	??????
-bakgrunnsforståelse	N
-omsorgsdepartement	N	
-tarmvolum	N   suolen sisällön volyymi
+blodbane	N	verisuonisto
+tømmingsmønster	N	tyhjentymiskäytäntö
+livsmønster	N	elintapa
+bakgrunnsforståelse	N   taustaymmärrys
+omsorgsdepartement	N	hoidon ministeriö
+tarmvolum	N   suolensisällön volyymi
 hørselsvanske	N	kuulo-ongelma
 aktivitetstiltak	N	aktiviteettitoimenpide  aktiviteettikeino
-kjønnstilhørighet	N	sukupuoli
-kontakttermometer	N	
+kjønnstilhørighet	N	sukupuoleen kuuluminen
+kontakttermometer	N	kontaktikuumemittari
 cellestoff	N	kuivauspaperi
 kompetansestige	N	urapolku    urakehitys
-lengdesnitt
+lengdesnitt N   pitkittäisleikkaus
 væskeskjema	N	pesutaulukko
-responssenter	N	ottaa vastaan kaikki häsytykset
-ekspertsammenslutning	N	
+responssenter	N	hälytyskeskus
+ekspertsammenslutning	N	asiantuntijasyhmä
 kroppssammensetning	N	kehon rakenne
 treningsregime	N	harjoitusohjelma
-faglighetsreform	N	
 forståelsesramme	N	ymmärrysperusta
 levekårsproblem	N	elinehto-ongelma    elinolosuhdeongelma
 inngangsport	N	sisäänmenoportti
-tilknytningsperson	N	smitteoverføring	N	tartunta ulkopinta
-kroppsoverflate	N	
-saksorientering	N	
-behandlingsopplegg	N	hoito
-muskelomfang	N	lihas
+smitteoverføring	N	tartunnan levittäminen  tartunnan leviäminen
+kroppsoverflate	N	kehon ulkopinta
+behandlingsopplegg	N	hoidon suunnitelma
+muskelomfang	N	lihasten koko
 måltidsmønster	N	aterionti
 uttrykksmiddel	N	ilmaisu
 skummateriale	N	
