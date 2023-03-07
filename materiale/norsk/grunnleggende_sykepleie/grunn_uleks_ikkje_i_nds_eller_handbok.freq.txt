@@ -59,15 +59,13 @@ smitteoverføring	N	tartunnan levittäminen  tartunnan leviäminen
 kroppsoverflate	N	kehon ulkopinta
 behandlingsopplegg	N	hoidon suunnitelma
 muskelomfang	N	lihasten koko
-måltidsmønster	N	aterionti
-uttrykksmiddel	N	ilmaisu
-skummateriale	N	
-selvhjelpløsning	N	
-tilsynslege	N	
-barselkvinne	N	juuri synnyttänyt nainen
-påstandskunnskap	N	
-TT-kort	N	
-tildelingskontor	N
+måltidsmønster	N	ateriontikäytäntö
+uttrykksmiddel	N	ilmaisukeino
+skummateriale	N	vaahtomuoviaine
+selvhjelpløsning	N	oma-apukeino    omahoitokeino
+barselkvinne	N	synnyttänyt nainen 1-6 viikkoa synnytyksestä
+påstandskunnskap	N	väitetietämys
+tildelingskontor	N   kotihoidon potilaan 
 kunnskapskomponent	N	tiedon osatekijät
 innholdskomponent	N	
 passasjehindring	N	
