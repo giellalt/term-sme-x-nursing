@@ -17,6 +17,11 @@ tilknytningsperson	N	kiintymys
 saksorientering	N	
 tilsynslege	N	
 TT-kort	N	tilrettelagt transportmedium
+tildelingskontor	N   kotihoidon hoidontarpeita arvioiva toimisto
+legevakthåndbok	N	päivystyspoliklinikan käsikirja
+miljøbehandling	N	lääkkeetön hoito
+skadeutvalg	N	tuhoja arvioiva valiokunta
+brukerutvalg	N	terveydenhuollon palveluja käyttävien valiokunta
 
 
 avføringsinkontinens	N	ulosteinkontinenssi

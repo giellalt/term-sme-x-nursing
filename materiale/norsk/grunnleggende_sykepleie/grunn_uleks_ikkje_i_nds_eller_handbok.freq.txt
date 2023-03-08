@@ -65,27 +65,21 @@ skummateriale	N	vaahtomuoviaine
 selvhjelpløsning	N	oma-apukeino    omahoitokeino
 barselkvinne	N	synnyttänyt nainen 1-6 viikkoa synnytyksestä
 påstandskunnskap	N	väitetietämys
-tildelingskontor	N   kotihoidon potilaan 
-kunnskapskomponent	N	tiedon osatekijät
-innholdskomponent	N	
-passasjehindring	N	
-legemiddelhåndtering	N	lääkehoito??
-legevakthåndbok	N	
-e-helseforskning	N	
-militærformål	N	armeijan tarkoitu
-rehabiliteringsforløp	N	kuntoutus???
-handlingsforløp	N	
+kunnskapskomponent	N	tiedon elementti
+passasjehindring	N	este läpikulussa
+legemiddelhåndtering	N	lääkehoidon toteuttaminen
+e-helse	N	sähköinen terveydenhuolto
+militærformål	N	sotilaallinen tarkoitus
+rehabiliteringsforløp	N	kuntoutuspolku
+handlingsforløp	N	toimintaketju
 temperaturforhold	N	lämpøolosuhteet
-utskrivingsbrev	N	
-kjøttbetennelse	N	
+utskrivingsbrev	N	kotiutuskirje
+kjøttbetennelse	N	pehmytkudostulehdus
 taushetsbestemmelse	N	vaitiolopäätös
-miljøbehandling	N	ympäristön käsittely
-trykkavlastning	N	
+trykkavlastning	N	paineen helpottaminen
 helseveiledning	N   terveysohjaus
-forbrenningsvæske	N	
-skadeutvalg	N	
-brukerutvalg	N	
-e-helsetiltak	N	
+forbrenningsvæske	N	polttoneste
+e-helsetiltak	N	sähköinen terveydenhoidon palvelu
 undervisningssykehjem	N	
 omsorgssirkel	N	
 behandlingssirkel
