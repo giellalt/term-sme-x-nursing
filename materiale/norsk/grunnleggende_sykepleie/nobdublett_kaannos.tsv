@@ -47,6 +47,10 @@ varmekonservering	N	lämmön säilyttäminen
 sykepleiejournal	N	ollut jo
 diakonhjem	N	Det norske Diakonhjem (Diakonhjemmet) er en stiftelse som har som formål å fremme diakonal virksomhet i kirke og samfunn
 basisdisiplin	N	
+varmetilførsel	N	lämmön tuotto
+pasientsituasjon	N	potilastapaus simulaatiossa
+sykepleiesituasjon	N	sairaanhoidollinen tapaus
+
 
 
 

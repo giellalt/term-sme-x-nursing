@@ -31,7 +31,6 @@ overstrekk	N	yliojennus  venähdys
 legemiddelregime	N	lääkehoitosuunnitelma
 transportmedium	N   kuljetusaine
 helseutfall	N	terveysvaikutus
-varmetilførsel	N	lämmön tuotto
 livstestament	N	hoitotestamentti
 realitetssjokk	N	todellisuusshokki   realiteettishokki
 blodbane	N	verisuonisto
@@ -108,14 +107,13 @@ sykepleieplan	N	hoitosuunnitelma
 helsefremmende	A	terveyttä edistävä
 kvalitetssystem	N	laatujärjestelmä
 helsebegrep	N	terveyskäsite
-pasientsituasjon	N	potilastilanne
 sykepleiemodell	N	hoitotyön malli
 respirasjonsproblem	N	hengitysongelma
-urinlekkasje	N	virtsankarkailu	virtsainkontinenssi
+urinlekkasje	N	virtsankarkailu virtsainkontinenssi
 matinntak	N	ruoan saanti
 respirasjonsfrekvens	N	hengitystiheys
 oksygentilførsel	N	hapen anto
-brukerrettighet	N	käyttäjän oikeudet
+brukerrettighet	N	kotihoitopotilaan oikeudet
 sideleie	N	kylkiasento
 urininkontinens	N	virtsankarkailu	virtsainkontinenssi
 blodvolum	N	verivolyymi
@@ -141,27 +139,26 @@ minuttvolum	N	minuuttivolyymi
 sykepleierstudent	N	sairaanhoidon opiskelija
 kroppsstell	N	kehon hoito
 tyngdekraft	N	painovoima
-sykepleiekompetanse	N	sairaanhoidolliset taidot	sairaanhoidon pätevyys
+sykepleiekompetanse	N	sairaanhoidollinen kompetenssi	sairaanhoidollinen pätevyys
 næringsinntak	N	ravinnon saanti
 oksygeninnhold	N	happipitoisuus
 sykepleieforskning	N	sairaanhoidon tutkimus
 kostfiber	N	ravintokuitu
-livsytring	N	elämänilmentymä
+livsytring	N	elämän ilmentymä
 tjenesteutvikling	N	palveluiden kehittäminen
 lokaliseringsteknologi	N	paikallistamisteknologia
-varmeproduksjon	N	lämmön tuotanto	lämmön tuottaminen
-blodtrykksfall	N	verenpaineen laskeminen	verenpaineen lasku
+varmeproduksjon	N	lämmön tuotanto
+blodtrykksfall	N	verenpaineen lasku
 ansiktsuttrykk	N	kasvojen ilme
 klassifikasjonssystem	N	luokittelujärjestelmä
 REM-søvn	N	REM-uni
-sykepleiesituasjon	N	sairaanhoidon tilanne
-pulsfrekvens	N	sydämen syke	tiheys
+pulsfrekvens	N	syketiheys
 kroppsbilde	N	kehonkuva
 respirasjonsbesvær	N	hengenahdistus	dyspnea
 normalverdi	N	normaaliarvo
 kvalitetsutviklingsarbeid	N	laadunkehittämistyö
 gassutveksling	N	kaasujen vaihto
-pusting	N	hengittäminen	hengitys
+pusting	N	hengitys    hengittäminen
 morgenstell	N	aamupesu
 bevissthetsnivå	N	tajunnan taso
 energiinntak	N	energiansaanti
@@ -169,7 +166,7 @@ ernæringstilstand	N	ravitsemustila
 risikopasient	N	riskipotilas
 tarminnhold	N	suolen sisältö
 sykepleiehandling	N	sairaanhoidollinen toiminta
-sykepleiefunksjon	N	sairaanhoidon tehtävä	???
+sykepleiefunksjon	N	sairaanhoidon tehtävä   sairaanhoidon tarkoitus
 kunnskapsform	N	tiedon laji
 sykdomsforløp	N	sairauden kulku
 sårbehandling	N	haavanhoito
@@ -179,7 +176,7 @@ resturin	N	jäännösvirtsa
 kontraktur	N	kontraktuura	kutistuma
 sykepleiesystem	N	sairaanhoidon järjestelmä
 magesekk	N	vatsalaukku
-behandlingsplan	N	hoitosuunnitelma
+behandlingsplan	N	hoidon suunnitelma
 funksjonsområde	N	toiminta-alue
 sentralnervesystem	N	keskushermosto
 håndhygiene	N	käsihygienia
@@ -200,7 +197,7 @@ våkenhet	N	valveillaolo
 væskebalanse	N	nestetasapaino
 omsorgsverdi	N	hoitotyön arvot
 matvane	N	ruokailutapa
-fagutvikling	N	ammattialan kehittäminen
+fagutvikling	N	ammattialan kehitys
 blæretrening	N	virtsarakon harjoitus
 varmetapet	N	lämmmönhukka
 søvnstadium	N	unen vaihe
@@ -220,7 +217,7 @@ endringsarbeid	N	muutostyö
 søvnvane	N	unitapa
 venetrombose	N	laskimotukos
 blodtilførsel	N	verensaanti
-sykepleiesammenheng	N	sairaanhoidon asiayhteys
+sykepleiesammenheng	N	sairaanhoidollinen asiayhteys
 snevring	N	ahtauma	kurouma
 pasientomsorg	N	potilashoito	
 urinmengde	N	virtsamäärä
@@ -231,23 +228,26 @@ legemiddelhåndbok	N	lääkeopas
 normalfunksjon	N	normaalitoiminta
 sykdomsforståelse	N	sairauden ymmärrys
 kartleggingsverktøy	N	kartoitusväline
-sykdomsutvikling	N	sairauden kehittyminen	sairauden kulku
+sykdomsutvikling	N	sairauden kulku
 utviklingstrinn	N	kehitysaste
 kostråd	N	ravitsemusneuvo
 trykkskade	N	painevaurio
 hosterefleks	N	yskänrefleksi
 tannprotese	N	hammasproteesi
 pleieplan	N	hoitotyön suunnitelma
-pasientopplysning	N	potilastiedot ??
+pasientopplysning	N	potilastiedot
 normalområde	N	viitealue
 forskningsmetode	N	tutkimusmenetelmä
 sykepleiekunnskap	N	hoitotyön tieto
-arbeidshverdag	N	työarkipäivä
-pasienthistorie	N	potilaan oma kertomus sairastamisesta??
+arbeidshverdag	N	työn arki
+pasienthistorie	N	potilashistoria potilaan kertomus
 fargeforandring	N	värimuutos
 omsorgsfilosofi	N	hoitotyön filosofia
 transfett	N	transrasva
 livsstilsendring	N	elämäntapamuutos
+
+
+
 fyllende	N	täydentävä
 blodcelle	N	verisolu
 respirasjonsbevegelse	N	hengitysliike
