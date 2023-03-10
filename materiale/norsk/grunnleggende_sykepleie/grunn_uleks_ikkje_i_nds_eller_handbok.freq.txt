@@ -80,55 +80,21 @@ trykkavlastning	N	paineen helpottaminen
 helseveiledning	N   terveysohjaus
 forbrenningsvæske	N	polttoneste
 e-helsetiltak	N	sähköinen terveydenhoidon palvelu
-undervisningssykehjem	N	
-omsorgssirkel	N	
-behandlingssirkel
 tømmingsregime	N	(suolen)tyhjennyssuunnitelma
-kostholdregime	N	
-isolasjonsregime	N	
-diettregime	N	
-behandlingsregime	N
-tillitreform	N	
-tilsynsrapport	N	on kai jo
-tarmprotokoll	N	
-barselperiode	N	ensimmäiset 6 viikkoa
-tykktarmpassasje	N	
-luftstrømpassasje	N	
-livsperspektiv	N	
-realitetsorientering	N	
-signalorgan	N	esim koiran häntä
-journalopplysning	N	potilastieto
+kostholdregime	N	ruokavaliosuunnitelma
+diettregime	N   ruokavaliosuunnitelma
+behandlingsregime	N   hoidon suunnitelma
+livsperspektiv	N	perspektiivi elämään
+journalopplysning	N	potilaskertomukseen kirjattu tieto
 sykepleienotat	N	sairaanhoidon merkintä
-matmunn	N	
-omsorgsmelding	N	
-folkehelsemelding	N
-avviksmelding	N	
-PEP-maske	N	PEP-maski
-avledningsmanøver	N	
-omsorgslidelse	N	onko jo listassa
-demenslidelse	N	dementiavaiva   dementia oireyhtymä???
-medisinkurve	N	
-varmekonservering	N	lämmön säilyttäminen
-trygdekort	N	sairaanhoitokortti
-friksjonskateter	N	
-sykepleiejournal	N	
-reparasjonshvile	N	korjaava lepo??? uni???
-diakonhjem	N	Det norske Diakonhjem (Diakonhjemmet) er en stiftelse som har som formål å fremme diakonal virksomhet i kirke og samfunn
+reparasjonshvile	N	korjaava lepo
 helsehjelp	N	terveydenhoito
-besøkshistorikk	N	
+besøkshistorikk	N	vierailuhistoria
 pasienthistorie	N	potilaan kertomus
 refleksjonsgruppe	N	reflektioryhmä
-intimitetsgrense	N	
-sykepleiediagnose	N	hoitodiagnoosi
+intimitetsgrense	N	intimiteettiraja
+sykepleiediagnose	N	sairaanhoidon diagnoosi
 livsytring	N	elämänilmentymä
-basisdisiplin	N	
-
-
-
-
-
-
-sykepleiediagnose	N	hoitodiagnoosi
 ernæringsstatus	N	ravitsemustila
 kroppstemperatur	N	kehon lämpötila
 helsehjelp	N	terveydenhoito
