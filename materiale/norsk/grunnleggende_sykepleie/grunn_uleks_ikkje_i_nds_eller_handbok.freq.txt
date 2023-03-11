@@ -351,7 +351,7 @@ væskeansamling	N	nestekertymä
 bakterievekst	N	bakteerikasvu
 tarmvegg	N	suolen seinämä
 handlingsvalg	N	toimintatavan valinta
-kvalitetsutviklingsprosjekt	N	laadunparannusohjelma
+kvalitetsutviklingsprosjekt	N	laadunparannushanke
 morgenurin	N	aamuvirtsa
 kontraktur	N	kutistuma	kontraktuura
 ernæringstrapp	N	ravitsemuksen portaat
@@ -378,7 +378,7 @@ behovsområde	N	tarvealue
 funksjonsnivå	N	toiminta-aste
 sykdomsmodell	N	tautimalli
 reguleringsmekanisme	N	säätelymekanismi
-pleiemedhjelper	N	hoitoavustaja
+pleiemedhjelper	N	hoitoapulainen
 blodtrykksmåling	N	verenpaineen mittaus
 søvnlengde	N	unen pituus
 erfaringslæring	N	kokemusoppiminen
@@ -403,7 +403,7 @@ beinbrudd	N	luunmurtuma
 skjermbrett	N	väliverho
 tilleggsbelastning	N	lisätaakka
 væskebehov	N	nesteen tarve
-velbehag	N	hyvinvointi
+velbehag	N	mielihyvä
 funksjonsbegrensning	N	toimintarajoite
 tarmbakterie	N	suolistobakteeri
 innvandrerbakgrunn	N	maahanmuuttajatausta
@@ -414,10 +414,10 @@ infusjonsvæske	N	infuusioneste
 drikkevane	N	juomistapa
 bakterievandring	N	bakteerien kulku
 urinutskilling	N	virtsaneritys
-ferdighetsutøvelse	N	käytännön harjoittelu
+ferdighetsutøvelse	N	käytännön taitojen harjoittelu
 stereotype	N	stereotyyppi    kaavoittuma
 katetertype	N	katetrityyppi
-håndtrykk	N	käden puristaminen
+håndtrykk	N	kädenpuristus
 avføringstrang	N	ulostamisen tarve
 hetetokt	N	kuuma aalto
 febertilstand	N	kuumetila
@@ -425,10 +425,10 @@ samtaleterapi	N	keskusteluterapia
 interaksjonsteori	N	interaktioteoria
 nyrestein	N	munuaiskivi
 organsystem	N	elinjärjestelmä
-ledningssystem	N	johtojärjestelmä
+ledningssystem	N	(impulssin)johtojärjestelmä johtoratajärjestelmä
 diagnosesystem	N	diagnoosijärjestelmä
-EPJ-system	N	elektroninen sairauskertomus    sähköinen sairauskertomus
-kreftsykepleier	N	syöpätautien eirkoissairaanhoitaja
+EPJ-system	N	elektroninen potilaskertomus    sähköinen potilaskertomus
+kreftsykepleier	N	syöpätautien erikoissairaanhoitaja
 dostol	N	WC-tuoli
 sinnsstemning	N	mieliala
 sårstell	N	haavanhoito
@@ -438,11 +438,11 @@ munnspeil	N	suupeili
 livslang	N	elämänpituinen
 ryggmargsskade	N	selkäydinvaurio
 hodeskade	N	päävamma
-væskeregnskap	N	nestetasapaino 
+væskeregnskap	N	nestetasapaino(n kirjaus) 
 pasientsikkerhetsprogram	N	potilasturvallisuusohjelma
 hudoverflate	N	ihon pinta
 respirasjonsorgan	N	hengityselimet
-bukorgan	N	vatsan elimet
+bukorgan	N	vatsaelin
 bakterieoppvekst	N	bakteerikasvu
 væskeopphopning	N	nestekertymä
 rehabiliteringsopphold	N	kuntoutusjakso
@@ -459,7 +459,7 @@ forklaringsmodell	N	selitysmalli
 behovsmodell	N	tarvemalli  tarvekaavio
 slimmobilisering	N	liman liikkeelle saaminen
 desinfeksjonsmiddel	N	desinfektioaine
-hullmerke	N	reikämerkki
+hullmerke	N	rei'ite
 væskemengde	N	nestemäärä
 sondeløsning	N	letkuruokintavalmiste
 drikkeliste	N	nestelista
@@ -469,20 +469,20 @@ legemiddelkurve	N	lääkityslista   lääkelista
 handlingskunnskap	N	käytännön tieto
 fortrolighetskunnskap	N	kokemusperäinen tieto
 omgangskrets	N	tuttavapiiri
-muskelkontraksjon	N	lihaksen supistus   lihaksen supistaminen
+muskelkontraksjon	N	lihassupistus
 handlingsklokskap	N	toimintaviisaus
 prostatakjertel	N	eturauhanen
 væskeinnhold	N	nestepitoisuus
 vanninnhold	N	vesipitoisuus
 karbondioksidinnhold	N	hiilidioksidipitoisuus
-pasientinformasjon	N	potilasohjeet
+pasientinformasjon	N	potilasohje
 soppinfeksjon	N	sieni-infektio
 masseindeks	N	massaindeksi
 nerveimpuls	N	hermoimpulssi
-avvikshåndtering	N	vahinkoilmoitus
+avvikshåndtering	N	vahinkoilmoituksen tekeminen
 selvhjelpsgruppe	N	oma-apuryhmä
 tradisjonsgrunnlag	N	perinnepohja
-spesialistgodkjenning	N	erikoistumisen hyväksyminen erikoistumisen hyväksyntä
+spesialistgodkjenning	N	erikoistumisen hyväksyntä
 pumpefunksjon	N	pumppaustoiminta
 hjertefrekvens	N	sydämen syke    sydämen lyöntitiheys
 døgnrytmeforstyrrelse	N	vuorokausirytmin häiriö
@@ -493,20 +493,20 @@ tørstfølelse	N	janon tunne
 sykdomsfølelse	N	sairauden tunne
 sykepleiefilosofi	N	sairaanhoidon filosofia
 sykdomsfase	N	sairauden vaihe
-rehabiliteringsfase	N	kuntoutusvaihe
+rehabiliteringsfase	N	kuntoutusjakso
 livsstilsfaktor	N	elämäntapaan vaikuttava tekijä 
 pasienterfaring	N	potilaskokemus
 hodeende	N	pääpuoli
 gassdannelse	N	kaasunmuodostus
 sårbunn	N	haavan pohja
 tvangsbruk	N	pakon käyttö
-hoftebrudd	N	lantion murtuma
+hoftebrudd	N	lonkkamurtuma
 hjernebølge	N	aivoaalto
 omsorgsbegrep	N	hoidon käsite
 kunnskapsbegrep	N	tiedon käsite
 nervebane	N	hermorata
 lungeavsnitt	N	keuhkon osa
-sykdomsårsak	N	sairauden syy
+sykdomsårsak	N	sairauden syy   taudin syy
 dødsårsak	N	kuolinsyy
 ernæringsarbeid	N	ravitsemustyö
 muskelarbeid	N	lihastyö
@@ -516,8 +516,8 @@ blærevolum	N	(virtsa)rakon tilavuus
 D-vitamin	N	D-vitamiini
 legevisitt	N	lääkärinkierto
 tankevirksomhet	N	ajatustoiminta
-hårvekst	N	hiusten kasvu
-sårveiledning	N	havanhoidon ohjaus
+hårvekst	N	hiusten kasvu   karvojen kasvu
+sårveiledning	N	haavanhoidon ohjaus
 bukvegg	N	vatsan seinämä
 smerteuttrykk	N	kivun ilmenemismuoto
 inkontinensutstyr	N	inkontinenssitarvikkeet
@@ -531,11 +531,13 @@ fibertilskudd	N	kuitulisä
 beintetthet	N	luuntiheys 
 øretermometer	N	korvakuumemittari
 musikkterapi	N	musiikkiterapia
-hudtemperatur	N	iholämpömittari
-avslapningsteknikk	N	rentoutustekniikka
+hudtemperatur	N	ihon lämpötila
+avslapningsteknikk	N	rentoutustekniikka  rentoutumistekniikka
 helseteam	N	terveysalan monitieteellinen ryhmä 
 karsystem	N	verisuonijärjestelmä
 dokumentasjonssystem	N	kirjaamisjärjestelmä    dokumentaatiojärjestelmä
+
+
 søvnsyklus	N	unisykli
 respirasjonssyklus	N	hengityssykli
 søvnsykdom	N	unisairaus
