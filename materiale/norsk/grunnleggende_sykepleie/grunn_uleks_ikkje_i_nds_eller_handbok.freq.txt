@@ -245,14 +245,11 @@ fargeforandring	N	värimuutos
 omsorgsfilosofi	N	hoitotyön filosofia
 transfett	N	transrasva
 livsstilsendring	N	elämäntapamuutos
-
-
-
 fyllende	N	täydentävä
 blodcelle	N	verisolu
 respirasjonsbevegelse	N	hengitysliike
 sædvæske	N	siemenneste
-teoriutvikling	N	teoriankehitys
+teoriutvikling	N	teorian kehitys
 buktrykk	N	vatsanpaine
 blæretømming	N	rakon tyhjentäminen	rakon tyhjentyminen
 væsketilførsel	N	nesteensaanti
@@ -270,8 +267,8 @@ individnivå	N	yksilötaso
 gruppenivå	N	ryhmätaso
 aktivitetsnivå	N	aktiviteettitaso
 skjelettmuskulatur	N	luustolihas	luurankolihas
-handlingsmønster	N	toimintatapa	toimintatapa
-helsekompetanse	N	terveyskompetenssi
+handlingsmønster	N	toimintatapa
+helsekompetanse	N	terveysosaaminen
 nettverksintervensjon	N	verkostotyön menetelmä	verkostotyön interventio
 kjønnshormon	N	sukupuolihormoni
 tarmfunksjon	N	suolen toiminta
@@ -281,7 +278,7 @@ ernæringsbehov	N	energiantarve
 astmaanfall	N	astmakohtaus
 grunnvilkår	N	perusehto
 vitenskapstradisjon	N	tiedetraditio
-sykepleietenkning	N	sairaanhoidollinen ajattelu
+sykepleietenkning	N	hoitotyön ajattelu  sairaanhoidollinen ajattelu
 hosteteknikk	N	yskimistekniikka
 kontaktsykepleier	N	vastuusairaanhoitaja
 kreftsykdom	N	syöpätauti
@@ -311,7 +308,7 @@ stillingsendring	N	asennonvaihto
 kvalitetsdimensjon	N	laatu-ulottuvuus
 diabetesdagbok	N	diabetespäiväkirja
 sykdomsbyrde	N	tautitaakka	sairauden taakka
-kompresjonsbind	N	tukiside	paineside
+kompresjonsbind	N	tukiside
 fordøyelsesbesvær	N	ruoansulatusvaiva
 sædavgang	N	siemensyöksy
 slagvolum	N	iskutilavuus	iskuvolyymi
@@ -337,7 +334,7 @@ ernæringsplan	N	ravitsemussuunnitelma
 blæremuskel	N	rakkolihas
 næringsløsning	N	ravintoneste
 blærekateter	N	rakkokatetri
-kjernejournal	N	potilaskertomus
+kjernejournal	N	sähköinen potilaskertomus
 saltinnhold	N	suolapitoisuus
 luftveisinfeksjon	N	hengitystieinfektio
 livshendelse	N	elämän tapahtuma
