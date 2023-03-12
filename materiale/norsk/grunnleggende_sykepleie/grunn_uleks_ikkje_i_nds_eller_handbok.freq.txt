@@ -536,18 +536,16 @@ avslapningsteknikk	N	rentoutustekniikka  rentoutumistekniikka
 helseteam	N	terveysalan monitieteellinen ryhmä 
 karsystem	N	verisuonijärjestelmä
 dokumentasjonssystem	N	kirjaamisjärjestelmä    dokumentaatiojärjestelmä
-
-
 søvnsyklus	N	unisykli
 respirasjonssyklus	N	hengityssykli
 søvnsykdom	N	unisairaus
-demenssykdom	N	dementia
+demenssykdom	N	dementiasairaus
 prøvesvar	N	koetulos
 avføringstrang	N	ulostamisen tarve
 dusjstol	N	suihkutuoli
 samleiestilling	N	yhdyntäasento
 feilstilling	N	virheasento
-tannstatus	N	hampaiden terveystila
+tannstatus	N	hampaiden terveydentila
 respirasjonsstatus	N	hengityksen kliininen status
 ryggsøyle	N	selkäranka
 pleiesituasjon	N	hoitotilanne
@@ -565,10 +563,10 @@ hukommelsesproblem	N	muistiongelma
 sykepleieprinsipp	N	sairaanhoidon periaate
 nettportal	N	internetportaali    nettiportaali
 stikkpille	N	peräpuikko  suppo
-helseopplysning	N	terveysinformaatio
+helseopplysning	N	terveysneuvonta
 smerteopplevelse	N	kivun kokemus
 hudområde	N	ihoalue
-karbondioksidnivå	N	hiilidioksidipitoisuus
+karbondioksidnivå	N	hiilidioksiditaso
 hjertemuskulatur	N	sydämen lihaksisto
 magemuskel	N	vatsalihas
 behandlingsmulighet	N	hoitomahdollisuus
@@ -577,14 +575,14 @@ interaksjonsmodell	N	interaktiomalli
 tykningsmiddel	N	sakeutusaine
 blodmengde	N	verimäärä
 væskemengde	N	nestemäärä
-seksualitetsmangfold	N	seksuaalisuuden moninaisuus
+seksualitetsmangfold	N	seksuaalinen moninaisuus    seksuaalinen monimuotoisuus
 proteinmangel	N	proteiinivaje
 forskningslitteratur	N	tutkimuskirjallisuus
 søvnlengde	N	unen pituus
 stemningsleie	N	mieliala
-fremmedlegeme	N	vieras esine
-sykehjemslege	N	sairaalalääkäri
-blæreskylling	N	rakkohuuhtelu
+fremmedlegeme	N	vierasesine
+sykehjemslege	N	hoivakodin lääkäri
+blæreskylling	N	rakkohuuhtelu   virtsarakon huuhtelu
 sykepleiekvalitet	N	sairaanhoidon laatu
 ressurskriterium	N	resurssikriteeri
 fuktighetskrem	N	kosteusvoide
@@ -596,21 +594,21 @@ oljeklyster	N	öljyperäruiske
 smittekjede	N	tartuntaketju
 bevegelseskapasitet	N	liikkumiskapasiteetti
 sårkant	N	haavan reuna
-sykepleieintervensjon	N	sairaanhoidon toimenpide
+sykepleieintervensjon	N	sairaanhoidollinen toimenpide
 søvnhygiene	N	unihygienia
 penishode	N	peniksen pää
 bakhode	N	takaraivo
-sykdomshistorie	N	potilaan oma kertomus sairaudestaan
+sykdomshistorie	N	potilaan selvitys terveysongelmista
 muskelgruppe	N	lihasryhmä
 sammenlikningsgrunnlag	N	vertailuperuste
 litteraturgjennomgang	N	kirjallisuuskatsaus
-omsorgsgiver	N	hoitaja
+omsorgsgiver	N	hoitava henkilö
 helsegevinst	N	terveyshyöty
-pasientfortelling	N	(kaunokirjallinen)kertomus sairaudesta ja potilaanaolosta
-årsaksforklaring	N	syy-yhteyden selittäminen
+pasientfortelling	N	kertomus sairaudesta ja potilaanaolosta
+årsaksforklaring	N	selonteko syy-yhteydestä
 hudforandring	N	ihomuutos
 bakterieflora	N	bakteerikanta
-rammefaktor	N	???
+rammefaktor	N	puitetekijä
 taleevne	N	puhekyky
 ereksjonsevne	N	erektiokyky
 symptomerfaring	N	oireiden kokemus
@@ -620,7 +618,6 @@ vektendring	N	painonmuutos
 kroppsendring	N	kehon muutos
 funksjonsdyktighet	N	toimintakyky
 respirasjonsdybde	N	hengityksen syvyys
-risikodiagnose	N	riskitiedot
 hånddesinfeksjon	N	käsidesinfektio
 søvndagbok	N	unipäiväkirja
 tarmbevegelse	N	suolen liikkeet
@@ -647,22 +644,21 @@ kornvare	N	viljatuote
 drikkevare	N	juotava
 talevanske	N	puhehäirö
 søvnvanske	N	univaikeus
-kvalitetsutviklingstiltak	N	laddunkehittämistoimenpide
+kvalitetsutviklingstiltak	N	laadunkehittämistoimenpide
 vektutvikling	N	painon kehitys
 gassutvikling	N	kaasunmuodostus
-kvalitetsutvalg	N	laatukomitea
 kroppsuttrykk	N	kehollinen ilmaisu
-sædutløsning	N	
+sædutløsning	N	siemensyöksy
 røntgenundersøkelse	N	röntgentutkimus
-funksjonsundersøkelse	N	toimintatutkimus
-væskeunderskudd	N	nestevajaua
+funksjonsundersøkelse	N	toimintakyvyn tutkimus
+væskeunderskudd	N	nestevajaus
 underernæring	N	aliravitsemus
 kosttype	N	ravintotyyppi
 hudtype	N	ihotyyppi
 bakterietype	N	bakteerityyppi
-fingertrykk	N	sormenpainallus
+fingertrykk	N	sormen painallus
 utholdenhetstrening	N	kestävyysharjoittelu
-oksygentransport	N	hapen kuljetus
+oksygentransport	N	hapenkuljetus
 forbedringstiltak	N	parannustoimenpide
 likevektstilstand	N	tasapainotila
 østrogentilskudd	N	estrogeenilisä
@@ -676,13 +672,13 @@ behovsteori	N	tarveteoria
 sykepleieteoretiker	N	hoitotyön teoreetikko
 balansetenkning	N	tasapainoajattelu
 lufttemperatur	N	ilman lämpötila
-pulstelling	N	pulssin laskeminen
+pulstelling	N	pulssin mittaus
 tannbørste	N	hammasharja
-bakterietall	N	bakteeriluku
-skjelettsystem	N	luuranko
+bakterietall	N	bakteeriluku    bakteerimäärä
+skjelettsystem	N	luujärjestelmä
 alarmsymptom	N	ennakko-oire    esioire
 kroppsstruktur	N	kehon rakenne
-urinstrøm	N	virtsasuiku
+urinstrøm	N	virtsasuihku
 beslutningsstøtte	N	päätöstuki
 porsjonsstørrelse	N	annoskoko
 massasjestav	N	hierontasauva
@@ -693,6 +689,8 @@ leddsmerte	N	nivelkipu
 hvilesmerte	N	lepokipu
 omsorgssjef	N	kunnallinen terveyden ja sairaanhoidon johtaja
 samhandlingssituasjon	N	yhteistyötilanne
+
+
 problemsituasjon	N	ongelmatilanne
 infusjonssett	N	infuusiosetti
 sykehusseng	N	sairaalasänky
