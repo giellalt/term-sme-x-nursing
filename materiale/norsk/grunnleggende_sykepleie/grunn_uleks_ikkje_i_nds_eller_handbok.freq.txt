@@ -689,28 +689,26 @@ leddsmerte	N	nivelkipu
 hvilesmerte	N	lepokipu
 omsorgssjef	N	kunnallinen terveyden ja sairaanhoidon johtaja
 samhandlingssituasjon	N	yhteistyötilanne
-
-
 problemsituasjon	N	ongelmatilanne
 infusjonssett	N	infuusiosetti
 sykehusseng	N	sairaalasänky
 transseksualisme	N	transseksualismi
 temperatursans	N	lämpöaisti
 smertesans	N	kipuaisti
-hudsans	N	tuntoaisti  kosketusaisti
+hudsans	N	ihoaisti    tuntoaisti  kosketusaisti
 gruppesamling	N	ryhmäkokous
 magesaft	N	mahaneste
 respirasjonsrytme	N	hengitysrytmi
 søvnrutine	N	unirutiini
-trykksårrisiko	N	painehaavaumariski
+trykksårrisiko	N	painehaavariski
 fallrisiko	N	kaatumisriski
 prøveresultat	N	koetulos    testitulos
-helseresultat	N	terveyshyöty
+helseresultat	N	terveystulos
 væskerestriksjon	N	nesterajoitus
 såperest	N	saippuajäämä
-helseressurs	N	terveysresurssi
+helseressurs	N	terveysresurssi terveyttä koskeva voimavara
 handlingsrepertoar	N	toimintarepertuaari
-kostregistreringsskjema	N	ravinnon rekisteröintikaavake
+kostregistreringsskjema	N	ravinnon rekisteröintilomake
 tømmingsregime	N	(suolen)tyhjennyssuunnitelma
 tømmingsrefleks	N	(suolen)tyhjennysrefleksi
 betennelsesreaksjon	N	tulehdusreaktio
@@ -718,25 +716,25 @@ formålsrasjonalitet	N	tavoiterationaalisuus
 tilsynsrapport	N	valvontaselvitys
 smertepumpe	N	kipupumppu
 ereksjonspumpe	N	erektiopumppu
-hvilepuls	N	lepopulssi
+hvilepuls	N	leposyke    lepopulssi
 kateterprøve	N	katetrinäyte
 stoffskifteprosess	N	aineenvaihduntaprosessi
 aldringsprosess	N	vanhenemisprosessi
-sykepleieprosedyre	N	sairaanhoidollinen toimenpide
+sykepleieprosedyre	N	sairaanhoidollinen menetelmä
 øvingsprogram	N	harjoitusohjelma
-doktorgradsprogram	N	tohtorikoulutusohjelma
+doktorgradsprogram	N	tohtoriohjelma
 sykepleieprofesjon	N	sairaanhoidon ammattiala
 sædproduksjon	N	siittiöiden tuotanto
-luktproblematikk	N	hajuongelma
+luktproblematikk	N	hajuongelmat
 tømmingsproblem	N	(suolen)tyhjennysongelma
 inkontinensproblem	N	inkontinenssiongelma
 trekantprinsipp	N	kolmikantaperiaate
 jernpreparat	N	rautavalmiste
 normalposisjon	N	normaaliasento
 luftplage	N	ilmavaiva
-sykepleieperspektiv	N	sairaanhoidon näkökanta
+sykepleieperspektiv	N	sairaanhoidon näkökanta sairaanhoidollinen näkökulma
 helsepedagogikk	N	terveyspedagogiikka
-luftpassasje	N	ilmatiehyt
+luftpassasje	N	ilmatie
 sykehjemspasient	N	hoivakotipotilas
 kreftpasient	N	syöpäpotilas
 samtalepartner	N	keskustelukumppani
@@ -745,11 +743,11 @@ væskeoverskudd	N	nesteylimäärä
 tidsopplevelse	N	ajan kokemus
 symptomopplevelse	N	oireiden kokemus
 pasientopplevelse	N	kokemus potilaanaolosta
-pleieoppgave	N	hoitotyön toiminto
+pleieoppgave	N	hoitotoimi hoitotyön tehtävä
 sykdomsoppfatning	N	sairauskäsitys
 helhetsoppfatning	N	kokonaiskäsitys
 omsorgstjeneste	N	hoitotyön palvelut
-vedlikeholdsomsorg	N	ylläpitohoito (esim. terveydentilan) 
+vedlikeholdsomsorg	N	ylläpitohoito
 stoffomsetning	N	aineenvaihdunta
 forskningsområde	N	tutkimusala
 adaptasjonsområde	N	sopeutumisalue
@@ -758,23 +756,24 @@ luftstrømobstruksjon	N	ilmavirran tukkeuma ilmavirran obstruktio
 teorinivå	N	teoriataso
 østrogennivå	N	estrogeenitaso
 oksygennivå	N	happitaso
-hormonnivå	N	hormoonitaso
+hormonnivå	N	hormonitaso
 adaptasjonsnivå	N	sopeutumistaso
 funksjonsnedsettelse	N	alentunut toimintakyky
-respirasjonsmuskulatur	N	hengityslihakset
+respirasjonsmuskulatur	N	hengityslihaksisto
 leggmuskulatur	N	säärilihakset
 bukmuskulatur	N	vatsalihakset
-livsmulighet	N	elämän mahdollisuudet
-avføringsmønster	N	ulostusrutiinit
+livsmulighet	N	elämän mahdollisuus
 nettmobbing	N	nettikiusaaminen
 måltidsmiljø	N	ruokailuympäristö
-fødemiddel	N	ravintoaine
+fødemiddel	N	ravintoaine 
 cellemetabolisme	N	soluaineenvaihdunta solumetabolia
 energimengde	N	energiamäärä
 blodmengde	N	verimäärä
 cellemembran	N	solukalvo
 fettmasse	N	rasvamassa
 blodtrykksmansjett	N	verenpainemansetti
+
+
 væskemangel	N	nestevajaus nestevaje
 østrogenmangel	N	estrogeenivaje
 matmangel	N	ruoan puute
