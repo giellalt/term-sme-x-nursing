@@ -772,8 +772,6 @@ blodmengde	N	verimäärä
 cellemembran	N	solukalvo
 fettmasse	N	rasvamassa
 blodtrykksmansjett	N	verenpainemansetti
-
-
 væskemangel	N	nestevajaus nestevaje
 østrogenmangel	N	estrogeenivaje
 matmangel	N	ruoan puute
@@ -782,6 +780,8 @@ kontaktlinse	N	piilolinssi
 smertelindring	N	kivunlievitys
 grunnlidelse	N	perussairaus
 påkledd	N	puettu
+
+
 varmelaken	N	hätäpeite avaruuspeitto
 livkvalitetsbegrep	N	elämänlaadunkäsite
 mestringskurs	N	hallintakurssi
