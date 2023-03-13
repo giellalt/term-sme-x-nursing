@@ -1,3 +1,5 @@
+
+Ehdotan poistettvaksi: enkeltpasient, fakte, samelov
 absorpsjon	N	imeytyminen
 acetylsalisylsyre	N	asetyylisalisyylihappo
 adaptasjon	N	adaptaatio
@@ -14,11 +16,13 @@ amfetamin	N	amfetamiini
 amming	N	imetys
 amøbe	N	ameba
 anamnese	N	anamneesi	esitiedot
+åndedrag	N	hengenveto
 anestesisykepleier	N	anestesiasairaanhoitaja
 antibiotika	N	antibiootti
 antistoff	N	vasta-aine
 apopleksi	N	aivoverenkiertohäiriö
 arbeidslys	N	työvalo
+åreforkalkning	N	valtimonkovettumatauti	ateroskleroosi
 arterie	N	valtimo		váibmosuotna
 aspirasjon	N	aspiraatio	keuhkoihin vetäminen
 aspirere	N	aspiroida	vetää (henkeen) (pois)
@@ -46,10 +50,10 @@ bevisstgjøring	N	tietoiseksi tekeminen
 bevissthetstap	N	tajunnan menetys
 biokjemi	N	biokemia
 biomedisin	N	biolääketiede
+blåmerke	N	mustelma
 blindtarmsbetennelse	N	umpilisäketulehdus
 blotte	N	paljastaa
 bluferdighet	N	häveliäisyys
-blåmerke	N	mustelma
 bronkie	N	keuhkoputki
 brukermedvirkning	N	potilaan osallistuminen hoitoon
 brukerrettighetslov	N	laki potilaan oikeuksista
@@ -85,6 +89,7 @@ e-helse	N	e-terveyspalvelut
 e-konsultasjon	N	eKonsultaatio	etävastaanotto
 egenaktivitet	N	omaehtoinen aktiivisuus
 egenmestring	N	suoriutuminen itse
+egennytte	N	oma hyöty
 egenomsorg	N	itsehoito
 egenomsorgsbehov	N	itsehoitotarve
 egenomsorgshandling	N	itsehoidollinen toiminta
@@ -123,6 +128,7 @@ fluor	N	fluori
 fordampning	N	haihdunta
 forflytning	N	siirto	siirtäminen
 forhud	N	esinahka
+førlighet	N	liikuntakyky
 forløp	N	kulku
 formynderi	N	huoltajuus
 forordning	N	määräys
@@ -134,10 +140,11 @@ fronesiskunnskap	N	käytäntöön pohjautuva tieto
 frysning	N	vilunväristys
 funksjonssvikt	N	alentunut toimintakyky
 funksjonstap	N	toimintakyvyn vaje
-førlighet	N	liikuntakyky
 galaktose	N	galaktoosi
 gallesyre	N	sappineste
 gasbind	N	sideharso
+gåsehud	N	iho kananlihalla
+gåstol	N	rollaattori
 genetikk	N	genetiikka	perinnöllisyystiede
 gingivitt	N	ientulehdus	gingiviitti
 gipse	N	kipsata
@@ -150,12 +157,11 @@ glyserol	N	glyseroli
 graviditet	N	raskaus
 guiding	N	ohjaus
 gynekologi	N	gynekologia
-gåsehud	N	iho kananlihalla
-gåstol	N	rollaattori
 habilitering	N	(lasten) kuntoutus
 hallusinasjon	N	aistiharha
 hallusinogen	N	hallusinogeeni
 handikap	N	vamma
+håndlag	N	kädentaito	ote
 healing	N	paraneminen
 helhetsvurdering	N	kokonaisarviointi
 helseomsorg	N	terveydestä huolehtiminen
@@ -182,7 +188,6 @@ hospitering	N	vierailu (oppimistarkoituksessa)
 hovedmåltid	N	pääateria
 humoralpatologi	N	humoraalioppi
 hvese	N	sihistä	kähistä
-håndlag	N	kädentaito	ote
 identifikasjon	N	identifikaatio	samastuminen
 identifisering	N	identifiointi
 immunologi	N	immunologia
@@ -193,10 +198,10 @@ infarkt	N	infarkti
 inflasjon	N	inflaatio
 infusjon	N	infuusio	nesteensiirto
 injeksjon	N	injektio
-inkontinens	N	inkontinenssi	virtsn karkailu
-innleggelse	N	sisäänotto
-inntak	N	saanti???
+inkontinens	N	inkontinenssi	virtsan karkailu
 innånding	N	sisäänhengitys
+innleggelse	N	sisäänotto
+inntak	N	saanti
 integrering	N	integratio	liittäminen
 intensitet	N	intensiteetti	voimakkuus
 interaksjon	N	vuorovaikutus
@@ -305,6 +310,7 @@ muskeltonus	N	lihasjänteys
 muskelvev	N	lihaskudos
 narkose	N	nukutus	yleisanestesia
 narrativ	N	narratiivi	kertomus
+nærvær	N	läsnäolo
 natrium	N	natrium
 nattevakt	N	yövuoro
 nattkjole	N	yöpaita
@@ -322,9 +328,10 @@ normalitetsbegrep	N	normaalisuuskäsite
 novise	N	noviisi	vasta-alkaja
 nyanse	N	sävy
 nyresvikt	N	munuaisten vajaatoiminta
-nærvær	N	läsnäolo
 obstruksjon	N	ahtautuminen	tukkeutuminen
+ødem	N	turvotus
 oksygenmangel	N	hapenpuute
+ømhet	N	hellyys	herkkyys
 omsorgstjenestelov	N	terveydenhuoltolaki
 omverden	N	ympäristö
 oppgulp	N	pulautus
@@ -333,12 +340,15 @@ oppsamling	N	kerääminen	kerääntyminen
 optiker	N	optikko
 ordinere	N	määrätä
 osmose	N	osmoosi
+østrogen	N	estrogeeni
 overdose	N	yliannostus
 overflowinkontinens	N	ylivuotoinkontinessi
 overkropp	N	yläruumis
 overløpsinkontinens	N	ylivuotoinkontinenssi
 overvåkning	N	valvonta
+øyekontakt	N	silmäkontakti
 p-pille	N	e-pilleri	ehkäisypilleri
+påkledning	N	pukeutuminen
 palliasjon	N	palliatiivinen hoito	oireita lievittävä hoito
 pandemi	N	pandemia	erittäin laajalle levinnyt epidemia
 parese	N	osittaishalvaus	pareesi
@@ -363,7 +373,7 @@ plukking	N	poimiminen	nyppiminen
 pollusjon	N	tahaton siemensyöksy 
 pool	N	(sijais)pooli
 positivisme	N	positivismi
-praksisperiode	N	
+praksisperiode	N	harjoitusjakso
 praktiker	N	käytännön toimija
 preparat	N	preparaatti
 primærsykepleier	N	oma sairaanhoitaja
@@ -375,7 +385,6 @@ protese	N	proteesi
 psykiater	N	psykiatri
 psykose	N	psykoosi
 puss	N	mätä	märkäinen erite
-påkledning	N	pukeutuminen
 rapportering	N	raportointi	antaa raportti
 reaksjonsevne	N	reaktiokyky
 referanseverdi	N	viitearvo
@@ -384,6 +393,7 @@ rehabilitere	N	kuntouttaa
 reinnleggelse	N	toistuva sairaalahoito???
 reminisens	N	muistelu
 reproduksjon	N	reproduktio	lisääntyminen
+respirasjon	N	hengitys
 respirasjon	N	hengitys	respiraatio
 ressurssvikt	N	resurssivaje
 restitusjon	N	toipuminen
@@ -403,6 +413,9 @@ sanitærforhold	N	hygieeniset olosuhteet	hygieeninen tila
 sansehage	N	aistipuutarha
 sansing	N	aistiminen
 sansning	N	aistiminen	tuntemus
+sårbarhet	N	haavoittuvuus
+sårheling	N	haavan paraneminen
+sårhet	N	arkuus
 schizofreni	N	skitsofrenia
 score	N	pisteytys
 screene	N	seuloa
@@ -420,20 +433,22 @@ silikon	N	silikoni
 sirkulære	N	kiertää
 sittestilling	N	istuma-asento
 sjenanse	N	kainous	häpeä
+skår	N	pisteytys
 skavank	N	vamma	vika
 skiftarbeid	N	vuorotyö
 skifting	N	vaihto	muutos
 skikkethet	N	soveltuvuus
 sklerose	N	skleroosi	kovettuma
 skrøpelighet	N	hauraus
-skår	N	pisteytys
 slang	N	slangi
 slange	N	letku
 slapphet	N	voimattomuus
 smertebehandling	N	kivunhoito
 smittespredning	N	tartunnan lviäminen
+søkemotor	N	hakukone
 somatikk	N	elimelliset toiminnot
 sovestilling	N	nukkumisasento
+søvnighet	N	unisuus
 spedbarn	N	vauvaikäinen
 spekter	N	kirjo
 spesialist	N	spesialisti
@@ -441,13 +456,13 @@ spesialseng	N	erikoissänky
 spolorm	N	suolinkainen
 ss	N	rkl	ruokalusikka
 standpunkt	N	(näkö)kanta
+ståseng	N	seisomismahdollisuudella varustettu sänky
 stell	N	hoito
 stetoskop	N	stetoskooppi
 stimulans	N	stimulanssi	ärsyke
 stimuli	N	ärsyke
 stoffmisbruker	N	huumausaineiden väärinkäyttäjä
 strålebehandling	N	sädehoito
-ståseng	N	seisomismahdollisuudella varustettu sänky
 sug	N	imu
 sukrose	N	sakkaroosi	sokeri
 sulfat	N	sulfaatti
@@ -460,18 +475,13 @@ svovelsyre	N	rikkihappo
 sykdomssyn	N	sairauskäsitys
 sykehjemsbeboer	N	hoitokodin asukas
 sykehusopphold	N	hoitojakso sairaalassa
-sykepleiefag	N	??
+sykepleiefag	N	hoitotiede??
 sykepleierske	N	sairaanhoitajatar
 sykepleieutøving	N	sairaanhoidon suoritus
 synkope	N	synkopee	pyörtyminen
-synsvidde	N	???
+synsvidde	N	näkökentän laajuus
 syntese	N	synteesi
-syrer	N	syyrialainen
-sårbarhet	N	haavoittuvuus
-sårheling	N	haavan paraneminen
-sårhet	N	arkuus
-søkemotor	N	hakukone
-søvnighet	N	unisuus
+syre	N	happo
 talg	N	tali
 tapping	N	tyhjentäminen	poisvaluttaminen
 temperaturstigning	N	lämmönnousu
@@ -481,13 +491,14 @@ termostat	N	termostaatti
 tertiærnæring	N	palveluelinkeino
 test	N	testi		teasta
 tetthet	N	tiheys
-tilfredsstillelse	N	tyydyttyminen
 tilførsel	N	lisäys
+tilfredsstillelse	N	tyydyttyminen
 tillitsforhold	N	luottamussuhde
 tilsetning	N	lisä
 tilsynssak	N	valvonta-asia
 toalettforhøyer	N	WC-istuimen koroke
 toksin	N	toksiini
+tømming	N	tyhjennys
 tortur	N	kidutus
 totalprotese	N	kokoproteesi
 transduser	N	muunnin
@@ -500,7 +511,6 @@ tumor	N	kasvain	tuumori
 tunnelsyn	N	kapeakatseisuus
 tutekopp	N	nokkamuki
 tvangsbehandling	N	pakkohoito
-tømming	N	tyhjennys
 ukrenkelighet	N	loukkaamattomuus
 umyndiggjøring	N	vajaavaltaiseksi julistaminen
 underrapportering	N	aliraportointi
@@ -508,6 +518,7 @@ understøtte	N	tukea
 unnlatelse	N	tekemättä jättäminen
 urinering	N	virtsaus
 urørlighetssone	N	koskemattomuusvyöhyke
+utånding	N	uloshengitys
 utenforskap	N	hyljeksinnän kokemus
 utfoldelse	N	avautuminen	tapahtuminen
 utførelse	N	suorittaminen
@@ -517,9 +528,9 @@ utskrivelse	N	uloskirjoitus
 utskriving	N	uloskirjoitus
 utsondre	N	erittää
 uttørring	N	kuivuminen
-utånding	N	uloshengitys
 vaginisme	N	vaginismi	emätinkouristus
 varhet	N	varovaisuus	helläkätisyys
+væsketap	N	nestevajaus
 vektreduksjon	N	painonpudotus
 vekttap	N	painon putoaminen
 velgjørenhetsprinsipp	N	hyväntekemisen periaate
@@ -527,13 +538,6 @@ verdikonflikt	N	arvokonflikti	arvoristiriita
 virkemåte	N	vaikutustapa
 virus	N	virus
 viskositet	N	viskositeetti
-væsketap	N	nestevajaus
 yrkesutøvelse	N	ammatinharjoitus
 yrkesutøving	N	ammatin harjoittaminen
 yteevne	N	suorituskyky
-åndedrag	N	hengenveto
-åreforkalkning	N	valtimonkovettumatauti	ateroskleroosi
-ødem	N	turvotus
-ømhet	N	hellyys	herkkyys
-østrogen	N	estrogeeni
-øyekontakt	N	silmäkontakti
