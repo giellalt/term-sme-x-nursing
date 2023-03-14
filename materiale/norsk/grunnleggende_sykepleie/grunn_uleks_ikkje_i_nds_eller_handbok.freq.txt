@@ -780,10 +780,8 @@ kontaktlinse	N	piilolinssi
 smertelindring	N	kivunlievitys
 grunnlidelse	N	perussairaus
 påkledd	N	puettu
-
-
 varmelaken	N	hätäpeite avaruuspeitto
-livkvalitetsbegrep	N	elämänlaadunkäsite
+livkvalitetsbegrep	N	elämänlaadun käsite
 mestringskurs	N	hallintakurssi
 hverdagskunnskap	N	arkitieto
 hovedkriterium	N	pääkriteeri
@@ -791,14 +789,14 @@ skjedekrampe	N	emätinkouristus
 koloskopi	N	paksusuolen tähystys
 praksiskontekst	N	käytännön konteksti
 hudkontakt	N	ihokontakti
-hovedkomponent	N	pääosa
-samtykkekompetanse	N   toimintakelpoisuus
-sinusknute	N	sinussolmuka
+hovedkomponent	N	pääkomponentti  pääosatekijä
+samtykkekompetanse	N   itsemääräämiskyky
+sinusknute	N	sinussolmuke
 lymfeknute	N	imusolmuke
 spyttkjertel	N	sylkirauhanen
 urinkateter	N	virtsakatetri
 syrekappe	N	happovaippa
-kommunikasjonskapasitet	N	
+kommunikasjonskapasitet	N	kommunikointikyky
 saltinntak	N	suolansaanti
 karbohydratinntak	N	hiilihydraatien saanti
 kaloriinntak	N	kalorien saanti
@@ -808,12 +806,12 @@ næringsinnhold	N	ravintosisältö
 hemoglobininnhold	N	hemoglobiinin määrä
 hastverksinkontinens	N	pakkoinkontinenssi
 ADL-indeks	N	ADL-indeksi
-stresshormon	N	stressihormooni
-ganghjelpemiddel	N	kävelyä avustava laite
-avvikshendelse	N	vaaratapahtuma
+stresshormon	N	stressihormoni
+ganghjelpemiddel	N	apuväline kävelyyn
+avvikshendelse	N	vaaratilanne
 tannhals	N	hampaan kaula
 risikogruppe	N	riskiryhmä
-normalgrense	N	normaalin (esim. verensokerin) raja-arvo
+normalgrense	N	normaalin raja
 kompresjonsgrad	N	kompressioaste
 blodgass	N	verikaasu
 tarmgass	N	suolistokaasu
@@ -822,11 +820,10 @@ gangfunksjon	N	kävelykyky
 temperaturforstyrrelse	N	kehon lämpötilan häiriö
 rytmeforstyrrelse	N	rytmihäiriö
 respirasjonsforstyrrelse	N	hengityshäiriö
-bevegelsesforstyrrelse	N	liikkumishäiirö
+bevegelsesforstyrrelse	N	liikkumishäiriö
 teknologiforståelse	N	teknologian ymmärtäminen
 tyngdefornemmelse	N	painon tunne
 forståelsesform	N	käsitystapa
-kontaktforhold	N	yhdessäolon muoto
 helseforhold	N	terveysolosuhteet
 pigmentforandring	N	pigmenttimuutos
 muskelfiber	N	lihaskuitu
@@ -835,49 +832,48 @@ søvnfase	N	unen vaihe
 sårfase	N	haavan vaihe
 platåfase	N	tasannevaihe
 orgasmefase	N	orgasmivaihe
-tonefall	N	äänenpaino  äänensävy
+tonefall	N	äänenpaino
 stressfaktor	N	stressitekijä
 miljøfaktor	N	ympäristötekijä
 empatievne	N	empatiakyky
 omsorgsetikk	N	hoitotyön etiikka
 fordøyelsesenzym	N	ruoansulatusentsyymi
 aldersendring	N	ikääntymismuutos
-personlighetsegenskap	N	persoonallisuuden piirteet
+personlighetsegenskap	N	persoonallisuuden piirre
 vitamindråpe	N	vitamiinitippa
-D-vitamindråpe	N	D-vitamiinitippa
 tidsdimensjon	N	aikaulottuvuus
 varedeklarasjon	N	tuoteseloste
-sårdannelse	N	haavan synty
+sårdannelse	N	haavan kehittyminen
 rusmiddelbruk	N	päihteiden käyttö
 antibiotikabruk	N	antibioottien käyttö
-kompresjonsbrudd	N	akompressiomurtuma
+kompresjonsbrudd	N	kompressiomurtuma
 menstruasjonsblod	N	kuukautisveri
 prostatabesvær	N	eturauhasvaiva
 væskebehandling	N	nestehoito
-hormonbehandling	N	hormoonihoito
+hormonbehandling	N	hormonihoito
 tålbar	N	siedettävä
-kontrollerbar	N	hallittavissa oleva
+kontrollerbar	N	tarkistettavissa oleva
 urinavgang	N	virtsaaminen
 forskningsartikkel	N	tutkimusartikkeli
 muskelarbeid	N	lihastyö
-skjedeåpning	N	emattimen aukko
+skjedeåpning	N	emättimen aukko
 arbeidsantrekk	N	työasu
 gruppeaktivitet	N	ryhmätoiminta
 sårvurdering	N	haavan arviointi
-hudvurdering	N	ihon (kunnon) arviointi
-funksjonsvurdering	N	toiminnon arviointi
+hudvurdering	N	ihon arviointi
+funksjonsvurdering	N	toiminnan arviointi
 urinvolum	N	virtsan määrä
 stemmevolum	N	äänen voimakkuus
 lungevolum	N	keuhkojen tilavuus
-matvogn	N	ruokakärryt
+matvogn	N	ruokakärry
 sykepleievitenskap	N	hoitotiede
 legemiddelvirkning	N	lääkeaineen vaikutus
 buffervirkning	N	puskurivaikutus
-livvidde	N	vyötärönmitta
+livvidde	N	vyötärön ympärysmitta
 vurderingsverktøy	N	arviointityökalu
 støtteverktøy	N	tukityökalu
 selvhjelpsverktøy	N	itsehoitoväline
-prosedyreverktøy	N	hoitotoimenpiteiden hakuväline
+prosedyreverktøy	N	toimenpiteiden hakutyökalu
 hemoglobinverdi	N	hemoglobiiniarvo
 blodverdi	N	veriarvo
 velvære	N	hyvinvointi
@@ -895,8 +891,8 @@ kroppsvann	N	kehon vesi
 isvann	N	jäävesi
 helsevane	N	terveystapa
 behandlingsvalg	N	hoitovalinta
-temperaturutvikling	N	kehon lämpötilan muuttuminen
-pubertetsutvikling	N	puberteettikehitys
+temperaturutvikling	N	kehon lämpötilan kehittyminen
+pubertetsutvikling	N	murrosiän kehitys
 kjønnsutvikling	N	sukupuolikehitys
 følelsesuttrykk	N	tunteenilmaisu
 melatoninutskilling	N	melatoniinin eritys
@@ -908,9 +904,11 @@ livsutfordring	N	elämän haaste
 aktivitetsutfoldelse	N	aktiviteetin suorittaminen
 sinneutbrudd	N	vihanpurkaus
 døgnurin	N	vuorokausivirtsa
-kontraktur	N	kontraktuura    supistuma
+kontraktur	N	kontraktuura    kutistuma
 fissur	N	fissuura    halkeama    haavauma
-forbrukerundersøkelse	N	asiakastutkimus potilastyytyväisyystutkimua
+forbrukerundersøkelse	N	asiakastutkimus potilastyytyväisyystutkimus
+
+
 sårtype	N	haavatyyppi
 fibertype	N	kuitutyyppi
 feiltrinn	N	harha-askel
