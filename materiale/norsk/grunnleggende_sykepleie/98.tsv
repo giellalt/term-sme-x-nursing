@@ -54,7 +54,7 @@ magesmerte	N	vatsakipu
 mandel	N	nielurisa
 medisinering	N	lääkitys
 muskelcelle	N	lihassolu
-muskelkrampe	N	lihaskramppi, suonenveto
+muskelkrampe	N	lihaskramppi	suonenveto
 navlestreng	N	napanuora
 nervecelle	N	hermosolu
 nervesystem	N	hermosolu
@@ -62,10 +62,10 @@ nesetipp	N	hermosto
 netthinne	N	verkkokalvo
 nyresykdom	N	munuaissairaus
 onkologi	N	onkologia
-plasma	N	plasma, veriplasma
+plasma	N	plasma	veriplasma
 polypp	N	polyyppi
 puls	N	pulssi
-pulsslag	N	syke, sydämen lyönti
+pulsslag	N	syke	sydämen lyönti
 pulsåre	N	valtimo
 ryggmarg	N	selkäydin
 røntgen	N	röntgen
@@ -80,18 +80,18 @@ strupelokk	N	kurkunkansi
 stær	N	kaihi
 sukk	N	huokaus
 svulst	N	kasvain
-syfilis	N	kuppa, syfilis, lues
-symfyse	N	häpykukkula, häpykumpu, venuskukkula
+syfilis	N	kuppa	syfilis	lues
+symfyse	N	häpykukkula	häpykumpu	venuskukkula
 sædblære	N	rakkularauhanen
 sædcelle	N	siittiö
 tannbein	N	hammasluu
 tannemalje	N	kiille
 tannkjøtt	N	ien
-tannråte	N	hammasmätä, karies
+tannråte	N	hammasmätä	karies
 tarmkanal	N	suolisto
-tarmslyng	N	suolitukos, ileus
+tarmslyng	N	suolitukos	ileus
 trommehinne	N	tärykalvo
-ultralyd	N	ultraääni (tutkimus)
+ultralyd	N	ultraääni
 urinblære	N	virtsarakko
 urinleder	N	virtsajohdin
 urinveisinfeksjon	N	virtsateidentulehdus
