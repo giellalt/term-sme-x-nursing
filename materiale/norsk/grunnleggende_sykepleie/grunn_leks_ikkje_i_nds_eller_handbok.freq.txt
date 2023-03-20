@@ -3,8 +3,6 @@
 # Sanat on järjestettu tajuuden mukaan, eli viimeiset sanat voit vain poistaa jos tuntuu siltä, että ne eivät ole tärkeitä.
 # Sanat ovat jo norjan kielen analyysiohjelmassa.
 
-Ehdotan poistettvaksi: enkeltpasient, fakte, samelov
-
 legemiddelsløyfe	N	ei ole Suomessa
 sykepleiefag	N	hoitotiede??
 behandler	N	???
@@ -308,8 +306,6 @@ håndlag	N	kädentaito	ote
 
 enzym	N	entsyymi
 
-enkeltpasient	N	
-
 e-konsultasjon	N	eKonsultaatio	etävastaanotto
 
 brukerrettighetslov	N	laki potilaan oikeuksista
@@ -372,7 +368,7 @@ temperaturstigning	N	lämmönnousu
 
 talg	N	tali
 
-smittespredning	N	tartunnan lviäminen
+smittespredning	N	tartunnan leviäminen
 
 slapphet	N	voimattomuus
 
@@ -402,7 +398,7 @@ krykke	N	kyynärsauva
 
 kompresjon	N	kompressio
 
-individualisme	N	yksilällisyys
+individualisme	N	yksilöllisyys
 
 førlighet	N	liikuntakyky
 
@@ -690,7 +686,7 @@ penicillin	N	penisilliini
 
 patofysiologi	N	patofysiologia
 
-parkinsonisme	N	parkonsonismi
+parkinsonisme	N	parkinsonismi
 
 overdose	N	yliannostus
 
@@ -992,7 +988,7 @@ handikap	N	vamma
 
 hallusinogen	N	hallusinogeeni
 
-habilitering	N	(lasten) kuntoutus
+habilitering	N	kuntoutus
 
 gynekologi	N	gynekologia
 
