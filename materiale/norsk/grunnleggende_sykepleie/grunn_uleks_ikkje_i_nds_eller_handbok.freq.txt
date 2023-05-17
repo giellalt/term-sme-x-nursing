@@ -1263,22 +1263,19 @@ virkelighetsflukt	N	pako todellisuudesta
 normalflora	N	normaalifloora  normaalimikrobisto
 livsfilosofi	N	elämänfilosofia
 hudfett	N	ihon rasvakerros
-
-
-begrepsfeste	N	
-fingerferdighet	N	
-overskuddsfenomen	N	käsitteellistää
+begrepsfeste	N	käsitteellistää
+fingerferdighet	N	sorminäppäryys
 yrkesfelt	N	ammattiala
-kroppsfasong	N	vartalonmalli
-østrogenfall	N	estrogeenin tason putoaminen
-atferdsfaktor	N	käyttäytymiseen liittyvä tekijä käytöstekijä
+kroppsfasong	N	vartalomalli
+østrogenfall	N	estrogeenitason lasku
+atferdsfaktor	N	käytöstekijä
 svelgeevne	N	nielemiskyky
 pumpeevne	N	pumppauskyky
 sykdomsepisode	N	sairausjakso
 kjerneenhet	N	ydinyksikkö
 kostholdsendring	N	ravitsemuksen muutos
 atferdsendring	N	käytöksen muutos
-lungeemboli	N	keuhkoembolia
+lungeemboli	N	keuhkoveritulppa    keuhkoembolia
 blæredysfunksjon	N	rakon toimintahäiriö
 sykepleiedokumentasjon	N	hoitotyön kirjaaminen
 overdosedødsfall	N	yliannostuskuolema
@@ -1291,7 +1288,7 @@ sykdomsbyrde	N	sairaustaakka   sairauskuorma
 maskebruk	N	kasvomaskin käyttö  kasvosuojaimen käyttö
 maktbruk	N	vallankäyttö
 lårhalsbrudd	N	reisiluun kaulan murtuma
-hudblødning	N	ihon verenvuoto
+hudblødning	N	ihoverenvuoto
 arterieblod	N	valtimoveri
 cellebiologi	N	solubiologia
 livsbetingelse	N	elinolosuhteet
@@ -1303,7 +1300,7 @@ giftbehandling	N	myrkkykäsittely
 dialysebehandling	N	dialyysihoito
 verdensbegrep	N	maailmankuva    maailmankäsitys
 kompresjonsbandasje	N	kompressioside
-håravfall	N	hiusten lähtö   hiuskato
+håravfall	N	hiustenlähtö   hiuskato
 barselavdeling	N	synnyttäneiden osasto
 rolleatferd	N	roolikäyttäytyminen
 pleieassistent	N	hoitoapulainen
@@ -1314,14 +1311,14 @@ syreangrep	N	happohyökkäys
 hosteanfall	N	yskänkohtaus
 virusanalyse	N	virusanalyysi
 matallergi	N	ruoka-allergia
-kontaktallergi	N	kosketusihottuma
-hjerneaktivitet	N	aivojen aktiviteetit
-risikovurderingsskjema	N	riskiarviointilomake
+kontaktallergi	N	kosketusallergia
+hjerneaktivitet	N	aivoaktiviteetti
+risikovurderingsskjema	N	riskien arviointilomake
 pasientvurdering	N	potilaan (hoidotarpeen) arviointi
 kunnskapsvurdering	N	tiedon arviointi
 plasmavolum	N	plasmatilavuus  plasmavolyymi
-muskelvolum	N	lihasvolyymi
-luftvolum	N	 ilmavolyymi
+muskelvolum	N	lihasvolyymi    lihastilavuus
+luftvolum	N	 ilmatilavuus
 inspirasjonsvolum	N	sisäänhengitysvolyymi
 døgnvolum	N	vuorokausivolyymi
 blodviskositet	N	veren viskositeetti
@@ -1338,14 +1335,14 @@ telefonveiledning	N	puhelinohjaus
 sårveiledning	N	haavahoidon ohjaus
 kollegaveiledning	N	vertaisohjaus
 blærevegg	N	rakon seinämä
-overskuddsvæske	N	liika neste
+overskuddsvæske	N	liika neste ylimääräinen neste
 ødemvæske	N	turvokuksen aiheuttama nestekertymä
 underlivvask	N	alapesu
 såpevask	N	saippuapesu
 ryggvask	N	selänpesu
 kroppsvarme	N	ruumiinlämpö
 fordampningsvarme	N	haihtumislämpö
-tømmingsvanske	N	(rakon) tyhjentämishäiriö
+tømmingsvanske	N	tyhjentämishäiriö
 synsvanske	N	näköhäiriö
 tømmingsvane	N	tyhjentämistapa
 dagvakt	N	päivävuoro
@@ -1353,13 +1350,13 @@ veneutvidelse	N	laskimolaajentuma
 oksygenutstyr	N	happilaite
 beskyttelsesutstyr	N	suojavaruste
 omsorgsutøver	N	hoidon antaja
-varmeutmattelse	N	hypertermia
+varmeutmattelse	N	auringonpistos  hypertermia
 helseutgift	N	terveydenhoitomeno
 natturin	N	yövirtsa
 sykepleieruniform	N	sairaanhoitajan univormu
-ultralydundersøkelse	N	
-strimmelundersøkelse	N	
-røntgenundersøkelse	N	kaikututkimus   ultraäänitutkimus
+ultralydundersøkelse	N	kaikututkimus   ultraäänitutkimus
+strimmelundersøkelse	N	liuskatesti
+røntgenundersøkelse	N	röntgentutkimus
 kartleggingsundersøkelse	N	kartoitustutkimus
 EKG-undersøkelse	N	EKG-tutkimus
 søvnunderskudd	N	univaje
@@ -1372,10 +1369,11 @@ pasienttrygghet	N	potilasturvallisuus
 nettingstruse	N	verkkohousut
 venetrombose	N	laskimotukos    laskimotromboosi
 madrasstrekk	N	patjansuojus
-hygienetrekant	N	hygienia
 tømmingstrang	N	ulostamisen tarve
 urinstråle	N	virtsasuihku
 klapptørking	N	taputtelukuivaus
+
+
 klapptørke	N	kuivata taputtelemalla
 laktosetoleranse	N	laktoosi-intoleranssi
 aktivitetstoleranse	N	liikunnan sietäminen
