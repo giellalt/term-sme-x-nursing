@@ -1369,14 +1369,12 @@ pasienttrygghet	N	potilasturvallisuus
 nettingstruse	N	verkkohousut
 venetrombose	N	laskimotukos    laskimotromboosi
 madrasstrekk	N	patjansuojus
-tømmingstrang	N	ulostamisen tarve
+tømmingstrang	N	ulostamistarve
 urinstråle	N	virtsasuihku
 klapptørking	N	taputtelukuivaus
-
-
 klapptørke	N	kuivata taputtelemalla
-laktosetoleranse	N	laktoosi-intoleranssi
-aktivitetstoleranse	N	liikunnan sietäminen
+laktosetoleranse	N	laktoosin sietokyky
+aktivitetstoleranse	N	liikunnan sietokyky
 svettetokt	N	hikoilukohtaus
 bakterietoksin	N	bakteerimyrkky
 sykepleietjeneste	N	sairaanhoitopalvelut
@@ -1385,14 +1383,13 @@ besøkstjeneste	N	ystävätoiminta
 legetime	N	lääkäriaika
 sjokktilstand	N	shokkitila
 ernæringstilskudd	N	ravintolisä
-behovstilfredsstillelse	N	tarpeen tyydytys
-kontakttermometer	N	
-hudtermometer	N	
-arterietermometer	N	
-oksygenterapi	N	
-avledningsterapi	N	
-forfallstendens	N	
-dråpeteller	N	kosketuskuumemittari    ihokuumemittari
+behovstilfredsstillelse	N	tarpeiden tyydytys
+kontakttermometer	N	kosketuslämpömittari
+hudtermometer	N	iholämpömittari
+arterietermometer	N	valtimolämpömittari
+oksygenterapi	N	happihoito	
+forfallstendens	N	rappioitumistaipumus
+dråpeteller	N	tipanlaskija
 forflytningsteknikk	N	siirtotekniikka
 genital	N	sukupulielimet
 venesystem	N	laskimojärjestelmä
@@ -1408,7 +1405,7 @@ luftveissykdom	N	hengityselinsairaus
 kvinnesykdom	N	naistentaudit
 kolssykdom	N	keuhkoahtaumatauti
 gallesykdom	N	sappikivitauti
-alderssykdom	N	vanhusten sairaus
+alderssykdom	N	vanhuuden sairaus
 livsvane	N	elintapa
 signalsubstans	N	signaaliaine
 brukerstyring	N	asiakaslähtöisyys
@@ -1416,7 +1413,7 @@ intervensjonsstudie	N	interventiotutkimus
 hvilestoffskifte	N	lepoaineenvaihdunta
 hjertestans	N	sydänpysähdys
 pubertetsstadium	N	puberteettivaihe
-blærespreng	N	paineen tuntu virtsarakossa
+blærespreng	N	paineen tunne virtsarakossa
 tubespiss	N	tuubin kärki
 stemmespalte	N   äänirako
 deltasøvn	N	syvä uni    deltauni
@@ -1425,7 +1422,7 @@ heteslag	N	lämpöhalvaus
 transkjønn	N	transsukupuoli
 risikovurderingsskjema	N	riskinarviointilomake
 sårskifte	N	haavanhoito
-vaktskift	N	vuoronvaihto
+vaktskifte	N	vuoronvaihto
 fettstoffskifte	N	rasva-aineenvaihdunta
 synsskarphet	N	näöntarkkuus
 risikovurderingskala	N	riskinarviointiasteikko
@@ -1438,9 +1435,8 @@ organskade	N	elinvaurio
 nyreskade	N	munuaisvaurio
 fødselsskade	N	syntymävamma
 bruddskade	N	murtumavamma
-blæreskade	N	virtsarakon vamma
+blæreskade	N	virtsarakon vaurio   virtsarakon vamma
 alkoholskade	N	alkoholin aiheuttama vamma
-praksissjokk	N	hintashokki
 blødningssjokk	N	vuotosokki
 helsesjekk	N	terveystarkastus
 membranside	N	kalvopuoli
@@ -1448,7 +1444,7 @@ kroppsside	N	kylki
 klystersetting	N	peräruiskeen anto
 luktsenter	N	hajukeskus
 brekningssenter	N	oksennuskeskus
-bleiesensor	N	kosteusindikaattori
+bleiesensor	N	vaipan kosteusindikaattori 
 hælsene	N	akillesjänne
 slimsekresjon	N	limaneritys
 skittentøysekk	N	pyykkipussi
@@ -1460,14 +1456,14 @@ refleksjonssamtale	N	reflektointikeskustelu
 kostsamtale	N	ravitsemuskeskustelu
 kartleggingssamtale	N	hoidon tarpeen arviointikeskustelu
 urinsamling	N	virtsankeräys
-ødemsamling	N	nesteen kertyminen kehoon turvotuksen paheneminen
+ødemsamling	N	nesteen kertyminen (kehoon)
 spyttsaft	N	sylki   sylkineste
 pulsrytme	N	sykkeen rytmi
-pukkelrygg	N	kumararyhti kyttyräselkä    köyryselkä  kyfoosi
+pukkelrygg	N	kyttyräselkä    köyryselkä  kyfoosi
 korsrygg	N	ristiselkä
-nekrose	N	kuolionekroosi
+nekrose	N	kuolio  nekroosi
 smitterisiko	N	tartuntariski
-trombosering	N	tukosten muodostuminen  veritulppien muodostuminen
+trombosering	N	veritulppien muodostuminen   tukosten muodostuminen
 brukerrettighet	N	potilaan oikeudet
 vegetarrett	N	kasvisruoka
 sykepleieresultat	N	hoidon tulos
@@ -1483,7 +1479,7 @@ reseptregister	N	reseptirekisteri
 kreftregister	N	syöpärekisteri	
 tømmingsrefleks	N	ulostusrefleksi
 senkningsreaksjon	N	lasko   senkka
-allergireaksjon	N	allergiareaktio
+allergireaksjon	N	allergiareaktio yliherkkyysreaktio
 kastrasjon	N	kastraatio  kastroiminen
 rullestolrampe	N	pyörätuoliramppi    pyörätuoliluiska
 egenomsorgsrådgivning	N	itsehoidon neuvonta
@@ -1492,11 +1488,11 @@ kunnskapspyramide	N	tiedon pyramidi
 penispumpe	N	penispumppu
 ernæringspumpe	N	ravintopumppu
 hovedpulsåre	N	aortta
-poseprøve	N	koe (virtsa)pussista
+poseprøve	N	(virtsa)näyte pussista
 plasmaprotein	N	plasmaproteiini
 muskelprotein	N	lihasproteiini
 sorgprosess	N	suruprosessi
-sykdomsprognose	N	sairauden prognoosi sairauden ennuste
+sykdomsprognose	N	sairauden ennuste   sairauden prognoosi
 sykehusprest	N	sairaalapappi
 varmepose	N	lämpöpussi
 veneport	N	laskimoportti
@@ -1518,7 +1514,7 @@ omsorgsoppgave	N	sairaanhoidon tehtävät  hoivatehtävä
 fettomsetning	N	rasva-aineenvaihdunta
 hudombud	N	iho-ongelmiin paneutunut vastuusairaanhoitaja
 novisenivå	N	noviisitaso aloittelijan taso
-utfoldelsesmulighet	  ???                               Trond sjekka språk hit	N	
+utfoldelsesmulighet N   (itsensä) ilmentämismahdollisuudet                    Trond sjekka språk hit	N	
 EKG-monitor	N	EKG-monitori
 signalmolekyl	N	signaalimolekyyli
 verdimodell	N	arvomalli
@@ -1540,16 +1536,18 @@ ultralydmaskin	N	ultraäänilaite
 hostemaskin	N	yskityslaite
 binyremarg	N	lisämunuaisydin
 beinmarg	N	luuydin
-trykkmadrass	N	
-avlastningsmadrass	N	
-utåndingsluft	N	
-innåndingsluft	N	
-tvangslovgivning	N	
-ernæringsløsning	N	lämmön mittaaminen
+trykkmadrass	N	painehaavapatja
+avlastningsmadrass	N	painetta helpottava patja
+utåndingsluft	N	uloshengitysilma
+innåndingsluft	N	sisäänhengitysilma
+tvangslovgivning	N	tahdosta riippumatonta hoitoa (pakkohoitoa) koskeva lainsäädäntö
+ernæringsløsning	N	ravintoliuos
 livskvalitet	N	elämänlaatu
 legemiddelliste	N	lääkityslista   lääkelista
 livslengde	N	elinikä
-mesterlære	N	mestari-kisälli-oppiminen ???
+mesterlære	N	kognitiivinen oppipoikamalli
+
+
 varmelaken	N	lämpölakana
 stikklaken	N	poikkilakana
 reservelager	N	varmuusvarasto
