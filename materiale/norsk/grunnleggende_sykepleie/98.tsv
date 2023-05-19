@@ -1,6 +1,5 @@
 akillessene	N	akillesjänne
 amputasjon	N	amputaatio
-anemi	N	anemia
 apati	N	apatia
 bitestikkel	N	lisäkives
 blindtarmbetennelse	N	umpilisäkkeen tulehdus
@@ -13,16 +12,11 @@ blødning	N	verenvuoto
 brekning	N	oksentaminen
 brokk	N	tyrä
 brystbein	N	rintalasta
-brystkasse	N	rintakehä
 brystmuskel	N	rintalihas
 bukhinne	N	vatsakalvo
-desinfeksjon	N	desinfektio
 døvhet	N	kuurous
-eggcelle	N	munasolu
 emfysem	N	keuhkolaajentuma emfyseema
-farmakologi	N	farmakologia 
 fingerledd	N	sorminivel
-fortann	N	etuhammas
 galleblære	N	sappirakko
 gallegang	N	sappitiehyt
 gallestein	N	sappikivi
@@ -42,48 +36,33 @@ inflammasjon	N	tulehdus
 influensa	N	influenssa
 inkubasjonstid	N	itämisaika
 kjønnsleppe	N	häpyhuulet
-kjønnsorgan	N	sukupuolielin
-knip	N	
-korsbein	N	ristiluu
 kroppsvarme	N	kehonlämpö
 kroppsvekt	N	kehonpaino
-kvikksølv	N	elohopea
 lammelse	N	halvaus
 liktorn	N	liikavarvas
 magesmerte	N	vatsakipu
 mandel	N	nielurisa
-medisinering	N	lääkitys
-muskelcelle	N	lihassolu
 muskelkrampe	N	lihaskramppi	suonenveto
 navlestreng	N	napanuora
-nervecelle	N	hermosolu
-nervesystem	N	hermosolu
-nesetipp	N	hermosto
-netthinne	N	verkkokalvo
 nyresykdom	N	munuaissairaus
 onkologi	N	onkologia
 plasma	N	plasma	veriplasma
 polypp	N	polyyppi
-puls	N	pulssi
 pulsslag	N	syke	sydämen lyönti
 pulsåre	N	valtimo
 ryggmarg	N	selkäydin
-røntgen	N	röntgen
 salve	N	salva
 sekresjon	N	erite
 serum	N	seerumi
 skulderledd	N	olkanivel
-snorking	N	kuorsaus
 spyttkjertel	N	sylkirauhanen
 stoffskiftesykdom	N	aineenvaihduntasairaus
 strupelokk	N	kurkunkansi
 stær	N	kaihi
 sukk	N	huokaus
-svulst	N	kasvain
 syfilis	N	kuppa	syfilis	lues
 symfyse	N	häpykukkula	häpykumpu	venuskukkula
 sædblære	N	rakkularauhanen
-sædcelle	N	siittiö
 tannbein	N	hammasluu
 tannemalje	N	kiille
 tannkjøtt	N	ien

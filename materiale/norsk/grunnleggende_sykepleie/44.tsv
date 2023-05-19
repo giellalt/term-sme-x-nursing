@@ -6,7 +6,6 @@ blærekatarr	N		virtsarakontulehdus
 brystbein	N		rintalasta
 brystmuskel	N		rintalhas
 bukhinne	N		vatsakalvo
-eggcelle	N		munasolu
 fingerledd	N		sorminivel
 gallegang	N		sappitiehyt
 gallestein	N		sappikivi
@@ -16,26 +15,18 @@ hjertekammer	N		sydänkammio
 hjerteklaff	N		sydänläppä
 hjertemuskel	N		sydänlihas	
 hudavdeling	N		ihotautiosasto
-håndledd	N		ranne
-kjønnsorgan	N		sukupuolielin
-korsbein	N		ristiluu
 kroppsvarme	N		kehonlämpö
 kroppsvekt	N		kehonpaino
 magesmerte	N		vatsakipu
-muskelcelle	N		lihassolu
 muskelkrampe	N		lihaskramppi	suonenveto	
 navlestreng	N		napanuora
-nervecelle	N		hermosolu
-netthinne	N		verkkokalvo
 nyresykdom	N		munuaistauti
 skulderledd	N		olkanivel
-snorking	N		kuorsaus
 spyttkjertel	N		sylkirauhanen	
 stoffskiftesykdom	N		aineenvaihduntasairaus	
 strupelokk	N		kurkunkansi	
 stær	N		kaihi
 sædblære	N		rakkularauhanen	
-sædcelle	N		siittiö
 tannbein	N		hammasluu
 tannemalje	N		kiille
 tannkjøtt	N		ien
