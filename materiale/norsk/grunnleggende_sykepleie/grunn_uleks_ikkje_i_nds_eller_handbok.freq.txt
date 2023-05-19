@@ -1546,15 +1546,13 @@ livskvalitet	N	elämänlaatu
 legemiddelliste	N	lääkityslista   lääkelista
 livslengde	N	elinikä
 mesterlære	N	kognitiivinen oppipoikamalli
-
-
-varmelaken	N	lämpölakana
+varmelaken	N	lämpölakana suojapeite
 stikklaken	N	poikkilakana
 reservelager	N	varmuusvarasto
 glykogenlager	N	glykogeenivarasto
 fettlager	N	rasvavarasto
-blodlager	N	varivarasto
-øreskylling	N	korvien huuhtelu
+blodlager	N	verivarasto
+øreskylling	N	korvahuuhtelu
 vektkurve	N	painokäyrä
 sykepleiekunnskap	N	sairaanhoidon tietämys
 pleiekultur	N	hoitokulttuuri
@@ -1562,11 +1560,11 @@ omsorgskultur	N	hoivakulttuuri
 blodkultur	N	veriviljely
 systemkretsløp	N	iso verenkierto systeeminen verenkierto
 skjedekrans	N	immenkalvo  hymen
-flaskekost	N	pulloruoka  pulloharja
+flaskekost	N	pulloharja
 allergikost	N	allergiaruoka
 tarmkontroll	N	suolen hallinta
 stimuluskontroll	N	ärsykkeen hallinta
-blærekontroll	N	(virtsa)rakon hallinta
+blærekontroll	N	virtsarakon hallinta
 brystkompresjon	N	rintalastan painelu(elvytys)
 muskelknute	N	lihassolukasvain    myooma
 lårbeinknute	N	iso sarvennoinen trochanter major
@@ -1580,7 +1578,7 @@ hydrokarbonkjede	N	hiilivetyketju
 venekateter	N	laskimokatetri
 plastkateter	N	muovikatetri
 kvinnekateter	N	naisten katetri
-skjedekatarr	N	bakteerivaginoosi
+skjedekatarr	N	emättimen bakteeritasapainon häiriö bakteerivaginoosi
 nettverkskartlegging	N	sosiaalisen verkoston kartoitus
 ernæringskartlegging	N	ravitsemuksen arviointi ravitsemuksen kartoitus
 reservekapasitet	N	reservikapasiteetti
@@ -1592,8 +1590,8 @@ bakterieinvasjon	N	bakteeri-invaasio
 matvareintoleranse	N	ruoka-aineintoleranssi
 glutenintoleranse	N	gluteeni-intoleranssi
 glukoseintoleranse	N	glukoosi-intoleranssi
-urininkontinens	N	virtsankarkailu
-avføringsinkontinens	N	ulosteinkontinenssi
+urininkontinens	N	virtsankarkailu virtsainkontinenssi
+avføringsinkontinens	N	ulosteinkontinenssi ulosteen pidätyskyvyttömyys ulosteen karkailu
 væskeinfusjon	N	nesteinfuusio
 helseinformatikk	N	terveystietojenkäsittelytiede
 pasientinformant	N	potilasinformantti
@@ -1607,15 +1605,15 @@ vevhormon	N	kudoshormoni
 veksthormon	N	kasvuhormoni
 graviditetshormon	N	raskaushormoni
 penishode	N	peniksen kärki  terska
-forflytningshjelpemiddel	N	apuväline potilaan siirtämiseen
-medisinhistorie	N	hoitohistoria   lääketieteen historia
-helsehistorie	N	terveyskertomus anamneesi
-lungehinne	N	keuhkon pintaan kiinittyvä kalvo    plaura visceralis
+forflytningshjelpemiddel	N	siirtoapuväline
+medisinhistorie	N	lääketieteen historia
+helsehistorie	N	eslitiedot  anamneesi   terveydenhoidon historia 
+lungehinne	N   viskeraalinen keuhkopussin lehti   keuhkon pintaan kiinnittyvä kalvo    pleura visceralis    
 jomfruhinne	N	immenkalvo  hymen
-operasjonshette	N	hiussuojus  leikkaussalissa käytettävä myssy
+operasjonshette	N	hiussuojus  
 utviklingshemning	N	kehitysvamma
 munnhelse	N	suun terveys
-minoritetshelse	N	vähemmistöjen terveys   vähemmistöterveys
+minoritetshelse	N   vähemmistöterveys   vähemmistöjen terveys
 takheis	N	kattoon kiinnitetty siirtolaite
 ganghastighet	N	kävelynopeus
 blærehals	N	virtsarakon kaula
@@ -1633,7 +1631,7 @@ slagfrekvens	N	syketaajuus
 respirasjonsfrekvens	N	hengitystaajuus
 forforståelse	N	esiymmärrys
 kurveføring	N   tietojen kirjaaminen
-svangerskapsforgiftning	N	    pre-eklampsia   raskausmyrkytys
+svangerskapsforgiftning	N   raskausmyrkytys pre-eklampsia
 normalflora	N	normaalifloora
 bakterieflora	N	bakteerifloora  mikrobiomi
 egenomsorgsevne	N	itsehoitokyky
