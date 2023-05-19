@@ -1607,7 +1607,7 @@ graviditetshormon	N	raskaushormoni
 penishode	N	peniksen kärki  terska
 forflytningshjelpemiddel	N	siirtoapuväline
 medisinhistorie	N	lääketieteen historia
-helsehistorie	N	eslitiedot  anamneesi   terveydenhoidon historia 
+helsehistorie	N	esitiedot  anamneesi   terveydenhuollon historia 
 lungehinne	N   viskeraalinen keuhkopussin lehti   keuhkon pintaan kiinnittyvä kalvo    pleura visceralis    
 jomfruhinne	N	immenkalvo  hymen
 operasjonshette	N	hiussuojus  
