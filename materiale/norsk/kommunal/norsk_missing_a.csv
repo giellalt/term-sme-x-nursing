@@ -1,39 +1,38 @@
-alkoholskadd	A	
-anabol	A	
-arbeidsdyktig	A	
-arbeidsudyktig	A	
-arbeidsufør	A	
-avslappende	A	
-beroligende	A	
-bevisstløs	A	
-bilsjuk	A	
-blodsprengt	A	
-depressiv	A	
-desinfinsere	A	
+alkoholskadd	A	alkoholin vaurioittama
+anabol	A	anabolinen
+arbeidsdyktig	A	työkykyinen
+arbeidsudyktig	A	työkyvytön
+arbeidsufør	A	työkyvytön
+avslappende	A	rentouttava
+beroligende	A	rauhoittava
+bevisstløs	A	tajuton
+bilsjuk	A	matkapahoinvoiva
+blodsprengt	A	verestävä
+depressiv	A	depressiivinen  masentunut
 døende	A	kuoleva
-døvblind	A	
-døvstum	A	
-fargeblind	A	
-fastende	A	
-forkjølet	A	
-funksjonshemmet	A	
-halt	A	
-helbredelig	A	
-helsebringende	A	
-helseskadelig	A	
-hyperaktiv	A	
-kurativ	A	
-laktoseintolerant	A	
-livreddende	A	
+døvblind	A	kuurosokea
+døvstum	A	kuuromykkä
+fargeblind	A	värisokea
+fastende	A	paastoava
+forkjølet	A	vilustunut
+funksjonshemmet	A	kehitysvammainen
+halt	A	ontuva
+helbredelig	A	parannettava
+helsebringende	A	terveyttä edistävä
+helseskadelig	A	terveyttä haittaava
+hyperaktiv	A	ylivilkas   hyperaktiivinen
+kurativ	A	parantava    kuratiivinen
+laktoseintolerant	A	laktoosi-intolerantti
+livreddende	A	elämää pelastava
 livsviktig	A	elintärkeä
-ømtålig	A	
-ør	A	
-profylaktisk	A	
+ømtålig	A	herkkä  arka    arkaluontoinen
+ør	A	pyörryttävä huimaava
+profylaktisk	A	ennaltaehkäisevä    profylaktinen
 radioaktiv	A	radioaktiivinen
-rank	A	
-reisesyk	A	
-resistent	A	
-schizofren	A	
+rank	A	suora
+reisesyk	A	matkasairas
+resistent	A	resistentti vastustuskykyinen
+schizofren	A	skitsofreeninen
 senil	A	seniili
 sinnsyk	A	
 sjøsyk	A	
