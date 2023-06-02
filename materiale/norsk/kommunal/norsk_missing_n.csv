@@ -1,57 +1,51 @@
-CRP-måler	N	
-Cowperkjertel	N	
-DNA	N	
-abstinens	N	
-achillessene	N	
-aktivitør	N	
+CRP-måler	N	CRP-mittari
+Cowperkjertel	N	Cowperin rauhanen
+abstinens	N	abstinenssi
+achillessene	N	akillesjänne
+aktivitør	N	???
 akupunktur	N	akupunktio
-albueledd	N	
-aldring	N	
-allergimedisin	N	
-allmennlege	N	
-alternativ medisin	N	
-alzheimer	N	
-amalgam	N	
-ambolten	N	
-ambulansesjåfør	N	
+albueledd	N	kyynärnivel
+aldring	N	vanheneminen
+allergimedisin	N	allergialääke
+allmennlege	N	yleislääkäri
+alternativ medisin	N	uskomuslääkintä
+amalgam	N	amalgaami
+ambolten	N	alasin
+ambulansesjåfør	N	ambulanssikuski
 amfetamin	N	amfetamiini
 ampull	N	ampulli
-anamnese	N	
-åndedrettsorgan	N	
-angrepille	N	
-antibiotikum	N	
+anamnese	N	anamneesi   esitiedot
+åndedrettsorgan	N	hengityselin
+angrepille	N	jälkiehkäisytabletti
+antibiotikum	N	antibiootti
 antihistamin	N	antihistamiini
-antistoff	N	
-apetitt	N	
-arbeidsterapeut	N	
-åreinnsnevring	N	
-åreknute	N	
-armbrudd	N	
-armkrok	N	
-armledd	N	
-avlastningspute	N	
-avleiring	N	
-avsliting	N	
-bakhode	N	
-balansenerve	N	
-bårerom	N	
-barnehjemsbarn	N	
-barneorm	N	
-barnesmekke	N	
-barnesykdom	N	
-barnløshet	N	
-barselfeber	N	
-barselseng	N	
-bart	N	viikset
+antistoff	N	vasta-aine
+apetitt	N	ruokahalu
+arbeidsterapeut	N	toimintaterapeutti
+åreinnsnevring	N	verisuonen kaventuminen
+åreknute	N	suonikohju
+armbrudd	N	käsimurtuma
+armkrok	N	käsitaive
+armledd	N	rannenivel
+avlastningspute	N	painehaavatyyny
+avleiring	N	kerrostuma
+bakhode	N	takaraivo
+balansenerve	N	tasapainohermo
+barnehjemsbarn	N	lastenkotilapsi
+barneorm	N	kihomato
+barnesmekke	N	ruokalappu
+barnesykdom	N	lastentauti
+barnløshet	N	lapsettomuus
+barselfeber	N	lapsivuodekuume
+barselseng	N	lapsivuodeaika
 bart	N	viiksi
-bedøvelsesmiddel	N	
+bedøvelsesmiddel	N	puudutusaine
 beinbrudd	N	luunmurtuma
-beinmarg	N	
-beinskjørhet	N	
-bekken	N	
-belastningsskade	N	
-beltested	N	
-bendelorm	N	
+beinmarg	N	selkäydin
+beinskjørhet	N	luukato osteoporoosi
+bekken	N	lantio
+belastningsskade	N	rasitusvamma
+bendelorm	N	heisimato
 besvimelse	N	
 bevisstløshet	N	
 bihule	N	
