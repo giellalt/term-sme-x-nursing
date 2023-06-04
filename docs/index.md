@@ -9,6 +9,7 @@ Denne sida presenterer arbeidet med samisk sjukepleieterminologi.
 ## Arbeidsdokument, oversyn
 
 - [Kjeldefiler](https://github.com/giellalt/term-sme-x-nursing)
+- [Ordbøker og andre ressurser](nettressurser.md)
 - [Oversyn 10.1.22.](Oversyn_220110.md)
 - [Plan 10.1.22.](Plan_220110.md)
 - [Plan 1.3.22.](Plan_220301.md)
@@ -34,7 +35,7 @@ Denne sida presenterer arbeidet med samisk sjukepleieterminologi.
  ◊ [25.10.22](meetings/moete.221025.md)
 
 - 2023: [19.5.22](meetings/moete.230519.md)
- ◊ 
+ ◊  [4.6.22](meetings/moete.230604.md)
 
 ### Møte med andre
 - 2022: [14.2.22](meetings/diskusjon_agder.md) (UiA)
