@@ -59,26 +59,26 @@ blærekatarr	N	virtsarakon tulehdus
 bleietruse	N	vaippahousut
 blekhet	N	kalpeus
 blindtarmsbetennelse	N	umpilisäketulehdus
-bloddråpe	N	ve
-bløder	N	
-blødersykdom	N	
-blodforgiftning	N	
-blodgiver	N	
-blodgivning	N	
-blodigle	N	
-blodkar	N	
-blodkreft	N	
-blodlegeme	N	
-blodmangel	N	
-blodoverføring	N	
-blodplasma	N	
-blodstyrtning	N	
-blodsukkerapparat	N	
-blodtrykksfall	N	
-blodtrykksmåler	N	
-blodtrykksmedisin	N	
-blodtype	N	
-boveileder	N	
+bloddråpe	N	veripisara
+bløder	N	hemofiliapotilas    verenvuototautia sairastava ihminen
+blødersykdom	N	verenvuototautiahemofilia
+blodforgiftning	N	verenmyrkytys   sepsis
+blodgiver	N	verenluovuttaja
+blodgivning	N	verenluovutus
+blodigle	N	verijuotikas    iilimato
+blodkar	N	verisuoni
+blodkreft	N	verisyöpä
+blodlegeme	N	verisolu
+blodmangel	N	anemia  vähäverisyys    verenvähyys
+blodoverføring	N	verensiirto
+blodplasma	N	veriplasma
+blodstyrtning	N	verensyöksy
+blodsukkerapparat	N	verensokerimittari
+blodtrykksfall	N	verenpaineen lasku
+blodtrykksmåler	N	verenpainemittari
+blodtrykksmedisin	N	verenpainelääke
+blodtype	N	verityyppi
+boveileder	N	tukiasumisen omatyöntekijä
 brannlaken	N	
 brannsår	N	palohaava
 brenne seg	N	
