@@ -49,7 +49,7 @@ aldersforandring	N	vanhenemismuutos
 alderssykdom	N	vanhuuden sairaus
 aldringsprosess	N	vanhenemisprosessi
 alkoholskade	N	alkoholin aiheuttama vamma
-allergiforbund	N	allerigaliitto
+allergiforbund	N	allergialiitto
 allergikost	N	allergiaruoka
 allergireaksjon	N	allergiareaktio yliherkkyysreaktio
 allmennlege	N	yleislääkäri
@@ -290,7 +290,6 @@ brystbein	N	rintalasta
 brysthinne	N	rintakalvo
 brysthule	N	rintaontelo
 brystkompresjon	N	rintalastan painelu(elvytys)
-brystmuskel	N	rintalhas
 brystmuskel	N	rintalihas
 brystprotese	N	rintaproteesi
 brystvegg	N	rinnan seinämä
@@ -434,7 +433,7 @@ evalueringskriterium	N	arviointikriteeri
 evalueringsskjema	N	arviointilomake
 evidens	N	evidenssi	näyttö
 fagartikkel	N	ammattialan artikkeli
-fagprosedyre	N	amattialan menetelmä  ammattialan toimenpide
+fagprosedyre	N	ammattialan menetelmä  ammattialan toimenpide
 fagutøver	N	ammattialan harjoittaja
 fagutvikling	N	ammattialan kehitys
 fallrisiko	N	kaatumisriski
