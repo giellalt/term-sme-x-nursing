@@ -79,62 +79,60 @@ blodtrykksmåler	N	verenpainemittari
 blodtrykksmedisin	N	verenpainelääke
 blodtype	N	verityyppi
 boveileder	N	tukiasumisen omatyöntekijä
-brannlaken	N	
+brannlaken	N	pelastuslakana
 brannsår	N	palohaava
-brenne seg	N	
-brist	N	
-bronkie	N	
-bronkitt	N	bronkiitti
-brystbein	N	
-brystside	N	
-buegang	N	
-bukdekke	N	
-bukhulen	N	
+brenne seg	N	polttaa itsensä
+brist	N	puute   särö
+bronkie	N   keuhkoputki
+bronkitt	N	keuhkoputkentulehdus    bronkiitti
+brystbein	N	rintalasta
+buegang	N	kaarikäytävä
+bukdekke	N	vatsanpeite
+bukhulen	N	vatsaontelo
 bukspyttkjertel	N	haima
-bulimi	N	
-cannabis	N	kannabis
-cellegift	N	
-desinfiseringsmiddel	N	
-diare	N	
-difteri	N	difteria
-dødsangst	N	
+bulimi	N	    ahmimishäiriö   bulimia
+cannabis	N	kannabis    marihuana
+cellegift	N   solunsalpaaja   sytostaatti   solumyrkky
+desinfiseringsmiddel	N	desinfiointiaine
+diare	N	ripuli
+difteri	N	kurkkumätä  difteria
+dødsangst	N	kuolemanpelko
 dødsårsak	N	kuolinsyy
 doping	N	doping
-dosett	N	
-dostol	N	
-døvetolk	N	
-dusjovertrekkssko	N	
-dusjstol	N	
-dyrebitt	N	
-eggstokkbetennelse	N	
-eggstokkreft	N	
+dosett	N	lääkeannostelija    dosetti
+dostol	N	WC-tuoli
+døvetolk	N	viittomakielen tulkki
+skoovertrekk	N	kenkäsuoja
+dusjstol	N	suihkutuoli
+dyrebitt	N	eläimen purema
+eggstokkbetennelse	N	munasarjatulehdus
+eggstokkreft	N	munasarjasyöpä
 elveblest	N	nokkosihottuma
 enzym	N	entsyymi
-epilepsi	N	epilepsia
+epilepsi	N	epilepsia   nokkosrokko urtikaria
 ereksjon	N	erektio
-ereksjonsproblem	N	
-ergoterapeut	N	
-ettermiddagsvakt	N	
-evner	N	
-faresignal	N	
-fastlege	N	
-fatle	N	
-fattigdomsgrense	N	
-febernedsettende	N	
-fellesstue	N	
-fet	N	
-fettkul	N	
-fettsuging	N	
-fibromyalgi	N	
-fingerbrudd	N	
-fingerledd	N	
-fingerspiss	N	
-fise	N	
-fluor	N	
-fødselshjelper	N	
-fødselsmerke	N	
-fødseltermin	N	
-fontanelle	N	
+ereksjonsproblem	N	erektio-ongelma erektiohäiriö
+ergoterapeut	N	toimintaterapeutti
+ettermiddagsvakt	N	iltapäivävuoro
+faresignal	N	vaaranmerkki
+fastlege	N	omalääkäri
+fatle	N	mitella kolmioliina
+fattigdomsgrense	N	köyhyysraja
+febernedsettende	N	kuumetta alentava
+fellesstue	N	potilaiden yhteistila
+fet	N	rasvainen
+fettkul	N	rasvapatti  lipooma
+fettsuging	N	rasvaimnu
+fibromyalgi	N	fibromyalgia
+fingerbrudd	N	sormen murtuma
+fingerledd	N	sorminivel
+fingerspiss	N	sormenpää
+fise	N	piereskellä pierrä 
+fluor	N	fluori
+fødselshjelper	N	synnytyksessä avustava kätilö tai lääkäri
+fødselsmerke	N	syntymämerkki
+fødseltermin	N	laskettu aika
+fontanelle	N	aukile
 fordøyelseskanalen	N	
 fordøyelsesorgan	N	
 forfryse seg	N	
