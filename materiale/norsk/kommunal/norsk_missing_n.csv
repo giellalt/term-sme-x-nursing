@@ -133,69 +133,69 @@ fødselshjelper	N	synnytyksessä avustava kätilö tai lääkäri
 fødselsmerke	N	syntymämerkki
 fødseltermin	N	laskettu aika
 fontanelle	N	aukile
-fordøyelseskanalen	N	
-fordøyelsesorgan	N	
-forfryse seg	N	
-forfrysning	N	
-forkalke	N	
-forkalkning	N	
-forkammer	N	
-forstørrelsesglass	N	
-forstrekkelse	N	
-forstuing	N	
-fostervann	N	
-fotbue	N	
-fotpleier	N	
-fotroten	N	
-fotsopp	N	
-friskmelding	N	
-frontallappdemens	N	
-fuktighetskrem	N	
-gallegang	N	
-gallestein	N	
-ganeseil	N	
-genetikk	N	genetiikka
-gentest	N	
-giktfeber	N	
-giktknute	N	
-gjesp	N	
-glemsomhet	N	
+fordøyelseskanalen	N	ruoansulatuskanava
+fordøyelsesorgan	N	ruoansulatuselin
+forfryse seg	N	paleltua
+forfrysning	N	paleltuma
+forkalke	N	kalkkeutua
+forkalkning	N	kalkkeutuma kalkkeutuminen
+forkammer	N	etukammio   eteinen
+forstørrelsesglass	N	suurennuslasi
+forstrekkelse	N	venähdys
+forstuing	N	nyrjähdys
+fostervann	N	lapsivesi
+fotbue	N	jalan holvikaari
+fotpleier	N	jalkahoitaja
+fotroten	N	nilkka  tarsus
+fotsopp	N	jalkasieni
+friskmelding	N	terveeksi julistaminen
+frontallappdemens	N	frontotemporaalinen dementia    otsa-ohimolohkorappeumasta johtuva muistisairaus
+fuktighetskrem	N	kosteusvoide
+gallegang	N	sappitiehyt
+gallestein	N	sappikivi
+ganeseil	N	kitakieleke
+genetikk	N	    perinnöllisyystiede genetiikka
+gentest	N	geenitesti
+giktfeber	N	reumakuume
+giktknute	N	reumakyhmy
+gjesp	N	haukotus
+glemsomhet	N	huonomuistisuus
 gluten	N	gluteeni
 graviditet	N	raskaus
-graviditetstest	N	
-hallusinasjon	N	aistiharha
-halssene	N	
-halsvirvel	N	
-håndbrudd	N	
+graviditetstest	N	raskaustesti
+hallusinasjon	N	aistiharha  hallusinaatio
+halssene	N	päännyökkääjälihas
+halsvirvel	N	kaulanikama
+håndbrudd	N	käsimurtuma
 håndledd	N	ranne
-håndleddsbetennelse	N	
-hareskår	N	
-hårfeste	N	
-hårrot	N	
-hårskille	N	
-hårstrå	N	
-hasjisj	N	
-helbreder	N	
-helsekø	N	
-helseplage	N	
-helsesekretær	N	
-helsesjekk	N	
+håndleddsbetennelse	N	(jänne)tulehdus ranteessa
+hareskår	N	halkio
+hårfeste	N	hiusraja
+hårrot	N	hiusjuuri
+hårskille	N	jakaus
+hårstrå	N	hiuskarva
+hasjisj	N	hasis
+helbreder	N	parantaja
+helsekø	N	hoitojono
+helseplage	N	terveyshaitta
+helsesekretær	N	terveydenhuollon sihteeri   osastonsihteeri
+helsesjekk	N	terveystarkastus
 helsetilstand	N	terveydentila
-helvetesild	N	
-hemoroide	N	
+helvetesild	N	vyöruusu
+hemoroide	N	peräpukama  hemorroidi
 heroin	N	heroiini
-hetetokt	N	
-hjernebark	N	
-hjernehinne	N	
-hjernehinnebetennelse	N	aivokalvotulehdus
-hjernerystelse	N	
-hjertekammer	N	
-hjerteklaff	N	aorttaläppä
-hjertekrampe	N	
-hjertemedisin	N	
-hjerteslag	N	
-hjertestans	N	
-hjertestarter	N	
+hetetokt	N	kuuma aalto
+hjernebark	N	aivokuori
+hjernehinne	N	aivokalvo
+hjernehinnebetennelse	N	aivokalvontulehdus  meningiitti
+hjernerystelse	N	aivotärähdys
+hjertekammer	N	sydämen kammio
+hjerteklaff	N	sydänläppä
+hjertekrampe	N	rasitusrintakipu    angina pectoris
+hjertemedisin	N	sydänlääke
+hjerteslag	N	sydämenlyönti
+hjertestans	N	sydänpysähdys
+hjertestarter	N	defibrillaattori    sydäniskuri
 hodebunn	N	
 hodelus	N	
 hodepinetablett	N	
