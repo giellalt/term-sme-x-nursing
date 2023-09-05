@@ -196,59 +196,57 @@ hjertemedisin	N	sydänlääke
 hjerteslag	N	sydämenlyönti
 hjertestans	N	sydänpysähdys
 hjertestarter	N	defibrillaattori    sydäniskuri
-hodebunn	N	
-hodelus	N	
-hodepinetablett	N	
-hoftebein	N	
-hofteoperasjon	N	
-hoftepartiet	N	
-hørenerve	N	
-hornhinne	N	
-hørselsbein	N	
-hostemedisin	N	
-hovedtillitsvalgt	N	
-hundegalskap	N	
-hvile seg	N	
-hvitøye	N	
+hodebunn	N	päänahka    hiusmarto
+hodelus	N	päätäi
+hodepinetablett	N	päänsärkytabletti
+hoftebein	N	lonkkaluu
+hofteoperasjon	N	lonkkaleikkaus
+hoftepartiet	N	lonkan seutu
+hørenerve	N	kuulohermo
+hornhinne	N	sarveiskalvo
+hørselsbein	N	kuuloluu
+hostemedisin	N	yskänlääke
+hovedtillitsvalgt	N	pääluottamusmies
+hundegalskap	N	vesikauhu   raivotauti
+hvile seg	N	levätä
+hvitøye	N	silmämunan valkoinen osa    kovakalvo   skleera
 hypofyse	N	aivolisäke
-hypokonder	N	
-idrettsskade	N	
-illebefinnende	N	
-indremedisiner	N	
-inhalasjonsspray	N	
-inkontinens	N	inkontinenssi
+hypokonder	N	hypokondrikko   luulosairas
+idrettsskade	N	urheiluvamma
+illebefinnende	N	huonovointisuus
+indremedisiner	N	sisätautilääkäri
+inhalasjonsspray	N	inhalaatiosumute
+inkontinens	N	virtsankarkailu inkontinenssi
 inneklima	N	sisäilma
-innlegge	N	sijoittaa
-innleggelse	N	
-insulinsprøyte	N	
-intensivavdeling	N	
-intravenøst	N	suonensisäisesti
-iris	N	
-isjias	N	
-isolat	N	
-jerntablett	N	
-jomfruhinne	N	
-kaldsvette	N	
-kalori	N	
-kapilær	N	
+innlegge	N	ottaa sisään (potilaaksi)
+innleggelse	N	sisäänkirjautuminen (esim. sairaalaan)
+insulinsprøyte	N	insuliiniruisku
+intensivavdeling	N	teho-osasto
+intravenøs	N	suonensisäisesti annettava
+iris	N	iiris värikalvo   kehäkalvo
+isjias	N	iskias  lonkkahermosärky
+isolat	N	eristyshuone
+jerntablett	N	rautatabletti
+jomfruhinne	N	immenkalvo
+kaldsvette	N	kylmä hiki
+kalori	N	kalori
+kapilær	N	hiussuoni   kapillaari
 kapsel	N	kapseli
-kardeks	N	
-karvegg	N	
-katarr	N	
-kikhoste	N	
-kikker	N	
-kinin	N	
-kink	N	
-kinnbein	N	
-kiropraktor	N	
+kardeks	N	sairaanhoitajan kirjaamat potilasta koskevat tiedot
+karvegg	N	suonen seinämä
+katarr	N	katarri limakalvon tulehdustila
+kikhoste	N	hinkuyskä
+kinin	N	kiniini
+kink	N	venähdys    nyrjähdys
+kinnbein	N	poskiluu
+kiropraktor	N	kiropraktikko
 kjeve	N	leuka
-kjeve	N	leukapieli
-kjevebein	N	
-kjevespyttkjertel	N	
-kjønnshormon	N	
-kjønnskjertler	N	
-kjønnslemlestelse	N	
-kjønnsoperasjon	N	
+kjevebein	N	leukaluu
+kjevespyttkjertel	N	leuanalussylkirauhanen
+kjønnshormon	N	sukupuolihormoni
+kjønnskjertler	N	sukupuolirauhanen
+kjønnslemlestelse	N	sukupuolielinten silpominen
+kjønnsoperasjon	N	sukupuolenkorjausleikkaus
 kjønnsorgan	N	sukupuolielin
 kladd	N	
 klyster	N	peräruiske
