@@ -248,93 +248,92 @@ kjønnskjertler	N	sukupuolirauhanen
 kjønnslemlestelse	N	sukupuolielinten silpominen
 kjønnsoperasjon	N	sukupuolenkorjausleikkaus
 kjønnsorgan	N	sukupuolielin
-kladd	N	
+kladd	N	sängynsuoja vuodesuoja  kosteussuoja    luonnos
 klyster	N	peräruiske
-kneledd	N	
-knoke	N	
-knuskbrenning	N	
-koldbrann	N	
-kolera	N	
-kolesterolsenkende	N	
-komplikasjon	N	
-konemishandler	N	
+kneledd	N	polvinivel
+knoke	N	luurangon ulkoneva osa  esim. kädessä rystynen
+knuskbrenning	N	tiettyjen yrttien polttaminen tiettyjen akupunktiokohtien kohdalla
+koldbrann	N	kuolio  nekroosi
+kolera	N	kolera
+kolesterolsenkende	N	kolesterolia laskeva
+komplikasjon	N	komplikaatio    lisävaikeus
+konemishandler	N	vaimon pahoinpitelijä
 korsbein	N	ristiluu
-korsrygg	N	
-kosttilskudd	N	
-kransåre	N	
-kravebein	N	
-kreftadvarsel	N	
-krenkelse	N	rikkomus
-krybbedød	N	
-krykke	N	
-kugalskap	N	
-kulltablett	N	
-kusma	N	
-kutt	N	
-kveldsvakt	N	
-kvinneundertrykking	N	
-kyssesyke	N	
+korsrygg	N	ristiselkä
+kosttilskudd	N	ravintolisä
+kransåre	N	verisuoni, joka tuo elimeen verta
+kravebein	N	solisluu
+kreftadvarsel	N	varoitus syövästä
+krenkelse	N	loukkaus    rikkomus
+krybbedød	N	kätkytkuolema
+krykke	N	kyynärsauva
+kugalskap	N	hullun lehmän tauti
+kulltablett	N	hiilitabletti
+kusma	N	sikotauti   parotiitti
+kutt	N	viilto  leikkaus
+kveldsvakt	N	iltavuoro
+kvinneundertrykking	N	naisten sorto   naisten alistaminen
+kyssesyke	N	mononukleoosi   kansanomaisesti "pusutauti"
 laktose	N	laktoosi
-laktoseintoleranse	N	
-langtidseffekt	N	
-lårbeinsbrudd	N	
-lårhals	N	
+laktoseintoleranse	N	laktoosi-intoleranssi
+langtidseffekt	N	pikäaikaisvaikutus
+lårbeinsbrudd	N	reisiluun murtuma
+lårhals	N	reisiluun kaulan murtuma
 laser	N	laser
-latexhanske	N	
-leddbånd	N	
-leddgikt	N	
-leddknoke	N	
-legehjelp	N	
-legemiddelskade	N	
-legemsfeil	N	
-legetime	N	
-leggbein	N	
-lift	N	
-liggesår	N	
-likevektsorgan	N	
-lintøyrom	N	
-livmormunning	N	
-livmornedfall	N	
-livredning	N	
-livsfare	N	
-livsstilsendring	N	
-løfter	N	
-løfteseil	N	
-logoped	N	
-lokalbedøvelse	N	
+latexhanske	N	lateksikäsine   lateksihanska
+leddbånd	N	nivelside   ligamentti
+leddgikt	N	nivelreuma
+leddknoke	N	nivelnasta
+legehjelp	N	lääkärin antama hoito
+legemiddelskade	N	lääkkeen aiheuttama haitta/vaurio
+legemsfeil	N	kehon vika/vamma
+legetime	N	lääkäriaika
+leggbein	N	pohjeluu
+lift	N	nostolaite
+liggesår	N	painehaava
+likevektsorgan	N	tasapainoelin
+lintøyrom	N	liinavaatehuone
+livmormunning	N	kohdunsuu
+livmornedfall	N	kohdun laskeuma
+livredning	N	hengenpelastus
+livsfare	N	hengenvaara
+livsstilsendring	N	elämäntapamuutos
+løfter	N	nostolaite
+løfteseil	N	nostoliina
+logoped	N	puheterapeutti
+lokalbedøvelse	N	paikallispuudutus
 luftrør	N	henkitorvi
 luftrør	N	ilmaputki
-luftsmerte	N	
-luftsmerter	N	
-luktekjertel	N	
-lungeblære	N	
-lymfeåre	N	
-lymfekjertel	N	
-lymfekreft	N	lymfooma
-lymfesystem	N	
-madrassovertrekk	N	
-magesår	N	
+luftsmerte	N	ilmavaivojen aiheuttama kipu
+luktkjertel	N	hajurauhanen
+lungeblære	N	keuhkorakkula   alveoli
+lymfeåre	N	imusuoni
+lymfekjertel	N	imurauhanen
+lymfekreft	N	imusolmukesyöpä imukudossyöpä   lymfooma
+lymfesystem	N	imusuonisto
+madrassovertrekk	N	patjansuojus
+magesår	N	vatsahaava  ulkustauti
 malaria	N	malaria
 mani	N	mania
-manisk-depressiv	N	
-massasje	N	
-matforgiftning	N	
-medisinbeger	N	
-medisinrom	N	
-medisinrør	N	
-melkeåre	N	
-melkekjertel	N	
-mellomgulvet	N	
-menisk	N	
-menstruasjonsblod	N	
-menstruasjonssmerter	N	
+manisk-depressiv	N	kaksisuuntainen bipolaarinen    maanis-depressiivinen
+massasje	N	hieronta
+matforgiftning	N	ruokamyrkytys
+medisinbeger	N	lääkekuppi
+medisinrom	N	lääkehuone
+medisinrør	N	lääkeputki
+melkeåre	N	maitotiehyt
+melkekjertel	N	maitorauhanen
+mellomgulvet	N	pallea
+menisk	N	nivelkierukka   meniski
+menstruasjonsblod	N	kuukautisvuoto
+menstruasjonssmerter	N	kuukautiskipu
 meslinger	N	tuhkarokko
-migrene	N	
-mikrobe	N	
-mikroskop	N	
-mikstur	N	
-mildhet	N	
-miljøterapeut	N	
+migrene	N	migreeni
+mikrobe	N	mikrobi
+mikroskop	N	mikroskooppi
+mikstur	N	mikstuura
+mildhet	N	hellävaraisuus
+miljøterapeut	N	Miljøterapeut er en yrkesbetegnelse som særlig benyttes i offentlig virksomhet om personer som har som oppgave å sørge for at individer gis mulighet til å fungere og utfolde seg i samfunnet på en slik måte at deres rettigheter ivaretas samtidig som andre individers og fellesskapets rettigheter og interesser ivaretas
 mishandler	N	
 mobbeoffer	N	
 morfin	N	morfiini
