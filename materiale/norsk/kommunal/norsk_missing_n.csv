@@ -334,17 +334,54 @@ mikroskop	N	mikroskooppi
 mikstur	N	mikstuura
 mildhet	N	hellävaraisuus
 miljøterapeut	N	Miljøterapeut er en yrkesbetegnelse som særlig benyttes i offentlig virksomhet om personer som har som oppgave å sørge for at individer gis mulighet til å fungere og utfolde seg i samfunnet på en slik måte at deres rettigheter ivaretas samtidig som andre individers og fellesskapets rettigheter og interesser ivaretas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 mishandler	N	
 mobbeoffer	N	
 morfin	N	morfiini
 morkake	N	
 motgift	N	
 munnsår	N	
-muskelknute	N	
+muskelknute	N	lihassolukasvaiN
+muskelknute	N	myooma
 nakkesene	N	
-narkose	N	
+narkose	N	nukutus
+narkose	N	yleisanestesia
+nattevakt	N	yövuoro
 nattevåking	N	
-nattevakt	N	
 naturmedisin	N	
 navlebrokk	N	
 navlesnor	N	
@@ -358,40 +395,34 @@ nesedråper	N
 neserot	N	
 neseskillevegg	N	
 nesespray	N	
-nevrolog	N	
-nevrose	N	
+nevrolog	N	neurologi
+nevrose	N	ahdistuneisuushäiriö
+nevrose	N	neuroosi
 nikotinplaster	N	
-nødsituasjon	N	hätätila
 nyresten	N	
-nyresvikt	N	
-ødem	N	
+nyresvikt	N	munuaisten_vajaatoiminta
+nødsituasjon	N	hätätila
 oduksjon	N	
 oksygenflaske	N	
 opium	N	oopiumi
 oppkast	N	
-optiker	N	
-øredråper	N	
-øregrop	N	
-ørespyttkjertel	N	
-øretrompet	N	
-østrogen	N	
+optiker	N	optikko
 overarm	N	
 overarmsbein	N	
 overhud	N	
 overkjeve	N	
 overvåkningen	N	
-øyehule	N	
-øyelege	N	
-øyets bindehinne	N	
-øyevipper	N	
-p-pille	N	
+p-pille	N	e-pilleri
+p-pille	N	ehkäisypilleri
 panikkangst	N	
 pannebein	N	
 pariapparat	N	
-pasientskadeerstatning	N	
+pasientskadeerstatning	N	potilasvahinkokorvaus
 passivitet	N	passiivisuus
-penicillin	N	
-penishode	N	
+penicillin	N	penisilliini
+penishode	N	peniksen_kärki
+penishode	N	peniksen_pää
+penishode	N	terska
 pilleavhengig	N	
 pinsett	N	
 plasstillitsvalgt	N	
@@ -402,7 +433,7 @@ praktikant	N
 prevensjonsmiddel	N	
 privatklinikk	N	
 prolaps	N	
-protese	N	
+protese	N	proteesi
 psoriasis	N	
 psykiater	N	psykiatri
 psykose	N	psykoosi
@@ -417,23 +448,21 @@ reisesyketablett	N
 renholder	N	
 revmatiker	N	
 revmatisme	N	
-ribbeinsbrudd	N	
+ribbeinsbrudd	N	kylkiluun_murtuma
 ringefinger	N	
 ringesnor	N	
 ringorm	N	
 rosen	N	
+rullator	N	rollaattori
+rusmisbruker	N	huumausaineiden_väärinkäyttäjä
+rusmisbruker	N	huumeenkäyttäjä
+ryggmargsbrokk	N	hermostoputken_sulkeutumishäiriö
+ryggmargsbrokk	N	meningomyeloseele_(MMC)
+ryggvirvelsøyle	N	
 røykebein	N	
 røyker	N	
-rullator	N	
-rusmisbruker	N	
-ryggmargsbrokk	N	
-ryggvirvelsøyle	N	
-sædblære	N	
 saltvann	N	suolavesi
-sårsalve	N	
-sårskorpe	N	rupi
-sårsting	N	
-schizofreni	N	
+schizofreni	N	skitsofrenia
 sekret	N	
 seksualliv	N	
 senebetennelse	N	
@@ -451,36 +480,33 @@ skinnbeinet	N
 skjelving	N	vapina
 skrumplever	N	
 skulderbetennelse	N	
-skulderledd	N	
+skulderledd	N	olkanivel
 skurv	N	
 slitasjegikt	N	
 smerteklinikk	N	
 sneglehus	N	
 snue	N	nuha
-søliaki	N	keliakia
-soppinfeksjon	N	
-søsterhjelp	N	
+soppinfeksjon	N	sieni-infektio
 sovetablett	N	
-søvnløshet	N	unettomuus
-spesialist	N	
+spesialist	N	spesialisti
 sprøytespiss	N	
-spyttkjertel	N	
-stær	N	kottarainen
+spyttkjertel	N	sylkirauhanen
 stemmebånd	N	
 steroid	N	
 stetoskop	N	stetoskooppi
 stigbøylen	N	
-stikklaken	N	
-støtskade	N	
-støttebandasje	N	
-strålebehandling	N	
-strålesmerte	N	
+stikklaken	N	poikkilakana
 strekkskade	N	
 struma	N	
-strupelokk	N	
+strupelokk	N	kurkunkansi
+strålebehandling	N	sädehoito
+strålesmerte	N	
 styrketrening	N	
+stær	N	kottarainen
+støtskade	N	
+støttebandasje	N	
 sugetablett	N	
-sunnhet	N	
+sunnhet	N	terveys
 surhet	N	happamuus
 svie	N	
 sykdomsstadium	N	
@@ -488,25 +514,29 @@ sykebåre	N
 sykejournal	N	
 sykeleie	N	
 sykling	N	pyöräily
-tåledd	N	
+sårsalve	N	
+sårskorpe	N	rupi
+sårsting	N	
+sædblære	N	rakkularauhanen
+søliaki	N	keliakia
+søsterhjelp	N	
+søvnløshet	N	unettomuus
 tannhelsesjef	N	
-tannkjøtt	N	
+tannkjøtt	N	ien
 tannkjøttbetennelse	N	ientulehdus
 tannpine	N	
 tannregulering	N	
-tårekanal	N	
-tårenesekanal	N	
 tempur-madrass	N	
 tempur-pute	N	
 tennisalbue	N	
-termometer	N	
+termometer	N	lämpömittari
 tidligvakt	N	
-toalettforhøyer	N	
+toalettforhøyer	N	WC-istuimen_koroke
 tolketilbud	N	
 transplantasjon	N	elinsiirto
 tredagersfeber	N	
 treningsrom	N	
-trygghetsalarm	N	
+trygghetsalarm	N	turvahälytin
 trykksår	N	painehaava
 tuffer	N	
 tungebein	N	
@@ -519,12 +549,15 @@ tvangsforestilling	N
 tvangsinnleggelse	N	
 tyfus	N	
 tynntarm	N	
+tåledd	N	
+tårekanal	N	
+tårenesekanal	N	
 underarm	N	kyynärvarsi
 underarmsbein	N	
 underkjevetann	N	
 underleppe	N	alahuuli
-urinblære	N	
-urinflaske	N	
+urinblære	N	virtsarakko
+urinflaske	N	virtsapullo
 urinrør	N	
 urinsyregikt	N	
 urolog	N	
@@ -535,3 +568,13 @@ vaskekrem	N
 virus	N	virus
 virusmedisin	N	
 vitaminmangel	N	
+ødem	N	turvotus
+øredråper	N	
+øregrop	N	
+ørespyttkjertel	N	
+øretrompet	N	
+østrogen	N	estrogeeni
+øyehule	N	
+øyelege	N	
+øyets bindehinne	N	
+øyevipper	N	
