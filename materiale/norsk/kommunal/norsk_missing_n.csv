@@ -334,137 +334,94 @@ mikroskop	N	mikroskooppi
 mikstur	N	mikstuura
 mildhet	N	hellävaraisuus
 miljøterapeut	N	Miljøterapeut er en yrkesbetegnelse som særlig benyttes i offentlig virksomhet om personer som har som oppgave å sørge for at individer gis mulighet til å fungere og utfolde seg i samfunnet på en slik måte at deres rettigheter ivaretas samtidig som andre individers og fellesskapets rettigheter og interesser ivaretas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-mishandler	N	
-mobbeoffer	N	
+mishandler	N	pahoinpitelijä
+mobbeoffer	N	kiusaamisen uhri
 morfin	N	morfiini
-morkake	N	
-motgift	N	
-munnsår	N	
-muskelknute	N	lihassolukasvaiN
-muskelknute	N	myooma
-nakkesene	N	
-narkose	N	nukutus
-narkose	N	yleisanestesia
+morkake	N	istukka
+motgift	N	vastamyrkky antidootti
+munnsår	N	rohtuma
+muskelknute	N	lihaskyhmy  lihassolukasvain esim. kohdussa myooma
+nakkesene	N	niskajänne
+narkose	N	nukutus yleisanestesia  narkoosi
 nattevakt	N	yövuoro
-nattevåking	N	
-naturmedisin	N	
-navlebrokk	N	
-navlesnor	N	
-nedstemthet	N	
-neglebitt	N	
-neglerotsbetennelse	N	
-nesebein	N	
-neseblødning	N	
-nesebrusk	N	
-nesedråper	N	
-neserot	N	
-neseskillevegg	N	
-nesespray	N	
+nattevåking	N	yöheräily
+naturmedisin	N	luontaislääkintä    luonnonlääkintä
+navlebrokk	N	napatyrä
+navlesnor	N	napanuora
+nedstemthet	N	alakuloisuus
+neglebitt	N	sormien paleltuminen
+neglerotsbetennelse	N	kynsivallintulehdus
+nesebein	N	nenäluu
+neseblødning	N	nenäverenvuoto
+nesebrusk	N	nenärusto
+nesedråper	N	nenätippa
+neserot	N	nenäjuuri
+neseskillevegg	N	väliseinä
+nesespray	N	nenäsuihke
 nevrolog	N	neurologi
-nevrose	N	ahdistuneisuushäiriö
-nevrose	N	neuroosi
-nikotinplaster	N	
-nyresten	N	
+nevrose	N	neuroosi    lievä psykkinen häiriötila esim. ahdistuneisuushäiriö
+nikotinplaster	N	nikotiinilaastari
+nyresten	N	munuaiskivi
 nyresvikt	N	munuaisten_vajaatoiminta
 nødsituasjon	N	hätätila
-oduksjon	N	
-oksygenflaske	N	
+oduksjon	N	ruumiinavaus    obduktio
+oksygenflaske	N	happipullo
 opium	N	oopiumi
-oppkast	N	
+oppkast	N	oksennus
 optiker	N	optikko
-overarm	N	
-overarmsbein	N	
-overhud	N	
+overarm	N	olkavarsi
+overarmsbein	N	olkaluu
+overhud	N	orvaskesi   epidermi
 overkjeve	N	
-overvåkningen	N	
-p-pille	N	e-pilleri
-p-pille	N	ehkäisypilleri
-panikkangst	N	
-pannebein	N	
-pariapparat	N	
+overvåkningen	N	yläleuka
+p-pille	N	e-pilleri   ehkäisypilleri
+panikkangst	N	paniikkihäiriö
+pannebein	N	otsaluu
+pariapparat	N	lääkesumutin
 pasientskadeerstatning	N	potilasvahinkokorvaus
 passivitet	N	passiivisuus
 penicillin	N	penisilliini
-penishode	N	peniksen_kärki
-penishode	N	peniksen_pää
-penishode	N	terska
-pilleavhengig	N	
-pinsett	N	
-plasstillitsvalgt	N	
-plattfot	N	
-pleietrengende	N	
-portør	N	
-praktikant	N	
-prevensjonsmiddel	N	
-privatklinikk	N	
-prolaps	N	
+penishode	N	terska  peniksen kärki  peniksen pää
+pilleavhengig	N	lääkeriippuvuus tableteista
+pinsett	N	pinsetti
+plasstillitsvalgt	N	tietyn työpaikan, esim. toimiston, oma luottamusmies
+plattfot	N	lättäjalka  lattajalka
+pleietrengende	N	hoivaa tarvitseva
+portør	N	potilaskuljettaja
+praktikant	N	harjoittelija
+prevensjonsmiddel	N	ehkäisymenetelmä
+privatklinikk	N	yksityisklinikka
+prolaps	N	pullistuma  esiin luiskahtaminen    prolapsi
 protese	N	proteesi
-psoriasis	N	
+psoriasis	N	psoriasis   psoriaasi
 psykiater	N	psykiatri
 psykose	N	psykoosi
 psykotisk	N	psykoottinen
-pustebesvær	N	
-pustemaskin	N	
-radiograf	N	
+pustebesvær	N	hengitysvaikeus
+pustemaskin	N	hengityslaite
+radiograf	N	röntgenhoitaja
 radon	N	radon
-regnbuehinne	N	
-reisesyke	N	
-reisesyketablett	N	
-renholder	N	
-revmatiker	N	
-revmatisme	N	
+regnbuehinne	N	värikalvo   kehäkalvo  iiris
+reisesyke	N	matkapahoinvointi
+reisesyketablett	N	matkapahoinvointilääke (-tabletti)
+renholder	N	siivooja
+revmatiker	N	reumapotilas
+revmatisme	N	reumasairaus
 ribbeinsbrudd	N	kylkiluun_murtuma
-ringefinger	N	
-ringesnor	N	
-ringorm	N	
-rosen	N	
+ringfinger	N	nimetön
+ringesnor	N	soittokello (hoitolaitoksessa)
+ringorm	N	ihosilsa    ihon sieni-infektio
+rosen	N	ruumiinavauserysipelas
 rullator	N	rollaattori
-rusmisbruker	N	huumausaineiden_väärinkäyttäjä
-rusmisbruker	N	huumeenkäyttäjä
-ryggmargsbrokk	N	hermostoputken_sulkeutumishäiriö
-ryggmargsbrokk	N	meningomyeloseele_(MMC)
-ryggvirvelsøyle	N	
-røykebein	N	
-røyker	N	
+rusmisbruker	N	huumausaineiden väärinkäyttäjä  huumeidenkäyttäjä
+ryggmargsbrokk	N	hermostoputken sulkeutumishäiriö    meningomyeloseele (MMC)
+ryggvirvelsøyle	N	selkänikamien muodostama ranka  selkäranka 
+røykebein	N	katkokävely klaudikaatio
+røyker	N	tupakoija
 saltvann	N	suolavesi
 schizofreni	N	skitsofrenia
-sekret	N	
-seksualliv	N	
+sekret	N	erite
+seksualliv	N	seksuaalielämä
 senebetennelse	N	
 senefeste	N	
 senestrekk	N	suonenveto
