@@ -5,3 +5,14 @@
 
 cat grunnleggende_alle.txt |hfst-tokenise -cg tools/tokenisers/tokeniser-disamb-gt-desc.pmhfst |vislcg3 -g src/cg3/disambiguator.cg3 |grep -v '^"<'|cut -d" " -f1,2|uniq|tr '\n' '£'|sed 's/£               / = /g;'|tr '£' '\n'|l
 
+cat ../../../../term-sme-x-nursing-private/materiale/norsk/grunnleggende_sykepleie/grunnleggende_alle.txt |\
+head -3|\
+hfst-tokenise -cg ../../../../lang-sme/tools/tokenisers/tokeniser-disamb-gt-desc.pmhfst |\
+vislcg3 -g ../../../../lang-sme/src/cg3/disambiguator.cg3 |\
+grep -v '^"<'|\
+cut -d" " -f1,2|\
+uniq|\
+tr '\n' '£'|\
+sed 's/£               / = /g;'|\
+tr '£' '\n'
+
