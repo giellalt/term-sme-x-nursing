@@ -422,56 +422,56 @@ saltvann	N	suolavesi
 schizofreni	N	skitsofrenia
 sekret	N	erite
 seksualliv	N	seksuaalielämä
-senebetennelse	N	
-senefeste	N	
+senebetennelse	N	jännetulehdus
+senefeste	N	jänteen luukiinnityskohta
 senestrekk	N	suonenveto
-sengehest	N	
-sengeliggende	N	
-senilitet	N	seniliteetti
-sidebein	N	
-sidemuskel	N	
-sirkulasjonssvikt	N	
-skambein	N	
-skarlagenfeber	N	
-skinnbeinet	N	
+sengehest	N	sängynlaita
+sengeliggende	N	vuoteenoma
+senilitet	N	vanhuudenheikkous   vanhuudenhöperyys   seniliteetti
+sidebein	N	kylkiluu
+sidemuskel	N	vino vatsalihas
+sirkulasjonssvikt	N	verenkiertohäiriö
+skambein	N	häpylyy
+skarlagenfeber	N	tulirokko
+skinnbeinet	N	sääriluu         ??????
 skjelving	N	vapina
-skrumplever	N	
-skulderbetennelse	N	
+skrumplever	N	kirroosi    maksakirroosi
+skulderbetennelse	N	olkatulehdus
 skulderledd	N	olkanivel
-skurv	N	
-slitasjegikt	N	
-smerteklinikk	N	
-sneglehus	N	
+skurv	N	vauvan tali-ihottuma    vauvan taliköhnä
+slitasjegikt	N	nivelrikko  artroosi
+smerteklinikk	N	kipuklinikka
+sneglehus	N	simpukka
 snue	N	nuha
 soppinfeksjon	N	sieni-infektio
-sovetablett	N	
+sovetablett	N	unilääke
 spesialist	N	spesialisti
-sprøytespiss	N	
+sprøytespiss	N	(ruiskun) neula
 spyttkjertel	N	sylkirauhanen
-stemmebånd	N	
-steroid	N	
+stemmebånd	N	äänihuuli
+steroid	N	steroidi
 stetoskop	N	stetoskooppi
-stigbøylen	N	
+stigbøyle	N	jalustin
 stikklaken	N	poikkilakana
-strekkskade	N	
-struma	N	
+strekkskade	N	venähdys    revähdys
+struma	N	struuma suurentunut kilpirauhanen
 strupelokk	N	kurkunkansi
 strålebehandling	N	sädehoito
-strålesmerte	N	
-styrketrening	N	
-stær	N	kottarainen
-støtskade	N	
-støttebandasje	N	
-sugetablett	N	
+strålesmerte	N	säteilevä kipu
+styrketrening	N	voimaharjoittelu
+stær	N	kaihi   kottarainen
+støtskade	N	iskuvamma
+støttebandasje	N	tukiside
+sugetablett	N	imeskelytabletti
 sunnhet	N	terveys
 surhet	N	happamuus
-svie	N	
-sykdomsstadium	N	
-sykebåre	N	
-sykejournal	N	
-sykeleie	N	
+svie	N	kirvely
+sykdomsstadium	N	sairauden vaihe
+sykebåre	N	paarit
+sykejournal	N	potilasasiakirja
+sykeleie	N	sairastaminen vuoteenomana
 sykling	N	pyöräily
-sårsalve	N	
+sårsalve	N	haavavoide  haavasalva
 sårskorpe	N	rupi
 sårsting	N	
 sædblære	N	rakkularauhanen
