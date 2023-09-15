@@ -473,42 +473,40 @@ sykeleie	N	sairastaminen vuoteenomana
 sykling	N	pyöräily
 sårsalve	N	haavavoide  haavasalva
 sårskorpe	N	rupi
-sårsting	N	
+sårsting	N	haavaommel
 sædblære	N	rakkularauhanen
 søliaki	N	keliakia
-søsterhjelp	N	
+søsterhjelp	N	kohottautumisteline
 søvnløshet	N	unettomuus
-tannhelsesjef	N	
+tannhelsesjef	N	hampaiden hoidon ylin johtaja (läänissä)
 tannkjøtt	N	ien
 tannkjøttbetennelse	N	ientulehdus
-tannpine	N	
-tannregulering	N	
-tempur-madrass	N	
-tempur-pute	N	
-tennisalbue	N	
-termometer	N	lämpömittari
-tidligvakt	N	
-toalettforhøyer	N	WC-istuimen_koroke
-tolketilbud	N	
+tannpine	N	hammassärky
+tannregulering	N	hampaiden oikominen
+tempur-madrass	N	tempur-patja
+tempur-pute	N	tempur-tyyny
+tennisalbue	N	tenniskyynärpää epikondyliitti
+termometer	N	lämpömittari    kuumemittari
+tidligvakt	N	aamuvuoro
+toalettforhøyer	N	WC-istuimen koroke
+tolketilbud	N	tulkkauspalvelu
 transplantasjon	N	elinsiirto
-tredagersfeber	N	
-treningsrom	N	
+tredagersfeber	N	vauvarokko  kolmen päivän kuume
+treningsrom	N	kuntosali
 trygghetsalarm	N	turvahälytin
 trykksår	N	painehaava
-tuffer	N	
-tungebein	N	
-tungeblad	N	
-tungerot	N	
-tungespyttkjertel	N	
-turnuskandidat	N	
-turnuslege	N	
-tvangsforestilling	N	
-tvangsinnleggelse	N	
-tyfus	N	
-tynntarm	N	
-tåledd	N	
-tårekanal	N	
-tårenesekanal	N	
+tuffer	N	vanutuppo   pumpulituppo
+tungebein	N	kieliluu
+tungeblad	N	kieli
+tungerot	N	kielen tyvi
+tungespyttkjertel	N	kielenalussylkirauhanen
+tvangsforestilling	N	pakkoajatus
+tvangsinnleggelse	N	pakkohoitoon määrääminen    pakkohoitoon joutuminen
+tyfus	N	lavantauti  tyyfus
+tynntarm	N	ohutsuoli
+tåledd	N	varvasnivel
+tårekanal	N	kyynelkanava
+tårenesekanal	N	kyynelkanava
 underarm	N	kyynärvarsi
 underarmsbein	N	
 underkjevetann	N	
