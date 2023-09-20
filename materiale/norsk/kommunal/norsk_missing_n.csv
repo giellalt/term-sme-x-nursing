@@ -2,19 +2,18 @@ CRP-måler	N	CRP-mittari
 Cowperkjertel	N	Cowperin rauhanen
 abstinens	N	abstinenssi
 achillessene	N	akillesjänne
-aktivitør	N	???
 akupunktur	N	akupunktio
 albueledd	N	kyynärnivel
 aldring	N	vanheneminen
 allergimedisin	N	allergialääke
 allmennlege	N	yleislääkäri
-alternativ medisin	N	uskomuslääkintä
+alternativ medisin	N	uskomuslääkintä vaihtoehtolääkintä
 amalgam	N	amalgaami
 ambolten	N	alasin
 ambulansesjåfør	N	ambulanssikuski
 amfetamin	N	amfetamiini
 ampull	N	ampulli
-anamnese	N	anamneesi   esitiedot
+anamnese	N	esitiedot   anamneesi   
 åndedrettsorgan	N	hengityselin
 angrepille	N	jälkiehkäisytabletti
 antibiotikum	N	antibiootti
@@ -61,7 +60,7 @@ blekhet	N	kalpeus
 blindtarmsbetennelse	N	umpilisäketulehdus
 bloddråpe	N	veripisara
 bløder	N	hemofiliapotilas    verenvuototautia sairastava ihminen
-blødersykdom	N	verenvuototautiahemofilia
+blødersykdom	N	verenvuototauti hemofilia
 blodforgiftning	N	verenmyrkytys   sepsis
 blodgiver	N	verenluovuttaja
 blodgivning	N	verenluovutus
@@ -69,7 +68,7 @@ blodigle	N	verijuotikas    iilimato
 blodkar	N	verisuoni
 blodkreft	N	verisyöpä
 blodlegeme	N	verisolu
-blodmangel	N	anemia  vähäverisyys    verenvähyys
+blodmangel	N   vähäverisyys    anemia  verenvähyys
 blodoverføring	N	verensiirto
 blodplasma	N	veriplasma
 blodstyrtning	N	verensyöksy
@@ -87,10 +86,10 @@ bronkie	N   keuhkoputki
 bronkitt	N	keuhkoputkentulehdus    bronkiitti
 brystbein	N	rintalasta
 buegang	N	kaarikäytävä
-bukdekke	N	vatsanpeite
+bukdekke    N	vatsanpeite
 bukhulen	N	vatsaontelo
 bukspyttkjertel	N	haima
-bulimi	N	    ahmimishäiriö   bulimia
+bulimi  N   ahmimishäiriö   bulimia
 cannabis	N	kannabis    marihuana
 cellegift	N   solunsalpaaja   sytostaatti   solumyrkky
 desinfiseringsmiddel	N	desinfiointiaine
@@ -107,16 +106,16 @@ dusjstol	N	suihkutuoli
 dyrebitt	N	eläimen purema
 eggstokkbetennelse	N	munasarjatulehdus
 eggstokkreft	N	munasarjasyöpä
-elveblest	N	nokkosihottuma
+elveblest	N	nokkosihottuma  nokkosrokko urtikaria
 enzym	N	entsyymi
-epilepsi	N	epilepsia   nokkosrokko urtikaria
+epilepsi	N	epilepsia   
 ereksjon	N	erektio
-ereksjonsproblem	N	erektio-ongelma erektiohäiriö
+ereksjonsproblem	N	erektio-ongelma (erektiohäiriö)
 ergoterapeut	N	toimintaterapeutti
 ettermiddagsvakt	N	iltapäivävuoro
 faresignal	N	vaaranmerkki
 fastlege	N	omalääkäri
-fatle	N	mitella kolmioliina
+fatle	N	kolmioliina mitella 
 fattigdomsgrense	N	köyhyysraja
 febernedsettende	N	kuumetta alentava
 fellesstue	N	potilaiden yhteistila
@@ -154,7 +153,7 @@ fuktighetskrem	N	kosteusvoide
 gallegang	N	sappitiehyt
 gallestein	N	sappikivi
 ganeseil	N	kitakieleke
-genetikk	N	    perinnöllisyystiede genetiikka
+genetikk	N   perinnöllisyystiede genetiikka
 gentest	N	geenitesti
 giktfeber	N	reumakuume
 giktknute	N	reumakyhmy
@@ -195,7 +194,7 @@ hjertekrampe	N	rasitusrintakipu    angina pectoris
 hjertemedisin	N	sydänlääke
 hjerteslag	N	sydämenlyönti
 hjertestans	N	sydänpysähdys
-hjertestarter	N	defibrillaattori    sydäniskuri
+hjertestarter	N	sydäniskuri defibrillaattori    
 hodebunn	N	päänahka    hiusmarto
 hodelus	N	päätäi
 hodepinetablett	N	päänsärkytabletti
@@ -207,11 +206,11 @@ hornhinne	N	sarveiskalvo
 hørselsbein	N	kuuloluu
 hostemedisin	N	yskänlääke
 hovedtillitsvalgt	N	pääluottamusmies
-hundegalskap	N	vesikauhu   raivotauti
+hundegalskap	N	vesikauhu   rabies  raivotauti
 hvile seg	N	levätä
-hvitøye	N	silmämunan valkoinen osa    kovakalvo   skleera
+hvitøye	N   kovakalvo   skleera silmämunan valkoinen osa
 hypofyse	N	aivolisäke
-hypokonder	N	hypokondrikko   luulosairas
+hypokonder	N	luulosairas hypokondrikko   
 idrettsskade	N	urheiluvamma
 illebefinnende	N	huonovointisuus
 indremedisiner	N	sisätautilääkäri
@@ -224,7 +223,7 @@ insulinsprøyte	N	insuliiniruisku
 intensivavdeling	N	teho-osasto
 intravenøs	N	suonensisäisesti annettava
 iris	N	iiris värikalvo   kehäkalvo
-isjias	N	iskias  lonkkahermosärky
+isjias	N	lonkkahermosärky    iskias  
 isolat	N	eristyshuone
 jerntablett	N	rautatabletti
 jomfruhinne	N	immenkalvo
@@ -234,7 +233,7 @@ kapilær	N	hiussuoni   kapillaari
 kapsel	N	kapseli
 kardeks	N	sairaanhoitajan kirjaamat potilasta koskevat tiedot
 karvegg	N	suonen seinämä
-katarr	N	katarri limakalvon tulehdustila
+katarr	N	limakalvon tulehdustila katarri 
 kikhoste	N	hinkuyskä
 kinin	N	kiniini
 kink	N	venähdys    nyrjähdys
@@ -244,7 +243,7 @@ kjeve	N	leuka
 kjevebein	N	leukaluu
 kjevespyttkjertel	N	leuanalussylkirauhanen
 kjønnshormon	N	sukupuolihormoni
-kjønnskjertler	N	sukupuolirauhanen
+kjønnskjertel	N	sukupuolirauhanen
 kjønnslemlestelse	N	sukupuolielinten silpominen
 kjønnsoperasjon	N	sukupuolenkorjausleikkaus
 kjønnsorgan	N	sukupuolielin
@@ -302,8 +301,7 @@ løfter	N	nostolaite
 løfteseil	N	nostoliina
 logoped	N	puheterapeutti
 lokalbedøvelse	N	paikallispuudutus
-luftrør	N	henkitorvi
-luftrør	N	ilmaputki
+luftrør	N	henkitorvi  ilmaputki
 luftsmerte	N	ilmavaivojen aiheuttama kipu
 luktkjertel	N	hajurauhanen
 lungeblære	N	keuhkorakkula   alveoli
@@ -333,7 +331,6 @@ mikrobe	N	mikrobi
 mikroskop	N	mikroskooppi
 mikstur	N	mikstuura
 mildhet	N	hellävaraisuus
-miljøterapeut	N	Miljøterapeut er en yrkesbetegnelse som særlig benyttes i offentlig virksomhet om personer som har som oppgave å sørge for at individer gis mulighet til å fungere og utfolde seg i samfunnet på en slik måte at deres rettigheter ivaretas samtidig som andre individers og fellesskapets rettigheter og interesser ivaretas
 mishandler	N	pahoinpitelijä
 mobbeoffer	N	kiusaamisen uhri
 morfin	N	morfiini
@@ -356,7 +353,7 @@ neseblødning	N	nenäverenvuoto
 nesebrusk	N	nenärusto
 nesedråper	N	nenätippa
 neserot	N	nenäjuuri
-neseskillevegg	N	väliseinä
+neseskillevegg	N	nenän väliseinä
 nesespray	N	nenäsuihke
 nevrolog	N	neurologi
 nevrose	N	neuroosi    lievä psykkinen häiriötila esim. ahdistuneisuushäiriö
@@ -372,9 +369,9 @@ optiker	N	optikko
 overarm	N	olkavarsi
 overarmsbein	N	olkaluu
 overhud	N	orvaskesi   epidermi
-overkjeve	N	
-overvåkningen	N	yläleuka
-p-pille	N	e-pilleri   ehkäisypilleri
+overkjeve	N	yläleuka
+overvåkningen	N	valvomo valvonta
+p-pille	N   ehkäisypilleri  e-pilleri
 panikkangst	N	paniikkihäiriö
 pannebein	N	otsaluu
 pariapparat	N	lääkesumutin
@@ -384,7 +381,7 @@ penicillin	N	penisilliini
 penishode	N	terska  peniksen kärki  peniksen pää
 pilleavhengig	N	lääkeriippuvuus tableteista
 pinsett	N	pinsetti
-plasstillitsvalgt	N	tietyn työpaikan, esim. toimiston, oma luottamusmies
+plasstillitsvalgt	N	tietyn työyksikön luottamusmies
 plattfot	N	lättäjalka  lattajalka
 pleietrengende	N	hoivaa tarvitseva
 portør	N	potilaskuljettaja
@@ -411,11 +408,11 @@ ribbeinsbrudd	N	kylkiluun_murtuma
 ringfinger	N	nimetön
 ringesnor	N	soittokello (hoitolaitoksessa)
 ringorm	N	ihosilsa    ihon sieni-infektio
-rosen	N	ruumiinavauserysipelas
+rosen	N	ruusu   erysipelas
 rullator	N	rollaattori
 rusmisbruker	N	huumausaineiden väärinkäyttäjä  huumeidenkäyttäjä
 ryggmargsbrokk	N	hermostoputken sulkeutumishäiriö    meningomyeloseele (MMC)
-ryggvirvelsøyle	N	selkänikamien muodostama ranka  selkäranka 
+ryggvirvelsøyle	N	selkäranka  selkänikamien muodostama ranka   
 røykebein	N	katkokävely klaudikaatio
 røyker	N	tupakoija
 saltvann	N	suolavesi
@@ -433,7 +430,7 @@ sidemuskel	N	vino vatsalihas
 sirkulasjonssvikt	N	verenkiertohäiriö
 skambein	N	häpylyy
 skarlagenfeber	N	tulirokko
-skinnbeinet	N	sääriluu         ??????
+skinnbein	N	sääriluu
 skjelving	N	vapina
 skrumplever	N	kirroosi    maksakirroosi
 skulderbetennelse	N	olkatulehdus
@@ -454,7 +451,7 @@ stetoskop	N	stetoskooppi
 stigbøyle	N	jalustin
 stikklaken	N	poikkilakana
 strekkskade	N	venähdys    revähdys
-struma	N	struuma suurentunut kilpirauhanen
+struma	N	suurentunut kilpirauhanen   struuma 
 strupelokk	N	kurkunkansi
 strålebehandling	N	sädehoito
 strålesmerte	N	säteilevä kipu
@@ -508,28 +505,28 @@ tåledd	N	varvasnivel
 tårekanal	N	kyynelkanava
 tårenesekanal	N	kyynelkanava
 underarm	N	kyynärvarsi
-underarmsbein	N	
-underkjevetann	N	
+underarmsbein	N	kyynärluu
+underkjevetann	N	alaleuan hammas
 underleppe	N	alahuuli
 urinblære	N	virtsarakko
 urinflaske	N	virtsapullo
-urinrør	N	
-urinsyregikt	N	
-urolog	N	
-vaginaåpning	N	
-vaktturnus	N	
-vannlatingsproblem	N	
-vaskekrem	N	
+urinrør	N	virtsaputki
+urinsyregikt	N	kihti
+urolog	N	urologi
+vaginaåpning	N	emättimen suuaukko
+vaktturnus	N	työvuorolista   työvuoroluettelo
+vannlatingsproblem	N	virtsaamisongelma
+vaskekrem	N	pesuvoide
 virus	N	virus
-virusmedisin	N	
-vitaminmangel	N	
+virusmedisin	N	viruslääke
+vitaminmangel	N	vitamiinivaje
 ødem	N	turvotus
-øredråper	N	
-øregrop	N	
-ørespyttkjertel	N	
-øretrompet	N	
+øredråper	N	korvatipat
+øregrop	N	preaurikulaarinen imusolmuke
+ørespyttkjertel	N	korvasylkirauhanen
+øretrompet	N	korvatorvi
 østrogen	N	estrogeeni
-øyehule	N	
-øyelege	N	
-øyets bindehinne	N	
-øyevipper	N	
+øyehule	N	silmäkuoppa
+øyelege	N	silmälääkäri
+øyets bindehinne	N	silmän sidekalvo
+øyevipper	N	silmäripset
