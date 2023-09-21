@@ -9,8 +9,8 @@ bli såret	V	loukkaantua
 bli sinnsforvirret	V	joutua mielenhäiriöön
 bli solbrent	V	palaa auringossa
 bli trist/lei seg	V	tulla surulliseksi
-bøye seg	V	kumartua    taipua  antautua
-briste	V	repeytyä    särkyä  
+bøye seg	V	kumartua	taipua	antautua
+briste	V	repeytyä	särkyä	
 bryte ut	V	puhjeta
 diagnostisere	V	diagnosoida
 dope	V	huumata doupata
@@ -30,8 +30,8 @@ gipse	V	kipsata
 hele	V	parantaa
 hutre	V	hytistä värjötellä
 inhalere	V	hengittää sitään
-kaste opp	V	oksentaa    antaa ylen
-klore	V	raapia  kynsiä
+kaste opp	V	oksentaa	antaa ylen
+klore	V	raapia	kynsiä
 koppe	V	kupata
 kurere	V	parantaa
 lindre	V	lievitää
@@ -40,8 +40,8 @@ obdusere	V	tehdä ruumiinavaus
 overbelaste	V	liikakuormittaa
 overfalle	V	hyökätä jonkun kimppuun
 plastre	V	laastaroida
-prikke	V	pistellä    pilkuttaa
-slite	V	repiä   kuluttaa
+prikke	V	pistellä	pilkuttaa
+slite	V	repiä	kuluttaa
 snyte seg	V	niistää
 spre seg	V	lievitä hajota
 stoppe blod	V	tyrehdyttää verenvuoto
@@ -56,4 +56,4 @@ utsondre	V	erittää
 være nervøs	V	olla hermostunut
 være sulten	V	olla nälkäinen
 være tørst	V	olla janoinen
-vrikke	V	nyrjäyttää  venäyttää keikuttaa
+vrikke	V	nyrjäyttää	venäyttää keikuttaa

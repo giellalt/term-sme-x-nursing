@@ -8,7 +8,7 @@ beroligende	A	rauhoittava
 bevisstløs	A	tajuton
 bilsjuk	A	matkapahoinvoiva
 blodsprengt	A	verestävä
-depressiv	A	depressiivinen  masentunut
+depressiv	A	depressiivinen	masentunut
 døende	A	kuoleva
 døvblind	A	kuurosokea
 døvstum	A	kuuromykkä
@@ -20,14 +20,14 @@ halt	A	ontuva
 helbredelig	A	parannettava
 helsebringende	A	terveyttä edistävä
 helseskadelig	A	terveyttä haittaava
-hyperaktiv	A	ylivilkas   hyperaktiivinen
-kurativ	A	parantava    kuratiivinen
+hyperaktiv	A	ylivilkas	hyperaktiivinen
+kurativ	A	parantava	kuratiivinen
 laktoseintolerant	A	laktoosi-intolerantti
 livreddende	A	elämää pelastava
 livsviktig	A	elintärkeä
-ømtålig	A	herkkä  arka    arkaluontoinen
+ømtålig	A	herkkä	arka	arkaluontoinen
 ør	A	pyörryttävä huimaava
-profylaktisk	A	ennaltaehkäisevä    profylaktinen
+profylaktisk	A	ennaltaehkäisevä	profylaktinen
 radioaktiv	A	radioaktiivinen
 rank	A	suora
 reisesyk	A	matkasairas
@@ -36,8 +36,8 @@ schizofren	A	skitsofreeninen
 senil	A	seniili
 sinnssyk	A	mielisairas
 sjøsyk	A	merisairas
-skjødesløs	A	huolimaton  leväperäinen
-sløv	A	tylsä   veltto
+skjødesløs	A	huolimaton	leväperäinen
+sløv	A	tylsä	veltto
 solbrent	A	auringonpolttama
 søvnløs	A	uneton
 spilleavhengig	A	peliriippuvainen
@@ -47,4 +47,4 @@ ubeskyttet	A	suojaamaton
 utbrent	A	uupunut
 utrygg	A	turvaton
 utuktig	A	siveetön
-uvirksom	A	toimeton    joutilas
+uvirksom	A	toimeton	joutilas
