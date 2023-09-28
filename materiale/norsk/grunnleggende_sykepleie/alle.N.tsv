@@ -10,7 +10,7 @@ EPJ-system	N	elektroninen potilaskertomus  sähköinen potilaskertomus
 EU-direktiv	N	EU-direktiivi
 ICNP-begrep	N	ICNP-käsite
 ICNP-diagnose	N	ICNP-diagnoosi
-IVF-behandling	N	koeputkihedelmöitys in vitro fertilisaatio (IVF)
+IVF-behandling	N	koeputkihedelmöitys in vitro fertilisaatio	IVF
 KMI-verdi	N	painoindeksi  BMI
 LIS-lege	N	erikoistuva lääkäri
 MNA-skjema	N	MNA-testilomake
@@ -39,7 +39,7 @@ alarmknapp	N	hälytysnappi
 alarmmatte	N	hälyttävä matto
 alarmsymptom	N	ennakko-oire  esioire
 albumin	N	albumiini
-aldersdemens	N	(vanhuuden)dementia
+aldersdemens	N	vanhuudendementia
 aldersendring	N	ikääntymismuutos
 aldersforandring	N	vanhenemismuutos
 alderssykdom	N	vanhuuden sairaus
@@ -92,7 +92,7 @@ arterieblod	N	valtimoveri
 arteriesykdom	N	valtimosairaus
 arterietermometer	N	valtimolämpömittari
 aspirasjon	N	aspiraatio	keuhkoihin vetäminen
-aspirere	N	aspiroida	vetää (henkeen) (pois)
+aspirere	N	aspiroida	vetää henkeen pois
 astmaanfall	N	astmakohtaus
 atferdsendring	N	käytöksen muutos
 atferdsfaktor	N	käytöstekijä
@@ -190,7 +190,7 @@ besvimelse	N	pyörtyminen
 betennelsesprosess	N	tulehdusprosessi
 betennelsesreaksjon	N	tulehdusreaktio
 betennelsessykdom	N	tulehdussairaus
-betennelsestilstand	N	tulehdustila (ei bakteerin aiheuttama, esim. rasitusvamma)
+betennelsestilstand	N	tulehdustila	ei bakteerin aiheuttama, esim. rasitusvamma
 betydningsinnhold	N	merkityssisältö
 bevegelighetstrening	N	liikeharjoittelu
 bevegelsesforstyrrelse	N	liikkumishäiriö
@@ -221,9 +221,9 @@ blæreskylling	N	rakkohuuhtelu  virtsarakon huuhtelu
 blærespreng	N	paineen tunne virtsarakossa
 blæretømming	N	rakon tyhjentäminen	rakon tyhjentyminen
 blæretrening	N	virtsarakon harjoitus
-blæretrykk	N	(virtsa)rakon paine
+blæretrykk	N	virtsarakon paine
 blærevegg	N	rakon seinämä
-blærevolum	N	(virtsa)rakon tilavuus
+blærevolum	N	virtsarakon tilavuus
 bleiesensor	N	vaipan kosteusindikaattori 
 blindtarmbetennelse	N	umpilisäkkeen tulehdus
 blindtarmsbetennelse	N	umpilisäketulehdus
@@ -278,7 +278,7 @@ brukerstyring	N	asiakaslähtöisyys
 brystbein	N	rintalasta
 brysthinne	N	rintakalvo
 brysthule	N	rintaontelo
-brystkompresjon	N	rintalastan painelu(elvytys)
+brystkompresjon	N	rintalastan paineluelvytys
 brystmuskel	N	rintalihas
 brystprotese	N	rintaproteesi
 brystvegg	N	rinnan seinämä
@@ -323,8 +323,8 @@ diaréplage	N	ripulivaiva
 diettregime	N	ruokavaliosuunnitelma
 diffusjon	N	diffuusio
 dikotomi	N	
-disiplinfag	N	(akateeminen) oppiaine	tieteenhaara
-disputas	N	väitös(tilaisuus)
+disiplinfag	N	akateeminen oppiaine	tieteenhaara
+disputas	N	väitöstilaisuus
 dl	N	dl	desilitra
 døgnrytmeforstyrrelse	N	vuorokausirytmin häiriö
 døgnrytmekurve	N	vuorokausirytmin käyrä
@@ -463,7 +463,7 @@ fluor	N	fluori
 fødemiddel	N	ravintoaine 
 fødselsskade	N	syntymävamma
 fødselsvekt	N	syntymäpaino
-foldtykkelse	N	(esim. niska)poimun paksuus
+foldtykkelse	N	esim. niskapoimun paksuus
 følelsesmodus	N	tunnetila
 følelsesuttrykk	N	tunteenilmaisu
 folkehelsepolitikk	N	kansanterveyspolitiikka
@@ -552,7 +552,7 @@ gruppesamling	N	ryhmäkokous
 gruppetilhørighet	N	ryhmään kuuluminen
 guiding	N	ohjaus
 habilitering	N	kuntoutus
-habiliteringstjeneste	N	(toimintarajoitteisen lapsen) kuntoutus
+habiliteringstjeneste	N	toimintarajoitteisen lapsen kuntoutus
 hallusinogen	N	hallusinogeeni
 hælsene	N	akillesjänne
 halsmuskel	N	päänkiertäjälihas
@@ -661,7 +661,7 @@ hørselsproblem	N	kuulo-ongelma
 hørselsvanske	N	kuulo-ongelma
 hospital	N	sairaala
 hospitalisere	N	kirjautua sairaalahoitoon
-hospitering	N	vierailu (oppimistarkoituksessa)
+hospitering	N	vierailu oppimistarkoituksessa
 hosteanfall	N	yskänkohtaus
 hostekraft	N	yskimisvoima	
 hostemaskin	N	yskityslaite
@@ -797,7 +797,7 @@ klassifikasjonssystem	N	luokittelujärjestelmä
 klor	N	kloori
 klystersetting	N	peräruiskeen anto
 kognisjon	N	kognitio	tiedonkäsittelytoiminta
-kolbe	N	(lasi)astia	mittalasi
+kolbe	N	lasiastia	mittalasi
 koldbrann	N	kuolio	nekroosi
 kollegaveiledning	N	vertaisohjaus
 kolonisering	N	altistuminen
@@ -920,7 +920,7 @@ leddkapsel	N	nivelkapseli
 leddsans	N	niveltunto
 leddsmerte	N	nivelkipu
 leddvern	N	nivelen suojaus	
-ledningssystem	N	(impulssin)johtojärjestelmä johtoratajärjestelmä
+ledningssystem	N	impulssin johtojärjestelmä johtoratajärjestelmä
 legemiddelbehandling	N	lääkehoito
 legemiddelhåndbok	N	lääkeopas
 legemiddelhåndtering	N	lääkehoidon toteuttaminen
@@ -1180,7 +1180,7 @@ nyttekriterium	N	hyötykriteeri
 objektglass	N	näytelasi
 obstruksjonsgrad	N	ahtauman aste
 ødem	N	turvotus
-ødemsamling	N	nesteen kertyminen (kehoon)
+ødemsamling	N	nesteen kertyminen kehoon
 ødemvæske	N	turvokuksen aiheuttama nestekertymä
 oksygenbehandling	N	happihoito
 oksygenbehov	N	hapentarve
@@ -1285,7 +1285,7 @@ pasientrolle	N	potilasrooli
 pasientsikkerhetsprogram	N	potilasturvallisuusohjelma
 pasientskadeerstatning	N	potilasvahinkokorvaus
 pasienttrygghet	N	potilasturvallisuus
-pasientvurdering	N	potilaan (hoidotarpeen) arviointi
+pasientvurdering	N	potilaan hoidotarpeen arviointi
 passasjehindring	N	läpikulkueste
 passform	N	sopivuus
 påstandskunnskap	N	väitetietämys
@@ -1299,7 +1299,7 @@ penishode	N	peniksen pää
 penispumpe	N	penispumppu
 penisskaft	N	siittimen varsi
 perkusjon	N	naputtelu
-perkutere	N	naputella ja kuunnella (sisäelimiä)
+perkutere	N	naputella ja kuunnella sisäelimiä
 persepsjon	N	havaitseminen
 personlighetsegenskap	N	persoonallisuuden piirre
 personopplysning	N	henkilötieto
@@ -1327,9 +1327,9 @@ pleiesituasjon	N	hoitotilanne
 pliktfølelse	N	velvollisuudentunto
 plukking	N	poimiminen	nyppiminen
 pollusjon	N	tahaton siemensyöksy 
-pool	N	(sijais)pooli
+pool	N	sijaispooli
 porsjonsstørrelse	N	annoskoko
-poseprøve	N	(virtsa)näyte pussista
+poseprøve	N	virtsanäyte pussista
 praksiskontekst	N	käytännön konteksti
 praksisperiode	N	harjoitusjakso
 praksissted	N	käytännön harjoittelupaikka
@@ -1450,7 +1450,7 @@ rusmiddelbruk	N	päihteiden käyttö
 rusmiljø	N	huumepiiri
 rusmisbruker	N	huumausaineiden väärinkäyttäjä	huumeenkäyttäjä
 ryggleie	N	selinmakuu 
-ryggmargsbrokk	N	hermostoputken sulkeutumishäiriö  meningomyeloseele (MMC) 
+ryggmargsbrokk	N	hermostoputken sulkeutumishäiriö  meningomyeloseele	MMC 
 ryggmargsskade	N	selkäydinvaurio
 ryggsøyle	N	selkäranka
 ryggvask	N	selänpesu
@@ -1535,7 +1535,7 @@ sinusknute	N	sinussolmuke
 sinusrytme	N	sinusrytmi
 sirkelbevegelse	N	kehäliike
 sirkulære	N	kiertää
-sirkulasjonsforhold	N	(veren)kierron tila
+sirkulasjonsforhold	N	verenierron tila
 sirkulasjonsproblem	N	verenkierto-ongelma
 sirkulasjonssystem	N	verenkiertojärjestelmä
 sittestilling	N	istuma-asento
@@ -1637,11 +1637,11 @@ spyttproduksjon	N	syljeneritys
 spyttsaft	N	sylki  sylkineste
 spyttsekresjon	N	syljeneritys
 ss	N	rkl	ruokalusikka
-standpunkt	N	(näkö)kanta
+standpunkt	N	näkökanta
 stær	N	kaihi
 ståseng	N	seisomismahdollisuudella varustettu sänky
 steindannelse	N	kivien muodostuminen
-stellekort	N	(yksilöllinen) hoito-ohje
+stellekort	N	yksilöllinen hoito-ohje
 stemmeleie	N	äänenpaino
 stemmespalte	N	äänirako
 stemmevolum	N	äänen voimakkuus
@@ -1742,7 +1742,7 @@ sykepleiediagnose	N	sairaanhoidon diagnoosi
 sykepleiedokumentasjon	N	hoitotyön kirjaaminen
 sykepleieepikrise	N	sairaanhoidon yhteenveto  sairaanhoidon tiivistelmä
 sykepleiefag	N	hoitotiede??
-sykepleieferdighet	N	hoitotyön (käden)taidot
+sykepleieferdighet	N	hoitotyön kädentaidot
 sykepleieferdighet	N	hoitotyön taidot
 sykepleiefilosofi	N	sairaanhoidon filosofia
 sykepleieforsker	N	sairaanhoidon tutkija
@@ -1771,7 +1771,7 @@ sykepleieprofesjon	N	sairaanhoidon ammattiala
 sykepleieprosedyre	N	sairaanhoidollinen menetelmä
 sykepleieprosess	N	hoitotyön prosessi
 sykepleieresultat	N	hoidon tulos
-sykepleierhøgskole	N	sairaanhoitaja-ammattikorkeakoulu (AMK)
+sykepleierhøgskole	N	sairaanhoitaja-ammattikorkeakoulu	AMK
 sykepleierprofesjon	N	sairaanhoitajan ammatti
 sykepleierrolle	N	sairaanhoitajan rooli
 sykepleierske	N	sairaanhoitajatar
@@ -1890,10 +1890,10 @@ toalettvane	N	vessassakäyntitavat
 tømming	N	tyhjennys
 tømmingsmønster	N	tyhjentymiskäytäntö
 tømmingsplage	N	tyhjennysvaiva
-tømmingsproblem	N	(suolen)tyhjennysongelma
-tømmingsrefleks	N	(suolen)tyhjennysrefleksi
+tømmingsproblem	N	suolen tyhjennysongelma
+tømmingsrefleks	N	suolen tyhjennysrefleksi
 tømmingsrefleks	N	ulostusrefleksi
-tømmingsregime	N	(suolen)tyhjennyssuunnitelma
+tømmingsregime	N	suolen tyhjennyssuunnitelma
 tømmingstrang	N	ulostamistarve
 tømmingsvane	N	tyhjentämistapa
 tømmingsvanske	N	tyhjentämishäiriö
@@ -1927,7 +1927,7 @@ turistdiaré	N	turistiripuli
 tutekopp	N	nokkamuki
 tvangsbehandling	N	pakkohoito
 tvangsbruk	N	pakon käyttö
-tvangslovgivning	N	tahdosta riippumatonta hoitoa (pakkohoitoa) koskeva lainsäädäntö
+tvangslovgivning	N	tahdosta riippumatonta hoitoa tai pakkohoitoa koskeva lainsäädäntö
 tvangsmating	N	pakkosyöttö
 tvangsmedisinering	N	pakkolääkitys
 tykningsmiddel	N	sakeutusaine
@@ -1970,7 +1970,7 @@ utånding	N	uloshengitys
 utåndingsluft	N	uloshengitysilma
 utenforskap	N	hyljeksinnän kokemus
 utfoldelse	N	avautuminen	tapahtuminen
-utfoldelsesmulighet	N	(itsensä) ilmentämismahdollisuudet          Trond sjekka språk hit	N	
+utfoldelsesmulighet	N	itsensä ilmentämismahdollisuudet          Trond sjekka språk hit	N	
 utholdenhetstrening	N	kestävyysharjoittelu
 utmattelse	N	uupumus
 utmattelsessyndrom	N	väsymysoireyhtymä
@@ -2010,7 +2010,7 @@ væskemengde	N	nestemäärä
 væskeopphopning	N	nestekertymä
 væskeoverskudd	N	nesteylimäärä
 væskeregistrering	N	nestemäärien kirjaaminen
-væskeregnskap	N	nestetasapaino(n kirjaus) 
+væskeregnskap	N	nestetasapainon kirjaus 
 væskerestriksjon	N	nesterajoitus
 væskeskjema	N	pesutaulukko
 væsketap	N	nestevajaus
