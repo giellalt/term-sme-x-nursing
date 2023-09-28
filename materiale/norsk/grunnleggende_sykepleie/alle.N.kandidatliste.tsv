@@ -7,10 +7,10 @@ CO2-narkose	N		N	hiilidioksidinarkoosi	#hilla#dioksiida#narkosa
 EKG-monitor	N		N	EKG-monitori	
 EKG-undersøkelse	N		N	EKG-tutkimus	
 EPJ-system	N		N	elektroninen potilaskertomus  sähköinen potilaskertomus	elektrovnnalaš #buohccimuitalus 
-EU-direktiv	N		N	EU-direktiivi	#EU-direktiiva
+EU-direktiv	N	EU-direktiiva	N	EU-direktiivi	
 ICNP-begrep	N		N	ICNP-käsite	
 ICNP-diagnose	N		N	ICNP-diagnoosi	
-IVF-behandling	N		N	koeputkihedelmöitys in vitro fertilisaatio	IVF	*koeputkihedelmöitys 
+IVF-behandling	N		N	koeputkihedelmöitys in vitro fertilisaatio (IVF)    *koeputkihedelmöitys 
 KMI-verdi	N		N	painoindeksi  BMI	#deaddu#indeksa  
 LIS-lege	N		N	erikoistuva lääkäri	*erikoistuva doavttir
 MNA-skjema	N		N	MNA-testilomake	
