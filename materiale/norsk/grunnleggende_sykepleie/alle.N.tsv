@@ -10,7 +10,7 @@ EPJ-system	N	elektroninen potilaskertomus  sähköinen potilaskertomus
 EU-direktiv	N	EU-direktiivi
 ICNP-begrep	N	ICNP-käsite
 ICNP-diagnose	N	ICNP-diagnoosi
-IVF-behandling	N	koeputkihedelmöitys in vitro fertilisaatio	IVF
+IVF-behandling	N	koeputkihedelmöitys in vitro fertilisaatio (IVF)
 KMI-verdi	N	painoindeksi  BMI
 LIS-lege	N	erikoistuva lääkäri
 MNA-skjema	N	MNA-testilomake
@@ -27,7 +27,7 @@ adaptasjonsevne	N	sopeutumiskyky
 adaptasjonsnivå	N	sopeutumistaso
 adaptasjonsområde	N	sopeutumisalue
 adrenalin	N	adrenaliini
-aids	N	aids
+aids	N	AIDS
 aktivitetsmønster	N	aktiviteettitapa
 aktivitetsmulighet	N	aktiviteettimahdollisuus
 aktivitetsplan	N	aktiviteettisuunnitelma
