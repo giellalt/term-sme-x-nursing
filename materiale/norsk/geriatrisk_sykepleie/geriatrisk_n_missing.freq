@@ -1,100 +1,65 @@
-mfl	N	
-fór	N	
 dementi	N	
-red	N	
-obstipasjon	N	
-osteoporose	N	
-sluttfase	N	
-f.eks	N	
-osv	N	
-kapitel	N	
-fremmend	N	
-stede	N	
-utg	N	
-http	N	
-int	N	
-kim	N	
-roll	N	
-science	N	
-utfall	N	
-nedsettelse	N	
-interaksjon	N	
-beine	N	
-tilbaketrekning	N	
-www	N	
-p. r	N	
-verde	N	
-appetitt	N	
-setting	N	
-fysiolog	N	
-ego	N	
-eld	N	
-andakt	N	
-tilværelse	N	
-a.l	N	
-stimulering	N	
-hoved	N	
-lom	N	
-henblikk	N	
-m.m	N	
-herr	N	
-sup	N	
-st.meld. nr	N	
-skrivning	N	
-juss	N	
-gravferd	N	
-datum	N	
-åring	N	
-pre	N	
-pectoris	N	
-charge	N	
-øyesykdom	N	
-mengd	N	
-man	N	
-kane	N	
-henhold	N	
-case	N	
-biol	N	
-bading	N	
-tilstedeværelse	N	
-spis	N	
-sfære	N	
-legging	N	
-langtidsopphold	N	
-kol	N	
-fagarbeider	N	
-etc	N	
-avdøde	N	
-svikten	N	
-rengjøring	N	
-overlevelse	N	
-nattesøvn	N	
-hastverk	N	
-goal	N	
-fallskade	N	
-s.a	N	
-likn	N	
-hal	N	
-blending	N	
-strekk	N	
-story	N	
-spring	N	
-rektum	N	
-lysbehandling	N	
-immunforsvar	N	
-ill	N	
-forkant	N	
-eur	N	
-drøfting	N	
-adv	N	
-prim	N	
-pdf	N	
-langsommer	N	
-kjenner	N	
-hold	N	
-att	N	
-agitasjon	N	
-trim	N	
+obstipasjon	N	ummetus obstipaatio konstipaatio
+osteoporose	N	luukato osteoporoosi		
+utfall	N	tulos   vaikutus    ??
+nedsettelse	N	                ??
+interaksjon	N	yhteisvaikutus  vuorovaikutus   kanssakäyminen
+beine	N	            ??
+tilbaketrekning	N	vetäytyminen    perääntyminen   ??
+appetitt	N	ruokahalu
+setting	N	                            ??
+fysiolog	N	fysiologi
+ego	N	minä    minuus  ego
+eld	N	tuli                        ??
+andakt	N	hartaus             ???
+tilværelse	N	olemassaolo         ??
+stimulering	N	ärsytys stimulaatio     ??
+hoved	N	pää
+lom	N	kuikka
+henblikk	N	ajatus  tarkoitus       ??
+sup	N	siemaisu        ??
+skrivning	N	kirjoittaminen  kirjoitus
+juss	N	laki
+gravferd	N	hautajaiset         ??
+datum	N	päivämäärä  tieto
+åring	N	                    ???
+pre	N	edeltävä    enkeltsituasjon ??
+øyesykdom	N	silmäsairaus
+mengd	N	määrä
+kane	N	                ???
+henhold	N	                ???
+case	N	tapaus
+bading	N	kylpeminen  uiminen
+tilstedeværelse	N	läsnäolo
+spis	N	uuni                    ???
+sfære	N	alue    piiri   sfääri
+legging	N	laitto          ??
+langtidsopphold	N	pitkäaikainen hoitojakso  pitkäaikainen olsekelu
+kol	N	hiili
+fagarbeider	N	ammattitaitoinen työntekijä
+avdøde	N	kuollut henkilö
+svikt	N	                                ????
+rengjøring	N	puhdistaminen   siivous 
+overlevelse	N	eloonjääminen
+nattesøvn	N	yöuni
+hastverk	N	kiire
+fallskade	N	putoamisvamma
+hal	N	                            nuotan veto???
+blending	N	häikäistyminen
+strekk	N	venyminen   veto                        ???
+spring	N	hanallinen vesiputki
+rektum	N	peräsuoli   rectum
+lysbehandling	N	valohoito
+immunforsvar	N	immuunipuolustus
+ill	N	huono   voimakas (kipu)             ???
+forkant	N	etureuna    sanonnoissa ennen
+drøfting	N	                            on jo sanakirjassa saameksi
+prim	N	pulipehmeä herajuustoo
+langsom	N	                                on jo saameksi
+kjenner	N	(asian)tuntija
+hold	N	pito    paikkansapitävyys   etäisyys    alue
+agitasjon	N	yllytys kiihotus    agitaatio
+trim	N	kunto   
 reis	N	
 overdosering	N	
 evt	N	
