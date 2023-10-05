@@ -60,89 +60,78 @@ kjenner	N	(asian)tuntija
 hold	N	pito    paikkansapitävyys   etäisyys    alue
 agitasjon	N	yllytys kiihotus    agitaatio
 trim	N	kunto   
-reis	N	
-overdosering	N	
-evt	N	
-consensus	N	
-audio	N	
-akuttbehandling	N	
-veiing	N	
-utslag	N	
-tykning	N	
-trondheim	N	
-spesialsykepleier	N	
-sjukeheim	N	
-rate	N	
-gene	N	
-feilmedisinering	N	
-etterkant	N	
-d.m	N	
-aften	N	
-action	N	
-vasking	N	
-vandring	N	
-utføring	N	
-stud	N	
-sjukehus	N	
-romer	N	
-policy	N	
-p.b	N	
-oppfattelse	N	
-onde	N	
-ntnu	N	
-mein	N	
-lysforhold	N	
-kremasjon	N	
-koordinering	N	
-jan	N	
-henvendelse	N	
-helsevernlov	N	
-gradering	N	
-dings	N	
-diakon	N	
-brownie	N	
-avbildning	N	
-årvåkenhet	N	
-von	N	
-varsling	N	
-skjørhet	N	
-såle	N	
-repertoar	N	
-rehabiliteringsavdeling	N	
-p.r	N	
-p.m	N	
-p.a	N	
-ordinasjon	N	
+reis	N	            ???
+overdosering	N	yliannostus
+audio	N	kuuloon tai äänentoistoon liittyvä
+akuttbehandling	N	akuuttihoito
+veiing	N	painon mittaus
+utslag	N	tulos   heilahdus
+tykning	N	saostus saostuminen
+spesialsykepleier	N	erikoissairaanhoitaja
+sjukeheim	N	hoivakoti
+rate	N	taksa   yksikköhinta    määrä tietyssä ajassa
+gene	N	                    ??? käännänkö
+feilmedisinering	N	lääkitysvirhe
+etterkant	N	sanonnassa jälkikäteen
+d.m.	N	tätä kuuta
+aften	N	ilta
+vasking	N	peseminen
+vandring	N	vaellus
+utføring	N	suoritus    maasta vienti
+sjukehus	N	sairaala
+romer	N	roomalainen
+rom     N   romaani
+policy	N	poliittinen kurssi
+oppfattelse	N	käsitys
+onde	N	paha    pahuus
+mein	N	haitta  vahinko
+lysforhold	N	valaistusolosuhteet
+kremasjon	N	polttohautaus   kremaatio
+koordinering	N	koordinointi
+henvendelse	N	tiedustelu  jonkun puoleen kääntyminen
+helsevernlov	N	terveydenhuoltolaki
+gradering	N	                ???
+dings	N	ensine  vehje
+diakon	N	diakoni
+brownie	N	suklaaleivos
+avbildning	N	kuvaus
+årvåkenhet	N	valppaus    tarkkaavaisuus
+von	N	toive
+varsling	N	varoitus    ennustus    ilmiantaminen
+skjørhet	N	hauraus
+såle	N	antura  pohja   jalkapohja  
+repertoar	N	ohjelmisto  skaala  repertuaari
+rehabiliteringsavdeling	N	kuntoutusosasto
+p.m.	N	post mortem ruumiinavaus    PM
+p.a.	N	pro anno    vuosittain  vuodessa
+ordinasjon	N	lääkärinmääräys vihkimys esim. papiksi
 opphoping	N	
-oping	N	
-morning	N	
-meningsløshet	N	
-lokalisering	N	
-lesebrille	N	
-kontroller	N	
-konsentrasjonsvanske	N	
-klaff	N	
-kjel	N	
-kjedsomhet	N	
-king	N	
-innkomst	N	
-gren	N	
-gerontologi	N	
-fellesareal	N	
-dir	N	
-devel	N	
-d.e	N	
-bevaring	N	
-vannlating	N	
-valens	N	
-tyngd	N	
-tjenesteyter	N	
-tilbaketrekking	N	
-taper	N	
-snev	N	
-rep	N	
-opprettholdelse	N	
-opphav	N	
+oping	N	kertymä kasautuminen
+morning	N	aamu                        ???? miksi ei sanakirjassa
+meningsløshet	N	merkittömyys   järjettömyys tarkoituksettomuus
+lokalisering	N	paikantaminen
+lesebrille	N	lukulasit
+kontroller	N	tarkastaja  valvoja (talouden, projektin) vastuuhenkilö
+konsentrasjonsvanske	N	keskittymisvaikeus
+klaff	N	läppä   lippa
+kjel	N	kattila pannu
+kjedsomhet	N	pitkäveteisyys  tylsyys ikävystyminen
+innkomst	N	saapuminen  tulo    tulot
+gren	N	oksa    haara
+gerontologi	N	vanhenemisen ja vanhuuden tutkimus  gerontologia
+fellesareal	N	yhteinen tila
+d.e.	N	den eldre   vanhempi
+bevaring	N	säilytys    suojelu
+vannlating	N	virtsaus
+valens	N	valenssi
+tyngd	N	paino  
+tjenesteyter	N	palveluntarjoaja
+tilbaketrekking	N	vetäytyminen    perääntyminen
+taper	N	häviäjä
+snev	N	hiven
+rep	N	köysi   lyhennys repetisjonsøvelse kertausharjoitus
+opprettholdelse	N	ylläpito
+opphav	N	alkuperä
 mos	N	
 lysblink	N	
 lupe	N	
