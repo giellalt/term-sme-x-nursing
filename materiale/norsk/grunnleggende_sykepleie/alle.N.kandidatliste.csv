@@ -1,7 +1,7 @@
 NOB ORIGINAL	SME	FIN MANUELL	SME APERTIUM		NOBSME TARTU	FINSME TARTU	
 behandler		???	?		gieđahalli		
 morgenstell	iđitbassan	aamupesu	iđitbassan		iđitborran	Iđitguovssonástti	
-morgenurin		aamuvirtsa	iđitgužža		iđitborran	Iđitguovža	
+morgenurin	iđitgužža	aamuvirtsa	iđitgužža		iđitborran	Iđitguovža	
 abstraksjonsnivå		abstraktiotaso	abstrakšuvdnadássi		abstrakšuvdnadássi	abstrakšuvdnadássi	
 adaptasjon		adaptaatio			heiveheapmi	assimilašuvdna	
 ADL-indeks		ADL-indeksi			ADL-indeaksa	ADL-indeaksa	
@@ -21,7 +21,7 @@ stoffomsetning		aineenvaihdunta	#ávnnasmolsašuvvan		ávnnasjohtu	ávnnaslotnol
 stoffskifteprosess		aineenvaihduntaprosessi	#ávnnasmolsašuvvanproseassa		ávnnasmolsašuddama proseassa	ávnnasmolsašuddanproseassa	
 stoffskiftesykdom		aineenvaihduntasairaus	#ávnnasmolsašuvvanbuohcu		ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
 stoffskiftesykdom		aineenvaihduntasairaus		#ávnnasmolsašuvvanbuohcu	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
-sansning		aistiminen	tuntemus		vuohttimis	dovdamuš	
+sansning	áicat	aistiminen	tuntemus, aistia=áicat		vuohttimis	dovdamuš	
 sansehage		aistipuutarha	dovddagárdin		áiccangárdi	áiccangárdi	
 hjernebølge		aivoaalto	vuoiŋŋašbárru		vuoiŋŋašbávččas	vuoiŋŋašváldin	
 hjerneaktivitet		aivoaktiviteetti	vuoiŋŋašbuđaldeapmi		vuoiŋŋamaččaid aktivitehta	vuoiŋŋašaktivitehta	
@@ -31,13 +31,13 @@ hjernehalvdel		aivopuolisko	vuoiŋŋašbealli		vuoiŋŋašspiehkastat	vuoiŋŋa�
 hjernestamme		aivorunko	vuoiŋŋašriggi		vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
 hjernestamme		aivorunko		vuoiŋŋašriggi	vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
 hjernecelle		aivosolu	vuoiŋŋašsealla		vuoiŋŋašsealla	vuoiŋŋasella	
-hjernefunksjon		aivotoiminta	vuoiŋŋašdoaibma		vuoiŋŋamaččaid doaibma	vuoiŋŋašdoaibma	
-apopleksi		aivoverenkiertohäiriö			apopleksiija	vuoiŋŋaš- ja varrasuotnavihki	
+hjernefunksjon	vuoiŋŋašdoaibma	aivotoiminta	vuoiŋŋašdoaibma		vuoiŋŋamaččaid doaibma	vuoiŋŋašdoaibma	
+apopleksi	vuoŋŋašvarrajohtinhehttehus	aivoverenkiertohäiriö	Hehttehus – heađuštus		apopleksiija	vuoiŋŋaš- ja varrasuotnavihki	
 slagrehabilitering		aivoverenkiertohäiriön kuntoutus AVH-kuntoutus	*aivoverenkiertohäiriön veajuiduhttin 		streaŋgaveajuiduhttin	vuoiŋŋaš- ja varrasuotnavigiid veajuiduhttin AVH-kontuvra	
-tidsopplevelse		ajan kokemus	áiggi vásihus		vásáhus áiggis	vásáhus áiggis	
+tidsopplevelse	áiggi vásáhus	ajan kokemus	áiggi vásihus		vásáhus áiggis	vásáhus áiggis	
 tidsbruk		ajankäyttö	áiggeatnin		áigegeavaheapmi	áigegeavaheapmi	
-tankeprosess		ajatusprosessi	ájáhusproseassa		jurddahanproseassa	jurddahanproseassa	
-tankevirksomhet		ajatustoiminta	ájáhusdoaibma		jurddabargu	jurddabargu	
+tankeprosess	jurddašanproseassa	ajatusprosessi	ájáhusproseassa		jurddahanproseassa	jurddahanproseassa	
+tankevirksomhet	jurddašandoaibma	ajatustoiminta	ájáhusdoaibma		jurddabargu	jurddabargu	
 disiplinfag		akateeminen oppiaine	tieteenhaara	#akademalaš fága	fágasuorgi	akademalaš oahppu	
 hælsene		akillesjänne			heelsegat	akillessjeana	
 aktivitetsutfoldelse		aktiviteetin suorittaminen	buđaldeami čađahit		aktivitehtaovdanbuktin	aktivitehta čađaheapmi	
@@ -53,50 +53,50 @@ bachelorstudent		alemman korkeakoulutason opiskelija bacheloropiskelija	vuolibu 
 bachelor		alempi korkeakoulututkinto	vuolit allaskuvladutkan		bachelor	vuolit allaskuvladutkkus	
 funksjonsnedsettelse		alentunut toimintakyky	*alentunut doaibmagálga		doaimmashehttejupmi	hedjonan doaibmanákca	
 funksjonssvikt		alentunut toimintakyky	*alentunut doaibmagálga		doaimmashehttejupmi	hedjonan doaibmanákca	
-bunnpunkt		alin piste	*alin čuokkis		vuolit dássi	vuolimus čuokkis	
-undervekt		alipaino			vuollemearkkašupmi	vuollegis deaddu	
+bunnpunkt	vuolimuš čuokkis	alin piste	*alin čuokkis		vuolit dássi	vuolimus čuokkis	
+undervekt	vuoledeaddu	alipaino	ali – vuole		vuollemearkkašupmi	vuollegis deaddu	
 underrapportering		aliraportointi			beare unnán raportačállin	vuolláibájuheapmi	
 alkoholskade		alkoholin aiheuttama vamma	alkohola *aiheuttama veaidni		alkoholavahát	vahát mii lea šaddan alkoholageavaheami dihte	
 allergiforbund		allergialiitto	allergiijalihttu		allergiijasearvi	allergiijadielkkut	
 allergireaksjon	allergiijareakšuvdna 	allergiareaktio yliherkkyysreaktio	allergiijareakšuvdna 		allergiijareakšuvdna	allergiijareakšuvdna, hearkkesvuođa reakšuvdna	
-allergikost		allergiaruoka	allergiijagušta		allergiijaguoski biepmu	allergiijaruoktu	
+allergikost	allergiijabiebmu	allergiaruoka	allergiijagušta		allergiijaguoski biepmu	allergiijaruoktu	
 eksponering		altistuminen			eksponeren	eksponeren	
 kolonisering		altistuminen			koloniseren	eksponeren	
 altruisme		altruismi			buotlágan altruisma	altruisma	
-basis		alusta	álggus		vuođđu	álgu	
+basis		alusta	álggus/vuoláš – onko kyseessä alusta alkaen vai asia jonka päälle voi maata?		vuođđu	álgu	
 ambivalens		ambivalenssi 	kaksijakoisuus		ambivalens	ambivalenssa 	
 amøbe		ameba			amáibba	ameba	
 amfetamin		amfetamiini			amfetamiidna	amfetamiidna	
-yrkesutøving		ammatin harjoittaminen	ámmáha hárjehit		bargohárjehallan	ámmátlaš hárjehallan	
-yrkesidentitet		ammatti-identiteetti			fidnoidentitehta	ámmátidentitehta	
+yrkesutøving	ámmáha hárjenit	ammatin harjoittaminen	ámmáha hárjehit		bargohárjehallan	ámmátlaš hárjehallan	
+yrkesidentitet	ámmátidentitehta	ammatti-identiteetti			fidnoidentitehta	ámmátidentitehta	
 yrkesfelt		ammattiala			fidnosuorgi	ámmát	
 fagartikkel		ammattialan artikkeli			fágalaš artihkal	lea fágalaš	
 fagutøver		ammattialan harjoittaja			fágaduojár	ámmátlaš hárjeheaddji	
 profesjonsutøver		ammattialan harjoittaja			profešuvdnabargár	ámmátlaš hárjeheaddji	
 fagutvikling		ammattialan kehitys			fágalaš ovdáneapmi	fágalaš ovdáneapmi	
 fagprosedyre		ammattialan menetelmä  ammattialan toimenpide			fágavuohki	ámmátmetodanfágalaš doaibmabidju	
-profesjonsfag		ammattiopinnot			profešuvdnafága	profešuvdnaoahppu	
-yrkesrolle		ammattirooli			virgerolla	ámmátrolla	
-profesjonsgrad		ammattitutkinto			profešuvdnaoahppu	profešuvdnaskuvla	
-morgenmedisin		aamulääke			iđitdálkkas	Iđitguovssu dálkkas	
-morgenrapport		aamuraportti			iđđedieđáhus	iđđedieđáhus	
+profesjonsfag	ámmátlohkamat	ammattiopinnot			profešuvdnafága	profešuvdnaoahppu	
+yrkesrolle	ámmátrolla	ammattirooli			virgerolla	ámmátrolla	
+profesjonsgrad	ámmátdutkan	ammattitutkinto			profešuvdnaoahppu	profešuvdnaskuvla	
+morgenmedisin	iđitdálkkas	aamulääke			iđitdálkkas	Iđitguovssu dálkkas	
+morgenrapport	iđitraporta	aamuraportti			iđđedieđáhus	iđđedieđáhus	
 anamnese		anamneesi	esitiedot		anamneseansa	ánsu	
 anestesisykepleier		anestesiasairaanhoitaja	#anestesia#buohccidikšu		anestesibuhccedivššár	anestesiijabuhcci	
-porsjonsstørrelse		annoskoko			oassesturrodat	sturrodat	
+porsjonsstørrelse	attussturrodat	annoskoko			oassesturrodat	sturrodat	
 dosering		annostelu			dálkkodanriekkis	dálkkas	
 antibiotika		antibiootti	#antibiotika		antibiotihkka	antibiotihkka	
 antibiotikabruk		antibioottien käyttö	#antibiotika atnin		antibiotihkageavaheapmi	antibiotihkkageavaheapmi	
 antibiotikabehandling		antibioottihoito			antibiotihkadikšun	dikšun antibiotihkain	
 hovedpulsåre		aortta			váldo pulsa	aorta 	
 ganghjelpemiddel		apuväline kävelyyn	#veahkki#gaskoapmi vázzimii		vázzinbálggis	veahkkeneavvu vázzimii	
-hverdagsrehabilitering		arkikuntoutus	árgaveajuiduhttin		árgabeaiveajuiduhttin	árkabuvttadeapmi	
-hverdagskunnskap		arkitieto	árgadiehtu		árgabeaivváláš máhttu	arkiivadiehtu	
+hverdagsrehabilitering	árgaveajuiduhttin	arkikuntoutus	árgaveajuiduhttin		árgabeaiveajuiduhttin	árkabuvttadeapmi	
+hverdagskunnskap	árgadiehtu	arkitieto	árgadiehtu		árgabeaivváláš máhttu	arkiivadiehtu	
 sårhet		arkuus			rašši	árbmu	
-barmhjertighet		armo	árbmu		árbmugasvuohta	árbmu	
+barmhjertighet	árbmu	armo	árbmu		árbmugasvuohta	árbmu	
 arrdanning		arpeutuminen			árrangealkka	árbenráidu	
-evalueringskriterium		arviointikriteeri	evaluerenkriteara		árvvoštallaneaktu	árvvoštallanvuođđu	
-evalueringsskjema		arviointilomake	evaluerenskovvi		árvvoštallanskovvi	árvvoštallanskovvi	
-vurderingsprosess		arviointiprosessi	evaluerenproseassa		árvvoštallanproseassa	árvvoštallanproseassa	
+evalueringskriterium	árvoštallankritera	arviointikriteeri	evaluerenkriteara		árvvoštallaneaktu	árvvoštallanvuođđu	
+evalueringsskjema	árvvoštallanskovvi	arviointilomake	evaluerenskovvi		árvvoštallanskovvi	árvvoštallanskovvi	
+vurderingsprosess	árvvoštallanproseassa	arviointiprosessi	evaluerenproseassa		árvvoštallanproseassa	árvvoštallanproseassa	
 verdikonflikt		arvokonflikti	arvoristiriita	árvokonflikta	árvokonflikta	árvokonflikta	
 verdimodell		arvomalli	árvomálle		árvomálle	árvomálle	
 stillingsendring		asennonvaihto	#stellelmas#molsuheapmi		rievdadeapmi	miellaguottuid molsun	
