@@ -132,68 +132,66 @@ snev	N	hiven
 rep	N	köysi   lyhennys repetisjonsøvelse kertausharjoitus
 opprettholdelse	N	ylläpito
 opphav	N	alkuperä
-mos	N	
-lysblink	N	
-lupe	N	
-livsførsel	N	
-lengd	N	
-krematorium	N	
-kan	N	
-innblikk	N	
-implantat	N	
-igangsetting	N	
-hjemmehjelper	N	
-have	N	
-fylling	N	
-forskyvning	N	
-flyt	N	
-fjes	N	
-erindring	N	
-entré	N	
-enkeltpasient	N	
-egn	N	
-egeninnsats	N	
-e.l	N	
-e.f	N	
-dvs	N	
-driv	N	
-dr.polit	N	
-dr.philos	N	
-delaktighet	N	
-brytning	N	
-bøyle	N	
-bl.a	N	
-bisettelse	N	
-bemanningssituasjon	N	
-ansvarsfordeling	N	
-anestesi	N	
-aktivisering	N	
-virvel	N	
-videreutvikling	N	
-utrop	N	
-tru	N	
-trappegang	N	
-tildeling	N	
-tilbøyelighet	N	
-tide	N	
-ste	N	
-stans	N	
-stad	N	
-st.meld	N	
-spiserør	N	
-spasertur	N	
-søvnlaboratorium	N	
-søkelys	N	
-sjukdom	N	
-servise	N	
-sakrament	N	
-s.d	N	
-røykeslutt	N	
-res	N	
-religionsutøvelse	N	
-reinkarnasjon	N	
-ref	N	
-pga	N	
+mos	N	sose    muusi
+lysblink	N	valonvälähdys
+lupe	N	suurennuslasi
+livsførsel	N	elämäntapa
+lengde	N	pituus
+krematorium	N	krematorio  polttouuni
+innblikk	N	käsitys tieto
+implantat	N	istute  implantaatti
+igangsetting	N	aloitus
+hjemmehjelper	N	kotiavustaja
+fylling	N	täyttö  täyttäminen hammaspaikka
+forskyvning	N	siirtymä    muutos
+flyt	N	sujuvuus    virtaus
+fjes	N	kasvot  naama
+erindring	N	muisto  muisti  muistikuva
+entré	N	sisääntulo pääsymaksu   eteinen
+enkeltpasient	N	yksittäinen potilas
+egn	N	 seutu  alue
+egeninnsats	N	oma työpanos
+e.l. eller lignende	N	  tai samanlainen
+e.f. etter fullamkt	N	  valtakirjan mukaan
+dvs. det vil si	N	eli toisin sanoen
+driv	N	voima   työinto
+dr. polit	N	yhteiskuntatieteiden tohtori
+dr. philos	N	ilman ohjausta opiskeltu tohtorinarvo
+delaktighet	N	osallisuus
+brytning	N	murros  taittuminen puheessa korostus
+bøyle	N	kaarituki   vanne   panta
+bl.a. blant annet	N	muun muassa mm.
+bisettelse	N	hautajaiset
+bemanningssituasjon	N	henkilöstötilanne
+ansvarsfordeling	N	vastuunjako
+anestesi	N	nukutus puudutus    anestesia
+aktivisering	N	aktivointi
+virvel	N	pyörre  selkänikama
+videreutvikling	N	(edelleen)kehittäminen
+utrop	N	huuto   huudahdus
+tru	N	usko    luulo   luottamus
+trappegang	N	portaisto
+tildeling	N	jako    anti
+tilbøyelighet	N	taipumus
+ste	N	alasin
+ste-    N   puoli-
+stans	N	pysähdys
+stad	N	paikka  kohta   kaupunki
+st.meld. stortingsmelding	N	hallituksen informaatio suurkäräjille
+spiserør	N	ruokatorvi
+spasertur	N	kävelyretki
+søvnlaboratorium	N	unilaboratorio
+søkelys	N	valonheitin valokiila   huomion keskipiste
+sjukdom	N	sairaus
+servise	N	astiasto
+sakrament	N	uskonnollinen seremonia uskonnollinen rituaali  sakramentti
+s.d. se dette/disse samme dag	N	katso tämä/nämä samana päivänä
+røykeslutt	N	tupakoinnin lopettaminen
+res	N	kilpailu
+religionsutøvelse	N	uskonnon harjoitttaminen
+reinkarnasjon	N	jälleensyntyminen   reinkarnaatio
+ref. referanse	N	viite
+pga. på grunn av	N	takia  vuoksi
 pensjonering	N	
 pekepinn	N	
 pålitelighet	N	
