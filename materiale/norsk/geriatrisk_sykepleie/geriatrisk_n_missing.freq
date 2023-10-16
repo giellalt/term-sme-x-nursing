@@ -1,52 +1,52 @@
-dementi	N	kieltäminen kielto      ???
+dementi	N	kieltäminen kielto
 obstipasjon	N	ummetus obstipaatio konstipaatio
 osteoporose	N	luukato osteoporoosi		
-utfall	N	tulos   vaikutus    ??
-nedsettelse	N	                ??
+utfall	N	tulos   vaikutus
+nedsettelse	N	 asettaminen    perustaminen    
 interaksjon	N	yhteisvaikutus  vuorovaikutus   kanssakäyminen
-beine	N	            ??
-tilbaketrekning	N	vetäytyminen    perääntyminen   ??
+beine	N   ??
+tilbaketrekning	N	vetäytyminen    perääntyminen
 appetitt	N	ruokahalu
-setting	N	                            ??
+setting	N   asetus                           ??
 fysiolog	N	fysiologi
 ego	N	minä    minuus  ego
-eld	N	tuli                        ??
-andakt	N	hartaus             ???
-tilværelse	N	olemassaolo         ??
-stimulering	N	ärsytys stimulaatio     ??
+eld	N	tuli                      
+andakt	N	hartaus            
+tilværelse	N	olemassaolo        
+stimulering	N	ärsytys stimulaatio    
 hoved	N	pää
 lom	N	kuikka
-henblikk	N	ajatus  tarkoitus       ??
-sup	N	siemaisu        ??
+henblikk	N	ajatus  tarkoitus   
+sup	N	siemaisu       
 skrivning	N	kirjoittaminen  kirjoitus
 juss	N	laki
-gravferd	N	hautajaiset         ??
+gravferd	N	hautajaiset        
 datum	N	päivämäärä  tieto
 åring	N	                    ???
 pre	N	edeltävä    enkeltsituasjon ??
 øyesykdom	N	silmäsairaus
 mengd	N	määrä
-kane	N	                ???
-henhold	N	                ???
+kane	N   reki???	             
+henhold	N	    I henhold til   suhteessa   johonkin nähden            ???
 case	N	tapaus
 bading	N	kylpeminen  uiminen
 tilstedeværelse	N	läsnäolo
-spis	N	uuni                    ???
+spis	N	uuni
 sfære	N	alue    piiri   sfääri
-legging	N	laitto          ??
+legging	N	laitto
 langtidsopphold	N	pitkäaikainen hoitojakso  pitkäaikainen oleskelu
 kol	N	hiili
 fagarbeider	N	ammattitaitoinen työntekijä
 avdøde	N	kuollut henkilö
-svikt	N	                                ????
+svikt	N   vajaus  puute   jousto
 rengjøring	N	puhdistaminen   siivous 
 overlevelse	N	eloonjääminen
 nattesøvn	N	yöuni
 hastverk	N	kiire
 fallskade	N	putoamisvamma
-hal	N	                            nuotan veto???
+hal	N	 nuotan veto    ???                           
 blending	N	häikäistyminen
-strekk	N	venyminen   veto                        ???
+strekk	N	venyminen   veto
 spring	N	hanallinen vesiputki
 rektum	N	peräsuoli   rectum
 lysbehandling	N	valohoito
@@ -54,13 +54,13 @@ immunforsvar	N	immuunipuolustus
 ill	N	huono   voimakas (kipu)             ???
 forkant	N	etureuna    sanonnoissa ennen
 drøfting	N	                            on jo sanakirjassa saameksi
-prim	N	pulipehmeä herajuustoo
+prim	N	puolipehmeä herajuustoo
 langsom	N	                                on jo saameksi
 kjenner	N	(asian)tuntija
 hold	N	pito    paikkansapitävyys   etäisyys    alue
 agitasjon	N	yllytys kiihotus    agitaatio
-trim	N	kunto   
-reis	N	            ???
+trim	N	kunto   kuntoilu
+reis	N	sanonnoissa matka
 overdosering	N	yliannostus
 audio	N	kuuloon tai äänentoistoon liittyvä
 akuttbehandling	N	akuuttihoito
@@ -70,7 +70,7 @@ tykning	N	saostus saostuminen
 spesialsykepleier	N	erikoissairaanhoitaja
 sjukeheim	N	hoivakoti
 rate	N	taksa   yksikköhinta    määrä tietyssä ajassa
-gene	N	                    ??? käännänkö
+gene	N   sanonnoissa vaiva                   ???
 feilmedisinering	N	lääkitysvirhe
 etterkant	N	sanonnassa jälkikäteen
 d.m.	N	tätä kuuta
@@ -90,7 +90,7 @@ kremasjon	N	polttohautaus   kremaatio
 koordinering	N	koordinointi
 henvendelse	N	tiedustelu  jonkun puoleen kääntyminen
 helsevernlov	N	terveydenhuoltolaki
-gradering	N	                ???
+gradering	N	arvojärjestykseen laitto???               
 dings	N	ensine  vehje
 diakon	N	diakoni
 brownie	N	suklaaleivos
@@ -105,9 +105,8 @@ rehabiliteringsavdeling	N	kuntoutusosasto
 p.m.	N	post mortem ruumiinavaus    PM
 p.a.	N	pro anno    vuosittain  vuodessa
 ordinasjon	N	lääkärinmääräys vihkimys esim. papiksi
-opphoping	N	
-oping	N	kertymä kasautuminen
-morning	N	aamu                        ???? miksi ei sanakirjassa
+opphoping	N	kertymä kasautuminen	
+morning	N	aamu
 meningsløshet	N	merkittömyys   järjettömyys tarkoituksettomuus
 lokalisering	N	paikantaminen
 lesebrille	N	lukulasit
@@ -151,7 +150,7 @@ entré	N	sisääntulo pääsymaksu   eteinen
 enkeltpasient	N	yksittäinen potilas
 egn	N	 seutu  alue
 egeninnsats	N	oma työpanos
-e.l. eller lignende	N	  tai samanlainen
+e.l. eller lignende	N	  tai samanlainen   ??? miten laitan
 e.f. etter fullamkt	N	  valtakirjan mukaan
 dvs. det vil si	N	eli toisin sanoen
 driv	N	voima   työinto
@@ -192,90 +191,82 @@ religionsutøvelse	N	uskonnon harjoitttaminen
 reinkarnasjon	N	jälleensyntyminen   reinkarnaatio
 ref. referanse	N	viite
 pga. på grunn av	N	takia  vuoksi
-pensjonering	N	
-pekepinn	N	
-pålitelighet	N	
-pakk	N	
-øyedråpe	N	
-overlapping	N	
-opptatthet	N	
-oppbygning	N	
-omkrets	N	
-nedtrapping	N	
-metthet	N	
-mak	N	
-majoritet	N	
-m/s	N	
-livsform	N	
-leggetid	N	
-latterliggjøring	N	
-lægd	N	
-klassifikasjon	N	
-karbad	N	
-iverk	N	
-inkl	N	
-holdepunkt	N	
-fotende	N	
-førstevalg	N	
-forholdsregel	N	
-force	N	
-fell	N	
-fakte	N	
-f. eks	N	
-eldresenter	N	
-dr.med	N	
-degenerasjon	N	
-d.l	N	
-d.g	N	
-d.c	N	
-blodtap	N	
-blei	N	
+pensjonering	N	eläköityminen   eläkkeelle jääminen
+pekepinn	N	vihje   vihjaus
+pålitelighet	N	luotettavuus
+pakk	N	matkatavara törkimys    roskaväki
+øyedråpe	N	silmätippa
+overlapping	N	päällekkäisyys  limittyminen
+opptatthet	N	kiinnostuneisuus    kiireisyys  være opptatt???
+oppbygning	N	rakentaminen    ???
+omkrets	N   ympärysmitta
+nedtrapping	N	asteittainen vähentäminen   alentaminen
+metthet	N	kylläisyys
+mak	i ro og mak N	sanonnoissa rauhallisuus
+majoritet	N	enemmistö
+m/s	meter per sekund    N	metriä sekunnissa
+livsform	N	elämäntapa
+leggetid	N	nukkumaanmenoaika
+latterliggjøring	N	naurettavaksi tekeminen
+klassifikasjon	N	luokittelu
+karbad	N	ammekylpy
+iverk	sette iverk N	sanonnoissa (panna) toimeen
+inkl.	N	mukaanlukien
+holdepunkt	N	kiinnekohta
+fotende	N	jalkopää    jalkopääty
+førstevalg	N	ensimmäinen valinta
+forholdsregel	N	varotoimi   varokeino   varotoimenpide
+force	N	voima   sanonnoissa este
+fell	N	talja   vuota   nahkakaistale suksen alla
+fakte	N	(käsien) heilutus
+f. eks. for eksempel	N	esimerkikis
+eldresenter	N	vanhusten päivätoimintakeskus
+dr.med. doctor medisinae	N	lääketieteestä väitellyt lääkäri
+degenerasjon	N	rappeutuminen   taantuminen degeneroituminen
+blodtap	N	verenhukka
+blei	N	kiila   epämiellyttävä henkilö
 audiogram	N	
-anoreksi	N	
-alkoholforbruk	N	
-algin	N	
-a.s	N	
-vol	N	
-voksenliv	N	
-virketid	N	
-verbum	N	
-vegring	N	
-vass	N	
-vamp	N	
-våkentid	N	
-uvelhet	N	
-uttak	N	
-utprøving	N	
-uteområde	N	
-utdypning	N	
-uoppmerksomhet	N	
-underkastelse	N	
-u.s	N	
-trass	N	
-toalettdør	N	
-tiltakslyst	N	
-tilstrømning	N	
-tilfriskning	N	
-tilberedning	N	
-tilbakefall	N	
-tenåring	N	
-tål	N	
-t.h	N	
-t.d	N	
-svigerbarn	N	
-stikking	N	
-stemmer	N	
-stagnasjon	N	
-spontanitet	N	
-spesialavdeling	N	
-speed	N	
-søvntid	N	
-søken	N	
-smoking	N	
-skyll	N	
-skotøy	N	
-skjerming	N	
-skarpsyn	N	
+anoreksi	N	kuulotestien kaavio audiogrammi
+alkoholforbruk	N	alkoholinkäyttö
+alginsyre	N	algiinihappo
+vol	N	kanki   salko   vuoren harjanne
+voksenliv	N	aikuisuus
+virketid	N	vaikutusaika
+verbum	N	verbi
+vegring	N	kieltäytyminen
+vass-	N	vesi-
+vamp	N	vamppi
+våkentid	N	hereilläoloaika
+uvelhet	N	huonovointisuus
+uttak	N	otto    valinta (rahan)nosto
+utprøving	N	kokeilu testaus
+uteområde	N	ulkoalue
+utdypning	N	syventäminen (asiaan)
+uoppmerksomhet	N	tarkkaamattomuus
+underkastelse	N	alistuminen
+trass	N	uhma    sanonnoissa uhallaan siitä huolimatta ???
+toalettdør	N	vessanovi
+tiltakslyst	N	into toimia innostus
+tilstrømning	N	sisäänvirtaus  osallistuminen
+tilfriskning	N	toipuminen
+tilberedning	N	valmistus
+tilbakefall	N	(taudin) uusiutuminen
+tenåring	N	teini
+tål	N	maltti  tyyneys	
+svigerbarn	N	miniä tai vävy
+stikking	N	pisto   pistäminen
+stemmer	N	virittäjä
+stagnasjon	N	pysähtyminen    pysähtyneisyys  seisaus
+spontanitet	N	välittömyys spontaanisuus
+spesialavdeling	N	erikoisosasto
+speed	N	vauhti  piristävä aine  amfetamiini
+søvntid	N	nukkumisaika
+søken	N	etsintä haku
+smoking	N	smokki
+skyll	N	kuuro   ryöppy  loiske
+skotøy	N	jalkine
+skjerming	N	suojaus varjelu psykiatriassa eristys
+skarpsyn	N	tarkkanäköisyys
 single	N	
 sess	N	
 seniorforsker	N	
