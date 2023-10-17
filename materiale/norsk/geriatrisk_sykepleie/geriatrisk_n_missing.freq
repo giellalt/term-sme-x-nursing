@@ -267,43 +267,38 @@ skyll	N	kuuro   ryöppy  loiske
 skotøy	N	jalkine
 skjerming	N	suojaus varjelu psykiatriassa eristys
 skarpsyn	N	tarkkanäköisyys
-single	N	
-sess	N	
-seniorforsker	N	
-selvinnsikt	N	
-selvbebreidelse	N	
-seleksjon	N	
-satsning	N	
+single, singel  N	singlelevy  yhden hengen huone  yksineläjä 
+sess	N	istuin  takamus
+seniorforsker	N	vanhempi tutkija
+selvinnsikt	N	itsetuntemus
+selvbebreidelse	N	itsesyytös
+seleksjon	N	valinta valitseminen
+satsning	N	panos   panostaminen
 sammenfatning	N	
 rykning	N	
-rotoverflate	N	
-repos	N	
-rem	N	
-prog	N	
-pomade	N	
-plagg	N	
-pkt	N	
-p.t	N	
-overoppheting	N	
-opptrapping	N	
-oppholdsrom	N	
-oppfinnsomhet	N	
-ønskemål	N	
-omlegging	N	
-oldebarn	N	
-obs	N	
-nyorientering	N	
-nevralgi	N	
-morse	N	
-mnd	N	
-misforhold	N	
-meningsfullhet	N	
-median	N	
-måtehold	N	
-mangelvare	N	
-målsetning	N	
-maks	N	
-maie	N	
+rotoverflate	N	yhteenveto  kooste
+repos	N	askelma
+rem	N	hihna   remmi
+pomade	N	rasva   voide
+plagg	N	vaatekappale
+p.t. pro tempore	N	tällä hetkellä
+overoppheting	N	ylikuumentuminen
+opptrapping	N	lisääminen  laajentaminen
+oppholdsrom	N	oleskeluhuone
+oppfinnsomhet	N	kekseliäisyys   nokkeluus
+ønskemål	N	toive
+omlegging	N	muutos  siirto  vaihto
+oldebarn	N	lapsenlapsenlapsi
+nyorientering	N	uudelleen suuntautuminen    uudelleen orientoituminen
+nevralgi	N   hermosärky  neuralgia	
+morse	N	morse(aakkoset)
+misforhold	N	epäsuhta
+meningsfullhet	N	merkityksellisyys
+median	N	mediaani    keskijana
+måtehold	N	kohtuus maltti
+mangelvare	N	tavara, josta on puute
+målsetning	N	päämäärä    tavoite
+maks maksimal maksumum	N	enimmäismäärä
 lyspunkt	N	
 lyriker	N	
 ltd	N	
