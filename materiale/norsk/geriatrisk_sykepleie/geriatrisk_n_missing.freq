@@ -299,79 +299,64 @@ måtehold	N	kohtuus maltti
 mangelvare	N	tavara, josta on puute
 målsetning	N	päämäärä    tavoite
 maks maksimal maksumum	N	enimmäismäärä
-lyspunkt	N	
-lyriker	N	
-ltd	N	
-leveregel	N	
-lesjon	N	
-kunststykke	N	
-kran	N	
-krampetrekning	N	
-kraftløshet	N	
-kos	N	
-kortversjon	N	
-kole	N	
-knoll	N	
-klesvask	N	
-k.s	N	
-juv	N	
-inst	N	
-innlegging	N	
-innad	N	
-inferno	N	
-husk	N	
-house	N	
-holland	N	
-hjemmetid	N	
-hekto	N	
-håndklær	N	
-gruppetrening	N	
-gravkapell	N	
-going	N	
-glorie	N	
-gelé	N	
-gele	N	
-fullhet	N	
-fortone	N	
-forfengelighet	N	
-følelsesliv	N	
-fjor	N	
-fjernkontroll	N	
-feedback	N	
-fåtall	N	
-faster	N	
-faremoment	N	
-fanger	N	
-fald	N	
-f.m	N	
-etterkrigstid	N	
-ergoterapi	N	
-egnethet	N	
-drukningsulykke	N	
-dna	N	
-dirk	N	
-dess	N	
-d.d	N	
-collie	N	
-central	N	
-byrd	N	
-bymisjon	N	
-brur	N	
-brilleglass	N	
-brannulykke	N	
-bowling	N	
-blindeforbund	N	
-bingo	N	
-bestrebelse	N	
-bed	N	
-båre	N	
-back	N	
-avveining	N	
-avhold	N	
-attribusjon	N	
-årrekke	N	
-appell	N	
-app	N	
+lyspunkt	N	valopilkku
+lyriker	N	lyyrikko
+leveregel	N	elämänohje
+lesjon	N	ruumiinvamma
+kunststykke	N	taidonnäyte
+kran	N	hana    nostokurki
+krampetrekning	N	lihaskouristus  sanonnoissa teko reaktio
+kraftløshet	N	voimattomuus
+kos	N	matka   kurssi  hyvä olo
+kortversjon	N	lyhyt versio
+knoll	N	mukula  pää
+klesvask	N	vaatteiden pesu kerralla pestävät vaatteet
+juv	N	rotko kuru    kanjoni
+innlegging	N	sisään laitto   sairaalahoitoon meno
+inferno	N	helvetti    pätsi
+husk	N	muisti
+hjemmetid	N	kotonaoloaika
+hekto	N	hehtogramma
+håndklær	N	pyyhe
+gruppetrening	N	ryhmäharjoittelu
+gravkapell	N	hautauskappeli
+going	N	kävely
+glorie	N	sädekehä    kunnia  maine
+gelé	N	hyytelö
+fullhet	N	kokonaisuus täysinäisyys
+forfengelighet	N	turhamaisuus
+følelsesliv	N	tunne-elämä
+fjor i fjor N	viime vuonna    
+fjernkontroll	N	kaukosäädin
+feedback	N	palaute
+fåtall	N	muutama harva
+faster	N	täti    isän sisko
+faremoment	N	vaaramomentti
+fanger	N	sieppaaja   kiinniottaja
+fald	N	päärme
+etterkrigstid	N	sodanjälkeinen aika
+ergoterapi	N	toimintaterapia
+egnethet	N	soveltuvuus
+drukningsulykke	N	hukkumisonnettomuus
+dirk	N	tiirikka
+d.d. dags dato	N	tänään 
+sentral	N	keskus
+byrd	N	syntyperä   syntymä
+bymisjon	N	evankelioiminen ja avustaminen kaupungissa  ??
+brur	N	morsian
+brilleglass	N	silmälasien linssi
+brannulykke	N	palo    palo-onnettomuus
+bowling	N	keilailu    keilaus
+blindeforbund	N	näkövammaisten liitto
+bestrebelse	N	pyrkimys
+bed	N	(kukka)penkki
+båre	N	paarit
+avveining	N	harkinta    kuvaannollisesti punnitseminen  valitseminen
+avhold	N	pidättäytyminen raittius
+attribusjon	N	ansioksi lukeminen
+årrekke	N	monet vuodet
+appell	N	vetoomus    valitus vaikutusvoima
+app	N	sovellus
 anskuelse	N	
 ansamling	N	
 amt	N	
