@@ -16,30 +16,30 @@ aids			AIDS			aids	AIDS
 tidsorientering			aikaan orientoituminen	áigái 		áigeáddejupmi	áiggi orientearašuvdna	
 tidspress			aikapaine	áigedeaddu		deaddu áiggis	deaddu áiggis	
 tidsdimensjon			aikaulottuvuus	áigeolli		áigedimenšuvdna	áigedimenšuvdna	
-metabolisme			aineenvaihdunta	metabolia	#ávnnasmolsašuvvan	metabolisma	ávnnaslotnolasvuohta	
-stoffomsetning			aineenvaihdunta	#ávnnasmolsašuvvan		ávnnasjohtu	ávnnaslotnolasvuohta	
-stoffskifteprosess			aineenvaihduntaprosessi	#ávnnasmolsašuvvanproseassa		ávnnasmolsašuddama proseassa	ávnnasmolsašuddanproseassa	
-stoffskiftesykdom			aineenvaihduntasairaus	#ávnnasmolsašuvvanbuohcu		ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
-stoffskiftesykdom			aineenvaihduntasairaus		#ávnnasmolsašuvvanbuohcu	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
+metabolisme	ávnnasmolsašuvvan		aineenvaihdunta	metabolia	#ávnnasmolsašuvvan	metabolisma	ávnnaslotnolasvuohta	
+stoffomsetning	ávnnasmolsašuvvan		aineenvaihdunta	#ávnnasmolsašuvvan		ávnnasjohtu	ávnnaslotnolasvuohta	
+stoffskifteprosess	ávnnasmolsašuvvanproseassa		aineenvaihduntaprosessi	#ávnnasmolsašuvvanproseassa		ávnnasmolsašuddama proseassa	ávnnasmolsašuddanproseassa	
+stoffskiftesykdom	ávnnasmolsašuvvanbuohccu		aineenvaihduntasairaus	#ávnnasmolsašuvvanbuohcu		ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
+stoffskiftesykdom	ávnnasmolsašuvvanbuohccu		aineenvaihduntasairaus		#ávnnasmolsašuvvanbuohcu	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
 sansning	áicat		aistiminen	tuntemus, aistia=áicat		vuohttimis	dovdamuš	
 sansehage			aistipuutarha	dovddagárdin		áiccangárdi	áiccangárdi	
-hjernebølge			aivoaalto	vuoiŋŋašbárru		vuoiŋŋašbávččas	vuoiŋŋašváldin	
-hjerneaktivitet			aivoaktiviteetti	vuoiŋŋašbuđaldeapmi		vuoiŋŋamaččaid aktivitehta	vuoiŋŋašaktivitehta	
+hjernebølge	vuoiŋŋašbárru		aivoaalto	vuoiŋŋašbárru		vuoiŋŋašbávččas	vuoiŋŋašváldin	
+hjerneaktivitet	vuioŋŋašaktivitehta		aivoaktiviteetti	vuoiŋŋašbuđaldeapmi		vuoiŋŋamaččaid aktivitehta	vuoiŋŋašaktivitehta	
 slagpasient	vuoiŋŋašgáldnanbuohcci		aivohalvauspotilas	#vuoigŋašat#ravkin#buohcci		čuolmmastuhttin	vuoiŋŋašdohppe	
-hjernesvulst			aivokasvain	vuoiŋŋašguorti, kasvain=šattalmas		vuoiŋŋašdávda	vuoiŋŋaššattalmas	
-hjernehalvdel			aivopuolisko	vuoiŋŋašbealli		vuoiŋŋašspiehkastat	vuoiŋŋašbealli	
-hjernestamme			aivorunko	vuoiŋŋašriggi		vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
-hjernestamme			aivorunko		vuoiŋŋašriggi	vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
-hjernecelle			aivosolu	vuoiŋŋašsealla		vuoiŋŋašsealla	vuoiŋŋasella	
+hjernesvulst	vuoiŋŋaššattalmas		aivokasvain	vuoiŋŋašguorti, kasvain=šattalmas		vuoiŋŋašdávda	vuoiŋŋaššattalmas	
+hjernehalvdel	vuoiŋŋašbealli		aivopuolisko	vuoiŋŋašbealli		vuoiŋŋašspiehkastat	vuoiŋŋašbealli	
+hjernestamme	vuoiŋŋašriggi		aivorunko	vuoiŋŋašriggi		vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
+hjernestamme	vuoiǧǧašriggi		aivorunko		vuoiŋŋašriggi	vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
+hjernecelle	vuoiǧǧašsealla		aivosolu	vuoiŋŋašsealla		vuoiŋŋašsealla	vuoiŋŋasella	
 hjernefunksjon	vuoiŋŋašdoaibma		aivotoiminta	vuoiŋŋašdoaibma		vuoiŋŋamaččaid doaibma	vuoiŋŋašdoaibma	
 apopleksi	vuoŋŋašvarrajohtinhehttehus		aivoverenkiertohäiriö	Hehttehus – heađuštus		apopleksiija	vuoiŋŋaš- ja varrasuotnavihki	
-slagrehabilitering			aivoverenkiertohäiriön kuntoutus AVH-kuntoutus	*aivoverenkiertohäiriön veajuiduhttin 		streaŋgaveajuiduhttin	vuoiŋŋaš- ja varrasuotnavigiid veajuiduhttin AVH-kontuvra	
+slagrehabilitering	vuoiŋŋašvarrajohtinhehttehusa veajuiduhttin		aivoverenkiertohäiriön kuntoutus AVH-kuntoutus	*aivoverenkiertohäiriön veajuiduhttin 		streaŋgaveajuiduhttin	vuoiŋŋaš- ja varrasuotnavigiid veajuiduhttin AVH-kontuvra	
 tidsopplevelse	áiggi vásáhus		ajan kokemus	áiggi vásihus		vásáhus áiggis	vásáhus áiggis	
-tidsbruk			ajankäyttö	áiggeatnin		áigegeavaheapmi	áigegeavaheapmi	
+tidsbruk	áigegeavahus		ajankäyttö	áiggeatnin		áigegeavaheapmi	áigegeavaheapmi	
 tankeprosess	jurddašanproseassa		ajatusprosessi	ájáhusproseassa		jurddahanproseassa	jurddahanproseassa	
 tankevirksomhet	jurddašandoaibma		ajatustoiminta	ájáhusdoaibma		jurddabargu	jurddabargu	
-disiplinfag			akateeminen oppiaine	tieteenhaara	#akademalaš fága	fágasuorgi	akademalaš oahppu	
-hælsene			akillesjänne			heelsegat	akillessjeana	
+disiplinfag	akademalaš oahppoávnnas		akateeminen oppiaine	tieteenhaara	#akademalaš fága	fágasuorgi	akademalaš oahppu	
+hælsene	akillessuotna		akillesjänne			heelsegat	akillessjeana	
 aktivitetsutfoldelse			aktiviteetin suorittaminen	buđaldeami čađahit		aktivitehtaovdanbuktin	aktivitehta čađaheapmi	
 aktivitetsmulighet			aktiviteettimahdollisuus			doaibmanvejolašvuohta	aktivitehtamodus	
 aktivitetsplan			aktiviteettisuunnitelma			doaibmaplána	aktivitehtaplána	
@@ -51,8 +51,8 @@ underlivvask			alapesu	suorgebassan		vuolledábiid bassan	vuolit gákti
 albumin			albumiini	álbumasan		skearru	albuma	
 bachelorstudent			alemman korkeakoulutason opiskelija bacheloropiskelija	vuolibu allaskuvladási studeanta 		bachelorstudeanta	vuolit allaskuvladási studeanta bacheloroahppu	
 bachelor			alempi korkeakoulututkinto	vuolit allaskuvladutkan		bachelor	vuolit allaskuvladutkkus	
-funksjonsnedsettelse			alentunut toimintakyky	*alentunut doaibmagálga		doaimmashehttejupmi	hedjonan doaibmanákca	
-funksjonssvikt			alentunut toimintakyky	*alentunut doaibmagálga		doaimmashehttejupmi	hedjonan doaibmanákca	
+funksjonsnedsettelse	hedjonan doiabmannávccat		alentunut toimintakyky	*alentunut doaibmagálga	hedjonit	doaimmashehttejupmi	hedjonan doaibmanákca	
+funksjonssvikt	hedjonan doaibmannávccat		alentunut toimintakyky	*alentunut doaibmagálga		doaimmashehttejupmi	hedjonan doaibmanákca	
 bunnpunkt	vuolimuš čuokkis		alin piste	*alin čuokkis		vuolit dássi	vuolimus čuokkis	
 undervekt	vuoledeaddu		alipaino	ali – vuole		vuollemearkkašupmi	vuollegis deaddu	
 underrapportering			aliraportointi			beare unnán raportačállin	vuolláibájuheapmi	
@@ -69,11 +69,11 @@ amøbe			ameba			amáibba	ameba
 amfetamin			amfetamiini			amfetamiidna	amfetamiidna	
 yrkesutøving	ámmáha hárjenit		ammatin harjoittaminen	ámmáha hárjehit		bargohárjehallan	ámmátlaš hárjehallan	
 yrkesidentitet	ámmátidentitehta		ammatti-identiteetti			fidnoidentitehta	ámmátidentitehta	
-yrkesfelt			ammattiala			fidnosuorgi	ámmát	
-fagartikkel			ammattialan artikkeli			fágalaš artihkal	lea fágalaš	
+yrkesfelt	ámmátsuorgi		ammattiala			fidnosuorgi	ámmát	
+fagartikkel	ámmátsuorggi artihkal		ammattialan artikkeli	fágalaš=ammatillinen		fágalaš artihkal	lea fágalaš	
 fagutøver			ammattialan harjoittaja			fágaduojár	ámmátlaš hárjeheaddji	
 profesjonsutøver			ammattialan harjoittaja			profešuvdnabargár	ámmátlaš hárjeheaddji	
-fagutvikling			ammattialan kehitys			fágalaš ovdáneapmi	fágalaš ovdáneapmi	
+fagutvikling	ámmátsuorggi ovdáneapmi		ammattialan kehitys			fágalaš ovdáneapmi	fágalaš ovdáneapmi	
 fagprosedyre			ammattialan menetelmä  ammattialan toimenpide			fágavuohki	ámmátmetodanfágalaš doaibmabidju	
 profesjonsfag	ámmátlohkamat		ammattiopinnot			profešuvdnafága	profešuvdnaoahppu	
 yrkesrolle	ámmátrolla		ammattirooli			virgerolla	ámmátrolla	
@@ -81,13 +81,13 @@ profesjonsgrad	ámmátdutkan		ammattitutkinto			profešuvdnaoahppu	profešuvdnas
 morgenmedisin	iđitdálkkas		aamulääke			iđitdálkkas	Iđitguovssu dálkkas	
 morgenrapport	iđitraporta		aamuraportti			iđđedieđáhus	iđđedieđáhus	
 anamnese			anamneesi	esitiedot		anamneseansa	ánsu	
-anestesisykepleier			anestesiasairaanhoitaja	#anestesia#buohccidikšu		anestesibuhccedivššár	anestesiijabuhcci	
+anestesisykepleier		anestesiijabuohccedivššár	anestesiasairaanhoitaja	#anestesia#buohccidikšu		anestesibuhccedivššár	anestesiijabuhcci	
 porsjonsstørrelse	attussturrodat		annoskoko			oassesturrodat	sturrodat	
 dosering			annostelu			dálkkodanriekkis	dálkkas	
-antibiotika			antibiootti	#antibiotika		antibiotihkka	antibiotihkka	
-antibiotikabruk			antibioottien käyttö	#antibiotika atnin		antibiotihkageavaheapmi	antibiotihkkageavaheapmi	
-antibiotikabehandling			antibioottihoito			antibiotihkadikšun	dikšun antibiotihkain	
-hovedpulsåre			aortta			váldo pulsa	aorta 	
+antibiotika	antibiohta		antibiootti	#antibiotika		antibiotihkka	antibiotihkka	
+antibiotikabruk	antibiohtagaevaheapmi		antibioottien käyttö	#antibiotika atnin		antibiotihkageavaheapmi	antibiotihkkageavaheapmi	
+antibiotikabehandling	antibiohtadikšu		antibioottihoito			antibiotihkadikšun	dikšun antibiotihkain	
+hovedpulsåre	váldováibmosuotna		aortta			váldo pulsa	aorta 	
 ganghjelpemiddel			apuväline kävelyyn	#veahkki#gaskoapmi vázzimii		vázzinbálggis	veahkkeneavvu vázzimii	
 hverdagsrehabilitering	árgaveajuiduhttin		arkikuntoutus	árgaveajuiduhttin		árgabeaiveajuiduhttin	árkabuvttadeapmi	
 hverdagskunnskap	árgadiehtu		arkitieto	árgadiehtu		árgabeaivváláš máhttu	arkiivadiehtu	
@@ -97,20 +97,20 @@ arrdanning			arpeutuminen			árrangealkka	árbenráidu
 evalueringskriterium	árvoštallankritera		arviointikriteeri	evaluerenkriteara		árvvoštallaneaktu	árvvoštallanvuođđu	
 evalueringsskjema	árvvoštallanskovvi		arviointilomake	evaluerenskovvi		árvvoštallanskovvi	árvvoštallanskovvi	
 vurderingsprosess	árvvoštallanproseassa		arviointiprosessi	evaluerenproseassa		árvvoštallanproseassa	árvvoštallanproseassa	
-verdikonflikt			arvokonflikti	arvoristiriita	árvokonflikta	árvokonflikta	árvokonflikta	
-verdimodell			arvomalli	árvomálle		árvomálle	árvomálle	
+verdikonflikt	árvoruossalasvuohta		arvokonflikti	arvoristiriita	árvokonflikta	árvokonflikta	árvokonflikta	
+verdimodell	árvomálle		arvomalli	árvomálle		árvomálle	árvomálle	
 stillingsendring			asennonvaihto	#stellelmas#molsuheapmi		rievdadeapmi	miellaguottuid molsun	
 stillingsforandring			asennonvaihto	#stellelmas#molsuheapmi		posišuvdnarievdadus	miellaguottuid molsun	
-leiring			asentohoito	stellelmasdikšu		leairas	miellaguoddoaddin	
+leiring	stellelmasdikšu		asentohoito	stellelmasdikšu		leairas	miellaguoddoaddin	
 acetylsalisylsyre			asetyylisalisyylihappo			acetylsalicylsyrra	acetylsalicylsyra	
 brukerstyring			asiakaslähtöisyys			geavaheaddjistivren	áššehasgullevašvuohta	
-forbrukerundersøkelse			asiakastutkimus potilastyytyväisyystutkimus	kunddardutkan #buohcci#duhtavašvuohtadutkan		geavaheddjiid iskkadeapmi	buohcci duhtavašvuođaiskkadeapmi	
-ekspertsammenslutning			asiantuntijasyhmä			áššedovdiid čoahkádus	áššedovdi joavku	
+forbrukerundersøkelse	buohcciduhtavašvuohtadutkanbuohcciduđavašvuohtadutkan		asiakastutkimus potilastyytyväisyystutkimus	kunddardutkan #buohcci#duhtavašvuohtadutkan		geavaheddjiid iskkadeapmi	buohcci duhtavašvuođaiskkadeapmi	
+ekspertsammenslutning	áššedovdijoavku		asiantuntijasyhmä			áššedovdiid čoahkádus	áššedovdi joavku	
 aspirasjon			aspiraatio	keuhkoihin vetäminen	aspirašuvdna	aspiránsa	aspiránta	
 aspirere			aspiroida	vetää henkeen pois		aspiránttat	aspiriidna	
-balje			astia	allas	lihtti	dušši	láigi	
-astmaanfall			astmakohtaus	#ástmá#dohppehallat		astmakanálat	astmakoarta	
-bofellesskap			asumisyhteisö	orrot orgána		ássansearvevuohta	ássangielda	
+balje	lihtti		astia	allas	lihtti	dušši	láigi	
+astmaanfall	ástmádohppehallan		astmakohtaus	#ástmá#dohppehallat		astmakanálat	astmakoarta	
+bofellesskap	ássansearvvuš		asumisyhteisö	orrot orgána		ássansearvevuohta	ássangielda	
 måltidsmønster			ateriontikäytäntö			boradanminsttar	borranvierru	
 atrofi			atrofia		#atrofia	atrofiija	atrofalaš	
 varmeutmattelse			auringonpistos hypertermia			liekkasvuođa jávkan	boađus beaivváš-hypertermiijas	
