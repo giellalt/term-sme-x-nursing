@@ -1,0 +1,18 @@
+
+# Utgangspunkt er fil frå yso, her: yso-se-fi-sv-en-20231012.csv
+
+# Starte lexc-fil
+echo LEXICON Root > yso-se-fi.lexc 
+
+# Lage innhald til lexc-fil 
+cat yso-se-fi-sv-en-20231012.csv |cut -f2,3|tr ' ' '_'|tr ';' ','|tr -d "[\!]"|tr ':' '.'|tr '\t' ':'|sed 's/$/ # ;/' >> yso-se-fi.lexc
+
+# Kompilere se-fi-analysator
+hfst-lexc yso-se-fi.lexc -o yso-se-fi.hfst
+
+# Kompilere fi-se-analysator
+hfst-invert yso-se-fi.hfst -o yso-fi-se.hfst
+
+# Fjerne genererte filer
+rm -f *.hfst *.lexc
+
