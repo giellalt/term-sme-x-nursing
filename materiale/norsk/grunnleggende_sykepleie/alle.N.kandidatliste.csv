@@ -19,20 +19,20 @@ tidsdimensjon			aikaulottuvuus	áigeolli		áigedimenšuvdna	áigedimenšuvdna
 metabolisme	ávnnasmolsašuvvan		aineenvaihdunta	metabolia	#ávnnasmolsašuvvan	metabolisma	ávnnaslotnolasvuohta	
 stoffomsetning	ávnnasmolsašuvvan		aineenvaihdunta	#ávnnasmolsašuvvan		ávnnasjohtu	ávnnaslotnolasvuohta	
 stoffskifteprosess	ávnnasmolsašuvvanproseassa		aineenvaihduntaprosessi	#ávnnasmolsašuvvanproseassa		ávnnasmolsašuddama proseassa	ávnnasmolsašuddanproseassa	
-stoffskiftesykdom	ávnnasmolsašuvvanbuohccu		aineenvaihduntasairaus	#ávnnasmolsašuvvanbuohcu		ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
-stoffskiftesykdom	ávnnasmolsašuvvanbuohccu		aineenvaihduntasairaus		#ávnnasmolsašuvvanbuohcu	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
+stoffskiftesykdom	ávnnasmolsašuvvanbuohcu		aineenvaihduntasairaus	#ávnnasmolsašuvvanbuohcu		ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
+stoffskiftesykdom	ávnnasmolsašuvvanbuohcu		aineenvaihduntasairaus		#ávnnasmolsašuvvanbuohcu	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
 sansning	áicat		aistiminen	tuntemus, aistia=áicat		vuohttimis	dovdamuš	
 sansehage			aistipuutarha	dovddagárdin		áiccangárdi	áiccangárdi	
 hjernebølge	vuoiŋŋašbárru		aivoaalto	vuoiŋŋašbárru		vuoiŋŋašbávččas	vuoiŋŋašváldin	
-hjerneaktivitet	vuioŋŋašaktivitehta		aivoaktiviteetti	vuoiŋŋašbuđaldeapmi		vuoiŋŋamaččaid aktivitehta	vuoiŋŋašaktivitehta	
+hjerneaktivitet	vuoiŋŋašaktivitehta		aivoaktiviteetti	vuoiŋŋašbuđaldeapmi		vuoiŋŋamaččaid aktivitehta	vuoiŋŋašaktivitehta	
 slagpasient	vuoiŋŋašgáldnanbuohcci		aivohalvauspotilas	#vuoigŋašat#ravkin#buohcci		čuolmmastuhttin	vuoiŋŋašdohppe	
 hjernesvulst	vuoiŋŋaššattalmas		aivokasvain	vuoiŋŋašguorti, kasvain=šattalmas		vuoiŋŋašdávda	vuoiŋŋaššattalmas	
 hjernehalvdel	vuoiŋŋašbealli		aivopuolisko	vuoiŋŋašbealli		vuoiŋŋašspiehkastat	vuoiŋŋašbealli	
 hjernestamme	vuoiŋŋašriggi		aivorunko	vuoiŋŋašriggi		vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
-hjernestamme	vuoiǧǧašriggi		aivorunko		vuoiŋŋašriggi	vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
-hjernecelle	vuoiǧǧašsealla		aivosolu	vuoiŋŋašsealla		vuoiŋŋašsealla	vuoiŋŋasella	
+hjernestamme	vuoiŋŋašriggi		aivorunko		vuoiŋŋašriggi	vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
+hjernecelle	vuoiŋŋašsealla		aivosolu	vuoiŋŋašsealla		vuoiŋŋašsealla	vuoiŋŋasella	
 hjernefunksjon	vuoiŋŋašdoaibma		aivotoiminta	vuoiŋŋašdoaibma		vuoiŋŋamaččaid doaibma	vuoiŋŋašdoaibma	
-apopleksi	vuoŋŋašvarrajohtinhehttehus		aivoverenkiertohäiriö	Hehttehus – heađuštus		apopleksiija	vuoiŋŋaš- ja varrasuotnavihki	
+apopleksi	vuoiŋŋašvarrajohtinhehttehus		aivoverenkiertohäiriö	Hehttehus – heađuštus		apopleksiija	vuoiŋŋaš- ja varrasuotnavihki	
 slagrehabilitering	vuoiŋŋašvarrajohtinhehttehusa veajuiduhttin		aivoverenkiertohäiriön kuntoutus AVH-kuntoutus	*aivoverenkiertohäiriön veajuiduhttin 		streaŋgaveajuiduhttin	vuoiŋŋaš- ja varrasuotnavigiid veajuiduhttin AVH-kontuvra	
 tidsopplevelse	áiggi vásáhus		ajan kokemus	áiggi vásihus		vásáhus áiggis	vásáhus áiggis	
 tidsbruk	áigegeavahus		ajankäyttö	áiggeatnin		áigegeavaheapmi	áigegeavaheapmi	
@@ -51,10 +51,10 @@ underlivvask			alapesu	suorgebassan		vuolledábiid bassan	vuolit gákti
 albumin			albumiini	álbumasan		skearru	albuma	
 bachelorstudent			alemman korkeakoulutason opiskelija bacheloropiskelija	vuolibu allaskuvladási studeanta 		bachelorstudeanta	vuolit allaskuvladási studeanta bacheloroahppu	
 bachelor			alempi korkeakoulututkinto	vuolit allaskuvladutkan		bachelor	vuolit allaskuvladutkkus	
-funksjonsnedsettelse	hedjonan doiabmannávccat		alentunut toimintakyky	*alentunut doaibmagálga	hedjonit	doaimmashehttejupmi	hedjonan doaibmanákca	
+funksjonsnedsettelse	hedjonan doaibmannávccat		alentunut toimintakyky	*alentunut doaibmagálga	hedjonit	doaimmashehttejupmi	hedjonan doaibmanákca	
 funksjonssvikt	hedjonan doaibmannávccat		alentunut toimintakyky	*alentunut doaibmagálga		doaimmashehttejupmi	hedjonan doaibmanákca	
 bunnpunkt	vuolimuš čuokkis		alin piste	*alin čuokkis		vuolit dássi	vuolimus čuokkis	
-undervekt	vuoledeaddu		alipaino	ali – vuole		vuollemearkkašupmi	vuollegis deaddu	
+undervekt	vuolledeaddu		alipaino	ali – vuole		vuollemearkkašupmi	vuollegis deaddu	
 underrapportering			aliraportointi			beare unnán raportačállin	vuolláibájuheapmi	
 alkoholskade			alkoholin aiheuttama vamma	alkohola *aiheuttama veaidni		alkoholavahát	vahát mii lea šaddan alkoholageavaheami dihte	
 allergiforbund			allergialiitto	allergiijalihttu		allergiijasearvi	allergiijadielkkut	
@@ -67,7 +67,7 @@ basis			alusta	álggus/vuoláš – onko kyseessä alusta alkaen vai asia jonka 
 ambivalens			ambivalenssi 	kaksijakoisuus		ambivalens	ambivalenssa 	
 amøbe			ameba			amáibba	ameba	
 amfetamin			amfetamiini			amfetamiidna	amfetamiidna	
-yrkesutøving	ámmáha hárjenit		ammatin harjoittaminen	ámmáha hárjehit		bargohárjehallan	ámmátlaš hárjehallan	
+yrkesutøving	ámmáthárjáneapmi		ammatin harjoittaminen	ámmáha hárjehit		bargohárjehallan	ámmátlaš hárjehallan	
 yrkesidentitet	ámmátidentitehta		ammatti-identiteetti			fidnoidentitehta	ámmátidentitehta	
 yrkesfelt	ámmátsuorgi		ammattiala			fidnosuorgi	ámmát	
 fagartikkel	ámmátsuorggi artihkal		ammattialan artikkeli	fágalaš=ammatillinen		fágalaš artihkal	lea fágalaš	
@@ -85,7 +85,7 @@ anestesisykepleier		anestesiijabuohccedivššár	anestesiasairaanhoitaja	#aneste
 porsjonsstørrelse	attussturrodat		annoskoko			oassesturrodat	sturrodat	
 dosering			annostelu			dálkkodanriekkis	dálkkas	
 antibiotika	antibiohta		antibiootti	#antibiotika		antibiotihkka	antibiotihkka	
-antibiotikabruk	antibiohtagaevaheapmi		antibioottien käyttö	#antibiotika atnin		antibiotihkageavaheapmi	antibiotihkkageavaheapmi	
+antibiotikabruk	antibiohtageavaheapmi		antibioottien käyttö	#antibiotika atnin		antibiotihkageavaheapmi	antibiotihkkageavaheapmi	
 antibiotikabehandling	antibiohtadikšu		antibioottihoito			antibiotihkadikšun	dikšun antibiotihkain	
 hovedpulsåre	váldováibmosuotna		aortta			váldo pulsa	aorta 	
 ganghjelpemiddel			apuväline kävelyyn	#veahkki#gaskoapmi vázzimii		vázzinbálggis	veahkkeneavvu vázzimii	
@@ -94,7 +94,7 @@ hverdagskunnskap	árgadiehtu		arkitieto	árgadiehtu		árgabeaivváláš máhttu	
 sårhet			arkuus			rašši	árbmu	
 barmhjertighet	árbmu		armo	árbmu		árbmugasvuohta	árbmu	
 arrdanning			arpeutuminen			árrangealkka	árbenráidu	
-evalueringskriterium	árvoštallankritera		arviointikriteeri	evaluerenkriteara		árvvoštallaneaktu	árvvoštallanvuođđu	
+evalueringskriterium	árvvoštallankritera		arviointikriteeri	evaluerenkriteara		árvvoštallaneaktu	árvvoštallanvuođđu	
 evalueringsskjema	árvvoštallanskovvi		arviointilomake	evaluerenskovvi		árvvoštallanskovvi	árvvoštallanskovvi	
 vurderingsprosess	árvvoštallanproseassa		arviointiprosessi	evaluerenproseassa		árvvoštallanproseassa	árvvoštallanproseassa	
 verdikonflikt	árvoruossalasvuohta		arvokonflikti	arvoristiriita	árvokonflikta	árvokonflikta	árvokonflikta	
@@ -104,7 +104,7 @@ stillingsforandring			asennonvaihto	#stellelmas#molsuheapmi		posišuvdnarievdadu
 leiring	stellelmasdikšu		asentohoito	stellelmasdikšu		leairas	miellaguoddoaddin	
 acetylsalisylsyre			asetyylisalisyylihappo			acetylsalicylsyrra	acetylsalicylsyra	
 brukerstyring			asiakaslähtöisyys			geavaheaddjistivren	áššehasgullevašvuohta	
-forbrukerundersøkelse	buohcciduhtavašvuohtadutkanbuohcciduđavašvuohtadutkan		asiakastutkimus potilastyytyväisyystutkimus	kunddardutkan #buohcci#duhtavašvuohtadutkan		geavaheddjiid iskkadeapmi	buohcci duhtavašvuođaiskkadeapmi	
+forbrukerundersøkelse	buohcciduhtavašvuohtadutkan	buohcciduđavašvuohtadutkan	asiakastutkimus potilastyytyväisyystutkimus	kunddardutkan #buohcci#duhtavašvuohtadutkan		geavaheddjiid iskkadeapmi	buohcci duhtavašvuođaiskkadeapmi	
 ekspertsammenslutning	áššedovdijoavku		asiantuntijasyhmä			áššedovdiid čoahkádus	áššedovdi joavku	
 aspirasjon			aspiraatio	keuhkoihin vetäminen	aspirašuvdna	aspiránsa	aspiránta	
 aspirere			aspiroida	vetää henkeen pois		aspiránttat	aspiriidna	
@@ -153,7 +153,7 @@ e-helse	e-dearvvašvuođabálvalusat		e-terveyspalvelut			e-dearvvašvuohta	e-de
 talsperson	ságasteaddji		edustaja  puolesta puhuja	áirras  bealis #hubmi		ságasteaddji	ovddasteaddji bealálaččas	
 antikonsepsjonsmiddel			ehkäisyaine	prevenšuvdnaávnnas		vuostálasvuohtanávnnas	eastadanávnnas	
 legemiddelsløyfe			ei ole Suomessa	ii leat Suomis		dát	leat Suomas	
-EKG-monitor	EKG-monitovra		EKG-monitori			EKG-goziheaddji	EKG-monitor	
+EKG-monitor	EKG-monituvra		EKG-monitori			EKG-goziheaddji	EKG-monitor	
 EKG-undersøkelse	EKG-dutkamuš		EKG-tutkimus			EKG-iskkus	EKG-iskkus	
 e-konsultasjon	E-konsultašuvdna		eKonsultaatio	etävastaanotto		e-konsultašuvdna	eKonsultašuvdna	
 vekstmedium			elatusaine			ovdánanmedium	ealáhusášši	
@@ -180,8 +180,8 @@ livsvilje	eallinhállu		elämänhalu	#eallihállu		eallin dáhttu	eallinbargu
 livsytring			elämänilmentymä	#ealli#albmanus		eallinbirgejeaddji	eallinalmmuhus	
 livsglede	eallinillu		elämänilo	#ealliillu		eallinmokta	eallinmokta	
 livserfaring	eallinvásáhus		elämänkokemus	#eallivásihus		eallinvásáhus	eallimavásáhus	
-livkvalitetsbegrep	eallindásu doaba	eallinkvaliteahta doaba	elämänlaadun käsite	#eallidásu doaba		eallinkvaliteahta doaba	eallinkvalitehta doaba	
-livskvalitetsproblem	eallindásučuolbma		elämänlaatuongelma	#ealli#dássuproblema		eallinkvalitehtačuolbma	eallinkvalitehtačuolbma	
+livkvalitetsbegrep	eallindássodoaba	eallinkvaliteahta doaba	elämänlaadun käsite	#eallidásu doaba		eallinkvaliteahta doaba	eallinkvalitehta doaba	
+livskvalitetsproblem	eallindássočuolbma		elämänlaatuongelma	#ealli#dássuproblema		eallinkvalitehtačuolbma	eallinkvalitehtačuolbma	
 livslang			elämänpituinen	eallinguhkkosaš		eallingeardi	olles eallinagi bistán	
 livsstilsfaktor			elämäntapaan vaikuttava tekijä 	eallinvuohkái #čuohcit #dahkki 		eallinvuohkefáktor	eallinvuohkái	
 livsstilsendring	eallinvuohkeiežáhus		elämäntapamuutos	eallinvuohkeiežáhus		eallinvuogi rievdan	eallinvuohkeheapmi	
@@ -189,7 +189,7 @@ livsstilopplysning			elämäntapavalistus vai elintapaohjaus	eallinvuohkečuvgeh
 livshistorie		eallingeardi	elämäntarina vai elämänkerta	#eallimáinnas		mu eallinmuitalus	muitalus eallimis	
 emboli	varrabunci		embolia	veritulppa		embryo	embolia	
 emisjon			emissio	säteily		emisuvdna	emis	
-empatievne	empátalaš		empatiakyky	empatiijagálga		empáhtalaš	empatiija	
+empatievne	empátiijanákca		empatiakyky	empatiijagálga		empáhtalaš	empatiija	
 skjedekrampe	cinnákrámpa		emätinkouristus			skáhppesdávda	konfirmašuvdna	
 skjedeåpning	cinnáráigi		emättimen aukko	viiggá ráigi		skohterláhppu	cinni ráigi	
 skjedekatarr			emättimen bakteeritasapainon häiriö bakteerivaginoosi	viiggá 		skideekatarr	bakteriavaginnosa siskkáldas struktuvrralaš váikkuhus	
@@ -245,10 +245,10 @@ glutenintoleranse	glutenaintoleránsa		gluteeni-intoleranssi	#glutenaintoleráns
 glykogen	glykogena		glykogeeni	glykogena		glykogenalaš	gáhppálat	
 glykogenlager	glykogenarádju		glykogeenivarasto	glykogenarádju		glykogeanavuorká	glykogeanavuorká	
 glyserol			glyseroli			gliserola	gliserola	
-sårsekresjon	hávvivuoža		haavaerite	#hávvi#čuolddašupmi		hávvesekšuvdna	hávvaovdaáiti	
-sårveiledning	hávvedivššun bagadallan		haavahoidon ohjaus	hávvedivššu bagadallan		hávváduvvon veahkki	háviid dikšuma stivren	
-sårvurdering	hávi árvvoštallan		haavan arviointi	subi evalueren		rašes árvvoštallan	hávvaárvvoštallan	
-sårdannelse	hávi ovddideapmi		haavan kehittyminen	subi ovddideapmi		hávvi hávvi	hávvá ovdáneapmi	
+sårsekresjon	hávvevuoža		haavaerite	#hávvi#čuolddašupmi		hávvesekšuvdna	hávvaovdaáiti	
+sårveiledning	hávvedikšobagadallan		haavahoidon ohjaus	hávvedivššu bagadallan		hávváduvvon veahkki	háviid dikšuma stivren	
+sårvurdering	hávveárvvoštallan		haavan arviointi	subi evalueren		rašes árvvoštallan	hávvaárvvoštallan	
+sårdannelse	hávveovddideapmi		haavan kehittyminen	subi ovddideapmi		hávvi hávvi	hávvá ovdáneapmi	
 sårheling			haavan paraneminen	subi 		hávdingárgedeapmi	hávvebargan	
 sårbunn			haavan pohja	subi bodni		hávvádus	hávddi vuođđu	
 sårkant			haavan reuna	subi ravda		hávvi	hávgga ravda	
