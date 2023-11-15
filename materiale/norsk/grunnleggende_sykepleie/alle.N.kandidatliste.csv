@@ -158,12 +158,12 @@ EKG-undersøkelse	EKG-dutkamuš		EKG-tutkimus			EKG-iskkus	EKG-iskkus
 e-konsultasjon	E-konsultašuvdna		eKonsultaatio	etävastaanotto		e-konsultašuvdna	eKonsultašuvdna	
 vekstmedium			elatusaine			ovdánanmedium	ealáhusášši	
 EPJ-system	elektrovnnalaš buohccimuitalus		elektroninen potilaskertomus  sähköinen potilaskertomus	elektrovnnalaš #buohccimuitalus 		EPJ-vuogádat	elektrovnnalaš journála mii lea elektrovnnalaš journála	
-somatikk			elimelliset toiminnot	*elimelliset doaimmat		somatihkka	organismmalaš doaibma	
+somatikk	somatihkka		elintoiminnot	*elimelliset doaimmat		somatihkka	organismmalaš doaibma	
 levekårsproblem			elinehto-ongelma  elinolosuhdeongelma	orgánaeaktoproblema  		birgenlági váttisvuohta	birgenlági váttisvuohta	
 organsystem			elinjärjestelmä	orgánavuogádat		orgánavuogádat	organiserejuvvon	
 livsbetingelse			elinolosuhteet	orgánaeksisteansagorit		eallineaktu	eallineaktu	
-livsmønster	eallindáhpi		elintapa	orgánadáhpi		eallinvuohki	eallinvuohki	
-livsvane	eallinvuohki		elintapa vai elämäntapa	orgánadáhpi		eallinláhki	eallinvuohki	
+livsmønster	eallinvuohki		elämäntapa	orgánadáhpi		eallinvuohki	eallinvuohki	
+livsvane	eallindáhpi		elintapa	orgánadáhpi		eallinláhki	eallinvuohki	
 næringsmiddelhygiene	borramušgálvobuhtisvuohta		elintarvikehygienia	borramušgálvobuhtisindoallan		borramušgálvvuid buhtisvuohta	borramušgálvvuid buhtisvuohta	
 organfunksjon	orgánadoaibma		elintoiminto	orgánadoaibma		orgánaid doaibma	ealáhusdoaibma	
 organskade	orgánavaháguvvan		elinvaurio	#orgána#vaháguvvan		siskkáldas struktuvravahát	vuoiŋŋalaš vahát	
@@ -171,13 +171,12 @@ livskraft	eallinfámolaš		elinvoima	eallinvuoibmi		eallinfámolaš	eallinfámol
 leveår	eallinahki		elinvuosi	orgánajahki=elinikä		eallinahki	eallinjahki	
 livsverden	eallinmáilmmi		elämismaailma	eallit máilbmi		eallinmáilmmi	eallinmáilmmi	
 livsutfordring	eallinhástalus		elämän haaste	eallit hástalus		eallinhástalus	eallima hástalus	
-livsytring			elämän ilmentymä	eallit #albmanus		eallinbirgejeaddji	eallima albmoneapmi	
+livsytring	eallindadjamuš		elämän ilmentymä	eallit #albmanus		eallinbirgejeaddji	eallima albmoneapmi	
 livsmulighet			elämän mahdollisuus	eallit liiba		eallinvejolašvuohta	eallima vejolašvuohta	
 livshendelse			elämän tapahtuma	eallit dáhpáhus		eallindáhpáhus	eallima dáhpáhus	
 livsfilosofi			elämänfilosofia	eallinfilosofiija		eallinfilosofiija	eallinfilosofiija	
 livsmot	eallinhállu		elämänhalu	#eallihállu		ealaskas	eallinbargu	
 livsvilje	eallinhállu		elämänhalu	#eallihállu		eallin dáhttu	eallinbargu	
-livsytring			elämänilmentymä	#ealli#albmanus		eallinbirgejeaddji	eallinalmmuhus	
 livsglede	eallinillu		elämänilo	#ealliillu		eallinmokta	eallinmokta	
 livserfaring	eallinvásáhus		elämänkokemus	#eallivásihus		eallinvásáhus	eallimavásáhus	
 livkvalitetsbegrep	eallindássodoaba	eallinkvaliteahta doaba	elämänlaadun käsite	#eallidásu doaba		eallinkvaliteahta doaba	eallinkvalitehta doaba	
