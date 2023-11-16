@@ -26,7 +26,7 @@ sansehage			aistipuutarha	dovddagárdin		áiccangárdi	áiccangárdi
 hjernebølge	vuoiŋŋašbárru		aivoaalto	vuoiŋŋašbárru		vuoiŋŋašbávččas	vuoiŋŋašváldin
 hjerneaktivitet	vuoiŋŋašaktivitehta		aivoaktiviteetti	vuoiŋŋašbuđaldeapmi		vuoiŋŋamaččaid aktivitehta	vuoiŋŋašaktivitehta
 slagpasient	vuoiŋŋašgáldnanbuohcci		aivohalvauspotilas	#vuoigŋašat#ravkin#buohcci		čuolmmastuhttin	vuoiŋŋašdohppe
-hjernesvulst	vuoiŋŋaššattalmas		aivokasvain	vuoiŋŋašguorti, kasvain=šattalmas		vuoiŋŋašdávda	vuoiŋŋaššattalmas
+hjernesvulst	vuoiŋŋaššattalmas		aivokasvain	vuoiŋŋašguorti, kasvain - šattalmas		vuoiŋŋašdávda	vuoiŋŋaššattalmas
 hjernehalvdel	vuoiŋŋašbealli		aivopuolisko	vuoiŋŋašbealli		vuoiŋŋašspiehkastat	vuoiŋŋašbealli
 hjernestamme	vuoiŋŋašriggi		aivorunko	vuoiŋŋašriggi		vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš
 hjernestamme	vuoiŋŋašriggi		aivorunko		vuoiŋŋašriggi	vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš
@@ -70,7 +70,7 @@ amfetamin			amfetamiini			amfetamiidna	amfetamiidna
 yrkesutøving	ámmáthárjáneapmi		ammatin harjoittaminen	ámmáha hárjehit		bargohárjehallan	ámmátlaš hárjehallan
 yrkesidentitet	ámmátidentitehta		ammatti-identiteetti			fidnoidentitehta	ámmátidentitehta
 yrkesfelt	ámmátsuorgi		ammattiala			fidnosuorgi	ámmát
-fagartikkel	ámmátsuorggi artihkal		ammattialan artikkeli	fágalaš=ammatillinen		fágalaš artihkal	lea fágalaš
+fagartikkel	ámmátsuorggi artihkal		ammattialan artikkeli	fágalaš - ammatillinen		fágalaš artihkal	lea fágalaš
 fagutøver			ammattialan harjoittaja			fágaduojár	ámmátlaš hárjeheaddji
 profesjonsutøver			ammattialan harjoittaja			profešuvdnabargár	ámmátlaš hárjeheaddji
 fagutvikling	ámmátsuorggi ovdáneapmi		ammattialan kehitys			fágalaš ovdáneapmi	fágalaš ovdáneapmi
@@ -134,7 +134,7 @@ bakteriepanel			bakteeripaneeli			bakteriijapanealla	baktearabaddan
 bakterietype	bakteratiipa		bakteerityyppi			bakteriijašládja	baktearat tiipa
 baktericid			bakterisidi	bakteereja tappava aine		bakterisiida	bakterisiida
 biokjemi			biokemia			biokemia	biokemia
-biomedisin	biomedisiidna		biolääketiede	dieđa,-ht-:g=tiede		biomedisiidna	biomedisiidna
+biomedisin	biomedisiidna		biolääketiede	dieđa,-ht-:g - tiede		biomedisiidna	biomedisiidna
 demensomsorg	demeansadikšu		dementiahoito	#dementiadikšu		demeansadivššu	demeansadálkkodeapmi
 demenssykdom	demeansabuohcu	muitubuohcu	dementiasairaus	#dementiabuohcu		demeansadávda	demeansadávda
 desibel			desibeli			desibála	desibel
@@ -148,7 +148,7 @@ diakonisse	diakoniijabargi		diakonissa			diakoniijaplána
 dialysebehandling	dialysadikšu		dialyysihoito	#dialysadikšu		dialysadikála	dialysadikála
 diffusjon			diffuusio	diffušuvdna		diffušuvdna	diffušuvdna
 dl	dl	desilihtter	dl	desilitra		duođalaš	dl
-p-pille	E-tableahtta		e-pilleri	ehkäisy=eastadeapmi,estää eastadit		p-pillar	p-pillar
+p-pille	E-tableahtta		e-pilleri	ehkäisy - eastadeapmi,estää eastadit		p-pillar	p-pillar
 e-helse	e-dearvvašvuođabálvalusat		e-terveyspalvelut			e-dearvvašvuohta	e-dearvvašvuođabálvalusat
 talsperson	ságasteaddji		edustaja  puolesta puhuja	áirras  bealis #hubmi		ságasteaddji	ovddasteaddji bealálaččas
 antikonsepsjonsmiddel			ehkäisyaine	prevenšuvdnaávnnas		vuostálasvuohtanávnnas	eastadanávnnas
@@ -168,7 +168,7 @@ næringsmiddelhygiene	borramušgálvobuhtisvuohta		elintarvikehygienia	borramuš
 organfunksjon	orgánadoaibma		elintoiminto	orgánadoaibma		orgánaid doaibma	ealáhusdoaibma
 organskade	orgánavaháguvvan		elinvaurio	#orgána#vaháguvvan		siskkáldas struktuvravahát	vuoiŋŋalaš vahát
 livskraft	eallinfámolaš		elinvoima	eallinvuoibmi		eallinfámolaš	eallinfámolaš
-leveår	eallinahki		elinvuosi	orgánajahki=elinikä		eallinahki	eallinjahki
+leveår	eallinahki		elinvuosi	orgánajahki - elinikä		eallinahki	eallinjahki
 livsverden	eallinmáilmmi		elämismaailma	eallit máilbmi		eallinmáilmmi	eallinmáilmmi
 livsutfordring	eallinhástalus		elämän haaste	eallit hástalus		eallinhástalus	eallima hástalus
 livsytring	eallindadjamuš		elämän ilmentymä	eallit #albmanus		eallinbirgejeaddji	eallima albmoneapmi
@@ -239,7 +239,7 @@ fistel			fisteli			meavrresgárri	fásta
 fluor			fluori			fluor	fluor
 kroppskontakt	fysalaš kontákta	rumašlaš kontákta	fyysinen kontakti	#fysalaš kontákta		rumašoktavuohta	fysalaš oktavuohta
 genetikk	genetihkka		genetiikka	perinnöllisyystiede		genehtalaš ášši	genetihkka
-glukoseintoleranse	glukosaintoleránsa		glukoosi-intoleranssi	Glukosa #yliherkkyys=liikehearkivuohta		glykosa-geaseheapmi	glukosa-geahnohisvuohta
+glukoseintoleranse	glukosaintoleránsa		glukoosi-intoleranssi	Glukosa #yliherkkyys - liikehearkivuohta		glykosa-geaseheapmi	glukosa-geahnohisvuohta
 glutenintoleranse	glutenaintoleránsa		gluteeni-intoleranssi	#glutenaintoleránsa, liikehearkivuohta		gluteenageavaheapmi	gluteenageavaheapmi
 glykogen	glykogena		glykogeeni	glykogena		glykogenalaš	gáhppálat
 glykogenlager	glykogenarádju		glykogeenivarasto	glykogenarádju		glykogeanavuorká	glykogeanavuorká
