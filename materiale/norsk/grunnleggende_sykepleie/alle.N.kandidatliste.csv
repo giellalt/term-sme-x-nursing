@@ -234,7 +234,7 @@ EU-direktiv	EU-direktiiva		EU-direktiivi			EU:a direktiiva	EU-direktiiva
 evidens	duođaštus		evidenssi	näyttö		duođalaš	vuolláneapmi
 farmasi	farmasiija		farmasia			apotehka	apotehka
 fibromyalgi	fibromyalgiija		fibromyalgia			fibromyalgiija	fibromyalgia (fibromyalgia)
-fissur	uddu		fissuura  halkeama  haavauma	*fissuura  *halkeama  uddu		fiissu	fissu mii lea cuovkanan hávvái
+fissur	uddu	fissuvra	fissuura  halkeama  haavauma	*fissuura  *halkeama  uddu		fiissu	fissu mii lea cuovkanan hávvái
 fistel			fisteli			meavrresgárri	fásta
 fluor			fluori			fluor	fluor
 kroppskontakt	fysalaš kontákta	rumašlaš kontákta	fyysinen kontakti	#fysalaš kontákta		rumašoktavuohta	fysalaš oktavuohta
@@ -248,33 +248,33 @@ sårsekresjon	hávvevuoža		haavaerite	#hávvi#čuolddašupmi		hávvesekšuvdna	
 sårveiledning	hávvedikšobagadallan		haavahoidon ohjaus	hávvedivššu bagadallan		hávváduvvon veahkki	háviid dikšuma stivren
 sårvurdering	hávveárvvoštallan		haavan arviointi	subi evalueren		rašes árvvoštallan	hávvaárvvoštallan
 sårdannelse	hávveovddideapmi		haavan kehittyminen	subi ovddideapmi		hávvi hávvi	hávvá ovdáneapmi
-sårheling			haavan paraneminen	subi 		hávdingárgedeapmi	hávvebargan
-sårbunn			haavan pohja	subi bodni		hávvádus	hávddi vuođđu
-sårkant			haavan reuna	subi ravda		hávvi	hávgga ravda
-sårfase			haavan vaihe	subi muddu		hávvaáigodat	hávvádatdássi
-sårveiledning			haavanhoidon ohjaus	subedivššu bagadallan		hávváduvvon veahkki	hávvádikšuma stivren
-sårbehandling			haavanhoito	subedikšu		hávvardikšu	hávvádikšu
+sårheling	savvot		haavan paraneminen	subi 		hávdingárgedeapmi	hávvebargan
+sårbunn	hávi vuođđo		haavan pohja	subi bodni		hávvádus	hávddi vuođđu
+sårkant	hávi ravda		haavan reuna	subi ravda		hávvi	hávgga ravda
+sårfase	hávi muddu		haavan vaihe	subi muddu		hávvaáigodat	hávvádatdássi
+sårveiledning	hávvedivššun oaivadus		haavanhoidon ohjaus	subedivššu bagadallan		hávváduvvon veahkki	hávvádikšuma stivren
+sårbehandling	hávvedikšu		haavanhoito	subedikšu		hávvardikšu	hávvádikšu
 sårskift			haavanhoito	subedikšu		hávvaolbmolsašupmi	hávvádikšu
 sårskifte			haavanhoito	subedikšu		hávváduhttin	hávvádikšu
 sårstell			haavanhoito	subedikšu		hávvádus	hávvádikšu
-sårpoliklinikk			haavapoliklinikka	hávvepoliklinihkka		soardinpoliklinihkka	roavvenpoliklinihkka
-sårinfeksjon			haavatulehdus	haavainfektio	hávvevuolši	hávvi infekšuvdna	hávvačoavji
-sårtype			haavatyyppi	hávvetiipa		hávvašládja	hávvačoavji
-fordampning			haihdunta			vuoigŋan	vuoigŋan
+sårpoliklinikk	hávvepoliklinihkka		haavapoliklinikka	hávvepoliklinihkka		soardinpoliklinihkka	roavvenpoliklinihkka
+sårinfeksjon	hávvevuolši		haavatulehdus	haavainfektio	hávvevuolši	hávvi infekšuvdna	hávvačoavji
+sårtype	hávvetiipa		haavatyyppi	hávvetiipa		hávvašládja	hávvačoavji
+fordampning	hevrriideapmi		haihdunta			vuoigŋan	vuoigŋan
 fordampningsvarme			haihtumislämpö			áibmonuoskkideapmi	vuoigŋanliekkas
-luktsenter			hajukeskus	#hádja#guovddaš		haksunguovddáš	hearkesguovddáš
-luktproblematikk			hajuongelmat	hádjaproblemat		haksinváttisvuohta	vuoigŋanášši
+luktsenter	hádjaguovddaš		hajukeskus	#hádja#guovddaš		haksunguovddáš	hearkesguovddáš
+luktproblematikk	hádjaproblemat	hádjaváttisvuođat	hajuongelmat	hádjaproblemat		haksinváttisvuohta	vuoigŋanášši
 sprekkdannelse			halkeaman muodostuminen	luoddanit 		ráigi	cuozza hápmi
-mestringskurs			hallintakurssi	#kontrolla#gursa		čiekŋudankursa	hálddašankursa
-mestringskompetanse			hallintataito	kontrolladáidu		máhtestuvvangealbu	hálddašeapmi
+mestringskurs	hálddašankursa		hallintakurssi	#kontrolla#gursa		čiekŋudankursa	hálddašankursa
+mestringskompetanse	hálddašandáidu		hallintataito	kontrolladáidu		máhtestuvvangealbu	hálddašeapmi
 hallusinogen			hallusinogeeni			hallusinogenalaš	hallusinogenalaš
-tannbein			hammasluu	bátnedákti		bátneluohkká	bániidlistu
-tannprotese			hammasproteesi	bátneprotesa		bátnegeavahanproseassa	bátnedoavttir
-tannhals			hampaan kaula	báni čeabi		bátnedoallu	báni gákti
-tannstell			hampaiden hoito	bániid dikšu		bátnedoallu	min bátnedikšu
+tannbein	bátnedákti		hammasluu	bátnedákti		bátneluohkká	bániidlistu
+tannprotese	bátneprotesa	dahkubánit	hammasproteesi	bátneprotesa		bátnegeavahanproseassa	bátnedoavttir
+tannhals	báni čeabi		hampaan kaula	báni čeabi		bátnedoallu	báni gákti
+tannstell	bániid dikšu		hampaiden hoito	bániid dikšu		bátnedoallu	min bátnedikšu
 tannløsning			hampaiden irtoaminen	bániid luovvanit		čoavddus bániide	bániid čuoldin
-tannpuss			hampaiden puhdistus	bániid buhtástus		bátnedoallu	bániid čuggen
-tannstatus			hampaiden terveydentila	bániid healssadilli		bátnestáhtus	dearvvašvuođadilli báttiin
+tannpuss	bániid buhtástus		hampaiden puhdistus	bániid buhtástus		bátnedoallu	bániid čuggen
+tannstatus	bániid dearvvašvuođadilli		hampaiden terveydentila	bániid healssadilli		bátnestáhtus	dearvvašvuođadilli báttiin
 oksygentilførsel			hapen anto	oksygena addin		oksygenasealvadeapmi	ávdnasat
 oksygenforbruk			hapen käyttö	oksygena atnin		oksygenageavaheapmi	oksygenageavaheapmi
 oksygentransport			hapenkuljetus	oksygenafievrrideapmi		oksygenafievrrideapmi	oksygenfiltreren
