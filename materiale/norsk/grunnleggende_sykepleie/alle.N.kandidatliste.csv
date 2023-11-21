@@ -1384,111 +1384,111 @@ sykehuspasient			sairaalapotilas			buohcceviesu divššohas	buohcceviessu
 liggetid			sairaalassaoloaika			nohkkanáigi	buohcciviesus
 sykehusseng			sairaalasänky			buohcceviessosátni	buohcceviessu
 sykepleiesammenheng			sairaanhoidollinen asiayhteys	*sairaanhoidollinen ásiioktavuohta		buohccedikšunoktavuohta	buohccedikšunášši
-sykepleiekompetanse			sairaanhoidollinen kompetenssi	sairaanhoidollinen pätevyys	*sairaanhoidollinen gelbbolašvuohta	buohccidivššárgelbbolašvuohta	buohccedikšogelbbolašvuohta
-sykepleieprosedyre			sairaanhoidollinen menetelmä	*sairaanhoidollinen mannolat		buohccedikšun	buohccedikšunvuohki
+sykepleiekompetanse	buohccedikšogelbbolašvuohta		sairaanhoidollinen kompetenssi	sairaanhoidollinen pätevyys	*sairaanhoidollinen gelbbolašvuohta	buohccidivššárgelbbolašvuohta	buohccedikšogelbbolašvuohta
+sykepleieprosedyre	buohccedikšunvuohki		sairaanhoidollinen menetelmä	*sairaanhoidollinen mannolat		buohccedikšun	buohccedikšunvuohki
 sykepleieintervensjon			sairaanhoidollinen toimenpide	*sairaanhoidollinen doaibmabidju		buohccedikšunintervenšuvdna	buohccedikšun
-sykepleiehandling			sairaanhoidollinen toiminta	*sairaanhoidollinen doaibma		buohccedikšodoaibma	buohccedikšodoaibma
+sykepleiehandling	buohccedikšodoaibma		sairaanhoidollinen toiminta	*sairaanhoidollinen doaibma		buohccedikšodoaibma	buohccedikšodoaibma
 sykepleieområde			sairaanhoidon alue	 buohccedivššu guovlu		buohccedikšuguovlu	buohcciviesu guovlu
-sykepleieprofesjon			sairaanhoidon ammattiala	buohccedivššu 		buohccidivššárámmát	buohccedivššu ámmát
+sykepleieprofesjon	buohccidivššárámmát		sairaanhoidon ammattiala	buohccedivššu 		buohccidivššárámmát	buohccedivššu ámmát
 sykepleiediagnose			sairaanhoidon diagnoosi	buohccedivššu diagnosa		buohccedikšodiagnosa	buohccedávdaboahkudeapmi
 sykepleiefilosofi			sairaanhoidon filosofia	buohccedivššu filosofiija		buohccidivššárfilosofiija	buohccedikšu filosofiija
 sykepleiesystem			sairaanhoidon järjestelmä	buohccedivššu vuogádat		buohccedikšovuogádat	buohccedikšu vuogádat
 sykepleiekapasitet			sairaanhoidon kapasiteetti	buohccedivššu #kapasitehtta		buohccidivššárkapasitehta	buohccedikšunkapasitehta
 sykepleiekvalitet			sairaanhoidon laatu	buohccedivššu dássu		buohccedikšokvalitehta	buohccedikšu kvalitehta
-sykepleiemetode			sairaanhoidon menetelmä	buohccedivššu mannolat		buohccedikšunvuohki	buohccedikšunvuohki
+sykepleiemetode	buohccedikšunvuohki		sairaanhoidon menetelmä	buohccedivššu mannolat		buohccedikšunvuohki	buohccedikšunvuohki
 sykepleienotat			sairaanhoidon merkintä	buohccedivššu merken		buohccidivššárnoahppu	buohcuvuođa dovdomearka
 sykepleieperspektiv			sairaanhoidon näkökanta sairaanhoidollinen näkökulma	buohccedivššu oaidnojocca *sairaanhoidollinen #oaidninčiega		buohccidivššárperspektiiva	buohccedikšu geahččanguovllus buohccedikšunperspektiiva
-sykepleierstudent			sairaanhoidon opiskelija	buohccedivššu studeanta		buohccidivššárstudeanta	buohccedivššárstudeanta
-sykepleiestudent			sairaanhoidon opiskelija	buohccedivššu studeanta		buohccidivššárstudeanta	buohccedivššárstudeanta
-sykepleietjeneste			sairaanhoidon palvelut	buohccedivššu bálvalusat		buohccedikšunbálvalus	buohccedikšu bálvalusat
-sykepleieprinsipp			sairaanhoidon periaate	buohccedivššu prinsihppa		buohccedikšunprinsihppa	buohccedikšuma vuođđojurdda
-sykepleieutøving			sairaanhoidon suoritus	buohccedivššu čađaheapmi		buohccedikšun	buohccedikšu doaibma
-sykepleiefunksjon			sairaanhoidon tehtävä  sairaanhoidon tarkoitus	buohccedivššu doaibma  buohccedivššu ulbmil		buohccedikšodoaibma	buohccedikšu doaibma man buohccedikšu dárkkuha
-omsorgsoppgave			sairaanhoidon tehtävät hoivatehtävä	buohccedivššu doaimmat fuolahandoaibma		fuolahusbargu	buohccedivššu dikšunbargu
-sykepleiekunnskap			sairaanhoidon tietämys	buohccedivššu diehtu		buohccidivššármáhttu	buohccedikšu diehtu
-sykepleieforsker			sairaanhoidon tutkija	buohccedivššu #dutki		buohccidivššárdutki	buohccedikšun
-sykepleieforskning			sairaanhoidon tutkimus	buohccedivššu dutkan		buohccedikšodutkan	buohccedikšundutkan
+sykepleierstudent	buohccedivššárstudeanta		sairaanhoidon opiskelija	buohccedivššu studeanta		buohccidivššárstudeanta	buohccedivššárstudeanta
+sykepleiestudent	buohccedivššu studeanta		sairaanhoidon opiskelija	buohccedivššu studeanta		buohccidivššárstudeanta	buohccedivššárstudeanta
+sykepleietjeneste	buohccedikšunbálvalus		sairaanhoidon palvelut	buohccedivššu bálvalusat		buohccedikšunbálvalus	buohccedikšu bálvalusat
+sykepleieprinsipp	buohccedikšuma vuođđojurdda		sairaanhoidon periaate	buohccedivššu prinsihppa		buohccedikšunprinsihppa	buohccedikšuma vuođđojurdda
+sykepleieutøving	buohccedikšun		sairaanhoidon suoritus	buohccedivššu čađaheapmi		buohccedikšun	buohccedikšu doaibma
+sykepleiefunksjon	buohccedikšodoaibma		sairaanhoidon tehtävä  sairaanhoidon tarkoitus	buohccedivššu doaibma  buohccedivššu ulbmil		buohccedikšodoaibma	buohccedikšu doaibma man buohccedikšu dárkkuha
+omsorgsoppgave	fuolahusbargu		sairaanhoidon tehtävät hoivatehtävä	buohccedivššu doaimmat fuolahandoaibma		fuolahusbargu	buohccedivššu dikšunbargu
+sykepleiekunnskap	buohccidivššármáhttu		sairaanhoidon tietämys	buohccedivššu diehtu		buohccidivššármáhttu	buohccedikšu diehtu
+sykepleieforsker	buohccedivššu dutki		sairaanhoidon tutkija	buohccedivššu #dutki		buohccidivššárdutki	buohccedikšun
+sykepleieforskning	buohccedivššu dutkan		sairaanhoidon tutkimus	buohccedivššu dutkan		buohccedikšodutkan	buohccedikšundutkan
 sykepleieepikrise			sairaanhoidon yhteenveto  sairaanhoidon tiivistelmä	buohccedivššu oktiigeassu  buohccedivššu 		buohccedikšodáhkádus	birr
-sykepleierhøgskole			sairaanhoitaja-ammattikorkeakoulu	AMK		buohccidivššárallaskuvla	buohccedivššárafágaskuvla
-sykepleierprofesjon			sairaanhoitajan ammatti	#buohccidikšu #ámmát		buohccidivššárámmát	buohccedivššára ámmát
-sykepleierrolle			sairaanhoitajan rooli	#buohccidikšu rolla		buohccidivššárrolla	buohccedivššára bargu
-sykepleieruniform			sairaanhoitajan univormu	#buohccidikšu 		buohccidivššáruniforbma	buohccedivššára biktasat
-sykepleierske			sairaanhoitajatar			buohccidivššár	buohccedikšu
-sykepleiehjelp			sairaanhoito	buohccedikšu		buohccidivššárveahkki	buohccedikšu
-sykepleiepraksis			sairaanhoitokäytäntö	buohccedikšogeavat		buohccidivššárvierru	buohccedikšunvuohki
-sykepleietjeneste			sairaanhoitopalvelut	buohccedikšobálvalusat		buohccedikšunbálvalus	buohccedikšunbálvalusat
-sykdomsprognose			sairauden ennuste  sairauden prognoosi	buozu einnostus  buozu 		buozalmasvuođaprognosa	buozalmasvuođa prognosa, buozalmasvuođa prognosa
-sykdomsbehandling			sairauden hoito	buozu dikšu		buozalmasvuođadikšu	buozalmasvuođa dikšun
-sykdomserfaring			sairauden kokemus	buozu vásihus		buozalmasvuođavásáhus	buozalmasvuođa vásáhus
-sykdomsforløp			sairauden kulku	buozu johtu		dávddajohtu	buozalmasvuođa jođu
-sykdomsutvikling			sairauden kulku	buozu johtu		buozalmasvuođa ovdáneapmi	buozalmasvuođa jođu
-sykdomsbegrep			sairauden määritelmä	buozu definišuvdna		buohcuvuođa doaba	buohcuvuođa meroštallan
-sykdomsårsak			sairauden syy  taudin syy	buozu árta  dávdda árta		buozalmasvuođa sivva	buohcuvuođa sivvan
-sykdomsfølelse			sairauden tunne	buozu dovdu		buozalmasvuođadovdu	buohcuvuođa dovdu
-sykdomsfase			sairauden vaihe	buozu muddu		buozalmasvuođa áigi	buozalmasvuođa áigi
-sykdomsforståelse			sairauden ymmärrys	buozu ádden		buohcuvuođaáddejupmi	buohcuvuođa áddejupmi
-sykdomssituasjon			sairaudentila	buozodilli		buozalmasvuođadilli	buohccivuođa dilli
-sykdomstilstand			sairaudentila	buozodilli		buozalmasvuođadilli	buohccivuođa dilli
-sykdomsepisode			sairausjakso	buohcooassi		dávddaeastadeapmi	buohcanáigi
-sykdomsopplevelse			sairauskokemus	buohcovásihus		buozalmasvuođa vásáhus	buohcuvuođa vásáhus
+sykepleierhøgskole	buohccedivššárallaskuvla		sairaanhoitaja-ammattikorkeakoulu	AMK		buohccidivššárallaskuvla	buohccedivššárafágaskuvla
+sykepleierprofesjon	buohccidivššárámmát		sairaanhoitajan ammatti	#buohccidikšu #ámmát		buohccidivššárámmát	buohccedivššára ámmát
+sykepleierrolle	buohccidivššárrolla		sairaanhoitajan rooli	#buohccidikšu rolla		buohccidivššárrolla	buohccedivššára bargu
+sykepleieruniform	buohccidivššáruniforbma		sairaanhoitajan univormu	#buohccidikšu 		buohccidivššáruniforbma	buohccedivššára biktasat
+sykepleierske	buohccidivššár		sairaanhoitajatar			buohccidivššár	buohccedikšu
+sykepleiehjelp	buohccidivššárveahkki		sairaanhoito	buohccedikšu		buohccidivššárveahkki	buohccedikšu
+sykepleiepraksis	buohccedikšunvuohki		sairaanhoitokäytäntö	buohccedikšogeavat		buohccidivššárvierru	buohccedikšunvuohki
+sykepleietjeneste	buohccedikšunbálvalus		sairaanhoitopalvelut	buohccedikšobálvalusat		buohccedikšunbálvalus	buohccedikšunbálvalusat
+sykdomsprognose	buozalmasvuođaprognosa		sairauden ennuste  sairauden prognoosi	buozu einnostus  buozu 		buozalmasvuođaprognosa	buozalmasvuođa prognosa, buozalmasvuođa prognosa
+sykdomsbehandling	buozalmasvuođa dikšun		sairauden hoito	buozu dikšu		buozalmasvuođadikšu	buozalmasvuođa dikšun
+sykdomserfaring	buozalmasvuođa vásáhus		sairauden kokemus	buozu vásihus		buozalmasvuođavásáhus	buozalmasvuođa vásáhus
+sykdomsforløp	dávddajohtu		sairauden kulku	buozu johtu		dávddajohtu	buozalmasvuođa jođu
+sykdomsutvikling	buozalmasvuođa ovdáneapmi		sairauden kulku	buozu johtu		buozalmasvuođa ovdáneapmi	buozalmasvuođa jođu
+sykdomsbegrep	buohcuvuođa doaba		sairauden määritelmä	buozu definišuvdna		buohcuvuođa doaba	buohcuvuođa meroštallan
+sykdomsårsak	buohcuvuođa sivvan		sairauden syy  taudin syy	buozu árta  dávdda árta		buozalmasvuođa sivva	buohcuvuođa sivvan
+sykdomsfølelse	buozalmasvuođadovdu		sairauden tunne	buozu dovdu		buozalmasvuođadovdu	buohcuvuođa dovdu
+sykdomsfase	buozalmasvuođa áigi		sairauden vaihe	buozu muddu		buozalmasvuođa áigi	buozalmasvuođa áigi
+sykdomsforståelse	buozalmasvuođa áddejupmi	buozalmasvuođa ipmárdus	sairauden ymmärrys	buozu ádden		buohcuvuođaáddejupmi	buohcuvuođa áddejupmi
+sykdomssituasjon	buozalmasvuođadilli		sairaudentila	buozodilli		buozalmasvuođadilli	buohccivuođa dilli
+sykdomstilstand	buozalmasvuođadilli		sairaudentila	buozodilli		buozalmasvuođadilli	buohccivuođa dilli
+sykdomsepisode	buohcanáigi		sairausjakso	buohcooassi		dávddaeastadeapmi	buohcanáigi
+sykdomsopplevelse	buozalmasvuođa vásáhus		sairauskokemus	buohcovásihus		buozalmasvuođa vásáhus	buohcuvuođa vásáhus
 sykdomsoppfatning			sairauskäsitys	buohcoipmárdus		buohcuvuođaoaidnu	buohcuvuođaáddejupmi
-sykdomssyn			sairauskäsitys	buohcoipmárdus		buozalmasvuođaoaidnu	buohcuvuođaáddejupmi
-sykdomsproblem			sairausongelma	buohcoproblema		buozalmasvuođa váttisvuohta	buohcuvuođa váddu
-sykdomspanorama			sairauspanoraama	#buohcu#panoraama		buozalmasvuođa panorámma	buozalmasvuođa panoraama
-sykdomsperspektiv			sairausperspektiivi	buohcoperspektiiva		buohcuvuođaperspektiiva	buohcanvuođa geahččanguovlu
+sykdomssyn	buozalmasvuođaoaidnu		sairauskäsitys	buohcoipmárdus		buozalmasvuođaoaidnu	buohcuvuođaáddejupmi
+sykdomsproblem	buozalmasvuođa váttisvuohta		sairausongelma	buohcoproblema		buozalmasvuođa váttisvuohta	buohcuvuođa váddu
+sykdomspanorama	buozalmasvuođa govva		sairauspanoraama	#buohcu#panoraama		buozalmasvuođa panorámma	buozalmasvuođa panoraama
+sykdomsperspektiv	buohcanvuođa geahččanguovlu		sairausperspektiivi	buohcoperspektiiva		buohcuvuođaperspektiiva	buohcanvuođa geahččanguovlu
 sykdomsprosess			sairausprosessi	sairauden kulku	buohcoproseassa	dávddaid proseassa	buohcanvuohki
-sykdomsbyrde			sairaustaakka  sairauskuorma	buohconoađđi buohcoguorbmi  		buozalmas noađđi	buozalmasvuođa lossa noađđi
-tykningsmiddel			sakeutusaine			dikšunávnnas	suodjalanávnnas
-sakkarin			sakkariini			sahkáriidna	sahkkara
+sykdomsbyrde	buozalmasvuođa  noađđi		sairaustaakka  sairauskuorma	buohconoađđi buohcoguorbmi  		buozalmas noađđi	buozalmasvuođa lossa noađđi
+tykningsmiddel	suohkudanávnnas		sakeutusaine			dikšunávnnas	suodjalanávnnas
+sakkarin	sakkáriidna		sakkariini			sahkáriidna	sahkkara
 sukrose			sakkaroosi	sokeri		sohkardávda	sahtedohko
-gallestein			sappikivi	sáhppegeađgi		gállogeađgi	sáhkkegeađgi
-gallesykdom			sappikivitauti	sáhppegeađgedávda		gollebuozalmasvuohta	sapmasiidnavihki
-gallegang			sappitiehyt			jallodat	sáhpacealkka
-gallefargestoff			sappiväriaine	sáhppeivdneávnnas		veaikeivdni	sáhpánávnnas
+gallestein	sáhppegeađgi		sappikivi	sáhppegeađgi		gállogeađgi	sáhkkegeađgi
+gallesykdom	sáhppegeađgedávda		sappikivitauti	sáhppegeađgedávda		gollebuozalmasvuohta	sapmasiidnavihki
+gallegang	sáhppečoalli		sappitiehyt			jallodat	sáhpacealkka
+gallefargestoff	sáhppeivdneávnnas		sappiväriaine	sáhppeivdneávnnas		veaikeivdni	sáhpánávnnas
 regnbuemodell			sateenkaarimalli	bajándávgemálle		áikalastinvuohki	arvevuovdinšillju
 serumjern			seerumin rauta	*seerumin ruovdi		searvvušveaiki	serumeantta ruovdi
-ståseng			seisomismahdollisuudella varustettu sänky	čuožžut liibbas *varustettu seaŋga		stuollu	lea dakkár mas lea vejolašvuohta čuožžut
-delirium			sekavuustila	seahki		delirium	seagasdoaibmanvuohki
+ståseng	ceakkoseaŋga		seisomismahdollisuudella varustettu sänky	čuožžut liibbas *varustettu seaŋga		stuollu	lea dakkár mas lea vejolašvuohta čuožžut
+delirium	seahki		sekavuustila	seahki		delirium	seagasdoaibmanvuohki
 seksualitetsmangfold			seksuaalinen moninaisuus  seksuaalinen monimuotoisuus	#seksuálalaš máŋggaláganvuohta  #seksuálalaš máŋggahámatvuohta		seksualitehta máŋggabealatvuohta	seksuála máŋggahápmásašvuohta seksuála máŋggahápmásašvuođas
 sekundærlitteratur			sekundäärikirjallisuus	toissijainen kirjallisuus		sekundára girjjálašvuohta	sekundára girjjálašvuohta
-ryggleie			selinmakuu 			oalgecealkka	čakčamánnu 
-forklaringsmodell			selitysmalli	čilgehusmálle		čilgenmálle	
-ryggsøyle			selkäranka			duogášspiehkastat	guorbmeguolgga
-ryggmargsskade			selkäydinvaurio	#sealgi#ađa#vaháguvvan		duođaid oalgecealkka	čielgejuolgedoaibma
-årsaksforklaring			selonteko syy-yhteydestä	*selonteko ártaoktavuođas		sivvačilgehus	sivva-oktavuođa čilgehus
-mestring			selviytyminen			máhtestuvvan	birgenláhki
-ryggvask			selänpesu	sealggebassan		čielggadanbivttas	dakkár speallu
+ryggleie	gávvutoađđin		selinmakuu 			oalgecealkka	čakčamánnu 
+forklaringsmodell	čilgenmálle		selitysmalli	čilgehusmálle		čilgenmálle	
+ryggsøyle	čielgi		selkäranka			duogášspiehkastat	guorbmeguolgga
+ryggmargsskade	čielgiáđaskaidna		selkäydinvaurio	#sealgi#ađa#vaháguvvan		duođaid oalgecealkka	čielgejuolgedoaibma
+årsaksforklaring	sivva-oktavuođa čilgehus		selonteko syy-yhteydestä	*selonteko ártaoktavuođas		sivvačilgehus	sivva-oktavuođa čilgehus
+mestring	birgenláhki		selviytyminen			máhtestuvvan	birgenláhki
+ryggvask	sealgebassan		selänpesu	sealggebassan		čielggadanbivttas	dakkár speallu
 sensorteknologi			sensoriteknologia			dovddanteknologiija	sensoriteknologiija
-kransarterie			sepelvaltimo			kránsaarteriija	konjunktuvra
+kransarterie	kránsaarteriija		sepelvaltimo			kránsaarteriija	konjunktuvra
 screene			seuloa	sevlet		screene	čuorbmas
-sjokktilstand			shokkitila	šohkkadilli		hirpmástuhtti dilli	hui eahpesihkkar
-gasbind			sideharso			gásabideapmi	soakŋu
-tålbar			siedettävä			gierdat	gierdameahttun
-sædvæske			siemenneste	gilvvasiedja		seaguhusgálvu	rássešaddu
-sædavgang			siemensyöksy			seaguhusgolgamat	sahkkuivuođadivššu
-sædutløsning			siemensyöksy			sahtedohko čoavddus	sahkkuivuođadivššu
-soppmiddel			sienenestoaine sienilääke	guobbaracaggasanávnnas guoppardálkkas		sogaávdnasat	vuosttildansuffiksa mii lea vuosttildansuffiksa
+sjokktilstand	hirpmástuhtti dilli		shokkitila	šohkkadilli		hirpmástuhtti dilli	hui eahpesihkkar
+gasbind	hávvelibar		sideharso			gásabideapmi	soakŋu
+tålbar	gierdat		siedettävä			gierdat	gierdameahttun
+sædvæske	siepman		siemenneste	gilvvasiedja		seaguhusgálvu	rássešaddu
+sædavgang	siepmanbeassan		siemensyöksy			seaguhusgolgamat	sahkkuivuođadivššu
+sædutløsning	siepmanbeassan		siemensyöksy			sahtedohko čoavddus	sahkkuivuođadivššu
+soppmiddel	gillasuvvandálkas		sienenestoaine sienilääke	guobbaracaggasanávnnas guoppardálkkas		sogaávdnasat	vuosttildansuffiksa mii lea vuosttildansuffiksa
 soppinfeksjon			sieni-infektio	guopparinfekšuvdna		guopparinfekšuvdna	guopparinfekšuvdna
-signalsubstans			signaaliaine			signálasubstánsa	signálaguovddáš
-signalmolekyl			signaalimolekyyli			signálamolekyla	signálamolekyla
-hvese			sihistä	kähistä		hussabivdu	sihkkar
-forflytning			siirto	siirtäminen	sirdin	sirdin	sirdin
-forflytningshjelpemiddel			siirtoapuväline	#sirdin#veahkki#gaskoapmi		johttidan veahkkeneavvu	sirdinveahkki
-forflytningsteknikk			siirtotekniikka	sirdinteknihkka		sirdinteknihkka	sirdinteknihkka
-penisskaft			siittimen varsi	nálkku nađđa		penissasoabbi	suohppun
-sædproduksjon			siittiöiden tuotanto	*siittiöiden duddjon		sahtedohko	sperpma buvttadeapmi
+signalsubstans	signálasubstánsa		signaaliaine			signálasubstánsa	signálaguovddáš
+signalmolekyl	signálamolekyla		signaalimolekyyli			signálamolekyla	signálamolekyla
+hvese	šieđđat		sihistä	kähistä		hussabivdu	sihkkar
+forflytning	sirdin		siirto	siirtäminen	sirdin	sirdin	sirdin
+forflytningshjelpemiddel	sirdinveahkki		siirtoapuväline	#sirdin#veahkki#gaskoapmi		johttidan veahkkeneavvu	sirdinveahkki
+forflytningsteknikk	sirdinvuohki		siirtotekniikka	sirdinteknihkka		sirdinteknihkka	sirdinteknihkka
+penisskaft	návlenađđa	penisnađđa	siittimen varsi	nálkku nađđa		penissasoabbi	suohppun
+sædproduksjon	siepmanšaddu		siittiöiden tuotanto	*siittiöiden duddjon		sahtedohko	sperpma buvttadeapmi
 pool			sijaispooli			vuojadanálddis	sadjásaš bealli
-silikon			silikoni			silikon	silikon
-øyekontakt			silmäkontakti	čalbmekontákta		čalbmeoktavuohta	čalbmeoktavuohta
-sinusrytme			sinusrytmi			sinusrhythma	sinusritma
-sinusknute			sinussolmuke			sinasnoallu	duođalaš biegga
-innånding			sisäänhengitys			vuoiŋŋasteapmi	vuoiŋŋasteapmi
-innåndingsluft			sisäänhengitysilma			vuoigŋanáibmu	vuoigŋanluođđa
-inspirasjonsluft			sisäänhengitysilma			movttiidahttináigi	vuoigŋanluođđa
+silikon	silikon		silikoni			silikon	silikon
+øyekontakt	čalbmeoktavuohta		silmäkontakti	čalbmekontákta		čalbmeoktavuohta	čalbmeoktavuohta
+sinusrytme	sinusritma		sinusrytmi			sinusrhythma	sinusritma
+sinusknute	sinusčuolbma		sinussolmuke			sinasnoallu	duođalaš biegga
+innånding	sisavuoiŋŋasteapmi		sisäänhengitys			vuoiŋŋasteapmi	vuoiŋŋasteapmi
+innåndingsluft	sisavuoigŋanáibmu		sisäänhengitysilma			vuoigŋanáibmu	vuoigŋanluođđa
+inspirasjonsluft	sisavuoigŋanáibmu		sisäänhengitysilma			movttiidahttináigi	vuoigŋanluođđa
 inspirasjonsvolum			sisäänhengitysvolyymi			movttiidahttindoarjja	vuoigŋanvoluma
-inngangsport			sisäänmenoportti			sisaboahtinverrát	sisabeassanverrát
-innleggelse			sisäänotto			sáhkavuorru	sisaboahtin
-bandasjeskift			siteen vaihto	čatnasa #molsuheapmi		báttiid molsošupmi	čatnasanlonohallan
+inngangsport	sisaboahtinverrát		sisäänmenoportti			sisaboahtinverrát	sisabeassanverrát
+innleggelse	sisaváldan		sisäänotto			sáhkavuorru	sisaboahtin
+bandasjeskift	hávvmolsun		siteen vaihto	čatnasa #molsuheapmi		báttiid molsošupmi	čatnasanlonohallan
 bluferdighetsregel			siveyssääntö			guovttegeardásašvuođa njuolggadus	ivdnenjuolggadus
 schizofreni			skitsofrenia			schizofrenalaš	schizofrenalaš
 sklerose			skleroosi	kovettuma		sklerosa	sklerosis
@@ -1496,34 +1496,34 @@ sukkermolekyl			sokerimolekyyli			sohkarmolekyla	sohkarmolekyla
 cellemetabolisme			soluaineenvaihdunta solumetabolia	#sealla#ávnnasmolsašuvvan #sealla#metabolia		sealla metaboliuma	seallamolsun metabolian
 cellebiologi			solubiologia	seallabiologiija		seallabiologiija	seallabiologiija
 cellemembran			solukalvo	seallacuozza		seallamehter	seallaceallacealla
-cellegift			solumyrkky	seallamirko		seallamirko	seallamirko
-sondespiss			sondin kärki	*sondin geahči		sondeboagán	sondaoaivvis
-adaptasjonsområde			sopeutumisalue	sajáiduvvat guovlu		heivehansuorgi	heivehansuorgi
-adaptasjonsevne			sopeutumiskyky	sajáiduvvat gálga		heivehannákca	vuogáiduhttinnávccat
-adaptasjonsnivå			sopeutumistaso	sajáiduvvat dássi		heivehandássi	vuogáiduvvandássi
-passform			sopivuus			heivehanvuohki	vuogasvuohta
-fingertrykk			sormen painallus	suorpma 		suorpmasdeaddu	suorpma deaddileapmi
-fingerledd			sorminivel	suorbmalađas		suorpmaslihtti	suorpmasoabbi
+cellegift	seallamirko		solumyrkky	seallamirko		seallamirko	seallamirko
+sondespiss	sondegeahči		sondin kärki	*sondin geahči		sondeboagán	sondaoaivvis
+adaptasjonsområde	heivehansuorgi		sopeutumisalue	sajáiduvvat guovlu		heivehansuorgi	heivehansuorgi
+adaptasjonsevne	heivehannákca		sopeutumiskyky	sajáiduvvat gálga		heivehannákca	vuogáiduhttinnávccat
+adaptasjonsnivå	heivehandássi		sopeutumistaso	sajáiduvvat dássi		heivehandássi	vuogáiduvvandássi
+passform	heivehanvuohki		sopivuus			heivehanvuohki	vuogasvuohta
+fingertrykk	suorpmadeaddileapmi		sormen painallus	suorpma 		suorpmasdeaddu	suorpma deaddileapmi
+fingerledd	suorbmalađas		sorminivel	suorbmalađas		suorpmaslihtti	suorpmasoabbi
 fingerferdighet			sorminäppäryys			giehtalašvuohta	suorpmaid njeaiga báhcán
 fingergrep			sormiote	suorbmatáhka		suorpmasvihaheapmi	suorpmasoabbi
-nettverkskartlegging			sosiaalisen verkoston kartoitus	#sosiálalaš fierpmi kárten		fierpmádatkárten	sosiála fierpmádaga kárten
-militærformål			sotilaallinen tarkoitus	*sotilaallinen ulbmil		militeara ulbmiliidda	militeara ulbmil
-skikkethet			soveltuvuus			dohkálašvuohta	vuogáidupmi
-spesialist			spesialisti			spesialista	spesialista
-stereotype			stereotyyppi  kaavoittuma	stereotiipa  		stereotyhppa	stereotiipalaš lávvaráhkadeapmi
-stresshormon			stressihormoni	huššahormona		streassahormon	mu streassahormon
-stresspåvirkning			stressin vaikutus	huša váikkuhus		streassaváikkuhus	hoahpu boađus
-stressfaktor			stressitekijä	#hušša#dahkki		streassafáktor	huššafáktor
-dusjstol			suihkutuoli	riššostovla		duššistuollu	soahkamoivi
-genital			sukupulielimet			sohkabealoriekti	sohkabealleorga
-kjønnstilhørighet			sukupuoleen kuuluminen	sohkabeallái gullot		sohkabeal gullevašvuohta	fuolkevuohta
-kjønnsstudium			sukupuolentutkimus	sohkabealedutkan		dutkamuš	
-genitale			sukupuolielimet	sohkabealleorgánat		genitiiva	sohkabealli
-kjønnsmajoritet			sukupuolienemmistö	sohkabealeanetlohku		sohkabealleeanetlohku	sohkabealleunnitlohku
-kjønnsulikhet			sukupuoliero	sohkabealearru		sohkabeal.	sohkabealleerohus
-kjønnshormon			sukupuolihormoni	sohkabealhormona		sohkabealoravda	mu sohkabealoruma
-kjønnsutvikling			sukupuolikehitys	sohkabealahtanuššan		sohkabealleovdáneapmi	sohkabealleovdáneapmi
-sulfat			sulfaatti			sulfáhta	sulfáhta
+nettverkskartlegging	fierpmádatkárten		sosiaalisen verkoston kartoitus	#sosiálalaš fierpmi kárten		fierpmádatkárten	sosiála fierpmádaga kárten
+militærformål	militearaulbmil		sotilaallinen tarkoitus	*sotilaallinen ulbmil		militeara ulbmiliidda	militeara ulbmil
+skikkethet	heivvolašvuohta		soveltuvuus			dohkálašvuohta	vuogáidupmi
+spesialist	spesialista		spesialisti			spesialista	spesialista
+stereotype	stereotiipa		stereotyyppi  kaavoittuma	stereotiipa  		stereotyhppa	stereotiipalaš lávvaráhkadeapmi
+stresshormon	huššahormona		stressihormoni	huššahormona		streassahormon	mu streassahormon
+stresspåvirkning	huššaváikkuhus		stressin vaikutus	huša váikkuhus		streassaváikkuhus	hoahpu boađus
+stressfaktor	huššafáktor		stressitekijä	#hušša#dahkki		streassafáktor	huššafáktor
+dusjstol	riššostuollu		suihkutuoli	riššostovla		duššistuollu	soahkamoivi
+genital	genitála		sukupulielimet			sohkabealoriekti	sohkabealleorga
+kjønnstilhørighet	sohkabeal gullevašvuohta		sukupuoleen kuuluminen	sohkabeallái gullot		sohkabeal gullevašvuohta	fuolkevuohta
+kjønnsstudium	sohkabealelohkan		sukupuolen tutkimuksen opinnot	sohkabealedutkan		dutkamuš	
+genitalia	sohkabealleorgánat		sukupuolielimet	sohkabealleorgánat		genitiiva	sohkabealli
+kjønnsmajoritet	sohkabealleeanetlohku		sukupuolienemmistö	sohkabealeanetlohku		sohkabealleeanetlohku	sohkabealleunnitlohku
+kjønnsulikhet	sohkabealleerohus		sukupuoliero	sohkabealearru		sohkabeal.	sohkabealleerohus
+kjønnshormon	sohkabealhormona		sukupuolihormoni	sohkabealhormona		sohkabealoravda	mu sohkabealoruma
+kjønnsutvikling	sohkabealleovdáneapmi		sukupuolikehitys	sohkabealahtanuššan		sohkabealleovdáneapmi	sohkabealleovdáneapmi
+sulfat	sulfáhta		sulfaatti			sulfáhta	sulfáhta
 ringmuskel			sulkijalihas			reaŋganjuolgi	suddjenlihtti
 beskyttelsesutstyr			suojavaruste	suodjerusttet		suodjalanávdnasat	suddjejuvvon biergu
 saltvann			suolaliuos	sáltečuokkisčoahkku		sáltečáhci	sálteluvus
@@ -1720,76 +1720,76 @@ realitetssjokk			todellisuusshokki  realiteettishokki	#duođalašvuohtašohkka 	
 doktorgradsutdanning			tohtorikoulutus			doavttergrádaoahppu	doavttergrádaoahppu
 doktorgradsprogram			tohtoriohjelma			doavttergrádaprográmma	doavttergrádastipeanda
 iverksetting			toimeenpaneminen			álggaheapmi	ollašuhttin
-prosedyreverktøy			toimenpiteiden hakutyökalu	doaibmabijuid ohcanreaidu		áššemeannudanreaidu	ohcanreaidu doaibmabijuide
-funksjonsvurdering			toiminnan arviointi	doaimma evalueren		doaibmaárvvoštallan	doaimma árvvoštallan
-handlingsrefleksjon			toiminnan reflektointi	doaimma 		daguidreflekšuvdna	reflekšuvdna doaimmain
-funksjonsforstyrrelse			toimintahäiriö	doaibmasegohus		doaimmashehttejupmi	lámisolmmoš
-handlingsforløp			toimintaketju	doaibmaviđji		doaibmabidju	doaibmaguovlu
-funksjonsdyktighet			toimintakyky	doaibmagálga		doaibmanfriddjavuohta	doaibmanákca
-funksjonsundersøkelse			toimintakyvyn tutkimus	doaibmagálgga dutkan		doaibmaguorahallan	doaibmannávccaid iskkadeapmi
-funksjonstap			toimintakyvyn vaje	doaibmagálgga 		doaimmashehttejupmi	doaibmannávccaid váilun
-funksjonsbegrensning			toimintarajoite	doaibmaráddjen		doaibmahehttejupmi	doaimmashehttejupmi
-habiliteringstjeneste			toimintarajoitteisen lapsen kuntoutus	*toimintarajoitteisen máná veajuiduhttin		habiliterenbálvalus	doaimmashehttejuvvon máná veajuiduhttin
-handlingsrepertoar			toimintarepertuaari			doaibmarepertoár	doaibmarepertoára
-handlingsregel			toimintasääntö	doaibmanjuolggadus		doaibmanjuolggadus	doaibmanjuolggadus
-handlingsmønster			toimintatapa	doaibmadáhpi		doaibmanmálle	bargovuohki
-handlingsvalg			toimintatavan valinta	doaibmadábi válljen		daguid válljen	modusmolssaeaktu
-ergoterapeut			toimintaterapeutti	doaibmaterapevta		ergoterapevta	doaibmaterapevta
-handlingsalternativ			toimintavaihtoehto	doaibmamolssaeaktu		molssaeaktu	lea doaibmabidju
-handlingsberedskap			toimintavalmius	doaibmaválmmašvuohta		gearggusvuohta doaibmat	doaibmanfriddjavuohta
-handlingsklokskap			toimintaviisaus	doaibmaviisodat		dáhpáhusskierru	doaibman- viisodat
-restitusjon			toipuminen			resttušuvdna	veajuiduhttin
-reinnleggelse			toistuva sairaalahoito???	#dáhpáhuvvat 		ođđasisčáliheapmi	dát dábálaš buohcceviesu divššu??
-ønskekost			toiveruoka	doaivvagušta		dáhtu biebmu	doaivoborran
-transperson			transhenkilö			transolmmoš	transolmmoš
-transfett			transrasva			transfáhta	transolmmoš
-transseksualisme			transseksualismi			transseksuálavuohta	transseksuálavuohta
-transkjønn			transsukupuoli			transsohkabealli	transsohkabealli
-traume			trauma	trauma		trauma	trauma
-understøtte			tukea	duvdit		dorjojuvvon	doarjja
-støttehåndtak			tukikahva	duvddauksageavja		doarjjagiehtat	čottanjálgu
-støttekondom			tukikondomi	duvddakondoma		dorjjasteaddji kondoma	oktasaš kondoma
-understøttelsesflate 			tukipinta	duvddaaláš		doarjjaguovlu 	doarjjabáiki
-kompresjonsbind			tukiside	duvddačanas		komprimerenbáddi	doarjjaortnet
-kompresjonsstrømpe			tukisukka 	duvddasuohkku 		komprimerenstealli	čottanjálgu 
-støtteverktøy			tukityökalu	duvddareaidu		doarjja	doarjjaortnet
-støtteverktøy			tukiväline	#duvdda#gaskoapmi		doarjja	doarjjaortnet
-betennelsesprosess			tulehdusprosessi	vuolšeproseassa		vuolšši proseassa	infekšuvdnamálle
-betennelsesreaksjon			tulehdusreaktio	vuolšereakšuvdna		vuolšši-reakšuvdna	infekšuvdna
-inflammasjonsreaksjon			tulehdusreaktio	vuolšereakšuvdna		vuolšši reakšuvdna	infekšuvdna
-betennelsessykdom			tulehdussairaus	vuolšebuohcu		vuolšeskibasvuohta	infekšuvdnadávda
-betennelsestilstand			tulehdustila	ei bakteerin aiheuttama, esim. rasitusvamma	vuolšedilli	vuolšši	infekšuvdna
-infeksjonstilstand			tulehdustila  infektiotila	vuolšedilli infekšuvdnadilli  		infekšuvdnadilli	infekšuvdnadilli
-penetrere			tunkeutua sisään	läpäistä	*tunkeutua sisa	penetrárat	seahkáneapmi
-følelsesmodus			tunnetila	dovdodilli		dovdomodus	dovdduid dilli
-følelsesuttrykk			tunteenilmaisu	#dovdudajahus		dovdduid ovdanbuktin	dovdduid čájeheapmi
-stolvekt			tuolivaaka	stovlaveakta		stuolluid deaddu	stuolluid láigi
-varedeklarasjon			tuoteseloste			várrehus	buvttačilgehus
-turistdiaré			turistiripuli	turistalužas		turistabivttas	turistabivdu
-trygghetsalarm			turvahälytin			oadjebasvuođalárbma	sihkkarvuođalárbma
-trygghetopplevelse			turvallisuuden kokemus	sihkarvuođa vásihus		dorvvolašvuođadovdu	oadjebasvuođa vásáhus
-sikkerhetsteknologi			turvallisuusteknologia	#sihkarvuohtateknologiija		sihkkarvuođateknologiija	sihkkarvuođateknologiija
-ødemvæske			turvokuksen aiheuttama nestekertymä			duolvačáhci	golggosbuđaldeapmi mii dagaha golggosbuđaldeami
-ødem			turvotus			duolva	duolva
-forskningsområde			tutkimusala	dutkansuorgi		dutkansuorgi	
-forskningsartikkel			tutkimusartikkeli	dutkanartihkal		dutkanartihkal	dutkanartihkal
-forskningslitteratur			tutkimuskirjallisuus	dutkangirjjálašvuohta		dutkangirjjálašvuohta	dutkangirjjálašvuohta
-forskningsmetode			tutkimusmenetelmä	dutkanmannolat		dutkanmetoda	dutkanvuohki
-undersøkelsesmetode			tutkimusmenetelmä  tutkimusmetodi	dutkanmannolat dutkanmetoda  		iskanvuohki	dutkanvuohki
+prosedyreverktøy	prosedyrareaidu		toimenpiteiden hakutyökalu	doaibmabijuid ohcanreaidu		áššemeannudanreaidu	ohcanreaidu doaibmabijuide
+funksjonsvurdering	funkšuvdnaárvvoštallan		toiminnan arviointi	doaimma evalueren		doaibmaárvvoštallan	doaimma árvvoštallan
+handlingsrefleksjon	doaibmareflekšuvdna		toiminnan reflektointi	doaimma 		daguidreflekšuvdna	reflekšuvdna doaimmain
+funksjonsforstyrrelse	doaibmanuosehuhttin	funkšuvdnamuosehuhttin	toimintahäiriö	doaibmasegohus		doaimmashehttejupmi	lámisolmmoš
+handlingsforløp	doaibmamannolat		toimintaketju	doaibmaviđji		doaibmabidju	doaibmaguovlu
+funksjonsdyktighet	funkšuvdnamáhttu		toimintakyky	doaibmagálga		doaibmanfriddjavuohta	doaibmanákca
+funksjonsundersøkelse	funkšuvdnaiskkadeapmi		toimintakyvyn tutkimus	doaibmagálgga dutkan		doaibmaguorahallan	doaibmannávccaid iskkadeapmi
+funksjonstap	funkšuvdnamassin		toimintakyvyn vaje	doaibmagálgga 		doaimmashehttejupmi	doaibmannávccaid váilun
+funksjonsbegrensning	funkšuvdnahehttehus		toimintarajoite	doaibmaráddjen		doaibmahehttejupmi	doaimmashehttejupmi
+habiliteringstjeneste	habiliterenbálvalus		toimintarajoitteisen lapsen kuntoutus	*toimintarajoitteisen máná veajuiduhttin		habiliterenbálvalus	doaimmashehttejuvvon máná veajuiduhttin
+handlingsrepertoar	doaibmarepertoára		toimintarepertuaari			doaibmarepertoár	doaibmarepertoára
+handlingsregel	doaibmanjuolggadus		toimintasääntö	doaibmanjuolggadus		doaibmanjuolggadus	doaibmanjuolggadus
+handlingsmønster	doaibmaminsttár		toimintatapa	doaibmadáhpi		doaibmanmálle	bargovuohki
+handlingsvalg	doaibmaválljen		toimintatavan valinta	doaibmadábi válljen		daguid válljen	modusmolssaeaktu
+ergoterapeut	ergoterapevta		toimintaterapeutti	doaibmaterapevta		ergoterapevta	doaibmaterapevta
+handlingsalternativ	doaibmamolssaeaktu		toimintavaihtoehto	doaibmamolssaeaktu		molssaeaktu	lea doaibmabidju
+handlingsberedskap	doaibmagearggusvuohta		toimintavalmius	doaibmaválmmašvuohta		gearggusvuohta doaibmat	doaibmanfriddjavuohta
+handlingsklokskap	doaibmaviisodat		toimintaviisaus	doaibmaviisodat		dáhpáhusskierru	doaibman- viisodat
+restitusjon	restitušuvdna		toipuminen			resttušuvdna	veajuiduhttin
+reinnleggelse			uudelleen sairaalan sisäänkirjoittautuminen	#dáhpáhuvvat 		ođđasisčáliheapmi	dát dábálaš buohcceviesu divššu??
+ønskekost		heivehuvvon borrámuš	toiveruoka	doaivvagušta		dáhtu biebmu	doaivoborran
+transperson	transolmmoš		transhenkilö			transolmmoš	transolmmoš
+transfett	transbuoidi		transrasva			transfáhta	transolmmoš
+transseksualisme	transseksualisma		transseksualismi			transseksuálavuohta	transseksuálavuohta
+transkjønn	transsohkabealli		transsukupuoli			transsohkabealli	transsohkabealli
+traume	trauma		trauma	trauma		trauma	trauma
+understøtte	doarjut		tukea	duvdit		dorjojuvvon	doarjja
+støttehåndtak	dorjengeavja		tukikahva	duvddauksageavja		doarjjagiehtat	čottanjálgu
+støttekondom	bajasdoallankondoma		tukikondomi	duvddakondoma		dorjjasteaddji kondoma	oktasaš kondoma
+understøttelsesflate 	doarjjavuođđu		tukipinta	duvddaaláš		doarjjaguovlu 	doarjjabáiki
+kompresjonsbind	komprešuvdnačanas		tukiside	duvddačanas		komprimerenbáddi	doarjjaortnet
+kompresjonsstrømpe	komprešuvdnasuohkku		tukisukka 	duvddasuohkku 		komprimerenstealli	čottanjálgu 
+støtteverktøy	doarjjareaiddut		tukityökalu	duvddareaidu		doarjja	doarjjaortnet
+støtteverktøy	doarjjareaiddut		tukiväline	#duvdda#gaskoapmi		doarjja	doarjjaortnet
+betennelsesprosess	vuolšeproseassa		tulehdusprosessi	vuolšeproseassa		vuolšši proseassa	infekšuvdnamálle
+betennelsesreaksjon	vuolšereakšuvdna		tulehdusreaktio	vuolšereakšuvdna		vuolšši-reakšuvdna	infekšuvdna
+inflammasjonsreaksjon	inflammašuvdnareakšuvdna		tulehdusreaktio	vuolšereakšuvdna		vuolšši reakšuvdna	infekšuvdna
+betennelsessykdom	vuolšedávda		tulehdussairaus	vuolšebuohcu		vuolšeskibasvuohta	infekšuvdnadávda
+betennelsestilstand	vuolšedilálašvuohta		tulehdustila	ei bakteerin aiheuttama, esim. rasitusvamma	vuolšedilli	vuolšši	infekšuvdna
+infeksjonstilstand	infekšuvdnadilli		tulehdustila  infektiotila	vuolšedilli infekšuvdnadilli  		infekšuvdnadilli	infekšuvdnadilli
+penetrere	penetreret		tunkeutua sisään	läpäistä	*tunkeutua sisa	penetrárat	seahkáneapmi
+følelsesmodus	dovdduidmodus		tunnetila	dovdodilli		dovdomodus	dovdduid dilli
+følelsesuttrykk	dovdduid čájeheapmi		tunteenilmaisu	#dovdudajahus		dovdduid ovdanbuktin	dovdduid čájeheapmi
+stolvekt	stuolloveakta		tuolivaaka	stovlaveakta		stuolluid deaddu	stuolluid láigi
+varedeklarasjon	buvttadeklarašuvdna		tuoteseloste			várrehus	buvttačilgehus
+turistdiaré	mátkošteaddjilužohat		turistiripuli	turistalužas		turistabivttas	turistabivdu
+trygghetsalarm	oadjebasvuođalárbma		turvahälytin			oadjebasvuođalárbma	sihkkarvuođalárbma
+trygghetopplevelse	oadjebasvuođa vásáhus		turvallisuuden kokemus	sihkarvuođa vásihus		dorvvolašvuođadovdu	oadjebasvuođa vásáhus
+sikkerhetsteknologi	sihkkarvuođateknologiija		turvallisuusteknologia	#sihkarvuohtateknologiija		sihkkarvuođateknologiija	sihkkarvuođateknologiija
+ødemvæske	ødemačáhci		turvokuksen aiheuttama nestekertymä			duolvačáhci	golggosbuđaldeapmi mii dagaha golggosbuđaldeami
+ødem	ødema		turvotus			duolva	duolva
+forskningsområde	dutkansuorgi		tutkimusala	dutkansuorgi		dutkansuorgi	
+forskningsartikkel	dutkanartihkal		tutkimusartikkeli	dutkanartihkal		dutkanartihkal	dutkanartihkal
+forskningslitteratur	dutkangirjjálašvuohta		tutkimuskirjallisuus	dutkangirjjálašvuohta		dutkangirjjálašvuohta	dutkangirjjálašvuohta
+forskningsmetode	dutkanmetoda	dutkanvuohki	tutkimusmenetelmä	dutkanmannolat		dutkanmetoda	dutkanvuohki
+undersøkelsesmetode	iskanvuohki		tutkimusmenetelmä  tutkimusmetodi	dutkanmannolat dutkanmetoda  		iskanvuohki	dutkanvuohki
 omgangskrets			tuttavapiiri	oahpesbiire		johtingierdu	oahpes sadji
-tubespiss			tuubin kärki	*tuubin geahči		riebana báddi	guorbmebivttas
-tømming			tyhjennys			gurren	buhtisteapmi
-tømmingsplage			tyhjennysvaiva			gurrenváttisvuohta	gurrenváttisvuohta
-tømmingsmønster			tyhjentymiskäytäntö	guorranit geavat		gurrenminsttar	gurrenvuohki
-tapping			tyhjentäminen	poisvaluttaminen	gurret	deaddostallan	gurren
-tømmingsvanske			tyhjentämishäiriö	gurret segohus		gurrenváttisvuohta	buhtistanheađuštus
-tømmingsvane			tyhjentämistapa	gurret dáhpi		golahanvierru	vuohki gurret áššiid
-nitrogen			typpi			nitrogena	nitrogen
-tilfredsstillelse			tyydyttyminen			duhtadeapmi	duhtadeapmi
-arbeidsantrekk			työasu	bargogárvu		bargohivvodat	bargobivttas
-arbeidskapasitet			työkapasiteetti	#bargu#kapasitehtta		bargonávccalašvuohta	bargoveahka
-arbeidshverdag			työn arki	barggu árga		beaivválaš bargu	barggu árga
-arbeidskår			työolosuhteet	bargoeksisteansagorit		bargodilli	bargoeavttut
+tubespiss	tubabuncci		tuubin kärki	*tuubin geahči		riebana báddi	guorbmebivttas
+tømming	gurren		tyhjennys			gurren	buhtisteapmi
+tømmingsplage	gurrenváttisvuohta		tyhjennysvaiva			gurrenváttisvuohta	gurrenváttisvuohta
+tømmingsmønster	gurrenminsttar		tyhjentymiskäytäntö	guorranit geavat		gurrenminsttar	gurrenvuohki
+tapping	gurren		tyhjentäminen	poisvaluttaminen	gurret	deaddostallan	gurren
+tømmingsvanske	gurrenhástalus		tyhjentämishäiriö	gurret segohus		gurrenváttisvuohta	buhtistanheađuštus
+tømmingsvane	gurrendáhpi		tyhjentämistapa	gurret dáhpi		golahanvierru	vuohki gurret áššiid
+nitrogen	nitrogena		typpi			nitrogena	nitrogen
+tilfredsstillelse	duhtadeapmi		tyydyttyminen			duhtadeapmi	duhtadeapmi
+arbeidsantrekk	bargobivttas		työasu	bargogárvu		bargohivvodat	bargobivttas
+arbeidskapasitet	bargokapasiteahtta		työkapasiteetti	#bargu#kapasitehtta		bargonávccalašvuohta	bargoveahka
+arbeidshverdag	bargoárgabeaivi		työn arki	barggu árga		beaivválaš bargu	barggu árga
+arbeidskår	bargodilli		työolosuhteet	bargoeksisteansagorit		bargodilli	bargoeavttut
 arbeidsrutine			työrutiini	bargorutiidna		bargovuohki	bargorutiidna
 stillingsvern			työsuhdeturva	bargogorredorvu		virgesuodjalus	bargoveahkadoarjja
 arbeidslys			työvalo	bargočuovga		bargočuovggas	bargoláhttu
