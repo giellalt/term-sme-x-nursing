@@ -357,60 +357,55 @@ attribusjon	N	ansioksi lukeminen
 årrekke	N	monet vuodet
 appell	N	vetoomus    valitus vaikutusvoima
 app	N	sovellus
-anskuelse	N	
-ansamling	N	
-amt	N	
-allmennpraksis	N	
-alarmsentral	N	
-vridning	N	
-vrangstrupe	N	
-voldsbruk	N	
-vokabular	N	
-viv	N	
-visning	N	
-virvar	N	
-vinterstid	N	
-vibrator	N	
-velkomst	N	
-veksel	N	
-vekking	N	
-veiledningspedagogikk	N	
-vaskefat	N	
-varmekilde	N	
-varmeflaske	N	
-varetakelse	N	
-værelse	N	
-våk	N	
-utsmykking	N	
-utskrift	N	
-utskiftning	N	
-utsatthet	N	
-utnytting	N	
-utflukt	N	
-utarbeiding	N	
-urne	N	
-ungdomstid	N	
-underkant	N	
-ugagn	N	
-uforsiktighet	N	
-u.k	N	
-tyr	N	
-trykker	N	
-tredobling	N	
-travers	N	
-tranger	N	
-touch	N	
-tokt	N	
-tjenestevei	N	
-tilskikkelse	N	
-tidshorisont	N	
-temperament	N	
-teller	N	
-telemetri	N	
-telekommunikasjon	N	
-tegnforklaring	N	
-tåteflaske	N	
-tankekors	N	
+anskuelse	N	katsomus
+ansamling	N	keräymä
+amt	N	lääni
+allmennpraksis	N	yleislääkärinä toimiminen
+alarmsentral	N	hätäkeskus
+vridning	N	väännös käännös
+vrangstrupe	N	väärä kurkku
+voldsbruk	N	väkivallan käyttö
+vokabular	N	sanasto
+viv	N	vaimo
+visning	N	näyttö näyttäminen esittely
+virvar	N	sekamelska  hullunmylly
+vinterstid	N	talviaika
+vibrator	N	värähtelijä tärytin vibraattori
+velkomst	N	tervetuliaiset
+veksel	N	vaihde  vaihto  vekseli
+vekking	N	herätys
+veiledningspedagogikk	N	ohjauksen pedagogiikka
+vaskefat	N	pesuvati
+varmekilde	N	lämmönlähde
+varmeflaske	N	kuumavesipullo
+varetakelse	N	huolehtiminen jstk
+værelse	N	olento
+utsmykking	N	koristelu
+utskrift	N	tuloste jäljennös   ote
+utskiftning	N	vaihto
+utsatthet	N	haavoittuvuus
+utnytting	N	hyödyntäminen   hyväksikäyttö
+utflukt	N	retki   tekosyy sanonnoissa
+utarbeiding	N	laadinta
+urne	N	uurna
+ungdomstid	N	nuoruusaika
+underkant	N	alareuna    alle sanonnoissa
+ugagn	N	vahinko haitta
+uforsiktighet	N	varomattomuus
+tyr	N	härkä
+trykker	N	painaja
+tredobling	N	kolminkertaistuminen
+tokt	N	puuska  kohtaus
+tjenestevei	N	virkatie
+tilskikkelse	N	sallimus
+tidshorisont	N	aikahorisontti
+temperament	N	tempperamentti
+teller	N	laskin  laskija osoitin mat
+telemetri	N	telemetria
+telekommunikasjon	N	telekommunikaatio
+tegnforklaring	N	merkkien selitys
+tåteflaske	N	tuttipullo
+tankekors	N	paradoksi   ristiriita
 tallverdi	N	
 tallerk	N	
 synopsis	N	
