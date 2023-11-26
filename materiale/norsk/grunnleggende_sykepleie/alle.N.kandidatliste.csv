@@ -275,39 +275,39 @@ tannstell	bániid dikšu		hampaiden hoito	bániid dikšu		bátnedoallu	min bátn
 tannløsning			hampaiden irtoaminen	bániid luovvanit		čoavddus bániide	bániid čuoldin
 tannpuss	bániid buhtástus		hampaiden puhdistus	bániid buhtástus		bátnedoallu	bániid čuggen
 tannstatus	bániid dearvvašvuođadilli		hampaiden terveydentila	bániid healssadilli		bátnestáhtus	dearvvašvuođadilli báttiin
-oksygentilførsel			hapen anto	oksygena addin		oksygenasealvadeapmi	ávdnasat
-oksygenforbruk			hapen käyttö	oksygena atnin		oksygenageavaheapmi	oksygenageavaheapmi
-oksygentransport			hapenkuljetus	oksygenafievrrideapmi		oksygenafievrrideapmi	oksygenfiltreren
-oksygenopptak			hapenotto	#oksygena#váldin		oksygenavuostáiváldin	oksygenváldin
-oksygenbehov			hapentarve	oksygenadárbu		oksygenadárbu	oksygenadárbu
-surhetsgrad			happamuusaste			surgadis dássi	happedássi
-oksygenbehandling			happihoito	oksygenadikšu		dikšun oksygena bakte	oksygenadutkan
-oksygenterapi			happihoito		oksygenadikšu	oksygenterapiija	oksygenadutkan
-oksygenutstyr			happilaite	oksygenarusttet		oksygenrusttet	happinrusttegat
-surstoffapparat			happilaite	oksygenarusttet		happivuođarusttegat	happinrusttegat
-oksygeninnhold			happipitoisuus	oksygenasisdoallu		oksygenasealli	happisvuohta
-oksygennivå			happitaso	oksygenadássi		oksygenadássi	happodatdássi
-oksygensbrille			happiviikset	oksygenaskávžžát		Oxygena-čalbmeglása	happivuohta
-syreangrep			happohyökkäys	suvrefalleheapmi		suvrra arvi	happirihkkun
-syrekapp			happovaippa	suvrelihpar		suvrra gahpir	happisuvdna
-syrekappe			happovaippa	suvrelihpar		suddadanbivttas	happisuvdna
-syreoverskudd			happoylijäämä	suvrebadjebáza		suddadanbadjebáza	oksygenbázahus
-feiltrinn			harha-askel	govahallanlávki		boasttuvuohta	árdnagiisá
-praksisperiode			harjoitusjakso	hárjehusoassi		praksisaáigodat	hárjehallanáigi
-øvingsprogram			harjoitusohjelma	hárjehusprográmma		hárjehallanprográmma	hárjehallanprográmma
-treningsregime			harjoitusohjelma	hárjehusprográmma		hárjehallanvuohki	hárjehallanprográmma
-gisping			haukottelu			gessun	cielaheapmi
-skrøpelighet			hauraus			rašši	hui rašši
-persepsjon			havaitseminen	áicat		persepšuvdna	áican
-fruktjuice			hedelmätuoremehu	heđenmáihli		šattusčáhci	šattut ja šaddogálvvut
-ømhet			hellyys	herkkyys		hearkkesvuohta	hearkivuohta
-hemoglobinverdi			hemoglobiiniarvo	hemoglobiidnaárvu		hemoglobiidnaárvu	hemoglobiidnaárvu
+oksygentilførsel	oksygena addin		hapen anto	oksygena addin		oksygenasealvadeapmi	ávdnasat
+oksygenforbruk	oksygena atnu		hapen käyttö	oksygena atnin		oksygenageavaheapmi	oksygenageavaheapmi
+oksygentransport	oksygena fievrredeapmi		hapenkuljetus	oksygenafievrrideapmi		oksygenafievrrideapmi	oksygenfiltreren
+oksygenopptak	oksygenaváldin		hapenotto	#oksygena#váldin		oksygenavuostáiváldin	oksygenváldin
+oksygenbehov	oksygenadárbu		hapentarve	oksygenadárbu		oksygenadárbu	oksygenadárbu
+surhetsgrad	suvrodatdássi		happamuusaste			surgadis dássi	happedássi
+oksygenbehandling	oksygenadikšu		happihoito	oksygenadikšu		dikšun oksygena bakte	oksygenadutkan
+oksygenterapi	oksygenadikšu		happihoito		oksygenadikšu	oksygenterapiija	oksygenadutkan
+oksygenutstyr	oksygenarusttet		happilaite	oksygenarusttet		oksygenrusttet	happinrusttegat
+surstoffapparat	oksygenarusttet		happilaite	oksygenarusttet		happivuođarusttegat	happinrusttegat
+oksygeninnhold	oksygenadoallu		happipitoisuus	oksygenasisdoallu		oksygenasealli	happisvuohta
+oksygennivå	oksygenadássi		happitaso	oksygenadássi		oksygenadássi	happodatdássi
+oksygensbrille	oksygenasepmonat		happiviikset	oksygenaskávžžát		Oxygena-čalbmeglása	happivuohta
+syreangrep	sivrefalleheapmi		happohyökkäys	suvrefalleheapmi		suvrra arvi	happirihkkun
+syrekapp	suvrelihpar		happovaippa	suvrelihpar		suvrra gahpir	happisuvdna
+syrekappe	suvrelihpar		happovaippa	suvrelihpar		suddadanbivttas	happisuvdna
+syreoverskudd	suvrebadjebáza		happoylijäämä	suvrebadjebáza		suddadanbadjebáza	oksygenbázahus
+feiltrinn	boasttolávki		harha-askel	govahallanlávki		boasttuvuohta	árdnagiisá
+praksisperiode	hárjehusáigodat	hárjehusoassi	harjoitusjakso	hárjehusoassi		praksisaáigodat	hárjehallanáigi
+øvingsprogram	hárjehusprográmma		harjoitusohjelma	hárjehusprográmma		hárjehallanprográmma	hárjehallanprográmma
+treningsregime	hárjehusprográmma		harjoitusohjelma	hárjehusprográmma		hárjehallanvuohki	hárjehallanprográmma
+gisping	gávvasat		haukottelu	gávas=haukotus		gessun	cielaheapmi
+skrøpelighet		mitä tarkoittaa?	hauraus			rašši	hui rašši
+persepsjon	áicat		havaitseminen	áicat		persepšuvdna	áican
+fruktjuice	šattossákta		hedelmätuoremehu	heđenmáihli		šattusčáhci	šattut ja šaddogálvvut
+ømhet	gierisvuohta		hellyys	herkkyys		hearkkesvuohta	hearkivuohta
+hemoglobinverdi	hemoglobiidnaárvu		hemoglobiiniarvo	hemoglobiidnaárvu		hemoglobiidnaárvu	hemoglobiidnaárvu
 hemoglobinkonsentrasjon			hemoglobiinikonsentraatio			hemoglobiinna mearit	hemoglobiinna mearit
 hemoglobinmolekyl			hemoglobiinimolekyyli	hemoglobiidnamolekyla		hemoglobiidnamolekyla	hemoglobiidnamolekyla
-hemoglobininnhold			hemoglobiinin määrä	hemoglobiinna #mearri		hemoglobiidnasisdoallu	hemoglobiinnamihttu
-hemoglobinnivå			hemoglobiinitaso	hemoglobiidnadássi		hemoglobiinnadássi	hemoglobiinnadássi
-respirasjonsbesvær			hengenahdistus	dyspnea	heakkaáŧestus	vuoiŋŋahatgássa	vuoigŋanvuohki
-åndedrag			hengenveto	heakkahiistu		vuoiŋŋasteapmi	vuoiŋŋasteapmi
+hemoglobininnhold	hemoglobiinna mearri		hemoglobiinin määrä	hemoglobiinna #mearri		hemoglobiidnasisdoallu	hemoglobiinnamihttu
+hemoglobinnivå	hemoglobiidnadássi		hemoglobiinitaso	hemoglobiidnadássi		hemoglobiinnadássi	hemoglobiinnadássi
+respirasjonsbesvær		lahpastuvvan	hengenahdistus	dyspnea, vuoiŋŋa	heakkaáŧestus	vuoiŋŋahatgássa	vuoigŋanvuohki
+åndedrag	vuoiŋŋahat		hengenveto	heakkahiistu		vuoiŋŋasteapmi	vuoiŋŋasteapmi
 respirasjonsstatus			hengityksen kliininen status	vuoigŋama #klinihkalaš stáhtus		vuoiŋŋastanstáhtus	vuoiŋŋasteami klinihkalaš stahtus
 respirasjonsdybde			hengityksen syvyys	vuoigŋama čikŋodat		vuoiŋŋahaga čiekŋalisvuohta	vuoiŋŋasteapmi
 respirasjon			hengitys	vuoigŋan		vuoiŋŋasteapmi	vuoigŋan
