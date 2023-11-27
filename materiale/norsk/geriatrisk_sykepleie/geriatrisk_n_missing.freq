@@ -406,114 +406,104 @@ telekommunikasjon	N	telekommunikaatio
 tegnforklaring	N	merkkien selitys
 tåteflaske	N	tuttipullo
 tankekors	N	paradoksi   ristiriita
-tallverdi	N	
-tallerk	N	
-synopsis	N	
-syning	N	
-synagoge	N	
-sykmelding	N	
-svip	N	
-svakhetstegn	N	
-studieår	N	
-strøk	N	
-streptokokk	N	
-strange	N	
-storforbruker	N	
-stør	N	
-stopper	N	
-stett	N	
-stereotyp	N	
-stereo	N	
-stedsans	N	
-standardisering	N	
-staking	N	
-spisesal	N	
-spiseplass	N	
-spindelvev	N	
-spesialundersøkelse	N	
-soveromsdør	N	
-sommervær	N	
-søl	N	
-snømåking	N	
-smøring	N	
-slynge	N	
-slyng	N	
-sløvhet	N	
-slanking	N	
-skvis	N	
-skammel	N	
-sinus	N	
-sidesyn	N	
-serve	N	
-seniorrådgiver	N	
-sengetid	N	
-selvsikkerhet	N	
-sekvens	N	
-segment	N	
-sed	N	
-scenario	N	
-sanering	N	
-sammenstilling	N	
-sammenfall	N	
-samlebegrep	N	
-samfunnsviter	N	
-sambo	N	
-salisylsyre	N	
-saksopplysning	N	
-safe	N	
-rullestolbruker	N	
-robotsel	N	
-rna	N	
-riske	N	
-ringeklokke	N	
-rensemiddel	N	
-renhold	N	
-rengjører	N	
-regelmessighet	N	
-rasjon	N	
-radiologi	N	
-rådgivning	N	
-pustevanske	N	
-pus	N	
-prøving	N	
-prop	N	
-pondus	N	
-polyteisme	N	
-poker	N	
-plassmangel	N	
-plassforhold	N	
-philos	N	
-pel	N	
-patologi	N	
-passering	N	
-paralyse	N	
-panorama	N	
-påbygging	N	
-p.s	N	
+tallverdi	N	lukuarvo
+tallerken	N	lautanen
+synopsis	N	yleiskatsaus    tiivistelmä
+syning	N	näyttö
+synagoge	N	synagooga
+sykmelding	N	sairausloman antaminen
+SVIP-modellen	N	styrket veiledning i praksis
+svakhetstegn	N	heikkouden merkki
+studieår	N	opintovuosi
+strøk	N	(pensselin) veto
+streptokokk	N	streptokokki
+trang	N	tarve   kova halu   ahdas
+storforbruker	N	suurkuluttaja
+stopper	N	suljin  urh. puolustaja
+stett	N	(lasin) jalka
+stereotyp	N	stereotyyppinen kaavamainen
+stedsans	N	paikan taju
+standardisering	N	standardisoiminen   yhdenmukaistaminen
+staking	N	sauvominen
+spisesal	N	ruokasali
+spiseplass	N	ruokailupaikka
+spindelvev	N	hämähäkinverkko
+spesialundersøkelse	N	erityistutkimus
+soveromsdør	N	makuuhuoneen ovi
+sommervær	N	kesäsää
+søl	N	sotku   lika
+snømåking	N	lumenluonti
+smøring	N	voitelu voide
+slynge	N	linko   mitella kietoa
+slyng	N	mutka
+sløvhet	N	turtumus    tylsyys
+slanking	N	laihduttaminen
+skvis	N	puristus
+skammel	N	rahi    jalkajakkara
+sinus	N	sinus
+sidesyn	N	sivunäkö
+serve	N	syöttö  syöttää
+seniorrådgiver	N	vanhempi neuvonantaja
+sengetid	N	nukkumaanmenoaika
+selvsikkerhet	N	itsevarmuus
+sekvens	N	sarja   jono    jakso
+segment	N	osa jaoke   segmentti
+sed	N	tapa
+scenario	N	hahmotelma  toimintasuunnitelma skenaario
+sanering	N	saneeraus   tervehdyttäminen
+sammenstilling	N	yhteen kokoaminen   ???
+sammenfall	N	yhteensattuma
+samlebegrep	N	yhteistermi
+samfunnsviter	N	yhteiskuntatieteilijä
+sambo	N	avopuoliso  partneri    kumppani
+salisylsyre	N	salisyylihappo
+saksopplysning	N	tapauksen tiedot    asiaan kuuluvat tiedot
+SAFE-prosjektet	N	Prosjektet Akutt og subakutt funksjonssvikt hos eldre
+rullestolbruker	N	pyörätuolin käyttäjä
+robotsel	N	robottihylje
+RNA	N	ribonukleiinihappo  
+riske	N	rousku
+ringeklokke	N	soittokello
+rensemiddel	N	puhdistusaine
+renhold	N	puhtaanapito
+rengjører	N	siivooja
+regelmessighet	N	säännöllisyys
+rasjon	N	määräannos
+radiologi	N	röntgenlääkäri  radiologi
+rådgivning	N	neuvonta
+pustevanske	N	hengitysvaikeus
+pus	N	kisu
+prøving	N	tutkinta    harkinta
+propp	N	tulppa
+pondus	N	paino   arvokkuus
+polyteisme	N	monijumalaisuus polyteismi
+poker	N	pokeri
+plassmangel	N	tilanpuute
+plassforhold	N	tilan olosuhteet
+patologi	N	patologi
+passering	N	ohittaa mennä läpi
+paralyse	N	halvaus paralysia
+panorama	N	yleisnäkymä panoraama
+påbygging	N	laajennus
 øygard	N	
 overlevering	N	
-overblikk	N	
-ortoped	N	
-oppspytt	N	
-opprydding	N	
-oppreising	N	
-oppøving	N	
-opphør	N	
-oppfylling	N	
-oppfølgning	N	
-oppdekking	N	
-opinion	N	
-omforming	N	
-olle	N	
-off	N	
-odont	N	
-o.k	N	
-o.a	N	
-nydannelse	N	
-non	N	
-nevner	N	
-nevnelse	N	
-nek	N	
+overblikk	N	saaristo
+ortoped	N	ortopedi    
+oppspytt	N	yskös
+opprydding	N	siivous raivaus
+oppreising	N	kunnian palautus    hyvitys
+oppøving	N	harjoitus   harjoittelu kehitys
+opphør	N	lopetus lakkautus
+oppfylling	N	tayttäminen toteutus
+oppfølgning	N	seuranta    jatko   jälkihoito
+oppdekking	N	kattaus kate
+opinion	N	mielipide
+omforming	N	muutos  muodonmuutos	
+o.a. og annet	N	ja muu
+nydannelse	N	uudismuodoste
+nevner	N	nimittäjä
+nevnelse ved navns nevnelse	N	nimeltä mainiten
+nek	N	lyhde
 nei-spørsmål	N	
 nedlasting	N	
 nattetid	N	
