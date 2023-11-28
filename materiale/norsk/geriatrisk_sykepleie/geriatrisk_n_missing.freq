@@ -504,66 +504,61 @@ nydannelse	N	uudismuodoste
 nevner	N	nimittäjä
 nevnelse ved navns nevnelse	N	nimeltä mainiten
 nek	N	lyhde
-nei-spørsmål	N	
-nedlasting	N	
-nattetid	N	
-nanometer	N	
-murring	N	
-munnmotorikk	N	
-muld	N	
-motivering	N	
-motgang	N	
-morgendag	N	
-monoteisme	N	
-monolog	N	
-mon	N	
-møll	N	
-møde	N	
-mistro	N	
-misbruker	N	
-minnebok	N	
-mikronivå	N	
+nedlasting	N	lataaminen
+nattetid	N	yöaika
+nanometer	N	nanometri
+murring	N	murina
+munnmotorikk	N	suun liikkeet   suun motoriikka
+muld	N	multa
+motivering	N	perustelu   motivointi
+motgang	N	vastoinkäyminen
+morgendag	N	huominen    huomispäivä
+monoteisme	N	yksijumaluus    monoteismi
+monolog	N	yksinpuhelu monologi
+møll	N	koi
+møde	N	vaiva   rasitus 
+mistro	N	epäluulo    epäluottamus
+misbruker	N	väärinkäyttäjä
+minnebok	N	muistokirja
+mikronivå	N	mikrotaso
 mikron	N	
-merbelastning	N	
-meld	N	
-medlidenhet	N	
-medforfatter	N	
-maryland	N	
-manøver	N	
-manikyr	N	
-mammografi	N	
-måleredskap	N	
-måleinstrument	N	
-lyster	N	
-lydstyrke	N	
-lydsignal	N	
-luring	N	
-lukning	N	
-luftkvalitet	N	
-lovbestemmelse	N	
-livstegn	N	
-lisse	N	
-limit	N	
-likhetstegn	N	
-levevis	N	
-lesetest	N	
-lengderetning	N	
-legespesialist	N	
-legebehandling	N	
-ledsagelse	N	
-lansering	N	
-lama	N	
-lægeforening	N	
-kvm	N	
-kveldstid	N	
-kvantitet	N	
-kursing	N	
-kurbad	N	
-kuppel	N	
-krydderurt	N	
-kortform	N	
-kontortid	N	
-konsument	N	
+merbelastning	N	mikroni mikrometri
+melde	N	ilmoittaa   varoittaa   arvostella
+medlidenhet	N	sääli
+medforfatter	N	kanssakirjoittaja
+manøver	N	temppu  manööveri   sotaharjoitus
+manikyr	N	käsien ja kynsien hoito manikyyri
+mammografi	N	rintojen röntgenkuvaus  mammografia
+måleredskap	N	mittausväline
+måleinstrument	N	mittaustyöväline    mittausinstrumentti
+lydstyrke	N	äänenvoimakkuus
+lydsignal	N	äänimerkki  äänisignaali
+luring	N	veijari veitikka
+lukning	N	sulkeminen
+luftkvalitet	N	ilmanlaatu
+lovbestemmelse	N	lakimääräys
+livstegn	N	elonmerkki
+lisse	N	nauha   nyöri
+likhetstegn	N	yhtäläisyysmerkki   yhtäsuuruusmerkki
+levevis	N	elämäntapa
+lesetest	N	lukukoe
+lengderetning	N	pitkittäissuunta    pituussuunta
+legespesialist	N	erikoistuva lääkäri
+legebehandling	N	lääkärin antama hoito
+ledsagelse	N	saatto  säestäminen
+lansering	N	tehdä tunnetuksi    tuoda markkinoille  (kirjan) julkaiseminen
+lama	N	laama
+legeforening	N	lääkäriliitto
+kvadratmeter kvm	N	neliömetri
+kveldstid	N	ilta-aika
+kvantitet	N	määrä   kiel. pituus kesto
+kursing	N	kurssittaminen
+kurbad	N	terveyskylpylä
+kuppel	N	kupoli  kupu
+krydderurt	N	mausteyrtti
+kortform	N	lyhykäisyys
+kontortid	N	toimistoaika
+konsument	N	kuluttaja
 konkretisering	N	
 konfliktsituasjon	N	
 komfort	N	
@@ -575,54 +570,49 @@ klipp	N
 kliniker	N	
 klapp	N	
 kinosjef	N	
-kinematograf	N	
-katte	N	
-kaskade	N	
-kår	N	
-kap	N	
-jam	N	
-jag	N	
-ispigg	N	
-ising	N	
-isbn	N	
-innsnevring	N	
-innskrenking	N	
-innlæring	N	
-inngjerding	N	
-injurie	N	
-informatikk	N	
-informasjonsformidling	N	
-implikasjon	N	
-imøtekommenhet	N	
-immunitet	N	
-immigrasjon	N	
-idrettsmann	N	
-identitetstap	N	
-hyggestund	N	
-hvileperiode	N	
-hunger	N	
-hudirritasjon	N	
-høgskolelektor	N	
-hjort	N	
-historiebok	N	
-hevning	N	
-helsefremming	N	
-helseforskning	N	
-healer	N	
-harme	N	
-håndsrekning	N	
-gullstandard	N	
-gudstjenesteliv	N	
-green	N	
-granskning	N	
-government	N	
-gom	N	
-gjestebok	N	
-gjennomslag	N	
-gjenfødelse	N	
-gjenåpning	N	
-genitalium	N	
-genesis	N	
+kinematograf	N	konkretisoiminen    esineellistäminen    aineellistaminen
+katt	N	kissa
+kaskade	N	ryöppy
+kår	N	syytinki    san. olot
+jag	N	ajojahti    kiire
+ispigg	N	jääpiikki   jäänasta
+ising	N	vihlominen  jäätyminen
+innsnevring	N	kapeneminen kaventuma
+innskrenking	N	rajoitus    vähennys    supistus
+innlæring	N	oppiminen
+inngjerding	N	aitaus
+injurie	N	kunnianloukkaus
+informatikk	N	tiedotusoppi
+informasjonsformidling	N	tiedonvälitys
+implikasjon	N	epäsuora    viitteellinen   implisiittinen
+imøtekommenhet	N	aulius
+immunitet	N	immuniteetti    elimistön vastustuskyky loukkaamattomuus
+immigrasjon	N	maahanmuutto
+idrettsmann	N	urheilija
+identitetstap	N	identiteetin menetys
+hyggestund	N	nautintohetki
+hvileperiode	N	lepojakso
+hunger	N	nälkä
+hudirritasjon	N	ihoärsytys
+høgskolelektor	N	korkeakoulun lehtori
+hjort	N	saksanhirvi
+livshistoriebok	N	elämkertakirja
+hevning	N	nosto   kohouma 
+helsefremming	N	terveyden edistäminen
+helseforskning	N	terveystutkimus
+healer	N	parantaja
+harme	N	suuttumus   närkästys
+håndsrekning	N	kädenojennus
+gullstandard    N	huippustandardi paras normi kultakanta
+gudstjeneste	N	jumalanpalvelus
+green	N	viheriö
+granskning	N	tutkinta
+gjestebok	N	vieraskirja
+gjennomslag	N	tuki    läpilyönti  jäljennös
+gjenfødelse	N	uudelleensyntyminen
+gjenåpning	N	uudelleen avaaminen
+genitalium	N	sukupuolielin
+genesis	N	Ensimmäinen Mooseksen kirja
 gasse	N	
 ganglag	N	
 fyring	N	
