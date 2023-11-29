@@ -613,127 +613,95 @@ gjenfødelse	N	uudelleensyntyminen
 gjenåpning	N	uudelleen avaaminen
 genitalium	N	sukupuolielin
 genesis	N	Ensimmäinen Mooseksen kirja
-gasse	N	
-ganglag	N	
-fyring	N	
-fylningstid	N	
-fylde	N	
-fru	N	
-fromhet	N	
-frisyre	N	
-fristed	N	
-friluft	N	
-fre	N	
-framferd	N	
-framdrift	N	
-fotgynge	N	
-fotbad	N	
-forveksling	N	
-forsyn	N	
-forsakelse	N	
-forråtnelse	N	
-fornying	N	
-formal	N	
-forferdelse	N	
-føling	N	
-flak	N	
-fjelltur	N	
-ferdigmat	N	
-ferde	N	
-feiling	N	
-feeling	N	
-fastetid	N	
-fastemåned	N	
-fasilitet	N	
-familieforhold	N	
-faktabok	N	
-f.v	N	
-f.t	N	
-ettertanke	N	
-etterprøving	N	
-etikette	N	
-et al	N	
-enter	N	
-enkeltsituasjon	N	
-emalje	N	
-ekstraarbeid	N	
+gasse	N	kaasuttaa   mässäillä   koirashanhi
+ganglag	N	kävelytapa
+fyring	N	lämmitys
+fylningstid	N	täyttymisaika   täyttöaika
+fylde	N	runsaus
+fru	N	)puhuttelu) rouva
+fromhet	N	hurskaus
+frisyre	N	kampaus
+fristed	N	vapaakaupunki   turvapaikka 
+friluft	N	ulkoilma
+framferd	N	käyttäytyminen  sanonnassa tarmo
+framdrift	N	(työn) kulku    tarmo
+fotgynge	N	jalkakeinu
+fotbad	N	jalkakylpy
+forveksling	N	sekaannus   erehdys
+forsyn	N	sallimus    kaitselmus
+forsakelse	N	kieltäymys
+forråtnelse	N	mädäntyminen
+fornying	N   uudistaminen    uusiminen	
+formalia	N	muodollisuudet
+forferdelse	N	kauhu   kauheus
+føling	N	liian alhainen verensokeri  hypoglykemia    tuntu
+flak	N	lieve   lautta
+fjelltur	N	vuoristoretki   tunturiretki
+ferdigmat	N	eines   valmisruoka
+ferd	N	matka   retki
+ferde   N   sannoissa tekeillä  liikkeellä
+feiling	N	erehdys
+fastetid	N	paastonaika
+fastemåned	N	paastokuukausi
+fasilitet	N	mukavuudet  ???
+familieforhold	N	perhesuhteet
+faktabok	N	faktakirja	
+ettertanke	N	harkinta
+etterprøving	N	oikeaksi todistaminen   verifikaatio    vahvistus
+etikette	N	etiketti    nimilappu   käyttäytymissäännöt
+et alii et al.	N	ja muut
+enkeltsituasjon	N	yksittäistilanne
+emalje	N	emali   (hammas) kiille
+ekstraarbeid	N	lisätyö
 eksklusjon	N	
-eks	N	
-egentid	N	
-egenproduksjon	N	
-editor	N	
-e.g.	N	
-drag	N	
-dørlås	N	
-domino	N	
-display	N	
-deviasjon	N	
-detail	N	
-des	N	
-dep	N	
-deodorant	N	
-dekking	N	
-degn	N	
-dass	N	
-dagspresse	N	
-curling	N	
-cross	N	
-credo	N	
-corpus	N	
-champion	N	
-celsius	N	
-cash	N	
-cape	N	
-cand.theol	N	
-cand	N	
-californium	N	
-brodd	N	
-brigg	N	
-brem	N	
-bortgang	N	
-bolk	N	
-boge	N	
-bjerk	N	
-bistilling	N	
-bilist	N	
-bevegelsesutslag	N	
-bevegelsesfrihet	N	
-betoning	N	
-besteforelder	N	
-benevnelse	N	
-bekledning	N	
-behandlingsprogram	N	
-begjæring	N	
-befolkningsgruppe	N	
-bas	N	
-bærum	N	
-barrier	N	
-barnsben	N	
-barnetro	N	
-barndomstid	N	
-avspenning	N	
-avskjerming	N	
-avledning	N	
-avkopling	N	
-avd	N	
-aug	N	
-attakk	N	
-atskillelse	N	
-atropin	N	
-åsyn	N	
-æring	N	
-arbeidspress	N	
-apr	N	
-anseelse	N	
-annal	N	
-angivelse	N	
-ang	N	
-ampulle	N	
-alminnelighet	N	
-allehelgensdag	N	
-akuttpasient	N	
-akseptering	N	
-akkumulering	N	
-affeksjon	N	
-adm	N	
-a.-g	N	
+egentid	N	oma aika
+egenproduksjon	N	oma tuotanto
+drag	N	veto    piirre  
+dørlås	N	ovilukko
+display	N	näyttö
+deviasjon	N	poikkeama   eksymä
+deodorant	N	deodorantti
+dekking	N	kattaminen  kattaus
+dass	N	huussi  käymälä
+dagspresse	N	päivälehdistö
+brodd	N	kärki   pistin   piikki
+brigg	N	priki
+brem	N	lieri
+bortgang	N	lähtö   kuolema
+bolk	N	osa kaari   väliseinä
+bog	N	lapa
+bjerk	N	koivu
+bistilling	N	sivuvirka
+bilist	N	autoilija
+bevegelsesutslag	N	liikkuvuus  ???
+bevegelsesfrihet	N	liikkumisvapaus
+betoning	N	äänenpaino  painotus
+besteforelder	N	isovanhempi
+benevnelse	N	nimitys nimike
+bekledning	N	päällyste   vaatetus
+behandlingsprogram	N	hoito-ohjelma
+begjæring	N	pyyntö  vaatimus
+befolkningsgruppe	N	väestöryhmä
+barriere	N	este
+barnsben	N	sannonnassa lapsesta lähtien
+barnetro	N	lapsenusko
+barndomstid	N	lapsuusaika
+avspenning	N	rentoutus   liennytys
+avskjerming	N	suojaus
+avledning	N	johtaminen  ohjata mielenkiinto muualle
+avkopling	N	virkistys   rentoutus
+avdeling	N	osasto
+attakk	N	kohtaus hyökkäys
+atskillelse	N	erottaminen
+atropin	N	atropiini
+åsyn	N	kasvot
+arbeidspress	N	työpaine
+anseelse	N	arvostus    kunnioitus
+angivelse	N	ilmoitus    selvitys    ilmianto
+ampulle	N	ampulli
+alminnelighet	N	tavanomaisuus   tavanmukaisuus
+allehelgensdag	N	pyhäinpäivä
+akuttpasient	N	päivystyspotilas
+akseptering	N	hyväksyntä
+akkumulering	N	kertymä
+affeksjon	N	mieltymys   kiintymys
