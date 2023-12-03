@@ -102,7 +102,7 @@ verdimodell	árvomálle		arvomalli	árvomálle		árvomálle	árvomálle
 stillingsendring			asennonvaihto	#stellelmas#molsuheapmi		rievdadeapmi	miellaguottuid molsun
 stillingsforandring			asennonvaihto	#stellelmas#molsuheapmi		posišuvdnarievdadus	miellaguottuid molsun
 leiring	stellelmasdikšu		asentohoito	stellelmasdikšu		leairas	miellaguoddoaddin
-acetylsalisylsyre			asetyylisalisyylihappo			acetylsalicylsyrra	acetylsalicylsyra
+acetylsalisylsyre	asetylasalisyvdasirva		asetyylisalisyylihappo			acetylsalicylsyrra	acetylsalicylsyra
 brukerstyring			asiakaslähtöisyys			geavaheaddjistivren	áššehasgullevašvuohta
 forbrukerundersøkelse	buohcciduhtavašvuohtadutkan	buohcciduđavašvuohtadutkan	asiakastutkimus potilastyytyväisyystutkimus	kunddardutkan #buohcci#duhtavašvuohtadutkan		geavaheddjiid iskkadeapmi	buohcci duhtavašvuođaiskkadeapmi
 ekspertsammenslutning	áššedovdijoavku		asiantuntijasyhmä			áššedovdiid čoahkádus	áššedovdi joavku
@@ -306,50 +306,50 @@ hemoglobinkonsentrasjon			hemoglobiinikonsentraatio			hemoglobiinna mearit	hemog
 hemoglobinmolekyl			hemoglobiinimolekyyli	hemoglobiidnamolekyla		hemoglobiidnamolekyla	hemoglobiidnamolekyla
 hemoglobininnhold	hemoglobiinna mearri		hemoglobiinin määrä	hemoglobiinna #mearri		hemoglobiidnasisdoallu	hemoglobiinnamihttu
 hemoglobinnivå	hemoglobiidnadássi		hemoglobiinitaso	hemoglobiidnadássi		hemoglobiinnadássi	hemoglobiinnadássi
-respirasjonsbesvær		lahpastuvvan	hengenahdistus	dyspnea, vuoiŋŋa	heakkaáŧestus	vuoiŋŋahatgássa	vuoigŋanvuohki
-åndedrag	vuoiŋŋahat		hengenveto	heakkahiistu		vuoiŋŋasteapmi	vuoiŋŋasteapmi
-respirasjonsstatus			hengityksen kliininen status	vuoigŋama #klinihkalaš stáhtus		vuoiŋŋastanstáhtus	vuoiŋŋasteami klinihkalaš stahtus
-respirasjonsdybde			hengityksen syvyys	vuoigŋama čikŋodat		vuoiŋŋahaga čiekŋalisvuohta	vuoiŋŋasteapmi
-respirasjon			hengitys	vuoigŋan		vuoiŋŋasteapmi	vuoigŋan
-respirasjon			hengitys	respiraatio	vuoigŋan	vuoiŋŋasteapmi	vuoigŋan
-pusting			hengitys  hengittäminen	vuoigŋan  sahkat		vuoiŋŋasteapmi	vuoigŋa
-respirasjonsorgan			hengityselimet	vuoigŋanorgánat		vuoiŋŋahatorgána	vuoiŋŋahatorgánat
-luftveissykdom			hengityselinsairaus	vuoigŋanorgánabuohcu		vuoiŋŋahatdávda	vuoiŋŋašdávda
-respirasjonsforstyrrelse			hengityshäiriö	vuoigŋansegohus		vuoiŋŋahatváttut	vuoigŋanváddu
-respirasjonssystem			hengitysjärjestelmä	vuoigŋanvuogádat		vuoiŋŋahaga vuogádat	vuoigŋanvuohki
-respirasjonssenter			hengityskeskus	#vuoigŋan#guovddaš		vuoiŋŋahanguovddáš	vuoiŋŋadusguovddáš
-respiratorpasient			hengityskonepotilas	#vuoigŋan#mašiidna#buohcci		vuoiŋŋahatvigi	vuoiŋŋahatdávda
-respirasjonsmuskulatur			hengityslihaksisto			vuoiŋŋahatmuskulatuvra	vuoiŋŋahatlaš lihkastagat
-respirasjonsmuskel			hengityslihas	vuoigŋanoažži		vuoiŋŋahatmusihkka	vuoiŋŋahatluohti
-respirasjonsbevegelse			hengitysliike	vuoigŋangávpi		vuoiŋŋahatlihkadus	vuoigŋanlihkadus
-respirasjonsproblem			hengitysongelma	vuoigŋanproblema		vuoiŋŋahatváttisvuohta	vuoigŋanváttisvuohta
-respirasjonsstans			hengityspysähdys			vuoiŋŋadanboddu	vuoigŋanbottu
-respirasjonsrytme			hengitysrytmi	vuoigŋanritma		vuoiŋŋasteapmi	vuoigŋanvuohki
-respirasjonssyklus			hengityssykli			vuoiŋŋahatdássi	vuoiŋŋasteapmi
+respirasjonsbesvær	vuoigŋama áŧestus	lahpastuvvan	hengenahdistus	dyspnea, vuoiŋŋa	heakkaáŧestus	vuoiŋŋahatgássa	vuoigŋanvuohki
+åndedrag	vuoiŋŋahat	vuoigŋamageassu	hengenveto	heakkahiistu		vuoiŋŋasteapmi	vuoiŋŋasteapmi
+respirasjonsstatus	vuoigŋama klinihkalaš stáhtus		hengityksen kliininen status	vuoigŋama #klinihkalaš stáhtus		vuoiŋŋastanstáhtus	vuoiŋŋasteami klinihkalaš stahtus
+respirasjonsdybde	vuoigŋama čikŋodat		hengityksen syvyys	vuoigŋama čikŋodat		vuoiŋŋahaga čiekŋalisvuohta	vuoiŋŋasteapmi
+respirasjon	vuoigŋan		hengitys	vuoigŋan		vuoiŋŋasteapmi	vuoigŋan
+respirasjon	vuoigŋan		hengitys	respiraatio	vuoigŋan	vuoiŋŋasteapmi	vuoigŋan
+pusting	vuoigŋan		hengitys  hengittäminen	vuoigŋan  sahkat		vuoiŋŋasteapmi	vuoigŋa
+respirasjonsorgan	vuoigŋanorgánat		hengityselimet	vuoigŋanorgánat		vuoiŋŋahatorgána	vuoiŋŋahatorgánat
+luftveissykdom	vuoigŋanorgánadávda		hengityselinsairaus	vuoigŋanorgánabuohcu		vuoiŋŋahatdávda	vuoiŋŋašdávda
+respirasjonsforstyrrelse	vuoigŋansegohus		hengityshäiriö	vuoigŋansegohus		vuoiŋŋahatváttut	vuoigŋanváddu
+respirasjonssystem	vuoigŋanvuogádat		hengitysjärjestelmä	vuoigŋanvuogádat		vuoiŋŋahaga vuogádat	vuoigŋanvuohki
+respirasjonssenter	vuoigŋanguovddáš		hengityskeskus	#vuoigŋan#guovddaš		vuoiŋŋahanguovddáš	vuoiŋŋadusguovddáš
+respiratorpasient	vuoigŋanmašiidnabuohcci	vuoigŋŋahatmašiidnabuohcci	hengityskonepotilas	#vuoigŋan#mašiidna#buohcci		vuoiŋŋahatvigi	vuoiŋŋahatdávda
+respirasjonsmuskulatur	vuoigŋanoažži	vuoigŋandeahkit	hengityslihaksisto			vuoiŋŋahatmuskulatuvra	vuoiŋŋahatlaš lihkastagat
+respirasjonsmuskel	vuoigŋanoažži		hengityslihas	vuoigŋanoažži		vuoiŋŋahatmusihkka	vuoiŋŋahatluohti
+respirasjonsbevegelse	vuoigŋanlihkadus		hengitysliike	vuoigŋangávpi		vuoiŋŋahatlihkadus	vuoigŋanlihkadus
+respirasjonsproblem	vuoigŋančuolbma	vuoigŋanproblema	hengitysongelma	vuoigŋanproblema		vuoiŋŋahatváttisvuohta	vuoigŋanváttisvuohta
+respirasjonsstans		onko oikea suomenkielinen sana	hengityspysähdys			vuoiŋŋadanboddu	vuoigŋanbottu
+respirasjonsrytme	vuoigŋanritma		hengitysrytmi	vuoigŋanritma		vuoiŋŋasteapmi	vuoigŋanvuohki
+respirasjonssyklus	vuoigŋanbirrajohtu		hengityssykli			vuoiŋŋahatdássi	vuoiŋŋasteapmi
 respirasjonssyklus			hengityssykli			vuoiŋŋahatdássi	vuoiŋŋasteapmi
 respirasjonsfrekvens			hengitystaajuus	vuoigŋandávjodat		vuoiŋŋahatdássi	vuoigŋanluođđa
-respirasjonsmønster			hengitystapa	vuoigŋandáhpi		vuoiŋŋahatminsttar	vuoigŋanvuohki
+respirasjonsmønster	vuoigŋandáhpi		hengitystapa	vuoigŋandáhpi		vuoiŋŋahatminsttar	vuoigŋanvuohki
 respirasjonsfrekvens			hengitystiheys	#vuoiŋandávjodat		vuoiŋŋahatdássi	vuoiŋŋahatdávda
-respirasjonsstøtte			hengitystuki	vuoigŋanduvdda		vuoiŋŋahat doarjja	vuoiŋŋahatvuođđu
-respirasjonsarbeid			hengitystyö	vuoigŋanbargu		vuoiŋŋahatbargu	vuoigŋanbargu
-personopplysning			henkilötieto	olmmošdiehtu		persuvdnadieđut	persuvdnadieđut
+respirasjonsstøtte	vuoigŋandoarjja		hengitystuki	vuoigŋanduvdda		vuoiŋŋahat doarjja	vuoiŋŋahatvuođđu
+respirasjonsarbeid	vuoigŋanbargu		hengitystyö	vuoigŋanbargu		vuoiŋŋahatbargu	vuoigŋanbargu
+personopplysning	olmmošdiehtu	heaggadiehtu	henkilötieto	olmmošdiehtu		persuvdnadieđut	persuvdnadieđut
 hepatitt	hepatihtta	vuoivvasvuolši	hepatiitti	maksatulehdus		hepatihta	hepihtta
-sensitivitet			herkkyys	hearkivuohta		hearkkesvuohta	hearkkesvuohta
-nerveimpuls			hermoimpulssi	#nervaimpulsa		nervaimpulssa	nervaimpulssa
-nervebane			hermorata	#nervaluodda		nervobáddi	nervováikkuhus
+sensitivitet	hearkivuohta		herkkyys	hearkivuohta		hearkkesvuohta	hearkkesvuohta
+nerveimpuls	nearvaimpulsa		hermoimpulssi	#nervaimpulsa		nervaimpulssa	nervaimpulssa
+nervebane	nearvaluodda	nearvageainnus	hermorata	#nervaluodda		nervobáddi	nervováikkuhus
 ryggmargsbrokk			hermostoputken sulkeutumishäiriö  meningomyeloseele	MMC 	nearvafierbmebohcci *sulkeutumishäiriö  	čielgemáddodatbávččas	meningomyelosealla sivva, nervaceal giddennávccaid váddu
 hg			hg	hektogramma		hg	hg
-massasje			hieronta	#massáša		mássa	mássaeapmi
-massasjestav			hierontasauva	#massášasoabbi		mássaviežžanstággu	mássaviežžahat
-karbondioksid			hiilidioksidi	hilladioksiida		karbondioksiida	riššadioksiida
+massasje	ruvven		hieronta	#massáša		mássa	mássaeapmi
+massasjestav	ruvvensoabbi		hierontasauva	#massášasoabbi		mássaviežžanstággu	mássaviežžahat
+karbondioksid	čitnadioksiida		hiilidioksidi	hilladioksiida		karbondioksiida	riššadioksiida
 CO2-narkose	CO2-narkosa		hiilidioksidinarkoosi	#hilla#dioksiida#narkosa		CO2-narkoisa	karbondioksiidanarkoša
-karbondioksidinnhold			hiilidioksidipitoisuus	hilladioksiidasisdoallu		karbondioksiida	čáhppesmurjen
-karbondioksidnivå			hiilidioksiditaso	hilladioksiidadássi		karbondioksiidadássi	čáhppesmurrii gullevaš
-kullsyre			hiilihappo	hillasuvri		giehtahápmi	čáhppesmurjen
-kullsyrevann			hiilihappovesi	hillasuvrečáhci		čáhppesmurjenčáhci	karbonávnnas čáhci
-karbohydratinntak			hiilihydraatien saanti	*hiilihydraatien oažžun		karbohydratesisdoallu	čáhppesmurjjiid oažžun
-hydrokarbonkjede			hiilivetyketju	hillačázaviđji		hydrocarbohydratesollisvuohta	čáhppesmurjenláhki
-svettetokt			hikoilukohtaus			vuigadis ášši	vuoigŋanbáiki
+karbondioksidinnhold	čitnadioksiidadoallu		hiilidioksidipitoisuus	hilladioksiidasisdoallu		karbondioksiida	čáhppesmurjen
+karbondioksidnivå	čitnadioksiidadássi		hiilidioksiditaso	hilladioksiidadássi		karbondioksiidadássi	čáhppesmurrii gullevaš
+kullsyre	čitnasivra	čađđasivra	hiilihappo	hillasuvri		giehtahápmi	čáhppesmurjen
+kullsyrevann	čitnasivračáhci		hiilihappovesi	hillasuvrečáhci		čáhppesmurjenčáhci	karbonávnnas čáhci
+karbohydratinntak	čitnahydráhta oažžun		hiilihydraatien saanti	*hiilihydraatien oažžun		karbohydratesisdoallu	čáhppesmurjjiid oažžun
+hydrokarbonkjede	čitnačázaviđji		hiilivetyketju	hillačázaviđji		hydrocarbohydratesollisvuohta	čáhppesmurjenláhki
+svettetokt	bivastuvvanvuohkku	bivastuvvandohppehallan	hikoilukohtaus			vuigadis ášši	vuoigŋanbáiki
 operasjonshette			hiussuojus 			čuohpahusgávpi	suodji
 hårvekst			hiusten kasvu  karvojen kasvu	vuovttaid šaddu  guolggaid šaddu		vuovdešaddu	čivga mii šaddá go gállu šaddá
 håravfall			hiustenlähtö  hiuskato	vuovttaidvuolgga vuoktavátnun  		vuovssadeamit	vuovssadeapmi
