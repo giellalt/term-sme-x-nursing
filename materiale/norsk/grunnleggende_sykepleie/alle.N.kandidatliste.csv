@@ -272,7 +272,7 @@ tannbein	bátnedákti		hammasluu	bátnedákti		bátneluohkká	bániidlistu
 tannprotese	bátneprotesa	dahkubánit	hammasproteesi	bátneprotesa		bátnegeavahanproseassa	bátnedoavttir
 tannhals	báni čeabi		hampaan kaula	báni čeabi		bátnedoallu	báni gákti
 tannstell	bániid dikšu		hampaiden hoito	bániid dikšu		bátnedoallu	min bátnedikšu
-tannløsning			hampaiden irtoaminen	bániid luovvanit		čoavddus bániide	bániid čuoldin
+tannløsning		luovvanit	hampaiden irtoaminen	bániid luovvanit		čoavddus bániide	bániid čuoldin
 tannpuss	bániid buhtástus		hampaiden puhdistus	bániid buhtástus		bátnedoallu	bániid čuggen
 tannstatus	bániid dearvvašvuođadilli		hampaiden terveydentila	bániid healssadilli		bátnestáhtus	dearvvašvuođadilli báttiin
 oksygentilførsel	oksygena addin		hapen anto	oksygena addin		oksygenasealvadeapmi	ávdnasat
@@ -350,68 +350,68 @@ kullsyrevann	čitnasivračáhci		hiilihappovesi	hillasuvrečáhci		čáhppesmurj
 karbohydratinntak	čitnahydráhta oažžun		hiilihydraatien saanti	*hiilihydraatien oažžun		karbohydratesisdoallu	čáhppesmurjjiid oažžun
 hydrokarbonkjede	čitnačázaviđji		hiilivetyketju	hillačázaviđji		hydrocarbohydratesollisvuohta	čáhppesmurjenláhki
 svettetokt	bivastuvvanvuohkku	bivastuvvandohppehallan	hikoilukohtaus			vuigadis ášši	vuoigŋanbáiki
-operasjonshette			hiussuojus 			čuohpahusgávpi	suodji
-hårvekst			hiusten kasvu  karvojen kasvu	vuovttaid šaddu  guolggaid šaddu		vuovdešaddu	čivga mii šaddá go gállu šaddá
-håravfall			hiustenlähtö  hiuskato	vuovttaidvuolgga vuoktavátnun  		vuovssadeamit	vuovssadeapmi
-hårvaskhette			hiustenpesumyssy	vuovttaidbassangahpir		vuovssadanbivttas	vuovssadeamit
-sporstoff			hivenaine	#binnánašávnnas		luoddaávdnasat	hivvodat
-omsorgsutøver			hoidon antaja	divššu #addi		fuolaheaddji	dikšoaddi
-behandlingssvikt			hoidon epäonnistuminen	divššu eahpelihkostuvvat		dikšunmeattáhus	dikšunváttisvuohta
-omsorgsbegrep			hoidon käsite	divššu doaba		fuolahusdoaba	divššu doaba
-behandlingskvalitet			hoidon laatu	divššu dássu		dikšunkvalitehta	dikšuma kvalitehta
-omsorgsdepartement			hoidon ministeriö	divššu ministeriija		fuolahusdepartemeanta	dearvvašvuođa ministeriija
-behandlingsopplegg			hoidon suunnitelma	divššu plána		dikšunskovvi	divššu plána
-behandlingsplan			hoidon suunnitelma	divššu plána		dikšunplána	divššu plána
-behandlingsregime			hoidon suunnitelma	divššu plána		dikšunvuohki	divššu plána
-kartleggingssamtale			hoidon tarpeen arviointikeskustelu	divššu dárbbu evaluerengulahallan		kártenságastallan	dikšundárbbu árvvoštallan ságastallan
-sykepleieresultat			hoidon tulos	divššu boađus		buohccidivššárboađus	divššu boađus
-sykepleiebehov			hoidontarve	divššodárbu		buohccedikšundárbu	dikšundárbu
+operasjonshette	vuoktasuodji		hiussuojus 			čuohpahusgávpi	suodji
+hårvekst	vuovttaid šaddu guolggaid šaddu		hiusten kasvu  karvojen kasvu	vuovttaid šaddu  guolggaid šaddu		vuovdešaddu	čivga mii šaddá go gállu šaddá
+håravfall		luovvanit	hiustenlähtö  hiuskato	vuovttaidvuolgga vuoktavátnun  		vuovssadeamit	vuovssadeapmi
+hårvaskhette	vuovttaidbassangahpir		hiustenpesumyssy	vuovttaidbassangahpir		vuovssadanbivttas	vuovssadeamit
+sporstoff	vátneávnnas		hivenaine	#binnánašávnnas		luoddaávdnasat	hivvodat
+omsorgsutøver	divššuaddi		hoidon antaja	divššu #addi		fuolaheaddji	dikšoaddi
+behandlingssvikt	divššu eahpelihkostupmi		hoidon epäonnistuminen	divššu eahpelihkostuvvat		dikšunmeattáhus	dikšunváttisvuohta
+omsorgsbegrep	divššu doapa		hoidon käsite	divššu doaba		fuolahusdoaba	divššu doaba
+behandlingskvalitet	divššu dássi		hoidon laatu	divššu dássu		dikšunkvalitehta	dikšuma kvalitehta
+omsorgsdepartement		norjalainen titteli?	hoidon ministeriö	divššu ministeriija		fuolahusdepartemeanta	dearvvašvuođa ministeriija
+behandlingsopplegg	divššu plána		hoidon suunnitelma	divššu plána		dikšunskovvi	divššu plána
+behandlingsplan	divššu plána		hoidon suunnitelma	divššu plána		dikšunplána	divššu plána
+behandlingsregime	divššu plána		hoidon suunnitelma	divššu plána		dikšunvuohki	divššu plána
+kartleggingssamtale	divššu dárbbu árvvoštallan ságastallan		hoidon tarpeen arviointikeskustelu	divššu dárbbu evaluerengulahallan		kártenságastallan	dikšundárbbu árvvoštallan ságastallan
+sykepleieresultat	divššu boađus		hoidon tulos	divššu boađus		buohccidivššárboađus	divššu boađus
+sykepleiebehov	dikšundárbu	dikšodarbu	hoidontarve	divššodárbu		buohccedikšundárbu	dikšundárbu
 omsorgsgiver			hoitava henkilö	#hoitát olmmoš		fuolaheaddji	lea divššohas
-pleiemiddel			hoitoaine	dikšoávnnas		dikšunávnnas	dálkkas
-pleieassistent			hoitoapulainen	dikšoveahkki		buohccedikšunassisteanta	dikšunveahkki
-pleiemedhjelper			hoitoapulainen	dikšoveahkki		buohccedikšuveahkki	dikšunveahkki
-pleiepersonale			hoitohenkilökunta	dikšoolmmošgielda		dikšubargoveahka	dikšubargoveahka
-sykehusopphold			hoitojakso sairaalassa	dikšooassi buohcceviesus		buohcceviesus orruma birra	lea buohcciviesus
-behandlingssystem			hoitojärjestelmä	dikšovuogádat		dikšunvuogádat	dikšunvuogádat
+pleiemiddel	dikšunávnnas		hoitoaine	dikšoávnnas		dikšunávnnas	dálkkas
+pleieassistent	dikšunveahkki		hoitoapulainen	dikšoveahkki		buohccedikšunassisteanta	dikšunveahkki
+pleiemedhjelper	dikšunveahkki		hoitoapulainen	dikšoveahkki		buohccedikšuveahkki	dikšunveahkki
+pleiepersonale	dikšunbargoveahka		hoitohenkilökunta	dikšoolmmošgielda		dikšubargoveahka	dikšubargoveahka
+sykehusopphold	dikšunáigodat buohcceviesus		hoitojakso sairaalassa	dikšooassi buohcceviesus		buohcceviesus orruma birra	lea buohcciviesus
+behandlingssystem	dikšunvuogádat		hoitojärjestelmä	dikšovuogádat		dikšunvuogádat	dikšunvuogádat
 behandlingsforløp			hoitoketju	dikšoviđji		dálkkodanproseassa	dálkkodanriekkis
-sykehjemsbeboer			hoitokodin asukas	dikšogođiiguin #ássi		buhcciidsiidda ássi	dikšunguovddáža ássi
-pleiekultur			hoitokulttuuri	dikšokultuvra		dikšunkultuvra	dikšunkultuvra
-pleielidelse			hoitokärsimys	dikšogillámuš		dikšunváttisvuohta	dálkkodanriekkis
-behandlingsrutine			hoitokäytäntö	dikšogeavat		dikšunrutiidna	dikšungeavahus
-behandlingsmulighet			hoitomahdollisuus	dikšoliiba		dikšunvejolašvuohta	dikšunvejolašvuohta
-behandlingspakke			hoitopakkaus			dikšunpáhkka	dikšunpáhkka
-pasientforløp			hoitopolku	dikšoluodda		pasieantamannolaga	dálkkodanbálggis
-tjenesteforløp			hoitopolku	dikšoluodda		bálvalusáigi	dálkkodanbálggis
-omsorgsrelasjon			hoitosuhde	dikšogorri		fuolahusoktavuohta	dikšundilli
-sykepleieplan			hoitosuunnitelma	dikšoplána		buohccedikšoplána	dikšunplána
-institusjonsseng			hoitosänky	dikšoseaŋga		institušuvdna seaŋga	dálkkodanlatnja
-livstestament			hoitotestamentti	dikšotestameanta		eallingearvastuvvan	dálkoduođaštus
-sykepleievitenskap			hoitotiede	dikšodieđa		buohccidivššárdieđa	dálkkasdieđa
+sykehjemsbeboer	dikšunruoktoášši	dikšunruoktoorru	hoitokodin asukas	dikšogođiiguin #ássi		buhcciidsiidda ássi	dikšunguovddáža ássi
+pleiekultur	dikšunkultuvra		hoitokulttuuri	dikšokultuvra		dikšunkultuvra	dikšunkultuvra
+pleielidelse	dikšungillámuš		hoitokärsimys	dikšogillámuš		dikšunváttisvuohta	dálkkodanriekkis
+behandlingsrutine	dikšunvuohki	dikšungeavat	hoitokäytäntö	dikšogeavat		dikšunrutiidna	dikšungeavahus
+behandlingsmulighet	dikšunvejolašvuohta	dikšunliiba	hoitomahdollisuus	dikšoliiba		dikšunvejolašvuohta	dikšunvejolašvuohta
+behandlingspakke	dilšunpáhkka		hoitopakkaus			dikšunpáhkka	dikšunpáhkka
+pasientforløp	dikšunbálggis		hoitopolku	dikšoluodda		pasieantamannolaga	dálkkodanbálggis
+tjenesteforløp	dikšunbálggis		hoitopolku	dikšoluodda		bálvalusáigi	dálkkodanbálggis
+omsorgsrelasjon	dikšungaskavuohta		hoitosuhde	dikšogorri		fuolahusoktavuohta	dikšundilli
+sykepleieplan	dikšunplána		hoitosuunnitelma	dikšoplána		buohccedikšoplána	dikšunplána
+institusjonsseng	dikšunseaŋga		hoitosänky	dikšoseaŋga		institušuvdna seaŋga	dálkkodanlatnja
+livstestament	dikšundeastámentá		hoitotestamentti	dikšotestameanta		eallingearvastuvvan	dálkoduođaštus
+sykepleievitenskap	dikšundieđa		hoitotiede	dikšodieđa		buohccidivššárdieđa	dálkkasdieđa
 sykepleiefag			hoitotiede??	dikšodieđa?		buohccidivššárfága	dikšunfága?
-behandlingssituasjon			hoitotilanne	dikšodilli		dikšundilli	dikšundilli
-pleiesituasjon			hoitotilanne	dikšodilli		dikšundilli	dikšundilli
-behandlingstiltak			hoitotoimenpide	dikšodoaibmabidju		dikšundoaimmat	dikšundoaimma
-sykepleietiltak			hoitotoimet	dikšodoaimmat			dikšundoaimmat
+behandlingssituasjon	dikšundilli		hoitotilanne	dikšodilli		dikšundilli	dikšundilli
+pleiesituasjon	dikšundilli		hoitotilanne	dikšodilli		dikšundilli	dikšundilli
+behandlingstiltak	dikšundoaibmabidju		hoitotoimenpide	dikšodoaibmabidju		dikšundoaimmat	dikšundoaimma
+sykepleietiltak	dikšundoaimmat		hoitotoimet	dikšodoaimmat			dikšundoaimmat
 pleieoppgave			hoitotoimi hoitotyön tehtävä	dikšodoaibma dikšobarggu doaibma		dikšunbargu	dikšundoaimma dikšunbargu
-sykepleietenkning			hoitotyön ajattelu sairaanhoidollinen ajattelu	dikšobarggu jurddašeapmi *sairaanhoidollinen jurddašeapmi		buohccidivššárjurdda	dikšunbarggu jurddašeapmi buohccidivššus
-omsorgsverdi			hoitotyön arvot	dikšobarggu árvvut		fuolahusárvosaš	dikšunbarggu árvvut
-sykepleieverdi			hoitotyön arvot	dikšobarggu árvvut		buohccidikšunárvu	dikšunbarggu árvvut
-omsorgsetikk			hoitotyön etiikka	dikšobarggu etihkka		fuolahanetihkka	dikšunbarggu etihkka
-omsorgsfilosofi			hoitotyön filosofia	dikšobarggu filosofiija		fuolahusfilosofiija	dálkkodanrieggá filosofiija
-sykepleiedokumentasjon			hoitotyön kirjaaminen	dikšobarggu 		buohccidikšunduođaštus	dikšunbarggu girji
-sykepleieferdighet			hoitotyön kädentaidot	dikšobarggu gieđadáiddut		buohccidivššárgealbu	dikšunbarggu giehtaduogáš
-sykepleiehåndbok			hoitotyön käsikirja	dikšobarggu giehtagirji		buohccedikšungiehtagirji	dikšunbargogiehtagirji
-omsorgsmodell			hoitotyön malli	dikšobarggu #málle		fuolahusmodealla	dikšunbarggu málle
-sykepleiemodell			hoitotyön malli	dikšobarggu #málle		buohccidivššármálle	dikšunbarggu málle
-sykepleiedefinisjon			hoitotyön määritelmä	dikšobarggu definišuvdna		buohccidivššármearrádus	dálkkodanbarggu meroštallan
-sykepleieproblem			hoitotyön ongelma	dikšobarggu problema		buohccidivššu váttisvuohta	dikšunbarggu čuolbma
-sykepleieprosess			hoitotyön prosessi	dikšobarggu proseassa		buohccedikšunproseassa	dikšunproseassa
-pleieplan			hoitotyön suunnitelma	dikšobarggu plána		dikšunplána	dikšunplána
-sykepleieferdighet			hoitotyön taidot	dikšobarggu dáiddut		buohccidivššárgealbu	dálkkodanmáhttu
-sykepleieoppgave			hoitotyön tehtävä	dikšobarggu doaibma		buohccidivššárbargu	dikšunbarggu bargu
+sykepleietenkning	dikšunbarggu jurddašeapmi		hoitotyön ajattelu sairaanhoidollinen ajattelu	dikšobarggu jurddašeapmi *sairaanhoidollinen jurddašeapmi		buohccidivššárjurdda	dikšunbarggu jurddašeapmi buohccidivššus
+omsorgsverdi	dikšunbarggu árvvut		hoitotyön arvot	dikšobarggu árvvut		fuolahusárvosaš	dikšunbarggu árvvut
+sykepleieverdi	dikšunbarggu árvvut		hoitotyön arvot	dikšobarggu árvvut		buohccidikšunárvu	dikšunbarggu árvvut
+omsorgsetikk	dikšunbarggu etihkka		hoitotyön etiikka	dikšobarggu etihkka		fuolahanetihkka	dikšunbarggu etihkka
+omsorgsfilosofi	dikšunbarggu filosofiija		hoitotyön filosofia	dikšobarggu filosofiija		fuolahusfilosofiija	dálkkodanrieggá filosofiija
+sykepleiedokumentasjon		dikšunbarggu registreret	hoitotyön kirjaaminen	dikšobarggu 		buohccidikšunduođaštus	dikšunbarggu girji
+sykepleieferdighet	dikšunbarggu gieđadáiddut		hoitotyön kädentaidot	dikšobarggu gieđadáiddut		buohccidivššárgealbu	dikšunbarggu giehtaduogáš
+sykepleiehåndbok	dikšunbarggu giehtagirji		hoitotyön käsikirja	dikšobarggu giehtagirji		buohccedikšungiehtagirji	dikšunbargogiehtagirji
+omsorgsmodell	dikšunbarggu málle		hoitotyön malli	dikšobarggu #málle		fuolahusmodealla	dikšunbarggu málle
+sykepleiemodell	dikšunbarggu málle		hoitotyön malli	dikšobarggu #málle		buohccidivššármálle	dikšunbarggu málle
+sykepleiedefinisjon	dikšunbarggu definišuvdna		hoitotyön määritelmä	dikšobarggu definišuvdna		buohccidivššármearrádus	dálkkodanbarggu meroštallan
+sykepleieproblem	dikšunbarggu problema		hoitotyön ongelma	dikšobarggu problema		buohccidivššu váttisvuohta	dikšunbarggu čuolbma
+sykepleieprosess	dikšunbarggu proseassa		hoitotyön prosessi	dikšobarggu proseassa		buohccedikšunproseassa	dikšunproseassa
+pleieplan	dikšunbarggu plána		hoitotyön suunnitelma	dikšobarggu plána		dikšunplána	dikšunplána
+sykepleieferdighet	dikšunbarggu dáiddut		hoitotyön taidot	dikšobarggu dáiddut		buohccidivššárgealbu	dálkkodanmáhttu
+sykepleieoppgave	dikšunbarggu dahkamuš		hoitotyön tehtävä	dikšobarggu doaibma		buohccidivššárbargu	dikšunbarggu bargu
 sykepleieteoretiker			hoitotyön teoreetikko	dikšobarggu 		buohccidivššoteorehtalaš	dálkkodanrieggá teorehtalaš oassi
-sykepleieteori			hoitotyön teoria	dikšobarggu teoriija		buohccindábiid teoriija	dálkkodanrieggá teoriija
-sykepleiekunnskap			hoitotyön tieto	dikšobarggu diehtu		buohccidivššármáhttu	dikšunbarggu diehtu
+sykepleieteori	dikšunbarggu teoriija		hoitotyön teoria	dikšobarggu teoriija		buohccindábiid teoriija	dálkkodanrieggá teoriija
+sykepleiekunnskap	dikšunbarggu diehtu		hoitotyön tieto	dikšobarggu diehtu		buohccidivššármáhttu	dikšunbarggu diehtu
 behandlingsalternativ			hoitovaihtoehto	dikšomolssaeaktu		dikšun molssaeaktu	dikšun molssaeaktu
 behandlingsvalg			hoitovalinta	dikšoválljen		dikšunválljen	dikšunválljen
 behandlingsansvar			hoitovastuu	dikšovástu		dikšunovddasvástádus	dikšunovddasvástádus
