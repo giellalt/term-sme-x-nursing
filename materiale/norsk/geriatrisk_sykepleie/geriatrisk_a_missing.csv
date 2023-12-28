@@ -1,93 +1,93 @@
-abdominal	A	
-adaptiv	A	
-administrerende	A	
-aerob	A	
-affektiv	A	
+abdominal	A	abdominaali abdominalinen   selkärankaisen vatsaan liittyvä
+adaptiv	A	adaptiivinen    eliöiden sopeutumiseen liittyvä
+administrerende	A	- direktør toimitusjohtaja
+aerob	A	aerobinen   hapellinen  hapen käyttöön liittyvä
+affektiv	A	affektiivinen   tunnetilaan liittyvä
 akseptabel	A	hyväksyttävä
-akuttgeriatrisk	A	
-akuttmedisinsk	A	
-akuttpsykiatrisk	A	
-alarmerende	A	
-aldersbetinget	A	
-alderstypisk	A	
-aldrende	A	
-alert	A	
-alfablokkerende	A	
-allmennkulturell	A	
-allmennmenneskelig	A	
-allmennpraktiserende	A	
-altoppslukende	A	
-altoverskyggende	A	
-ambivalent	A	
-anal	A	
-anatomisk	A	
-anerkjennende	A	
-angstdempende	A	
-animalsk	A	
-anliggende	A	
-anorektal	A	
-anspent	A	
-anstrengende	A	
-antatt	A	
-anti-inflammatorisk	A	
-antipsykotisk	A	
-anvende	A	
-apatisk	A	
-åpenlys	A	
-appetittvekkende	A	
-arakteristisk	A	
-arbeidsbesparende	A	
-aromatisk	A	
-arteriell	A	
-aterosklerotisk	A	
-atferdsmessig	A	
-atypisk	A	
-autorisert	A	
-avbrutt	A	
-avførende	A	
-avklarende	A	
-avslappet	A	
-avtakende	A	
-bærbar	A	
-bakenforliggende	A	
-bakerst	A	
-bakteriologisk	A	
-balinesisk	A	
-banal	A	
-basal	A	
-bedervet	A	
-begynnende	A	
-behandlingsmessig	A	
-behandlingsmulig	A	
-beisk	A	
-bekreftende	A	
-bekvem	A	
-bekymringsfull	A	
-benzodiazepinliknende	A	
-beslektet	A	
-bestående	A	
-bevegd	A	
-bevegelseshemmet	A	
-bevegelseshindrende	A	
-bifil	A	
-bilsakkyndig	A	
-biografisk	A	
-biopsykososial	A	
-blendende	A	
-blødende	A	
-blodglukosesenkende	A	
-blodtrykkssenkende	A	
-brannfarlig	A	
-brannforebyggende	A	
-brannhemmende	A	
-brukerstyrt	A	
-brutt	A	
-brysk	A	
-buet	A	
-byggende	A	
-cellebiologisk	A	
-cerebral	A	
-cyanotisk	A	
+akuttgeriatrisk	A	akuuttigeriatria
+akuttmedisinsk	A	akuuttilääketieteellinen    vammojen ja akuuttien sairauksien kiireellinen hoito
+akuttpsykiatrisk	A	akuuttipsykiatria
+alarmerende	A	hälyttävä
+aldersbetinget	A	ikään liittyvä
+alderstypisk	A	ikätyypillinen  tiettyyn ikään liittyvä
+aldrende	A	ikääntyvä   vanheneva
+alert	A	valpas  varuilla
+alfablokkerende	A	alfareseptoreita salpaava
+allmennkulturell	A	yleiseen kulttuuriin liittyvä
+allmennmenneskelig	A	yleisinhimillinen
+allmennpraktiserende	A	yleislääketieteeseen perehtynyt
+altoppslukende	A	kaikennielevä ???
+altoverskyggende	A	kaiken peittämä ??? ei
+ambivalent	A	ambivalentti    ambivalenttinen ristiriitainen
+anal	A	anaali-     peräaukon
+anatomisk	A	anatominen
+anerkjennende	A	hyväksyvä   tunnustava  arvoa antava ???
+angstdempende	A	ahdistusta lievittävä
+animalsk	A	eläin-  animaalinen eläimiin liittyvä
+anliggende	A	asia    ???
+anorektal	A	peräaukko-peräsuoli-
+anspent	A	jännittynyt
+anstrengende	A	rasittava
+antatt	A	oletettu    å være antatt olla hyväksytty jhk ???
+anti-inflammatorisk	A	anti-inflammatorinen    tulehdusta ehkäisevä/vähentävä ???
+antipsykotisk	A	antipsykoottinen    psykoosien hoitoon käytettävä 
+apatisk	A	apaattinen  henkisesti lamaantunut  välinpitämätön
+åpenlys	A	avoin   julkinen
+appetittvekkende	A	ruokahalua herättävä
+karakteristisk	A	luonteenomainen kuvaava
+arbeidsbesparende	A	käytännöllinen  työtä helpottava
+aromatisk	A	aromaattinen    hyvänhajuinen
+arteriell	A	valtimollinen   valtimoihin liittyvä
+aterosklerotisk	A	valtimotauti    ateroskleroosi  valtimonkovettumatauti
+atferdsmessig	A	käyttäytymis-   käyttäytymiseen liittyvä
+atypisk	A	atyyppinen  epätyypillinen
+autorisert	A	laillistettu
+avbrutt	A	katkonainen
+avførende	A	laksatiivinen   suolen toimintaa stimuloiva
+avklarende	A	selventävä
+avslappet	A	rento   rentoutunut
+avtakende	A	vähenevä    heikkenevä  tyyntyvä
+bærbar	A	kannettava
+bakenforliggende	A	takana oleva    taustalla piilossa oleva merkityksellinen asia
+bakerst	A	taimmainen  taimpana
+bakteriologisk	A	bakteriologinen bakteeriopillinen
+balinesisk	A	balilainen
+banal	A	banaali lattea  arkinen
+basal	A	basaali basaalinen  (lääket) tyven puoleinen
+bedervet	A	pilaantunut
+begynnende	A	alkava  orastava
+behandlingsmessig	A	hoitoon liittyvä    käsittelyyn liittyvä onko ???
+behandlingsmulig	A	asia/oire/tauti, joka on mahdollista hoitaa  ???
+beisk	A	kitkerä karvas  pureva
+besk    A   kitkerä karvas   pureva
+bekreftende	A	vahvistava  myöntävä    myönteinen  
+bekvem	A	mukava
+bekymringsfull	A	huolestuttava   huolestuvainen ???
+benzodiazepinliknende	A	bentsodiatsepiinin kaltainen
+beslektet	A	være - med noen olla sukua jollekin sukulais-
+bestående	A	kestävä pysyvä  det - vallitsevat olot
+bevegd	A	siirtynyt   liikuttunut vakuuttunut ??? ovatko ok käännökset
+bevegelseshemmet	A	liikuntarajoitteinen    liikuntaesteinen    liikuntavammainen
+bevegelseshindrende	A	liikkumista estävä
+bifil	A	biseksuaalinen
+bilsakkyndig	A	katsastusviranomainen   katsastus- ja ajokorttivirasto ???
+biografisk	A	elämänkerrallinen
+biopsykososial	A	biopsykososiaalinen
+blendende	A	häikäisevä  loistava
+blødende	A	vuotava
+blodglukosesenkende	A	verensokeria alentava
+blodtrykkssenkende	A	verenpainetta alentava
+brannfarlig	A	palovaarallinen tulenarka
+brannforebyggende	A	tulipalojen ehkäisy monikko ??
+brannhemmende	A	tulipaloja estävä monikko ???
+brukerstyrt	A	potilaan/asiakkaan/hoitotyön palvelujen käyttämän itse hallinnoima ???
+brutt	A	katkaistu   heikentynyt keskeytetty ??? käännökset
+brysk	A	töykeä  tuima
+buet	A	kaareva käyrä   väärä
+forebyggende	A	ehkäisevä
+cellebiologisk	A	solubiologinen
+cerebral	A	aivoperäinen    serebraalinen   - parese aivohalvaus
+cyanotisk	A	sinertävä   syanoottinen
 dedikert	A	
 definitiv	A	
 delikat	A	
