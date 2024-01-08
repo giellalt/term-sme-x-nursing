@@ -121,98 +121,95 @@ engasjerende	A	kiinnostusta herättävä   osallistumista edistävä
 epileptisk	A	epileptinen epilepsiaan liittyvä    epilepsiasta aiheutuva
 epokegjørende	A	käänteentekevä
 erfaringsbasert	A	kokemukseen perustuva
-ernæringsmessig	A	
-essensiell	A	
-evidensbasert	A	
-fagetisk	A	
-fallforebyggende	A	
-fallisk	A	
-fåmælt	A	
-familiær	A	
-familiebasert	A	
-farmakodynamisk	A	
-farmakokinetisk	A	
-farmakologisk	A	
-fastslått	A	
-fatal	A	
-feilfri	A	
-fekal	A	
-fellesmenneskelig	A	
-femurende	A	
-fenomenologisk	A	
-fettoppløselig	A	
-fibrøs	A	
-fiks	A	
-fiksert	A	
-finstemt	A	
-firkantet	A	
-flekkvis	A	
-flerfoldig	A	
-følbar	A	
-følelsesmessig	A	
-følgelig	A	
-foranderlig	A	
-forbausende	A	
-forberedt	A	
-forekommende	A	
-forenlig	A	
-foreslått	A	
-forestående	A	
-foretatt	A	
-forfengelig	A	
-forhøyet	A	
-forlengede	A	
-forpliktende	A	
-forsinket	A	
-forskningsbasert	A	
-forskriftsmessig	A	
-forstått	A	
-forstemmende	A	
-forstyrrende	A	
-forsvarsløs	A	
-fortløpende	A	
-fortvilet	A	
-forutinntatt	A	
-framoverbøyd	A	
-framoverlutende	A	
-framtredende	A	
-frank	A	
-fredfull	A	
-fremragende	A	
-fristende	A	
+ernæringsmessig	A	ravitsemusta koskeva
+essensiell	A	olennainen  välttämätön
+evidensbasert	A	näyttöön perustuva
+fagetisk	A	ammattietiikka
+fallforebyggende	A	kaatumisia ehkäisevä
+fallisk	A	fallinen
+fåmælt	A	vähäpuheinen    vaitelias   vaitonainen
+familiær	A	perhe-  tuttavallinen
+familiebasert	A	perheeseen perustuva    perheeseen pohjautuva
+farmakodynamisk	A	farmakodynaaminen   lääkeaineen vaikutusta koskeva
+farmakokinetisk	A	farmakokineettinen  lääkeaineen imeytymiseen liittyvä
+farmakologisk	A	farmakologiaan liittyvä lääkeaineoppiin liityvä lääkeaineen vaikutusta tutkivaan tieteeseen liittyvä
+fastslått	A	määrätty    ???
+fatal	A	kohtalokas
+feilfri	A	virheetön
+fekal	A	uloste- ulosteperäinen  fekaalinen
+fellesmenneskelig	A	yleisinhimillinen
+fenomenologisk	A	fenomenologinen fenomenologian mukainen
+fettoppløselig	A	rasvaliukoinen
+fibrøs	A	fibroottinen
+fiksert	A	kiinnittynyt    fiksert blikkparese kiinnittynyt ? katsepareesi ????
+finstemt	A	hienosäädetty   hienovarainen ???
+firkantet	A	nelikulmainen   neliskanttinen  jäykkä tiukkapipoinen   ???=
+flekkvis    A   paikoin paikoitellen
+flerfoldig	A	moninkertainen
+følbar	A	tuntuva havaittava
+følelsesmessig	A	tunneperäinen
+følgelig	A	siis    niinpä  joten
+foranderlig	A	muuttuva
+forbausende	A	hämmästyttävä   ihmeteltävä
+forberedt	A	valmistautunut
+forekommende	A	esiintyvä   tapahtuva   ???
+forenlig	A	(yhteen)sopiva
+foreslått	A	ehdotettu   esitetty
+forestående	A	edessä oleva    tuleva  lähestyvä   ???
+foretatt	A	tehty   valmistettu ???
+forfengelig	A	turha   turhamainen ???
+forhøyet	A	korotettu
+forlengede	A	jatkettu    pidennetty
+forpliktende	A	velvoittava sitova  pakollinen ???
+forsinket	A	myöhästynyt viivästynyt myöhässä
+forskningsbasert	A	tutkimukseen perustuva
+forskriftsmessig	A	määräysten mukainen
+forstått	A	ymmärretty  käsitetty
+forstemmende	A	masentava
+forstyrrende	A	häiritsevä
+forsvarsløs	A	puolustuskyvytön
+fortløpende	A	jatkuva yhtäjaksoinen
+fortvilet	A	epätoivoinen
+forutinntatt	A	ennakkoluuloinen
+framoverbøyd	A	eteenpäin taipunut
+framoverlutende	A	eteenpäin kallistunut
+framtredende	A	näkyvä  tärkeä
+frank	A	fri og frank    vapaa   ???
+fredfull	A	rauhallinen
+fremragende	A	erinomainen
+fristende	A	houkutteleva
 from	A	hurskas nöyrä
-frontal	A	
-frossen	A	
-fuktighetsgivende	A	
-fundamental	A	
-funksjonsbegrensende	A	
-funksjonsforbedrende	A	
-funksjonsmessig	A	
-funksjonsstøttende	A	
-fyllestgjørende	A	
-gående	A	
-gastrointestinal	A	
-gastrokolisk	A	
+frontal	A	otsa-   otsaan liittyvä frontaalinen
+frossen	A	jäätynyt    viluinen
+fuktighetsgivende	A	kosteuttava
+fundamental	A	perustavanlaatuinen olennainen  fundamentaalinen
+funksjonsbegrensende	A	toimintaa rajoittava
+funksjonsforbedrende	A	toimintaa parantava toimintaa edistävä  ???
+funksjonsmessig	A	toiminnallinen  toimintoja koskeva
+funksjonsstøttende	A	toimintaa tukeva
+fyllestgjørende	A	riittävä
+gående	A	kävelevä    kävellen    ???
+gastrointestinal	A	mahaan ja suoleen liittyvä  gastrointestinaalinen   gastroenteraalinen
+gastrokolisk	A	gastrokolinen   ulostamis- 
 geriatrisk	A	geriatrinen
-gerontologisk	A	
-gitt	A	
-givende	A	
-gjenkjennelig	A	
-gjenlevende	A	
-gjennomførbar	A	
-gjennomgående	A	
-gjennomskinnelig	A	
-gjennomtenkt	A	
-gjentakende	A	
-gjentatt	A	
-gold	A	
-gropdannende	A	
-habituell	A	
-halvsittende	A	
-håndgripelig	A	
-håndholdt	A	
-hårløs	A	
-helsebevarende	A	
+gerontologisk	A	ikääntmistä ja vanhenemisprosessia koskeva gerontologinen
+givende	A	antoisa
+gjenkjennelig	A	tunnistettava
+gjenlevende	A	elossa oleva
+gjennomførbar	A	toteuttamiskelpoinen
+gjennomgående	A	yleinen toistuva    läpikotaisin
+gjennomskinnelig	A	läpikuultava
+gjennomtenkt	A	perusteellisesti pohdittu   ???
+gjentakende	A	toistuva    kertautuva
+gjentatt	A	toistuva
+gold	A	hedelmätön  maho
+gropdannende	A	kuoppia muodostava
+habituell	A	toistuva    luonteenomainen habituaali
+halvsittende	A	puoli-istuva
+håndgripelig	A	kouriintuntuva
+håndholdt	A	käsi-   käsikäyttöinen  kannettava???
+hårløs	A	karvaton    hiukseton   hårløs innlagt ???
+helsebevarende	A	terveyttä ylläpitävä    ???
 helsefaglig	A	
 helsemessig	A	
 helsepolitisk	A	
