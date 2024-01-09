@@ -210,87 +210,76 @@ håndgripelig	A	kouriintuntuva
 håndholdt	A	käsi-   käsikäyttöinen  kannettava???
 hårløs	A	karvaton    hiukseton   hårløs innlagt ???
 helsebevarende	A	terveyttä ylläpitävä    ???
-helsefaglig	A	
-helsemessig	A	
-helsepolitisk	A	
-helserelatert	A	
-helstøpt	A	
-henseende	A	
-henvende	A	
-heterofil	A	
-hjelpavhengig	A	
+helsefaglig	A	terveysalaa koskeva
+helsemessig	A	terveyttä koskeva
+helsepolitisk	A	terveyspolitiikkaa koskeva
+helserelatert	A	terveyteen liittyvä
+helstøpt	A	eheä    voimakas    harmonisk   ???
+henseende	A	suhde   i så - siinä suhteessa
+heterofil	A	heterofiilinen  vetovoima erilaisuuksien välillä
+hjelpavhengig	A	avusta riippuvainen
 hjelpeløs	A	avuton
-hjemløs	A	
+hjemløs	A	koditon
 hjemmeboende	A	kotona asuva
-hjemmekoselig	A	
-hjemmeværende	A	
-hjertesyk	A	
-holdningsskapende	A	
-homøostatisk	A	
-høyfrekvent	A	
-humørfylt	A	
-hurtigvirkende	A	
-huslig	A	
-hverdaglig	A	
-hvilende	A	
-hygienisk	A	
-hyperplastisk	A	
-iakuttgeriatrisk	A	
-iboende	A	
-identitetsbærende	A	
-identitetsbevarende	A	
-iherdig	A	
-ikke-dømmende	A	
-ikke-farmakologisk	A	
-ikke-medikamentell	A	
-ikke-medisinsk	A	
-ikke-motorisk	A	
-ikke-truende	A	
-ikke-verbal	A	
-ikke-vestlig	A	
-illeluktende	A	
-ilter	A	
+hjemmekoselig	A	kodikas
+hjemmeværende	A	kotona oleva
+hjertesyk	A	sydänsairas
+holdningsskapende	A	asenteita muokkaava ???
+homøostatisk	A	homeostaattinen     homeostaasin mukainen   itseään tasapainottava
+høyfrekvent	A	korkeafrekvenssinen
+humørfylt	A	hyväntuulinen
+hurtigvirkende	A	nopeasti vaikuttava
+huslig	A	koti-   talous- hyvä kodin hoidossa ???
+hverdagslig	A	arkipäiväinen   jokapäiväinen
+hvilende	A	lepäävä - nattevakt passiivinen yövuoro, jossa voi levätä lyhytkestoisia tai akuutteja työtehtäviä lukuunottamatta
+hygienisk	A	hygieeninen
+hyperplastisk	A	hyperplastinen  liikaa kasvava
+iboende	A	sisäinen    luontainen
+identitetsbærende	A	identiteettiä kantava
+identitetsbevarende	A	identiteettiä yllä pitävä
+iherdig	A	sinnikäs    sitkeä  uuttera	
+illeluktende	A	pahanhajuinen
+ilter	A	kiivas  äksy    kimeä
 imidlertid	A	silti
-immobiliserende	A	
-imponerende	A	
-inaktiv	A	
-individbasert	A	
-individualistisk	A	
-indremedisinsk	A	
-infeksjonsforebyggende	A	
-inflammatorisk	A	
-informasjonsbærende	A	
-infrarød	A	
-initial	A	
-initiativløs	A	
-inkl	A	
-inklusiv	A	
-innadvendt	A	
-innbydende	A	
-inneliggende	A	
-inngående	A	
-inngripende	A	
-innledende	A	
-inntruffet	A	
-inspirerende	A	
-institusjonell	A	
-instrumentell	A	
-insulinproduserende	A	
-intakt	A	
-integritetsbevarende	A	
-integritetstruende	A	
-intens	A	
-intermitterende	A	
-interpersonal	A	
-interpersonlig	A	
-intim	A	
-iøynefallende	A	
-irrasjonell	A	
-irrelevant	A	
-irriterende	A	
-isolerende	A	
-istykkerrevet	A	
-ivaretakende	A	
+immobiliserende	A	liikkumista estävä
+imponerende	A	vaikuttava
+inaktiv	A	epäaktiivinen
+individbasert	A	yksilöpohjainen
+individualistisk	A	yksilökeskeinen individualistinen
+indremedisinsk	A	sisätauteja koskeva
+infeksjonsforebyggende	A	infektioita ehkäisevä
+inflammatorisk	A	tulehdusta aiheuttava   inflammatorinen
+informasjonsbærende	A	informaatiota sisältävä ???
+infrarød	A	infrapunainen   infrapuna-
+initial	A	alkukirjain
+initiativløs	A	aloitekyvytön
+inkl.	A	jkn mukaan luettuna
+inklusiv	A	jkn mukaan luettuna
+innadvendt	A	sisäänpäinkääntynyt
+innbydende	A	houkutteleva
+inneliggende	A	sisällä oleva   - kateter kestokatetri
+inngående	A	saapuva perusteellinen
+inngripende	A	laajamittainen  voimakkaasti vaikuttava ???
+innledende	A	alustava    alku-
+inspirerende	A	innoittava  inspiroiva
+institusjonell	A	laitosmainen    insituutioon liittyvä   valtion laitokseen liittyvä
+instrumentell	A	instrumentaalinen   välineellinen
+insulinproduserende	A	insuliinia tuottava
+intakt	A	koskematon ehjä 
+integritetsbevarende	A	integriteettiä suojeleva    loukkaamattomuutta suojeleva    ???
+integritetstruende	A	integriteettiä vaarantava vai uhkaava ???
+intens	A	voimakas
+intermitterende	A	ajoittainen jaksottainen    vaihteleva  ???
+interpersonlig	A	henkilöiden välinen yksilöiden välinen  ???
+intim	A	intiimi läheinen    henkilökohtainen    ???
+iøynefallende	A	silmiinpistävä
+irrasjonal  A   irrationaalinen älytön  epälooginen ???
+irrasjonell	A	järjenvastainen
+irrelevant	A	epäolennainen   asiaankuulumaton    ???
+irriterende	A	ärsyttävä
+isolerende	A	eristävä
+istykkerrevet	A	kappaleiksi revitty
+ivaretakende	A	hoitava  huolta pitävä???
 jevnlig	A	
 karibisk	A	
 katabolsk	A	
