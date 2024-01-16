@@ -406,85 +406,81 @@ opplagt	A	selvä   føle seg - olla vireessä/vedossa
 opplevd	A	koettu
 oppløftende	A	mieltä ylentävä
 oppmuntrende	A	piristävä   rohkaiseva
-oppnåelig	A	
-opprivende	A	
-opprørende	A	
-oppsøkende	A	
-oppstått	A	
-oppsvulmet	A	
-opptrådt	A	
-oral	A	
-organisasjonsmessig	A	
-ortogeriatrisk	A	
-ortopedisk	A	
-osmotisk	A	
-osteoporotisk	A	
-ovennevnt	A	
-ovenstående	A	
-overaktiv	A	
-overflatisk	A	
-overgrepsmessig	A	
-overkommelig	A	
-overliggende	A	
-overrepresentert	A	
-overskytende	A	
-overvektig	A	
-overveldende	A	
-øyeblikkelig	A	
-pålagt	A	
+oppnåelig	A	saavutettavissa olevasaatavissa oleva
+opprivende	A	järkyttävä
+opprørende	A	Järkyttävä
+oppsøkende	A	- virksomhet etsivä toiminta
+oppstått	A	syntynyt    muodostunut
+oppsvulmet	A	pöhöttynyt  paisunut
+opptrådt	A	esiintynyt  käyttäytynyt            ???
+oral	A	suullinen   oraalinen
+organisasjonsmessig	A	järjestöllinen
+ortogeriatrisk	A	vanhusten tuki- ja liikuntaelinkirurginen
+ortopedisk	A	tuki- ja liikuntaelinkirurginen ortopedinen
+osmotisk	A	osmoottinen
+osteoporotisk	A	osteoporoottinen    luukatoon liittyvä
+ovennevnt	A	yllä mainittu
+ovenstående	A	yllä oleva  edellä mainittu
+overaktiv	A	yliaktiivinen
+overflatisk	A	pinnallinen
+overgrepsmessig	A	 väkivaltaa koskeva           ???
+overkommelig	A	kohtuullinen
+overliggende	A	päällä oleva ???
+overrepresentert	A	yliedustettu
+overskytende	A	ylijäävä
+overvektig	A	ylipainoinen
+overveldende	A	valtava musertava   ???
+øyeblikkelig	A	silmänräpäyksellinen oitis välitön 
+pålagt	A	pakollinen  määrätty      ???
 palliativ	A	palliatiivinen  (oireita) lievittävä
-påpasselig	A	
-parkinsonistisk	A	
-parkinsonliknende	A	
-pasient-ansvarlig	A	
-pasientansvarlig	A	
-pasientrapportert	A	
-passé	A	
-patologisk	A	
-patologisk-anatomisk	A	
-påtrengende	A	
-perifer	A	
-periodevis	A	
-peristaltisk	A	
-peroral	A	
+påpasselig	A	valpas  huolellinen
+parkinsonistisk	A	Parkinsonintautiin liittyvä parkinsonismia koskeva
+parkinsonliknende	A	Parkinsonintautia muistuttava   ???
+pasientansvarlig	A	potilaasta vastuussa oleva
+pasientrapportert	A	potilaan itsensä raportoima
+passé	A	ohi mennyt vanhanaikainen
+patologisk	A	patologinen tautiperäinen   sairaalloinen
+patologisk-anatomisk	A	patologisanatominen
+påtrengende	A	tungetteleva    tärkeä  ???
+perifer	A	ääreis- perifeerinen    toisarvoinen
+periodevis	A	kausittainen    jaksottainen
+peristaltisk	A	peristaltiikka  suoliston liike
+peroral	A	peroraalinen    suun kautta otettava
 personsentrert	A	yksilöllinen    potilaskeskeinen 
-pinlig	A	
-plagsom	A	
-pleiemessig	A	
-poliklinisk	A	
-porøs	A	
-postal	A	
-postmenopausal	A	
-postoperativ	A	
-posttraumatisk	A	
-potent	A	
-praktiserende	A	
-prehospital	A	
-preinenopausal	A	
-prekær	A	
-preliminær	A	
-premenopausal	A	
-premorbid	A	
-present	A	
-presserende	A	
-primærforebyggende	A	
-problemløsende	A	
-progredierende	A	
-prosentvis	A	
-prosessorientert	A	
-prøvd	A	
-provisorisk	A	
-provoserende	A	
-psykometrisk	A	
-psykomotorisk	A	
-psykoterapeutisk	A	
-public	A	
-puborektal	A	
-rådende	A	
-ram	A	
-rasediskriminerende	A	
-realitetsorienterende	A	
-refleksiv	A	
+pinlig	A	kiusallinen
+plagsom	A	kiusallinen ärsyttävä   ???
+pleiemessig	A	hoiton liittyvä hoidon kannalta ???
+poliklinisk	A	polikliininen   poliklinikalla avohoitona annettava
+porøs	A	huokoinen
+postmenopausal	A	menopaussin jälkeinen   postmenopausaalinen kuukautisten loppumisen jälkeinen
+postoperativ	A	postoperatiivinen   leikkauksen jälkeinen
+posttraumatisk	A	posttraumaattinen   vamman jälkeinen    vaurion jälkeinen
+potent	A	voimakas    potentti
+praktiserende	A	ammattia harjoittava    jtk harjoittava
+prehospital	A	ensihoitoa koskeva   akuuttihoitoon liittyvä
+perimenopausal	A	perimenopausaalinen viimeisten kuukautisten aikainen
+prekær	A	tukala  epävärma    kiperä
+preliminær	A	alustava
+premenopausal	A	premenopausaalinen  kuukautisten loppumista edeltävä
+premorbid	A	ennen sairastumista esiintyvä
+present	A	paikalla oleva  nyt mielessä oleva
+presserende	A	kiireellinen    pakottava
+primærforebyggende	A	ennaltaehkäisevä
+problemløsende	A	ongelmia ratkaiseva
+progredierende	A	etenevä
+prosentvis	A	prosentuaalinen
+prosessorientert	A	prosessiorientoitunut   prosessisuuntautunut
+provisorisk	A	tilapäinen  väliaikainen
+provoserende	A	provosoiva  provokatiivinen provokatorinen
+psykometrisk	A	psykometrinen   psykologisia kykyjä ja ominaisuuksia mittaava
+psykomotorisk	A	psykomotorinen  ajatukseen ja liikkeeseen liittyvä
+psykoterapeutisk	A	psykoterapeuttinen
+puborektal	A	puborektaalinen
+rådende	A	valliteseva
+ram	A	- til å løpe kova juoksemaan    - til å lyve kamala valehtelemaan
+rasediskriminerende	A	rotusortoa koskeva  rotuerotteluun liittyvä
+realitetsorienterende	A	???
+refleksiv	A	tahdosta riippumaton    refleksiivinomainen taaksepäin suuntautuva
 reflektorisk	A	
 relasjonell	A	
 resiprok	A	
