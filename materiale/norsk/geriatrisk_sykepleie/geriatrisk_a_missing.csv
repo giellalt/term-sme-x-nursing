@@ -575,78 +575,76 @@ sykdomsmodulerende	A	sairautta lieventävä    sairautta jarruttava
 sykepleiefaglig	A	sairaanhoidon ammatillisuutta koskeva   ???
 sykepleievitenskapelig	A	hoitotiedettä koskeva   hoitotieteellinen
 symptomatisk	A	oireenmukainen  symptomaattinen nosotrooppinen
-symptomlindrende	A	
-synshemmet	A	
-synsnedsettende	A	
-systemisk	A	
-systolisk	A	
-tabubelagt	A	
-talende	A	
-tallmessig	A	
-tankevekkende	A	
-tannløs	A	
-telemedisinsk	A	
-temporal	A	
-tenkelig	A	
-terapeutisk	A	
-tertiær	A	
-tertiærforebyggende	A	
-tilbakeholden	A	
-tilbakeskuende	A	
-tilbakestående	A	
-tilbakevendende	A	
-tilbøyelig	A	
-tilgrensende	A	
-tillitsskapende	A	
+symptomlindrende	A	oireita lievittävä
+synshemmet	A	näkövammainen
+synsnedsettende	A	näköä haittaava 
+systemisk	A	systeeminen (lääk) sisävaikutteinen järjestelmätason
+systolisk	A	systolinen  sydämen supistumisvaiheeseen liittyvä
+tabubelagt	A	tabuun liittyvä???
+talende	A	puhuva
+tallmessig	A	numeerinen  määrällinen lukumäärältään  ???
+tankevekkende	A	ajatuksia herättävä
+tannløs	A	hampaaton   ???
+telemedisinsk	A	telelääketiede  etälääketiede
+temporal	A	aika-   ajallinen   ohimo-
+tenkelig	A	ajateltavissa oleva
+terapeutisk	A	terapeuttinen
+tertiær	A	tertiääri   kolmantena oleva    kolmas
+tertiærforebyggende	A	yritys estää tai rajoittaa ongelmasta, vammasta tai sairaudesta johtuvia seuraamuksia
+tilbakeholden	A	pidättyvä   pidättyväinen
+tilbakeskuende	A	taaksepäin suuntautuva  takautuva retrospektiivinen
+tilbakestående	A   jälkeenjäänyt
+tilbakevendende	A	toistuva palautuva  ???
+tilbøyelig	A	taipuvainen
+tilgrensende	A	jhk rajoittuva  vieressä oleva???
+tillitsskapende	A	luottamusta herättävä
 tilpasset	A	räätälöity  mukautettu  ???
-tilrett	A	
-tilrettelagt	A	
-tilstedeværende	A	
-tiltakende	A	
-tilvant	A	
-tjenesteytende	A	
-toksisk	A	
-tolerant	A	
-tørt	A	
-trekkpsykologisk	A	
-trisyklisk	A	
-trukket	A	
-trygghetsskapende	A	
-trykkavlastende	A	
-tyngende	A	
-tyrkisk-kurdisk	A	
-uærbødig	A	
-uaktuell	A	
-uatskillelig	A	
-uavvendelig	A	
-ubearbeidet	A	
-ubesværet	A	
-ubetydelig	A	
-ubevisst	A	
-ubrukt	A	
-udekket	A	
-uelatisk	A	
-ufaglært	A	
-uforenlig	A	
-uforklarlig	A	
-uforløst	A	
-uforsvarlig	A	
-uforutsett	A	
-uforutsigbar	A	
-ugjenkjennelig	A	
-ugjennomsiktig	A	
-uhemmet	A	
-uinteressert	A	
-ukarakterisk	A	
-ukomfortabel	A	
-ukomplisert	A	
-ukontrollert	A	
-uleselig	A	
-ulønnet	A	
-uløst	A	
-umenneskelig	A	
-underestimert	A	
-underkommunisert	A	
+tilrettelagt	A	sopeutettu  sovitettu   - språk selkokieli  ???
+tilstedeværende	A	läsnäoleva  läsnäolija
+tiltakende	A	lisääntyvä  yltyvä
+tilvant	A	totunnainen tuttu
+tjenesteytende	A	palvelun tarjoava
+toksisk	A	toksinen    myrkyllinen myrkky-
+tolerant	A	suvaitseva  tolerantti
+tørr	A	kuiva
+trekkpsykologisk	A	persoonallisuuspiirrepsykologinen
+trisyklisk	A	trisyklinen kolmirenkainen
+trukket	A	vedetty vähennetty  päällystetty
+trygghetsskapende	A	turvallisuutta luova    ???
+trykkavlastende	A	painetta lievittävä
+tyngende	A	raskas
+uærbødig	A	epäkunnioittava
+uaktuell	A	epäajankohtainen
+uatskillelig	A	erottamaton
+uavvendelig	A	väistämätön
+ubearbeidet	A	työstämätön
+ubesværet	A	vaivaton
+ubetydelig	A	mitätön merkityksetön   vähäinen
+ubevisst	A	tiedostamaton
+ubrukt	A	käyttämätön
+udekket	A	peittämätön katteeton   tyydyttämätön
+uelastisk	A	joustamaton venymätön   
+ufaglært	A	ammattitaidoton
+uforenlig	A	yhteensopimaton
+uforklarlig	A	selittämätön
+uforløst	A   ei esiin tulleet???              ???
+uforsvarlig	A	vastuuton
+uforutsett	A	ennalta aavistamaton    yllättävä
+uforutsigbar	A	yllätyksellinen
+ugjenkjennelig	A	tunnistamaton   mahdoton tuntea / tunnistaa
+ugjennomsiktig	A	läpinäkymätön
+uhemmet	A	estoton
+uinteressert	A	välinpitämätön  haluton
+ukarakterisk	A	epäluonteenomainen
+ukomfortabel	A	epämukava
+ukomplisert	A	yksinkertainen  helppo  ???
+ukontrollert	A	hallitsematon
+uleselig	A	mahdoton lukea
+ulønnet	A	palkaton
+uløst	A	ratkaisematon
+umenneskelig	A	epäinhimillinen
+underestimert	A	aliarvioitu ???
+underkommunisert	A	vähätelty???
 underrepresentert	A	
 undervektig	A	
 ungdommelig	A	
