@@ -44,19 +44,18 @@ avtakende	A	vähenevä	heikkenevä	tyyntyvä
 bærbar	A	kannettava
 bakenforliggende	A	takana oleva	taustalla piilossa oleva merkityksellinen asia
 bakerst	A	taimmainen	taimpana
-bakteriologisk	A	bakteriologinen bakteeriopillinen
+bakteriologisk	A	bakteriologinen	bakteeriopillinen
 balinesisk	A	balilainen
-banal	A	banaali lattea	arkinen
-basal	A	basaali basaalinen	(lääket) tyven puoleinen
+banal	A	banaali	lattea	arkinen
+basal	A	basaali	basaalinen	(lääket) tyven puoleinen
 bedervet	A	pilaantunut
 begynnende	A	alkava	orastava
-beisk	A	kitkerä karvas	pureva
-besk	A	kitkerä karvas	pureva
+beisk	A	kitkerä	karvas	pureva
+besk	A	kitkerä	karvas	pureva
 bekreftende	A	vahvistava	myöntävä	myönteinen	
 bekvem	A	mukava
 benzodiazepinliknende	A	bentsodiatsepiinin kaltainen
-beslektet	A	være - med noen olla sukua jollekin sukulais-
-bestående	A	kestävä pysyvä	det - vallitsevat olot
+beslektet	A	være - med noen olla	sukua jollekin sukulais-
 bevegelseshemmet	A	liikuntarajoitteinen	liikuntaesteinen	liikuntavammainen
 bevegelseshindrende	A	liikkumista estävä
 bifil	A	biseksuaalinen
@@ -67,16 +66,15 @@ blødende	A	vuotava
 blodglukosesenkende	A	verensokeria alentava
 blodtrykkssenkende	A	verenpainetta alentava
 brannfarlig	A	palovaarallinen tulenarka
-brannforebyggende	A	tulipalojen ehkäisy monikko ??
+brannforebyggende	A	tulipalojen ehkäisy
 brysk	A	töykeä	tuima
 buet	A	kaareva käyrä	väärä
 forebyggende	A	ehkäisevä
 cellebiologisk	A	solubiologinen
-cerebral	A	aivoperäinen	serebraalinen	- parese aivohalvaus
 cyanotisk	A	sinertävä	syanoottinen
 dedikert	A	omistautunut
 definitiv	A	lopullinen
-delikat	A	herkullinen arkaluontoinen
+delikat	A	herkullinen	arkaluontoinen
 dement	A	dementoitunut
 dempende	A	vaimentava	hillitsevä	taltuttava
 dental	A	hammas-
@@ -84,11 +82,9 @@ deskriptiv	A	kuvaileva	deskriptiivinen
 diabetisk	A	diabeteksesta johtuva	sokeritautinen	
 diakonal	A	lävistäjä	viisto
 diastolisk	A	diastolinen - blodtrykk alapaine
-diffus	A	epäselvä	diffuusi	- lys hajavalo
 diskriminerende	A	syrjivä
 disponibel	A	käytettävissä oleva
 distinkt	A	selvä
-distriktsmedisinsk	A	- senter haja-asutusseudulla oleva erikois- ja perusterveydenhuollon yhteinen keskus
 drømmeliknende	A	unenomainen
 effektfull	A	vaikuttava
 egenomsorgsmessig	A	itsehoitoa koskea
@@ -117,18 +113,18 @@ fatal	A	kohtalokas
 feilfri	A	virheetön
 fekal	A	uloste- ulosteperäinen	fekaalinen
 fellesmenneskelig	A	yleisinhimillinen
-fenomenologisk	A	fenomenologinen fenomenologian mukainen
+fenomenologisk	A	fenomenologinen	fenomenologian mukainen
 fettoppløselig	A	rasvaliukoinen
 fibrøs	A	fibroottinen
-flekkvis	A	paikoin paikoitellen
+flekkvis	A	paikoin	paikoitellen
 flerfoldig	A	moninkertainen
-følbar	A	tuntuva havaittava
+følbar	A	tuntuva	havaittava
 følelsesmessig	A	tunneperäinen
 følgelig	A	siis	niinpä	joten
 foranderlig	A	muuttuva
 forbausende	A	hämmästyttävä	ihmeteltävä
 forberedt	A	valmistautunut
-forenlig	A	(yhteen)sopiva
+forenlig	A	yhteensopiva	sopiva
 foreslått	A	ehdotettu	esitetty
 forhøyet	A	korotettu
 forlengede	A	jatkettu	pidennetty
@@ -148,7 +144,7 @@ framtredende	A	näkyvä	tärkeä
 fredfull	A	rauhallinen
 fremragende	A	erinomainen
 fristende	A	houkutteleva
-from	A	hurskas nöyrä
+from	A	hurskas	nöyrä
 frontal	A	otsa-	otsaan liittyvä	frontaalinen
 frossen	A	jäätynyt	viluinen
 fuktighetsgivende	A	kosteuttava
@@ -160,7 +156,7 @@ fyllestgjørende	A	riittävä
 gastrointestinal	A	mahaan ja suoleen liittyvä	gastrointestinaalinen	gastroenteraalinen
 gastrokolisk	A	gastrokolinen	ulostamis- 
 geriatrisk	A	geriatrinen
-gerontologisk	A	ikääntmistä ja vanhenemisprosessia koskeva gerontologinen
+gerontologisk	A	ikääntmistä ja vanhenemisprosessia koskeva	gerontologinen
 givende	A	antoisa
 gjenkjennelig	A	tunnistettava
 gjenlevende	A	elossa oleva
@@ -178,7 +174,6 @@ helsefaglig	A	terveysalaa koskeva
 helsemessig	A	terveyttä koskeva
 helsepolitisk	A	terveyspolitiikkaa koskeva
 helserelatert	A	terveyteen liittyvä
-henseende	A	suhde	i så - siinä suhteessa
 heterofil	A	heterofiilinen	vetovoima erilaisuuksien välillä
 hjelpavhengig	A	avusta riippuvainen
 hjelpeløs	A	avuton
@@ -192,16 +187,15 @@ høyfrekvent	A	korkeafrekvenssinen
 humørfylt	A	hyväntuulinen
 hurtigvirkende	A	nopeasti vaikuttava
 hverdagslig	A	arkipäiväinen	jokapäiväinen
-hvilende	A	lepäävä - nattevakt passiivinen yövuoro, jossa voi levätä lyhytkestoisia tai akuutteja työtehtäviä lukuunottamatta
 hygienisk	A	hygieeninen
 hyperplastisk	A	hyperplastinen	liikaa kasvava
 iboende	A	sisäinen	luontainen
 identitetsbærende	A	identiteettiä kantava
 identitetsbevarende	A	identiteettiä yllä pitävä
-iherdig	A	sinnikäs	sitkeä	uuttera	
+iherdig	A	sinnikäs	sitkeä	uuttera
 illeluktende	A	pahanhajuinen
 ilter	A	kiivas	äksy	kimeä
-imidlertid	A	silti
+imidlertid	Adv	silti
 immobiliserende	A	liikkumista estävä
 imponerende	A	vaikuttava
 inaktiv	A	epäaktiivinen
@@ -214,17 +208,16 @@ infrarød	A	infrapunainen	infrapuna-
 initial	A	alkukirjain
 initiativløs	A	aloitekyvytön
 inkl.	A	jkn mukaan luettuna
-inklusiv	A	jkn mukaan luettuna
+inklusiv	A	jonkun mukaan luettuna
 innadvendt	A	sisäänpäinkääntynyt
 innbydende	A	houkutteleva
-inneliggende	A	sisällä oleva	- kateter kestokatetri
 inngående	A	saapuva perusteellinen
 innledende	A	alustava	alku-
 inspirerende	A	innoittava	inspiroiva
 institusjonell	A	laitosmainen	insituutioon liittyvä	valtion laitokseen liittyvä
 instrumentell	A	instrumentaalinen	välineellinen
 insulinproduserende	A	insuliinia tuottava
-intakt	A	koskematon ehjä 
+intakt	A	koskematon	ehjä 
 intens	A	voimakas
 iøynefallende	A	silmiinpistävä
 irrasjonell	A	järjenvastainen
@@ -253,7 +246,7 @@ koordinerende	A	koordinoiva
 kortfattet	A	lyhytsanainen	suppea	tiivis
 kortsiktig	A	lyhytaikainen
 kosmetisk	A	kosmeettinen
-kulturbetinget	A	kulttuurista johtuva	??
+kulturbetinget	A	kulttuurista johtuva
 kunnskapsbasert	A	tutkimukseen pohjautuva
 kvantitativ	A	määrällinen kvantitatiivinen
 labil	A	labiili epästabiili pysymätön
@@ -262,7 +255,7 @@ låg	A	matala	pieni
 landlig	A	maalainen	maalais-
 langtidsvirkende	A	pitkävaikutteinen
 latent	A	piilevä latentti
-lateral	A	lateraalinen	sivuttainen ulko-
+lateral	A	lateraalinen	sivuttainen	ulko-
 latterlig	A	naurettava
 lavgradig	A	matala-asteinen
 lavmælt	A	hiljainen	vaimea	matalaääninen	
@@ -285,11 +278,11 @@ løsningsorientert	A	ratkaisukeskeinen
 lovbestemt	A	lakisääteinen	lainalainen
 lovfestet	A	laillistettu	lailla vahvistettu
 lovregulert	A	lailla säännelty
-lydhør	A	herkkäkuuloinen valpas
+lydhør	A	herkkäkuuloinen	valpas
 maktesløs	A	voimaton
 målbar	A	mitattavissa oleva
 markant	A	selvä	huomattava
-maskinell	A	koneellinen kone-
+maskinell	A	koneellinen	kone-
 måteholden	A	kohtuullinen	taloudellinen
 medansvarlig	A	osavastuullinen
 medikamentell	A	lääkkeellinen	lääke-
@@ -306,7 +299,7 @@ mini	A	pikku-
 minkende	A	vähenevä	pienenevä
 mistenkelig	A	epäilyttävä
 molekylær	A	molekulaarinen	molekyylinen
-monitorerende	A	monitoroiva valvova tarkkaileva
+monitorerende	A	monitoroiva	valvova	tarkkaileva
 monoton	A	yksitoikkoinen
 motivasjonsstyrkende	A	motivaatiota vahvistava
 motiverende	A	motivoiva
@@ -330,13 +323,12 @@ normalvektig	A	normaalipainoinen
 nøyeregnende	A	tarkka	kitsas
 nøysom	A	vaatimaton
 nytteløs	A	hyödytön
-obstruktiv	A	obstruktiivinen tukkeuttava
+obstruktiv	A	obstruktiivinen	tukkeuttava
 odontologisk	A	odontologinen
 oksygentransporterende	A	happea kuljettava
 omforent	A	sovittu
 ondartet	A	pahanlaatuinen
-oppdelt	A	jatkettu	??
-opplagt	A	selvä	føle seg - olla vireessä/vedossa
+oppdelt	A	jaettu
 opplevd	A	koettu
 oppløftende	A	mieltä ylentävä
 oppmuntrende	A	piristävä	rohkaiseva
@@ -566,13 +558,13 @@ utenkelig	A	mahdoton ajatella
 utflytende	A	epäselvä	sekava
 uthvilt	A	levännyt
 utilfredsstillende	A	epätyydyttävä
-utøvende	A	jtk harjoittava - kunstner esittävä taiteilija	- makt toimeenpanovalta
+utøvende	A	jtk harjoittava	utøvende kunstner	esittävä taiteilija	utøvende makt	toimeenpanovalta
 utpreget	A	selvä	tyypillinen
 utslagsgivende	A	ratkaiseva	määräävä
 uttørrende	A	kuivattava
 utvalgt	A	valittu valikoitu
-utviklingsmessig	A	kehityksellinen kehitystä koskeva	kehitykseen liittyvä
-utviklingspsykologisk	A	kehityspsykologinen kehityspsykologiaan liittyvä
+utviklingsmessig	A	kehityksellinen	kehitystä koskeva	kehitykseen liittyvä
+utviklingspsykologisk	A	kehityspsykologinen	kehityspsykologiaan liittyvä
 utydelig	A	epäselvä	hämärä
 utypisk	A	epätyypillinen
 uutholdelig	A	sietämätön
@@ -603,3 +595,16 @@ visceral	A	viskeraalinen	sisäelimiin liittyvä
 volumøkende	A	tilavuutta lisäävä	volyymia lisäävä
 yrkesetisk	A	ammattietiikkaan liittyvä
 ytterligere	A	lisä	vielä	entistä enemmän 
+
+
+
+bestående	A	kestävä	pysyvä	det bestående	vallitsevat olot
+cerebral	A	aivoperäinen	serebraalinen	cerebral parese	aivohalvaus
+diffus	A	epäselvä	diffuusi	diffust lys	hajavalo
+distriktsmedisinsk	A	distriktsmedisinsk senter haja-asutusseudulla oleva erikois- ja perusterveydenhuollon yhteinen keskus
+henseende	A	suhde	i så henseende	siinä suhteessa
+hvilende	A	lepäävä hvilende nattevakt	passiivinen yövuoro, jossa voi levätä lyhytkestoisia tai akuutteja työtehtäviä lukuunottamatta
+inneliggende	A	sisällä oleva	inneliggende kateter	kestokatetri
+opplagt	A	selvä	føle seg opplagt	olla vireessä/vedossa
+
+
