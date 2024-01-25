@@ -4,10 +4,8 @@ osteoporose	N	luukato osteoporoosi
 utfall	N	tulos   vaikutus
 nedsettelse	N	 asettaminen    perustaminen    
 interaksjon	N	yhteisvaikutus  vuorovaikutus   kanssakäyminen
-beine	N   ??
 tilbaketrekning	N	vetäytyminen    perääntyminen
 appetitt	N	ruokahalu
-setting	N   asetus                           ??
 fysiolog	N	fysiologi
 ego	N	minä    minuus  ego
 eld	N	tuli                      
@@ -22,12 +20,8 @@ skrivning	N	kirjoittaminen  kirjoitus
 juss	N	laki
 gravferd	N	hautajaiset        
 datum	N	päivämäärä  tieto
-åring	N	                    ???
-pre	N	edeltävä    enkeltsituasjon ??
 øyesykdom	N	silmäsairaus
 mengd	N	määrä
-kane	N   reki???	             
-henhold	N	    I henhold til   suhteessa   johonkin nähden            ??
 case	N	tapaus
 bading	N	kylpeminen  uiminen
 tilstedeværelse	N	läsnäolo
@@ -44,14 +38,12 @@ overlevelse	N	eloonjääminen
 nattesøvn	N	yöuni
 hastverk	N	kiire
 fallskade	N	putoamisvamma
-hal	N	 nuotan veto    ???                           
 blending	N	häikäistyminen
 strekk	N	venyminen   veto
 spring	N	hanallinen vesiputki
 rektum	N	peräsuoli   rectum
 lysbehandling	N	valohoito
 immunforsvar	N	immuunipuolustus
-ill	N	huono   voimakas (kipu)             ???
 forkant	N	etureuna    sanonnoissa ennen
 drøfting	N	                            on jo sanakirjassa saameksi
 prim	N	puolipehmeä herajuustoo
@@ -70,7 +62,6 @@ tykning	N	saostus saostuminen
 spesialsykepleier	N	erikoissairaanhoitaja
 sjukeheim	N	hoivakoti
 rate	N	taksa   yksikköhinta    määrä tietyssä ajassa
-gene	N   sanonnoissa vaiva                   ???
 feilmedisinering	N	lääkitysvirhe
 etterkant	N	sanonnassa jälkikäteen
 d.m.	N	tätä kuuta
@@ -90,7 +81,6 @@ kremasjon	N	polttohautaus   kremaatio
 koordinering	N	koordinointi
 henvendelse	N	tiedustelu  jonkun puoleen kääntyminen
 helsevernlov	N	terveydenhuoltolaki
-gradering	N	arvojärjestykseen laitto???               
 dings	N	ensine  vehje
 diakon	N	diakoni
 brownie	N	suklaaleivos
@@ -150,7 +140,6 @@ entré	N	sisääntulo pääsymaksu   eteinen
 enkeltpasient	N	yksittäinen potilas
 egn	N	 seutu  alue
 egeninnsats	N	oma työpanos
-e.l. eller lignende	N	  tai samanlainen   ??? miten laitan
 e.f. etter fullamkt	N	  valtakirjan mukaan
 dvs. det vil si	N	eli toisin sanoen
 driv	N	voima   työinto
@@ -197,8 +186,6 @@ pålitelighet	N	luotettavuus
 pakk	N	matkatavara törkimys    roskaväki
 øyedråpe	N	silmätippa
 overlapping	N	päällekkäisyys  limittyminen
-opptatthet	N	kiinnostuneisuus    kiireisyys  være opptatt???
-oppbygning	N	rakentaminen    ???
 omkrets	N   ympärysmitta
 nedtrapping	N	asteittainen vähentäminen   alentaminen
 metthet	N	kylläisyys
@@ -244,7 +231,6 @@ uteområde	N	ulkoalue
 utdypning	N	syventäminen (asiaan)
 uoppmerksomhet	N	tarkkaamattomuus
 underkastelse	N	alistuminen
-trass	N	uhma    sanonnoissa uhallaan siitä huolimatta ???
 toalettdør	N	vessanovi
 tiltakslyst	N	into toimia innostus
 tilstrømning	N	sisäänvirtaus  osallistuminen
@@ -342,7 +328,6 @@ dirk	N	tiirikka
 d.d. dags dato	N	tänään 
 sentral	N	keskus
 byrd	N	syntyperä   syntymä
-bymisjon	N	evankelioiminen ja avustaminen kaupungissa  ??
 brur	N	morsian
 brilleglass	N	silmälasien linssi
 brannulykke	N	palo    palo-onnettomuus
@@ -451,7 +436,6 @@ segment	N	osa jaoke   segmentti
 sed	N	tapa
 scenario	N	hahmotelma  toimintasuunnitelma skenaario
 sanering	N	saneeraus   tervehdyttäminen
-sammenstilling	N	yhteen kokoaminen   ???
 sammenfall	N	yhteensattuma
 samlebegrep	N	yhteistermi
 samfunnsviter	N	yhteiskuntatieteilijä
@@ -643,7 +627,6 @@ ferde   N   sannoissa tekeillä  liikkeellä
 feiling	N	erehdys
 fastetid	N	paastonaika
 fastemåned	N	paastokuukausi
-fasilitet	N	mukavuudet  ???
 familieforhold	N	perhesuhteet
 faktabok	N	faktakirja	
 ettertanke	N	harkinta
@@ -673,7 +656,6 @@ bog	N	lapa
 bjerk	N	koivu
 bistilling	N	sivuvirka
 bilist	N	autoilija
-bevegelsesutslag	N	liikkuvuus  ???
 bevegelsesfrihet	N	liikkumisvapaus
 betoning	N	äänenpaino  painotus
 besteforelder	N	isovanhempi
