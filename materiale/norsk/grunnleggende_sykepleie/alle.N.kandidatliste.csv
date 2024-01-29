@@ -326,7 +326,6 @@ respirasjonsproblem	vuoigŋančuolbma	vuoigŋanproblema	hengitysongelma	vuoigŋa
 respirasjonsstans		onko oikea suomenkielinen sana	hengityspysähdys			vuoiŋŋadanboddu	vuoigŋanbottu
 respirasjonsrytme	vuoigŋanritma		hengitysrytmi	vuoigŋanritma		vuoiŋŋasteapmi	vuoigŋanvuohki
 respirasjonssyklus	vuoigŋanbirrajohtu		hengityssykli			vuoiŋŋahatdássi	vuoiŋŋasteapmi
-respirasjonssyklus			hengityssykli			vuoiŋŋahatdássi	vuoiŋŋasteapmi
 respirasjonsfrekvens			hengitystaajuus	vuoigŋandávjodat		vuoiŋŋahatdássi	vuoigŋanluođđa
 respirasjonsmønster	vuoigŋandáhpi		hengitystapa	vuoigŋandáhpi		vuoiŋŋahatminsttar	vuoigŋanvuohki
 respirasjonsfrekvens			hengitystiheys	#vuoiŋandávjodat		vuoiŋŋahatdássi	vuoiŋŋahatdávda
@@ -360,9 +359,9 @@ behandlingssvikt	divššu eahpelihkostupmi		hoidon epäonnistuminen	divššu eah
 omsorgsbegrep	divššu doapa		hoidon käsite	divššu doaba		fuolahusdoaba	divššu doaba
 behandlingskvalitet	divššu dássi		hoidon laatu	divššu dássu		dikšunkvalitehta	dikšuma kvalitehta
 omsorgsdepartement		norjalainen titteli?	hoidon ministeriö	divššu ministeriija		fuolahusdepartemeanta	dearvvašvuođa ministeriija
-behandlingsopplegg	divššu plána		hoidon suunnitelma	divššu plána		dikšunskovvi	divššu plána
-behandlingsplan	divššu plána		hoidon suunnitelma	divššu plána		dikšunplána	divššu plána
-behandlingsregime	divššu plána		hoidon suunnitelma	divššu plána		dikšunvuohki	divššu plána
+behandlingsopplegg	divššu plána		hoitosuunnitelma	divššu plána		dikšunskovvi	divššu plána
+behandlingsplan	divššu plána		hoitosuunnitelma	divššu plána		dikšunplána	divššu plána
+behandlingsregime	divššu plána		hoitosuunnitelma	divššu plána		dikšunvuohki	divššu plána
 kartleggingssamtale	divššu dárbbu árvvoštallan ságastallan		hoidon tarpeen arviointikeskustelu	divššu dárbbu evaluerengulahallan		kártenságastallan	dikšundárbbu árvvoštallan ságastallan
 sykepleieresultat	divššu boađus		hoidon tulos	divššu boađus		buohccidivššárboađus	divššu boađus
 sykepleiebehov	dikšundárbu	dikšodarbu	hoidontarve	divššodárbu		buohccedikšundárbu	dikšundárbu
@@ -379,7 +378,7 @@ pleiekultur	dikšunkultuvra		hoitokulttuuri	dikšokultuvra		dikšunkultuvra	dik�
 pleielidelse	dikšungillámuš		hoitokärsimys	dikšogillámuš		dikšunváttisvuohta	dálkkodanriekkis
 behandlingsrutine	dikšunvuohki	dikšungeavat	hoitokäytäntö	dikšogeavat		dikšunrutiidna	dikšungeavahus
 behandlingsmulighet	dikšunvejolašvuohta	dikšunliiba	hoitomahdollisuus	dikšoliiba		dikšunvejolašvuohta	dikšunvejolašvuohta
-behandlingspakke	dilšunpáhkka		hoitopakkaus			dikšunpáhkka	dikšunpáhkka
+behandlingspakke	dikšunpáhkka		hoitopakkaus			dikšunpáhkka	dikšunpáhkka
 pasientforløp	dikšunbálggis		hoitopolku	dikšoluodda		pasieantamannolaga	dálkkodanbálggis
 tjenesteforløp	dikšunbálggis		hoitopolku	dikšoluodda		bálvalusáigi	dálkkodanbálggis
 omsorgsrelasjon	dikšungaskavuohta		hoitosuhde	dikšogorri		fuolahusoktavuohta	dikšundilli
@@ -412,32 +411,32 @@ sykepleieoppgave	dikšunbarggu dahkamuš		hoitotyön tehtävä	dikšobarggu doai
 sykepleieteoretiker			hoitotyön teoreetikko	dikšobarggu 		buohccidivššoteorehtalaš	dálkkodanrieggá teorehtalaš oassi
 sykepleieteori	dikšunbarggu teoriija		hoitotyön teoria	dikšobarggu teoriija		buohccindábiid teoriija	dálkkodanrieggá teoriija
 sykepleiekunnskap	dikšunbarggu diehtu		hoitotyön tieto	dikšobarggu diehtu		buohccidivššármáhttu	dikšunbarggu diehtu
-behandlingsalternativ			hoitovaihtoehto	dikšomolssaeaktu		dikšun molssaeaktu	dikšun molssaeaktu
-behandlingsvalg			hoitovalinta	dikšoválljen		dikšunválljen	dikšunválljen
-behandlingsansvar			hoitovastuu	dikšovástu		dikšunovddasvástádus	dikšunovddasvástádus
-behandlingsmiljø			hoitoympäristö	dikšobiras		dikšunbiras	dálkkodanbiras
-sykehjemsbestyrer			hoivakodin johtaja	fuolahangođiiguin hoavda		buhcciidsiidda hoavda	dearvvašvuođaguovddáža hoavda
-sykehjemslege			hoivakodin lääkäri	fuolahangođiiguin doavttir		buhcciidruovttu doavttir	dikšunguovddáža doavttir
+behandlingsalternativ	dikšunmolssaeaktu		hoitovaihtoehto	dikšomolssaeaktu		dikšun molssaeaktu	dikšun molssaeaktu
+behandlingsvalg	dikšunválljen		hoitovalinta	dikšoválljen		dikšunválljen	dikšunválljen
+behandlingsansvar	dikšunvástu		hoitovastuu	dikšovástu		dikšunovddasvástádus	dikšunovddasvástádus
+behandlingsmiljø	dikšunbiras		hoitoympäristö	dikšobiras		dikšunbiras	dálkkodanbiras
+sykehjemsbestyrer	dikšunruokto hoavda		hoivakodin johtaja	fuolahangođiiguin hoavda		buhcciidsiidda hoavda	dearvvašvuođaguovddáža hoavda
+sykehjemslege	dikšunruokto doavttir		hoivakodin lääkäri	fuolahangođiiguin doavttir		buhcciidruovttu doavttir	dikšunguovddáža doavttir
 sykehjemspasient			hoivakotipotilas	#fuolaheapmi#ruoktu#buohcci		buhcciidsiidda pasieanta	dearvvašvuođaguovddáš
 omsorgskultur			hoivakulttuuri	fuolahankultuvra		fuolahankultuvra	dálkkodankultuvra
 omsorgstradisjon			hoivaperinne	fuolahanárbevierru		fuolahusvierru	dikšunárbevierru
 omsorgsressurs			hoivaresurssit	fuolahanresurssat		fuolahusresursa	dikšunresurssat
 omsorgsformål			hoivatarkoitus	fuolahanulbmil		fuolahusášši	dikšundárkkuhus
-muggsopp			homesieni	guohpaguoppar		guoggáiduhttin	mu iđit
-hormonbehandling			hormonihoito	hormonadikšu		hormonadikšun	hormonadikšun
-hormonnivå			hormonitaso	hormonadássi		hormona dássi	hormona dássi
-beinklær			housut	buvssat		dávgegovttat	baksamat
+muggsopp	guohpaguoppar		homesieni	guohpaguoppar		guoggáiduhttin	mu iđit
+hormonbehandling	hormonadikšu		hormonihoito	hormonadikšu		hormonadikšun	hormonadikšun
+hormonnivå	hormonadássi		hormonitaso	hormonadássi		hormona dássi	hormona dássi
+beinklær	buvssat		housut	buvssat		dávgegovttat	baksamat
 humoralpatologi			humoraalioppi			humor-patologiija	humoristaoahppa
 formynderi			huoltajuus			buhtisvuohta	fuolaheapmi
 leppepust			huulirakohengitys  huulihengitys	bavssasálvovuoigŋan bavssavuoigŋan  		njálbmi vuoigŋan	njálbmevuoigŋan
-rusmisbruker			huumausaineiden väärinkäyttäjä	huumeenkäyttäjä		gárrenmirko boasttogeavaheaddji	narkogeavaheaddji
+rusmisbruker	gárihuhttiávdnasiid boasttogaevaheaddji		huumausaineiden väärinkäyttäjä	huumeenkäyttäjä		gárrenmirko boasttogeavaheaddji	narkogeavaheaddji
 stoffmisbruker			huumausaineiden väärinkäyttäjä			narkogeavaheaddji	narkogeavaheaddji
-rusmiljø			huumepiiri	narkotihkkabiire		gárrenbiras	narkobiras
+rusmiljø	gárrenávnnasbiire		huumepiiri	narkotihkkabiire		gárrenbiras	narkobiras
 sanitærforhold			hygieeniset olosuhteet	hygieeninen tila	*hygieeniset eksisteansagorit	dearvvašvuođadilli	hygienalaš dilálašvuohta
 hygienerutine			hygieniatapa	buhtisindoallandáhpi		buhtisvuođarutiidna	hygienalaš vuohki
-utenforskap			hyljeksinnän kokemus	*hyljeksinnän vásihus		olgguldasvuohta	hilgunvásáhus
-velferdssystem			hyvinvointijärjestelmä	čálgovuogádat		buorredillevuogádat	buresbirgejupmevuogádat
-velværeteknologi			hyvinvointiteknologia	čálgoteknologiija		buorrediliteknologiija	buorrediliteknologiija
+utenforskap	badjelgeahččanan vásihus	guolmmas vásihus	hyljeksinnän kokemus	*hyljeksinnän vásihus		olgguldasvuohta	hilgunvásáhus
+velferdssystem	buresveadjin vuogádat		hyvinvointijärjestelmä	čálgovuogádat		buorredillevuogádat	buresbirgejupmevuogádat
+velværeteknologi	buresveadjin teknologiija		hyvinvointiteknologia	čálgoteknologiija		buorrediliteknologiija	buorrediliteknologiija
 vellukt			hyvä tuoksu	buorre 		lihkostuvvan	vuogas vuoigŋa
 velgjørenhetsprinsipp			hyväntekemisen periaate	*hyväntekemisen prinsihppa		buorredagolašvuođaprinsihppa	buorredahkki vuođđojurdda
 nyttekriterium			hyötykriteeri	guddakriteara		ávkeeaktu	ávkedoaibma
@@ -1459,7 +1458,7 @@ ryggmargsskade	čielgiáđaskaidna		selkäydinvaurio	#sealgi#ađa#vaháguvvan		d
 mestring	birgenláhki		selviytyminen			máhtestuvvan	birgenláhki
 ryggvask	sealgebassan		selänpesu	sealggebassan		čielggadanbivttas	dakkár speallu
 sensorteknologi			sensoriteknologia			dovddanteknologiija	sensoriteknologiija
-kransarterie	kránsaarteriija		sepelvaltimo			kránsaarteriija	konjunktuvra
+kransarterie	kránsaarteriija	čierggesváibmosuotna	sepelvaltimo			kránsaarteriija	konjunktuvra
 screene			seuloa	sevlet		screene	čuorbmas
 sjokktilstand	hirpmástuhtti dilli		shokkitila	šohkkadilli		hirpmástuhtti dilli	hui eahpesihkkar
 gasbind	hávvelibar		sideharso			gásabideapmi	soakŋu
