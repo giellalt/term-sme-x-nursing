@@ -14,7 +14,7 @@ tilværelse	N	olemassaolo
 stimulering	N	ärsytys stimulaatio
 hoved	N	pää
 lom	N	kuikka
-henblikk	N	ajatus	tarkoitus
+henblikk	N	katse	med henblikk på dette	tämän yhteydessä
 sup	N	siemaisu
 skrivning	N	kirjoittaminen	kirjoitus
 juss	N	laki
@@ -25,7 +25,6 @@ mengd	N	määrä
 case	N	tapaus
 bading	N	kylpeminen	uiminen
 tilstedeværelse	N	läsnäolo
-spis	N	uuni
 sfære	N	alue	piiri	 sfääri
 legging	N	laitto
 langtidsopphold	N	pitkäaikainen hoitojakso	pitkäaikainen oleskelu
@@ -48,7 +47,7 @@ forkant	N	etureuna	sanonnoissa ennen
 prim	N	puolipehmeä herajuustoo
 kjenner	N	(asian)tuntija
 hold	N	pito	paikkansapitävyys	 etäisyys	alue
-agitasjon	N	yllytys kiihotus	agitaatio
+agitasjon	N	yllytys	kiihotus	agitaatio
 trim	N	kunto	 kuntoilu
 reis	N	sanonnoissa matka
 overdosering	N	yliannostus
@@ -90,7 +89,7 @@ skjørhet	N	hauraus
 såle	N	antura	pohja	 jalkapohja
 repertoar	N	ohjelmisto	skaala	repertuaari
 rehabiliteringsavdeling	N	kuntoutusosasto
-p.m.	N	post mortem ruumiinavaus	PM
+p.m.	N	post mortem	ruumiinavaus	PM
 p.a.	N	pro anno	vuosittain	vuodessa
 ordinasjon	N	lääkärinmääräys vihkimys esim. papiksi
 opphoping	N	kertymä kasautuminen	
@@ -649,7 +648,7 @@ brodd	N	kärki	 pistin	 piikki
 brigg	N	priki
 brem	N	lieri
 bortgang	N	lähtö	 kuolema
-bolk	N	osa kaari	 väliseinä
+bolk	N	osa	kaari	 väliseinä
 bog	N	lapa
 bjerk	N	koivu
 bistilling	N	sivuvirka
