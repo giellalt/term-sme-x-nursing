@@ -323,7 +323,7 @@ respirasjonsmuskulatur	vuoigŋanoažži	vuoigŋandeahkit	hengityslihaksisto			vu
 respirasjonsmuskel	vuoigŋanoažži		hengityslihas	vuoigŋanoažži		vuoiŋŋahatmusihkka	vuoiŋŋahatluohti
 respirasjonsbevegelse	vuoigŋanlihkadus		hengitysliike	vuoigŋangávpi		vuoiŋŋahatlihkadus	vuoigŋanlihkadus
 respirasjonsproblem	vuoigŋančuolbma	vuoigŋanproblema	hengitysongelma	vuoigŋanproblema		vuoiŋŋahatváttisvuohta	vuoigŋanváttisvuohta
-respirasjonsstans		onko oikea suomenkielinen sana	hengityspysähdys			vuoiŋŋadanboddu	vuoigŋanbottu
+respirasjonsstans		onko oikea suomenkielinen sana	hengityspysähdys, hengityslama			vuoiŋŋadanboddu	vuoigŋanbottu
 respirasjonsrytme	vuoigŋanritma		hengitysrytmi	vuoigŋanritma		vuoiŋŋasteapmi	vuoigŋanvuohki
 respirasjonssyklus	vuoigŋanbirrajohtu		hengityssykli			vuoiŋŋahatdássi	vuoiŋŋasteapmi
 respirasjonsfrekvens			hengitystaajuus	vuoigŋandávjodat		vuoiŋŋahatdássi	vuoigŋanluođđa
@@ -358,7 +358,7 @@ omsorgsutøver	divššuaddi		hoidon antaja	divššu #addi		fuolaheaddji	dikšoad
 behandlingssvikt	divššu eahpelihkostupmi		hoidon epäonnistuminen	divššu eahpelihkostuvvat		dikšunmeattáhus	dikšunváttisvuohta
 omsorgsbegrep	divššu doapa		hoidon käsite	divššu doaba		fuolahusdoaba	divššu doaba
 behandlingskvalitet	divššu dássi		hoidon laatu	divššu dássu		dikšunkvalitehta	dikšuma kvalitehta
-omsorgsdepartement		norjalainen titteli?	hoidon ministeriö	divššu ministeriija		fuolahusdepartemeanta	dearvvašvuođa ministeriija
+omsorgsdepartement		norjalainen titteli?	hoidon ministeriö (NO)	divššu ministeriija		fuolahusdepartemeanta	dearvvašvuođa ministeriija
 behandlingsopplegg	divššu plána		hoitosuunnitelma	divššu plána		dikšunskovvi	divššu plána
 behandlingsplan	divššu plána		hoitosuunnitelma	divššu plána		dikšunplána	divššu plána
 behandlingsregime	divššu plána		hoitosuunnitelma	divššu plána		dikšunvuohki	divššu plána
@@ -417,11 +417,11 @@ behandlingsansvar	dikšunvástu		hoitovastuu	dikšovástu		dikšunovddasvástád
 behandlingsmiljø	dikšunbiras		hoitoympäristö	dikšobiras		dikšunbiras	dálkkodanbiras
 sykehjemsbestyrer	dikšunruokto hoavda		hoivakodin johtaja	fuolahangođiiguin hoavda		buhcciidsiidda hoavda	dearvvašvuođaguovddáža hoavda
 sykehjemslege	dikšunruokto doavttir		hoivakodin lääkäri	fuolahangođiiguin doavttir		buhcciidruovttu doavttir	dikšunguovddáža doavttir
-sykehjemspasient			hoivakotipotilas	#fuolaheapmi#ruoktu#buohcci		buhcciidsiidda pasieanta	dearvvašvuođaguovddáš
+sykehjemspasient			hoivakotipotilas, hoivakodin asukas	#fuolaheapmi#ruoktu#buohcci		buhcciidsiidda pasieanta	dearvvašvuođaguovddáš
 omsorgskultur			hoivakulttuuri	fuolahankultuvra		fuolahankultuvra	dálkkodankultuvra
 omsorgstradisjon			hoivaperinne	fuolahanárbevierru		fuolahusvierru	dikšunárbevierru
 omsorgsressurs			hoivaresurssit	fuolahanresurssat		fuolahusresursa	dikšunresurssat
-omsorgsformål			hoivatarkoitus	fuolahanulbmil		fuolahusášši	dikšundárkkuhus
+omsorgsformål			hoivan tarkoitus	fuolahanulbmil		fuolahusášši	dikšundárkkuhus
 muggsopp	guohpaguoppar		homesieni	guohpaguoppar		guoggáiduhttin	mu iđit
 hormonbehandling	hormonadikšu		hormonihoito	hormonadikšu		hormonadikšun	hormonadikšun
 hormonnivå	hormonadássi		hormonitaso	hormonadássi		hormona dássi	hormona dássi
@@ -437,31 +437,31 @@ hygienerutine			hygieniatapa	buhtisindoallandáhpi		buhtisvuođarutiidna	hygiena
 utenforskap	badjelgeahččanan vásihus	guolmmas vásihus	hyljeksinnän kokemus	*hyljeksinnän vásihus		olgguldasvuohta	hilgunvásáhus
 velferdssystem	buresveadjin vuogádat		hyvinvointijärjestelmä	čálgovuogádat		buorredillevuogádat	buresbirgejupmevuogádat
 velværeteknologi	buresveadjin teknologiija		hyvinvointiteknologia	čálgoteknologiija		buorrediliteknologiija	buorrediliteknologiija
-vellukt			hyvä tuoksu	buorre 		lihkostuvvan	vuogas vuoigŋa
-velgjørenhetsprinsipp			hyväntekemisen periaate	*hyväntekemisen prinsihppa		buorredagolašvuođaprinsihppa	buorredahkki vuođđojurdda
-nyttekriterium			hyötykriteeri	guddakriteara		ávkeeaktu	ávkedoaibma
+vellukt	buorre hádja		hyvä tuoksu	buorre 		lihkostuvvan	vuogas vuoigŋa
+velgjørenhetsprinsipp	buorredahkki prinsihppa	buorredahkki vuođđojurdda	hyväntekemisen periaate	*hyväntekemisen prinsihppa		buorredagolašvuođaprinsihppa	buorredahkki vuođđojurdda
+nyttekriterium	ávkekriteara		hyötykriteeri	guddakriteara		ávkeeaktu	ávkedoaibma
 kullos			häkä	hiilomonoksidi	heahki	kulos	dušši
 CO-narkose			häkänarkoosi	#heahki#narkosa		CO-narkoisa	hávlabissuin ávkkástallan
-alarmmatte			hälyttävä matto	#alarmeret rátnu		signálamáhta	áibbas hirpmástuhtti
-responssenter			hälytyskeskus	#alárbma#guovddaš		responsguovddáš	heahteguovddáš
-alarmknapp			hälytysnappi	alárbmaboallu		várrenboallu	almmuhanboallu
-varmelaken			hätäpeite avaruuspeitto	heahtegovččas #gomuvuohtagovččas		báhkkenjuolggadus	heahtečiehka ávusruovttus
-bluferdighet			häveliäisyys	heahpu		bluffivuohta	heahpat
-ICNP-diagnose			ICNP-diagnoosi			ICNP-diagnosa	ICNP-diagnosa
-ICNP-begrep			ICNP-käsite			ICNP-doaba	ICNP-doaba
+alarmmatte	alárbma rátnu		hälyttävä matto	#alarmeret rátnu		signálamáhta	áibbas hirpmástuhtti
+responssenter	alárbmaguovddaš		hälytyskeskus	#alárbma#guovddaš		responsguovddáš	heahteguovddáš
+alarmknapp	alárbmaboallu		hälytysnappi	alárbmaboallu		várrenboallu	almmuhanboallu
+varmelaken	liekkasgovččas		hätäpeite avaruuspeitto	heahtegovččas #gomuvuohtagovččas		báhkkenjuolggadus	heahtečiehka ávusruovttus
+bluferdighet	heahpu		häveliäisyys	heahpu		bluffivuohta	heahpat
+ICNP-diagnose	ICNP-diagnosa (NO)		ICNP-diagnoosi			ICNP-diagnosa	ICNP-diagnosa
+ICNP-begrep	ICNP-doaba (NO)		ICNP-käsite			ICNP-doaba	ICNP-doaba
 identifikasjon			identifikaatio	samastuminen		identifikašuvdna	identifikašuvdna
 identifisering			identifiointi			identifiseren	identifiseren
-tannkjøtt			ien	aldna		gámačeabeha	ienni
-gingivitt			ientulehdus	gingiviitti	aldnavuolši	geranivihtta	ivnniid vuolši
+tannkjøtt	algŋa		ien	aldna		gámačeabeha	ienni
+gingivitt	algŋavuolši		ientulehdus	gingiviitti	aldnavuolši	geranivihtta	ivnniid vuolši
 idealkropp			ihannekeho			ideála gorut	áibbas amas rumaš
 menneskekropp			ihmiskeho			olbmo gorut	olbmo gorut
-menneskeoppfatning			ihmiskäsitys			olbmuid oaidnu	olbmuid oaidnu
-gåsehud			iho kananlihalla	liiki vuoncábierggus		goaskinis	gámačeabeha náhkki
-hudproblem			iho-ongelma	liikeproblema		miha čuolbma	juoga mii čuohcá
-hudombud			iho-ongelmiin paneutunut vastuusairaanhoitaja	liikeproblemaide #čiekŋudit #vástu#buohccidikšu		luddesteaddji	ovddasvástádusbuohccedivššár, guhte lea čalmmustahttán iežas skihpáriid
-hudsans			ihoaisti  tuntoaisti kosketusaisti	liikedovdda dovdodovdda  guoskkahusdovdda		miellačájeheapmi	áibbaš dovddakeahtes guoskkaheapmi
-hudområde			ihoalue	liikeguovlu		guovlu gos oaidná	lunddolaš
-hudkontakt			ihokontakti	liikekontákta		luddestagain	lápmašupmi
+menneskeoppfatning	olmmošoaidnu		ihmiskäsitys			olbmuid oaidnu	olbmuid oaidnu
+gåsehud	liiki vuoncábierggus		iho kananlihalla	liiki vuoncábierggus		goaskinis	gámačeabeha náhkki
+hudproblem	liikeproblema		iho-ongelma	liikeproblema		miha čuolbma	juoga mii čuohcá
+hudombud	liikeproblemaide čiekŋudit vástu buohccedivššár		iho-ongelmiin paneutunut vastuusairaanhoitaja	liikeproblemaide #čiekŋudit #vástu#buohccidikšu		luddesteaddji	ovddasvástádusbuohccedivššár, guhte lea čalmmustahttán iežas skihpáriid
+hudsans	liikeáicu, dovdoáicu		ihoaisti  tuntoaisti kosketusaisti	liikedovdda dovdodovdda  guoskkahusdovdda		miellačájeheapmi	áibbaš dovddakeahtes guoskkaheapmi
+hudområde	liikeguovlu		ihoalue	liikeguovlu		guovlu gos oaidná	lunddolaš
+hudkontakt	liikekontákta	liikeguoskkahus	ihokontakti	liikekontákta		luddestagain	lápmašupmi
 hudtermometer			iholämpömittari			lunddolaš termomehter	ivdneliekkasmihttár
 hudforandring			ihomuutos	liikeiežáhus		rievdan olbmos	rievdadeapmi
 hudvurdering			ihon arviointi	liikki evalueren		liikeárvvoštallan	árvvoštallan maid olbmot liikojit dahkat
@@ -586,7 +586,7 @@ kateterspiss			katetrin kärki	#katehtár geahči		kattehterbihttá	katekehtera 
 katetertupp			katetrin pää	#katehtár #oaivi		katetráhppa	katekehtera oaivi
 kateterprøve			katetrinäyte	#katehtárčájánas		kateterapalaš iskkus	Katetri-iskosaš
 katetertype			katetrityyppi	#katehtártiipa		katetráhpa šládja	katetráhppa
-takheis			kattoon kiinnitetty siirtolaite	rohpái *kiinnitetty sirdinrusttet		dáhkáduslihtti	sáddenrusttegat mat leat biddjojuvvon láhčái
+takheis			kattoon kiinnitetty siirtolaite, kattonosturi	rohpái *kiinnitetty sirdinrusttet		dáhkáduslihtti	sáddenrusttegat mat leat biddjojuvvon láhčái
 nakkevirvel			kaulanikama			niskevealgi	giehtagávpi
 skjønnhetsideal			kauneusihanne			čábbodaga ideála	čikŋagárri
 utviklingstrinn			kehitysaste	#ahtanuššan#ráđđa		ovdánandássi	ovdánandássi
