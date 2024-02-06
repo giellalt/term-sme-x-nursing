@@ -1,51 +1,40 @@
-a.l	N	
-a.s	N	
-abstraksjon	N	
-action	N	
-adhesjon	N	
-adv	N	
-aerosol	N	
-akershus	N	
-aking	N	
-akryl	N	
-aks	N	
-aktelse	N	
-aktivum	N	
-alfa	N	
-algin	N	
-alginat	N	
-alkoholmisbruker	N	
-anabolisme	N	
-ang	N	
-ange	N	
-anleggelse	N	
-annal	N	
-ansiktsdrag	N	
-ansiktsfarge	N	
-ansiktsmaske	N	
-ansvarlighet	N	
-ansvarsfølelse	N	
-antikonsepsjon	N	
-antrekk	N	
-anvendelsesområde	N	
-aperitiff	N	
-apparatur	N	
-appelsinskall	N	
-appendiks	N	
-arbeidsbelastning	N	
-arbeidskollega	N	
-ærbødighet	N	
-åreforkalking	N	
-argon	N	
-åring	N	
-æring	N	
-ærlighet	N	
-armprotese	N	
-arrest	N	
-årsklasse	N	
-artefakt	N	
-arteriosklerose	N	
-artikulering	N	
+abstraksjon	N	abstraktio  konkreettisen kohteen tietyn piirteen tai piirrejoukon eristäminen ja tarkastelu sellaisenaan
+adhesjon	N	adheesio    kiinnike    tartuntakyky
+aerosol	N	aerosoli    ilmassa oleva ainehiukkasten ja veden tai kaasun seos (mikr)
+akryl	N	akryyli
+aktelse	N	arvonanto   kunnioitus  for noe(n) kunnioitus jtk kohtaan
+aktivum	N	vastaava (tal)  etu 
+alginat	N	alginaatti  merilevästä saatu aine
+alkoholmisbruker	N	alkoholin väärinkäyttäjä
+anabolisme	N	anabolia    synteesiaineenvaihdunta
+ange	N	tuoksu 
+anleggelse	N	rakentaminen    tekeminen   ???
+annal	N	aikakirja   vuosikirja
+ansiktsdrag	N	kasvonpiirre
+ansiktsfarge	N	kasvoväri
+ansiktsmaske	N	kasvonaamio maski
+ansvarlighet	N	vastuullisuus
+ansvarsfølelse	N	vastuuntunto    vastuuntunne
+antikonsepsjon	N	ehkäisy
+antrekk	N	alkoholmisbrukerpuku    vaatetus
+anvendelsesområde	N	käyttöalue
+aperitiff	N	aperitiivi  ennen ruokailua nautittava alkoholijuoma
+apparatur	N	laitteisto
+appelsinskall	N	appelsiinin kuori
+appendiks	N	umpilisäke  uloke   liite
+arbeidsbelastning	N	työtaakka
+arbeidskollega	N	työtoveri   virkatoveri kollega
+ærbødighet	N	skunnioitus
+åreforkalking	N	verisuonten kalkkeutuminen  valtimotauti    ateroskleroosi
+argon	N	argon   jalokaasuihin kuuluva väritön, hajuton ja mauton alkuaine
+åring	N	satovuosi   - vuotias
+ærlighet	N	rehellisyys
+armprotese	N	käsiproteesi
+arrest	N	aresti
+årsklasse	N	vuosiluokka
+artefakt	N	artefakti   ihmisen valmistama objekti  tutkimuslöydös, joka ei johdu tutkittavasta kohteesta vaan esimerkiksi tutkimusmenetelmän virheestä tai näytteen saastumisesta (lääk)
+arteriosklerose	N	arterioskleroosi    valtimoiden jäykistyminen ja paksuuntuminen
+artikulering	N	ääntäminen  artikulointi
 arvelighet	N	
 asal	N	
 askorbinsyre	N	
