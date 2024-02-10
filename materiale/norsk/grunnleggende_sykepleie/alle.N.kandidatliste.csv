@@ -462,20 +462,20 @@ hudombud	liikeproblemaide čiekŋudit vástu buohccedivššár		iho-ongelmiin pa
 hudsans	liikeáicu, dovdoáicu		ihoaisti  tuntoaisti kosketusaisti	liikedovdda dovdodovdda  guoskkahusdovdda		miellačájeheapmi	áibbaš dovddakeahtes guoskkaheapmi
 hudområde	liikeguovlu		ihoalue	liikeguovlu		guovlu gos oaidná	lunddolaš
 hudkontakt	liikekontákta	liikeguoskkahus	ihokontakti	liikekontákta		luddestagain	lápmašupmi
-hudtermometer			iholämpömittari			lunddolaš termomehter	ivdneliekkasmihttár
-hudforandring			ihomuutos	liikeiežáhus		rievdan olbmos	rievdadeapmi
-hudvurdering			ihon arviointi	liikki evalueren		liikeárvvoštallan	árvvoštallan maid olbmot liikojit dahkat
-hudtemperatur			ihon lämpötila	liikki temperatuvra		goruda temperatuvra	min goruda temperatuvra
+hudtermometer	liikeliekkasmihttár		iholämpömittari			lunddolaš termomehter	ivdneliekkasmihttár
+hudforandring	liikeiežáhus		ihomuutos	liikeiežáhus		rievdan olbmos	rievdadeapmi
+hudvurdering	liikki árvvoštallan		ihon arviointi	liikki evalueren		liikeárvvoštallan	árvvoštallan maid olbmot liikojit dahkat
+hudtemperatur	liikki temperatuvra		ihon lämpötila	liikki temperatuvra		goruda temperatuvra	min goruda temperatuvra
 hudoverflate			ihon pinta	liikki aláš		guolga	lunddolaš
-hudfett			ihon rasvakerros	liikki ráhpa		liikeávnnashaddi	buoidegođđosa buoidegođđosat
-hudpleie			ihonhoito	liikkedikšu		liikedikšu	rumašdivššu
-hudfuktighet			ihonkosteus	liikkelávttas		guođđinláhki	golggosbuođđu
-hudfold			ihopoimu			náhkkesoallu	albma lágan olmmoš
-hudavdeling			ihotautien osasto	liikedávddaid ossodat		náhkeossodat	sekšuvdna gos kirurgalaš doaimmat leat jođus
-hudavdeling			ihotautiosasto	liikedávdaossodat		náhkeossodat	dermatologiija ossodat
-hudtype			ihotyyppi	liiketiipa		liiketyppi	lápmašuvvan rumaš
-hudskade			ihovaurio	#liiki#vaháguvvan		luddestahkan	luddestahkan
-hudblødning			ihoverenvuoto	liikevarasuođđu		lunddolaš vardin	luddestaga vardin
+hudfett	liikki buoidegearddi		ihon rasvakerros	liikki ráhpa		liikeávnnashaddi	buoidegođđosa buoidegođđosat
+hudpleie	liikkedikšu		ihonhoito	liikkedikšu		liikedikšu	rumašdivššu
+hudfuktighet	liikkelávttasvuohta		ihonkosteus	liikkelávttas		guođđinláhki	golggosbuođđu
+hudfold	nárvi		ihopoimu			náhkkesoallu	albma lágan olmmoš
+hudavdeling	liikedávddaid ossodat		ihotautien osasto	liikedávddaid ossodat		náhkeossodat	sekšuvdna gos kirurgalaš doaimmat leat jođus
+hudavdeling	liikedávdaossodat		ihotautiosasto	liikedávdaossodat		náhkeossodat	dermatologiija ossodat
+hudtype	liiketiipa		ihotyyppi	liiketiipa		liiketyppi	lápmašuvvan rumaš
+hudskade	liikevaháguvvan	liikevihki?	ihovaurio	#liiki#vaháguvvan		luddestahkan	luddestahkan
+hudblødning	liikevardin		ihoverenvuoto	liikevarasuođđu		lunddolaš vardin	luddestaga vardin
 aldersendring			ikääntymismuutos	agáiduvvat iežáhus		ahkerievdan	rievdan agi mielde
 uttrykksmiddel			ilmaisukeino	dajahusgeaidnu		ovdanbuktinreaidu	ovdanbuktinvuohki
 uttrykksmåte			ilmaisutapa	dajahusdáhpi		ovdanbuktinvuohki	ovdanbuktinvuohki
