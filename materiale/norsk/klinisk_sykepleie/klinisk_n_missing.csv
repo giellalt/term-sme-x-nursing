@@ -91,63 +91,39 @@ byks	N	harppaus
 bytting	N	vaihto  vaihdokas
 californium	N	kalifornium
 cape	N	hartiaviitta    keeppi
-cash	N	
-celsiusgrad	N	
-central	N	
-champion	N	
-charge	N	
-chip	N	
-cocktail	N	
-coil	N	
-collage	N	
-collie	N	
-consensus	N	
-corpus	N	
-cot	N	
-cover	N	
-cross	N	
-cutting	N	
-d.c	N	
-d.d	N	
-d.e	N	
-d.g	N	
-d.l	N	
-d.m	N	
-d.s	N	
-dagdrøm	N	
-dall	N	
-dashbord	N	
-defekt	N	
-deformasjon	N	
-dekompresjon	N	
-deltagelse	N	
-demon	N	
-demring	N	
-desinfisering	N	
-dess	N	
-destruksjon	N	
-detektor	N	
-devel	N	
-diksjon	N	
-dimensjonering	N	
-disseksjon	N	
-distansering	N	
-distraksjon	N	
-dna	N	
-donor	N	
-dr.polit	N	
-drahjelp	N	
-drakt	N	
-dvs	N	
-dysenteri	N	
-e.f	N	
-e.g.	N	
-e.l	N	
-ecstasy	N	
-egentrening	N	
-eggedosis	N	
-eks	N	
-ekskl	N	
+celsiusgrad	N	celsiusaste
+chips	N	perunalastut
+d.c. (da capo, dakapo)	N	uudelleen
+d.d. (dags dato)	N	tänään  ???
+d.e. (den eldre)	N	vanhempi (nimien yhteydessä)???
+d.m. (denne måned)	N	tätä kuuta
+dagdrøm	N	valveuni    unelma
+dashbord	N	kojetaulu
+defekt	N	vika puute
+deformasjon	N	muodonmuutos    vääristyminen   deformaatio
+dekompresjon	N	paineen vähentäminen
+deltagelse	N	osallistuminen  osanotto
+demon	N	riivaaja    (paha)henki demoni
+demring	N	koitto
+desinfisering	N	desinfiointi
+dess	N	- bedre sen parempi til - siihen saakka dess/jo...dess mitä...sitä
+destruksjon	N	hävitys tuho
+detektor	N	ilmaisin    paljastin
+diksjon	N	lausunta    ???
+dimensjonering	N	mitoitus
+disseksjon	N	kudosten irrottelu  leikkely    dissektio
+distansering	N	etäisyyden ottaminen
+distraksjon	N	hajamielisyys ???huomion kääntäminen muualle ???
+dna	N	DNA deoksiribonukleiinihappo
+donor	N	luovuttaja
+drahjelp	N	vetoapu
+drakt	N	puuskaasu
+dvs. (det vil si)	N	eli ???
+dysenteri	N	punatauti   dysenteria
+e.l. (eller lignende)	N	jne. ja niin edelleen
+egentrening	N	itsenäinen harjoittelu  ???
+eggedosis	N	sokerin kanssa vatkattu muna
+eks. (eksemplar)	N	kappale yksikkö
 ekstrautgift	N	
 ekstrautstyr	N	
 elektrokardiogram	N	
