@@ -24,7 +24,7 @@ appelsinskall	N	appelsiinin kuori
 appendiks	N	umpilisäke  uloke   liite
 arbeidsbelastning	N	työtaakka
 arbeidskollega	N	työtoveri   virkatoveri kollega
-ærbødighet	N	skunnioitus
+ærbødighet	N	kunnioitus
 åreforkalking	N	verisuonten kalkkeutuminen  valtimotauti    ateroskleroosi
 argon	N	argon   jalokaasuihin kuuluva väritön, hajuton ja mauton alkuaine
 åring	N	satovuosi   - vuotias
@@ -35,75 +35,62 @@ arrest	N	aresti
 artefakt	N	artefakti   ihmisen valmistama objekti  tutkimuslöydös, joka ei johdu tutkittavasta kohteesta vaan esimerkiksi tutkimusmenetelmän virheestä tai näytteen saastumisesta (lääk)
 arteriosklerose	N	arterioskleroosi    valtimoiden jäykistyminen ja paksuuntuminen
 artikulering	N	ääntäminen  artikulointi
-arvelighet	N	
-asal	N	
-askorbinsyre	N	
-astigmatisme	N	
-aura	N	
-auto	N	
-automatikk	N	
-avbrekk	N	
-avhengighetsforhold	N	
-avlesing	N	
-avlesning	N	
-avrivning	N	
-avspilling	N	
-avstivning	N	
-avveksling	N	
-b.c	N	
-back	N	
-backup	N	
-badevann	N	
-bagatellisering	N	
-bakgrunnsinformasjon	N	
-bakk	N	
-bal	N	
-balle	N	
-barberhøvel	N	
-barbermaskin	N	
-bardun	N	
-barium	N	
-barneår	N	
-barnsbein	N	
-barrier	N	
-barskhet	N	
-bærum	N	
-bas	N	
-begrepsapparat	N	
-behag	N	
-beine	N	
-beis	N	
-beklagelse	N	
-benektelse	N	
-berettigelse	N	
-berikelse	N	
-beroligelse	N	
-berøringspunkt	N	
-berøvelse	N	
-berte	N	
-bestanddel	N	
-bestråling	N	
-betaler	N	
-bevegelsesutslag	N	
-bidragsyter	N	
-bioingeniør	N	
-biol	N	
-bl.a	N	
-blaff	N	
-blåser	N	
-bloc	N	
-bol	N	
-borre	N	
-botulisme	N	
-brand	N	
-brannfare	N	
-brekkasje	N	
-brunfarge	N	
-byks	N	
-bytting	N	
-californium	N	
-cand.polit	N	
-cape	N	
+arvelighet	N	perinnöllisyys
+askorbinsyre	N	askorbiinihappo
+astigmatisme	N	hajataittoisuus astigmatismi
+aura	N	sairauskohtauksen ennakkotunne esimerkiksi epilepsiassa (med)
+automatikk	N	automatiikka
+avbrekk	N	keskeytys   tauko   haitta
+avhengighetsforhold	N	riippuvuussuhde
+avlesing	N	lukeminen esim. mittarin -
+avlesning	N	lukeminen esim. mittarin -
+avrivning	N	repäisy irti repiminen  ???
+avspilling	N	toisto
+avstivning	N	jäykistäminen
+avveksling	N	vaihtelu
+badevann	N	kylpyvesi
+bagatellisering	N	vähättely
+bakgrunnsinformasjon	N	taustatiedot (mon.)
+ball	N	pallo   tanssiaiset lihaisa kehonosa esim. tåball päkiä, rumpeball pakara
+barberhøvel	N	partaveitsi partahöylä
+barbermaskin	N	partakone   parranajokone
+bardun	N	vaijeri vahvistava ommel (med)
+barium	N	barium
+barneår	N	lapsuus lapsuusvuodet
+barnsbein	N	fra - av lapsuudesta lähtien
+barriere	N	este
+barskhet	N	karskius
+base	N	emäs    tukikohta   asemapaikka
+begrepsapparat	N	käsitteistö
+behag	N	mieltymys   ihastus etter - behag mielen mukaan
+beis	N	petsi
+beklagelse	N	pahoittelu
+benektelse	N	kieltäminen
+berettigelse	N	oikeutus
+berikelse	N	rikastus    ???
+beroligelse	N	rauhoittaminen  ???
+berøringspunkt	N	kosketuskohta
+berøvelse	N	riistäminen
+bestanddel	N	ainesosa
+bestråling	N	säteily
+betaler	N	maksaja
+bevegelsesutslag	N	liikelaajuus (nivelten)
+bidragsyter	N	avustaja    avunantaja
+bioingeniør	N	laboratoriohoitaja
+bl.a. Iblant annet)	N	mm. muun muassa
+blaff	N	puuska  vihuri  lepatus
+blåser	N	???
+bol	N	pesä    asuinpaikka
+borre	N	takiainen
+borrelås    N   tarrakiinnitys
+botulisme	N	botulismi   botuliinin aiheuttama myrkytys
+brannfare	N	palovaara
+brekkasje	N	rikkoutuminen   särkyminen
+brunfarge	N	rusketus
+byks	N	harppaus
+bytting	N	vaihto  vaihdokas
+californium	N	kalifornium
+cape	N	hartiaviitta    keeppi
 cash	N	
 celsiusgrad	N	
 central	N	
