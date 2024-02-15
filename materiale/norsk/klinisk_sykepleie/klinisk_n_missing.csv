@@ -124,74 +124,65 @@ e.l. (eller lignende)	N	jne. ja niin edelleen
 egentrening	N	itsenäinen harjoittelu  ???
 eggedosis	N	sokerin kanssa vatkattu muna
 eks. (eksemplar)	N	kappale yksikkö
-ekstrautgift	N	
-ekstrautstyr	N	
-elektrokardiogram	N	
-embolus	N	
-emeritus	N	
-emning	N	
-emosjon	N	
-ending	N	
-energiøkonomisering	N	
-enkeltfaktor	N	
-enkeltindivid	N	
-enstavelsesord	N	
-enter	N	
-entitet	N	
-epitel	N	
-ergonomi	N	
-erle	N	
-erstatningssak	N	
-erythematosus	N	
-esc	N	
-etc	N	
-ettergivenhet	N	
-etterkontroll	N	
-ettertid	N	
-etui	N	
-etylen	N	
-eur	N	
-evt	N	
-f.eks	N	
-f.h	N	
-f.m	N	
-f.t	N	
-fabrikant	N	
-fagdag	N	
-fagkompetanse	N	
-fantom	N	
-fånytte	N	
-fatning	N	
-feeling	N	
-femdel	N	
-fengselscelle	N	
-fenotype	N	
-festeanordning	N	
-festing	N	
-fillerye	N	
-firedel	N	
-fjelland	N	
-flanke	N	
-flateenhet	N	
-flått	N	
-flertydighet	N	
-flesland	N	
-flestepart	N	
-flik	N	
-flor	N	
-fløteis	N	
-fokusering	N	
-fole	N	
-folkeopplysning	N	
-fommel	N	
-fonn	N	
-fór	N	
-foranledning	N	
-forbytting	N	
-foreleser	N	
-forgjengelighet	N	
-forhøyning	N	
-fôring	N	
+ekstrautgift	N	ylimääräinen meno
+ekstrautstyr	N	lisävarusteet
+elektrokardiogram	N	elektrokardiogrammi sähköimpulssien avulla muodostettu sydämen toimintaa kuvaava graafinen käyrä
+embolus	N	tulppa  veritulppa  embolus
+emeritus	N	emeritustäysinpalvellut miespuolinen henkilö
+emning	N	valmistelu  kehittely   være i - olla kehitteillä
+emosjon	N	tunne
+ending	N	(kiel) pääte
+energiøkonomisering	N	energiansäästö ???
+enkeltfaktor	N	yksittäinen tekijä
+enkeltindivid	N	yksilö  ???
+enstavelsesord	N	yksitavuinen sana
+entitet	N   kokonaisuus selvstendig og entydig enhet    ???
+epitel	N	epiteeli    epiteelikudos
+ergonomi	N	ergonomia
+erle	N	västäräkki
+erstatningssak	N	korvausasia
+etc. (et cetera)	N	ja niin edelleen    ynnä muuta
+ettergivenhet	N	myöntyvyys
+etterkontroll	N	jälkitarkastus
+ettertid	N	tulevaisuus myöhemmät ajat
+etui	N	kotelo
+etylen	N	eteeni  etyleeni
+evt. (etter vår tidsregning)	N	jaa. jälkeen ajanlaskun alun
+f.eks. (for eksempel) 	N	esim. esimerkiksi
+f.t. (for tiden)	N	nykyään tällä hetkellä  ???
+fabrikant	N	valmistaja  tehtailija
+fagdag	N	oman alan koulutuspäivä koulussa yhteen oppiaineeseen keskittyvä päivä
+fagkompetanse	N	ammatillinen pätevyys
+fantom	N	harhakuva   aave
+fånyttes	A	turha   til - turhaan
+fatning	N	maltti  tyyneys bringe ut av - saada suunniltaan
+femdel	N	viidennes   viidesosa
+fengselscelle	N	vankilaselli
+fenotype	N	fenotyyppi  ilmiasu
+festeanordning	N	kiinnityslaite  kiinnitysmahdollisuus     ???                                                                                          
+festing	N	kiinnittäminen  juhliminen
+fillerye	N	räsymatto
+firedel	N	neljännes   neljäsosa
+flanke	N	kylki   kuve    (mil) siipi, sivusta
+flateenhet	N	pinta-alan yksikkö
+flått	N	punkki
+flertydighet	N	moniselitteisyys
+flestepart	N	suurin osa
+flik	N	lieve   siiveke    kulma
+flor	N	kukoistus   harso
+fløteis	N	kermajäätelö
+fokusering	N	fokusointi  tarkentaminen   ???
+fole	N	varsa
+folkeopplysning	N	kansanvalistus
+fommel	N	??? höperö ???
+fonn	N	nieto   kinos
+fór	N	rehu    vuori (vaateissa)
+foranledning	N	syy aihe
+forbytting	N	vaihtaminen     ??? vaihtuminen ???
+foreleser	N	luennoitsija
+forgjengelighet	N	katoavaisuus    kuolevaisuus
+forhøyning	N	kohouma koroke
+fôring	N	ruokinta    vuoraus
 forlegenhet	N	
 forming	N	
 forplantning	N	
