@@ -183,80 +183,70 @@ foreleser	N	luennoitsija
 forgjengelighet	N	katoavaisuus    kuolevaisuus
 forhøyning	N	kohouma koroke
 fôring	N	ruokinta    vuoraus
-forlegenhet	N	
-forming	N	
-forplantning	N	
-forsteining	N	
-forstørrelse	N	
-fortetning	N	
-fortielse	N	
-fortrenging	N	
-forvei	N	
-forvissning	N	
-fraksjon	N	
-framspring	N	
-fremmend	N	
-funksjonshemming	N	
-furie	N	
-galgenhumor	N	
-gall	N	
-gammaglobulin	N	
-garderobeskap	N	
-gassflaske	N	
-gassmengde	N	
-gele	N	
-gene	N	
-genspleising	N	
-gigantisme	N	
-givning	N	
-gjenvekst	N	
-gjerd	N	
-glassbit	N	
-glidning	N	
-glip	N	
-glykol	N	
-gnag	N	
-gnidning	N	
-goal	N	
-godvilje	N	
-golfspiller	N	
-gom	N	
-government	N	
-gradering	N	
-gravitasjon	N	
-grønnsåpe	N	
-grundighet	N	
-grunnholdning	N	
-grunnstønad	N	
-grut	N	
-gulost	N	
-hal	N	
-halting	N	
-håndgemeng	N	
-hårbørste	N	
-hårføner	N	
-have	N	
-heat	N	
-heine	N	
-heltids	N	
-henhold	N	
-hermetikk	N	
-herr	N	
-hissighet	N	
-histamin	N	
-hjelpsomhet	N	
-hjerte-karsykdom	N	
-hjerteoperasjon	N	
-hofteskål	N	
-hogg	N	
-hol	N	
-homeopati	N	
-hong	N	
-house	N	
-hovedåre	N	
-hovedform	N	
-huff	N	
-hundehår	N	
+forlegenhet	N	kiusaantuneisuus    nolostuminen häpeä
+forming	N	dkuvaamataito   muovailu    muodostus
+forplantning	N	lisääntyminen
+forsteining	N	kivettymä
+forstørrelse	N	suurennos
+fortetning	N	tiivistyminen   tiivistymä
+fortielse	N	vaikeneminen
+fortrenging	N	(psy) torjunta  patouma
+forvei i forveien	N	edeltä  dagen i - edellisenä  päivänä   lang tid i - hyvissä ajoin ennen
+forvissning	N	varmuus
+fraksjon	N	puolueryhmittymä    ryhmäkunta  jae
+framspring	N	ulkonema    kieleke uloke
+funksjonshemming	N	vamma
+furie	N	raivotar
+galgenhumor	N	hirtehishuumori
+gall	N	(bot) äkämä
+galle   N   sappi
+gammaglobulin	N	gammablobuliini veriplasman proteiini
+garderobeskap	N	vaatekomero
+gassflaske	N	kaasupullo
+gassmengde	N	kaasun määrä
+gelé	N	hyytelö
+gen	N	geeni  perintötekijä
+genspleising	N	geenien yhteenliittäminen
+gigantisme	N	jättikasvu  gigantismi  gigantismus
+gjenvekst	N	takaisin kasvaminen uudelleen kasvaminen    ???
+gjerde	N	aita
+glassbit	N	lasinsiru
+glidning	N	liukuminen  liuku   ???
+glipe	N	rako
+glykol	N	glykoli
+gnag	N	nakerrus    jankutus
+gnidning	N	hankaus
+godvilje	N	hyvä tahto
+golfspiller	N	golfin pelaaja
+gradering	N	(arvostelu)asteikko arvosteluasteikkoon laittaminen ???
+gravitasjon	N	painovoima  gravitaatio
+grønnsåpe	N	mäntysuopa
+grundighet	N	perusteellisuus
+grunnholdning	N	perusasenne
+grunnstønad	N	 lapsen vammaistuki   pengestøtte til ekstrautgifter når du eller barnet ditt har en varig skade, sykdom eller funksjonsnedsettelse
+grut	N	kahvinporot
+gulost	N	keltaisen värinen juusto esim. gouda
+hal	N	veto
+halting	N	ontuminen   nilkuttaminen
+håndgemeng	N	käsikähmä   käsirysy
+hårbørste	N	hiusharja
+hårføner	N	hiustenkuivain  hiustenkuivaaja fööni
+heltid	N	på - täyspäiväinen
+henhold	N	i - til jnk nojalla
+hermetikk	N	säilyke
+herr	N	(puhuttelu) herra
+hissighet	N	kiivaus
+histamin	N	histamiini
+hjelpsomhet	N	avulius auttavaisuus
+hjerte-karsykdom	N	sydän- ja verisuonitauti
+hjerteoperasjon	N	sydänleikkaus
+hofteskål	N	lonkkamalja
+hogg	N	isku    lyönti
+hol	N	reikä   aukko   loukko
+homeopati	N	homeopatia
+hovedåre	N	pääsuoni
+huff -!	N	(tretthet) huh! (avsky) hyi!    (skrekk) hui!
+hundehår	N	koirankarva
 hundekjører	N	
 hvilepause	N	
 hyll	N	
