@@ -374,72 +374,62 @@ miljøterapeut	N	yhteisöpedagogi terveys- ja sosiaalihuollossa
 milligram	N	milligramma
 mismot	N	masennus
 mistenkeliggjøring	N	epäilyksen alaiseksi saattaminen
-mod	N	
-modalitet	N	
-mokasin	N	
-monokkel	N	
-morskap	N	
-motsetningsforhold	N	
-mottaking	N	
-mulle	N	
-munterhet	N	
-myalgi	N	
-nålestikk	N	
-narkomani	N	
-narkotikamisbruker	N	
-nattero	N	
-nattøy	N	
-nav.no	N	
-nedtur	N	
-nedvurdering	N	
-neglelakk	N	
-neglisjering	N	
-nei-spørsmål	N	
-nektar	N	
-nøling	N	
-nominal	N	
-non	N	
-normalisering	N	
-normalitet	N	
-nos	N	
-ntnu	N	
-o.a	N	
-o.k	N	
-o.l	N	
-o.m	N	
-obs	N	
-ødegård	N	
-ødelegging	N	
-off	N	
-oksyhemoglobin	N	
-olivenolje	N	
-oljebad	N	
-omdreining	N	
-omelett	N	
-ømfintlighet	N	
-omorganisering	N	
-omriss	N	
-omskolering	N	
-omveltning	N	
-ønsketenkning	N	
-operasjonsavdeling	N	
-operasjonssykepleier	N	
-oping	N	
-oppbygning	N	
-oppdrift	N	
-oppfatningsevne	N	
-opphisselse	N	
-oppkok	N	
-oppladning	N	
-oppmøte	N	
-oppmykning	N	
-oppnevning	N	
-opprenskning	N	
-oppsett	N	
-oppsikt	N	
-oppslagsbok	N	
-oppstartingsfase	N	
-osv	N	
+modalitet	N	ominaisuus  olemisen muoto (lääk) behandlingsmodalitet  hoitomuoto
+mokasinutslett	N	mokkasiinisilsa
+monokkel	N	monokkeli
+morskap	N	äitiys  huvi
+motsetningsforhold	N	vastakkaisuus
+mottaking	N	vastaanotto
+munterhet	N	hilpeys
+myalgi	N	lihassärky
+nålestikk	N	neulanpisto
+narkomani	N	huumeaineiden väärinkäyttö  huumeriippuvuus narkomania
+narkotikamisbruker	N	huumeiden väärinkäyttäjä
+nattero	N	yörauha
+nattøy	N	yöasu   yöpuku
+nedtur	N	alasmeno    paluu   vastoinkäyminen
+nedvurdering	N	aliarvostus
+neglelakk	N	kynsilakka
+neglisjering	N	laiminlyönti    välinpitämättömyys  ???
+nektar	N	nektari mesi
+nøling	N	epäröinti
+nominal-	A	nimellis-   ???
+normalisering	N	normalisoida
+normalitet	N	normaalius  tavallisuus normaalitila
+o.a. og annet	N	ym. ja muut ynnä muut
+o.a. oversetterens anmerkning   N   kääntäjän huomautus
+o.l. og lignende	N	ja vastaavat    ???
+o.m. og mer	N	ja lisää    ???
+obs	N	huom.
+ødelegging	N	hävittäminen    tuhoaminen
+oksyhemoglobin	N	oksihemoglobiini    (lääk) hapettunut hemoglobiini
+olivenolje	N	oliiviöljy
+oljebad	N	öljykylpy
+omdreining	N	kierros
+omelett	N	munakas omeletti
+ømfintlighet	N	arkuus  herkkyys
+omorganisering	N	uudelleenjärjestely
+omriss	N	ääriviivat
+omskolering	N	uudelleen koulutus
+omveltning	N	mullistus   kumous
+ønsketenkning	N	toiveajattelu
+operasjonsavdeling	N	leikkausosasto
+operasjonssykepleier	N	leikkaussalisairaanhoitaja
+oppbygning	N	rakenne
+oppdrift	N	(fys) noste kantavuus
+oppfatningsevne	N	käsityskyky
+opphisselse	N	kiihtymys   tuohtumus
+oppkok	N	kiehautus
+oppladning	N	lataus
+oppmøte	N	osanotto (tilaisuuksissa)
+oppmykning	N	lieventäminen   pehmittäminen   (urh) verryttely
+oppnevning	N	nimittäminen
+opprenskning	N	puhdistus
+oppsett	N	lehtikirjoitus  ??? asettelu ??? timeoppsett aikataulu
+oppsikt	N	huomio  vekke - herättää huomiota   valvonta ha - med noe pitää silmällä jtk???
+oppslagsbok	N	hakuteos
+oppstartingsfase	N	käynnistysvaihe
+osv. og så videre	N	jne. ja niin edelleen
 overgriper	N	
 overhånd	N	
 overlevering	N	
