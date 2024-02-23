@@ -464,57 +464,51 @@ plageånd	N	kiusanhenki
 plansje	N	kuvataulu
 angioplastikk	N	verisuonen (yleensä sepelvaltimon) pallolaajennus
 platå	N	ylätasanko  tasanne
-pms	N	
-politietterforskning	N	
-poll	N	
-polster	N	
-popkorn	N	
-pore	N	
-potteplante	N	
-pre	N	
-presisjon	N	
-prevensjonsveiledning	N	
-produksjonsdatum	N	
-produksjonsmåte	N	
-prog	N	
-provokasjon	N	
-psyke	N	
-pusterom	N	
-radian	N	
-radiosender	N	
-radius	N	
-rakefisk	N	
-rammel	N	
-ramse	N	
-red	N	
-reduksjonsventil	N	
-registerdatum	N	
-rekonvalesent	N	
-release	N	
-relieff	N	
-remse	N	
-reorganisering	N	
-reservoar	N	
-resonans	N	
-resp	N	
-reversering	N	
-revurdering	N	
-ringeapparat	N	
-rivalisering	N	
-roll	N	
-røntgenstråle	N	
-røykutvikling	N	
-rubin	N	
-rullegardin	N	
-rye	N	
-ryggoperasjon	N	
-rykning	N	
-rystelse	N	
-s.a	N	
-s.d	N	
-safe	N	
-samkvem	N	
-samlag	N	
+PMS premestruelt syndrom	N	premenstruaalioireyhtymä    kuukautisia edeltävä oireyhtymä
+etterforskning	N	tutkinta    etsintä
+polstring	N	toppaus
+pore	N	huokonen
+potteplante	N	ruukkukasvi
+pre	N	etu vahvuus
+presisjon	N	tarkkuus
+prevensjonsveiledning	N	ehkäisyneuvonta
+produksjonsdatum	N	valmistuspäivä
+produksjonsmåte	N	valmistustapa
+provokasjon	N	provokaatio yllytys kiihotus
+psyke	N	psyyke  sielu   mielenlaatu
+pusterom	N	hengähdystauko  henkireikä
+radiosender	N	radiolähetin
+radius	N	(mat)   säde
+rakfisk	N	hapatettu kala
+rammel	N	kolina  melu
+ramse	N	loru
+red	N	red satamaselkä
+reduksjonsventil	N	paineensäädinventtiili
+registerdata	N	rekisteritiedot rekisteröydyt tiedot
+rekonvalesent	N	toipilas
+relieff	N	kohokuva    korkokuva   reliefi
+remse	N	suikale loru
+reorganisering	N	uudelleenjärjestely
+reservoar	N	säiliö  säilymö varanto reservuaari
+resonans	N	kaje    vastakaiku  resonanssi
+reversering	N	jnk kääntäminen päinvastaiseen suuntaan 
+revurdering	N	uudelleenarviointi
+ringeapparat	N	soittolaite
+rivalisering	N	kilpaileminen   kilpailu    kilvoittelu
+rolle	N	rooli   osa
+røntgenstråle	N	röntgensäde
+røykutvikling	N	savun tuleminen jstk
+bilirubin	N	bilirubiini punainen sappiväriaine
+rullegardin	N	rullakaihdin    kierrekaihdin   avattava valikko tiekoneohjelmassa
+rye	N	räsymatto   floss- ryijy
+ryggoperasjon	N	selkäleikkaus
+rykning	N	nykäys
+rystelse	N	tärähdys    järkytys
+s.a. sine anno	N	ilman painatusvuotta
+s.d. se dette, samme dag	N	katso tätä, samana päivänä
+safe	N	kassakaappi
+samkvem	N	kanssakäyminen
+samlag	N	yhteisö yhdistys
 sammenfatning	N	
 sammenkomst	N	
 samvittighetsnag	N	
