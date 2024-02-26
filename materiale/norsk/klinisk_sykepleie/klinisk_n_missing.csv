@@ -482,7 +482,7 @@ radius	N	(mat)   säde
 rakfisk	N	hapatettu kala
 rammel	N	kolina  melu
 ramse	N	loru
-red	N	red satamaselkä
+red	N	reti satamaselkä
 reduksjonsventil	N	paineensäädinventtiili
 registerdata	N	rekisteritiedot rekisteröydyt tiedot
 rekonvalesent	N	toipilas
@@ -558,76 +558,64 @@ snuoperasjon	N	käännös kääntyminen täyskäännös ???
 sodavann	N	kivennäisvesi   soodavesi
 søkning	N	hakijamäärä
 soling	N	auringonotto
-søppelsekk	N	
-søtsak	N	
-soya	N	
-soyaolje	N	
-spekemat	N	
-spesialområde	N	
-spesialutdanning	N	
-spesialutstyr	N	
-spik	N	
-spile	N	
-spindel	N	
-spinning	N	
-spis	N	
-sprayboks	N	
-sprayflaske	N	
-spyling	N	
-st.meld. nr	N	
-stag	N	
-starting	N	
-stede	N	
-steng	N	
-steppe	N	
-sterilisering	N	
-stift	N	
-stigma	N	
-stillbilde	N	
-stiller	N	
-sto	N	
-størstedel	N	
-story	N	
-strål	N	
-strange	N	
-streptomycin	N	
-stressreaksjon	N	
-strikk	N	
-strikker	N	
-strimle	N	
-stripping	N	
-strømning	N	
-stropp	N	
-stud	N	
-substrat	N	
-sulfid	N	
-surring	N	
-surrogat	N	
-surstoff	N	
-sva	N	
-svaber	N	
-svekking	N	
-svikten	N	
-svineinfluensa	N	
-sviske	N	
-svømmeopplæring	N	
-sykehusbehandling	N	
-sykepenge	N	
-sykepleieskole	N	
-sykestue	N	
-sykkeltur	N	
-syklist	N	
-symbolbruk	N	
-syndebukk	N	
-t.d	N	
-t.h	N	
-t.v	N	
-tab	N	
-tagg	N	
-tagging	N	
-takst	N	
-talerør	N	
-tallerk	N	
+søppelsekk	N	jätesäkki
+søtsak	N	makeinen
+soya	N	soija
+soyaolje	N	soijaöljy
+spekemat	N	suolatut, savustetut tai kuivatut leikkeleet    ???
+spesialområde	N	erikoisalue
+spesialutdanning	N	erikoiskoulutus erikoistuminen ???
+spesialutstyr	N	erikoisvälineet erikoisvarusteet
+spiker	N	naula
+spile	N	säle    (paraply-) ruode, ruoteet   ???
+spindel	N	akseli  värttinä    kehräin ???
+spinning	N	kehruu
+spis	N	takka
+spray	N	sumute    suihke    spray
+sprayflaske	N	suihkepullo sumutepullo 
+spyling	N	huuhtelu
+st.meld. stortingsmelding	N	dokumentti hallitukselta Suurkäräjille ???
+stag	N	harus   gå over - kääntää suuntaa
+steng	N	et - på et tonn tonnin saalis
+steppe	N	aro
+sterilisering	N	sterilointi
+stift	N	naula   (tegne-) nasta  (leppe-) huulipuikko
+fargestift  N   väriliitu                                       
+stigma	N	stigma
+stillbilde	N	stillkuva
+størstedel	N	suurin osa
+stråle	N	säde    (væske) suihku
+streptomycin	N	streptomysiini
+stressreaksjon	N	stressireaktio
+strikk	N	neule   gummi- kuminauha
+strikke N   kÿsi    naru
+strimmel	N	suikale
+strippingskade	N	ihovaurio esim. varomattomasti poistetun avannepussin takia ns. ihon pintakerroksen kuoriutumisvaurio
+strømning	N	virtaus hengellinen tai kulturellinen suuntaus
+stropp	N	hihna   remmi   lenkki  ???
+substrat	N	ravintoliuos
+sulfid	N	sulfidi
+surring	N	surina  hyrinä  sitominen/siteet
+surrogat	N	korvike surrogat    surrogatmor sijaissynnyttäjä
+surstoff	N	happi
+svaberg	N	paljas kallio
+svekking	N	heikennys
+svikt	N	puute   jousto menneskelig svikt inhimillinen erehdys   hjerte- sydämen vajaatoiminta   ???
+svineinfluensa	N	sikainfluenssa
+sviske	N	kuivattu luumu
+svømmeopplæring	N	uimaopetus
+sykehusbehandling	N	sairaalahoito
+sykepenge	N	sairauspäiväraha
+sykestue	N	Norjassa sairaanhoitopiirin (helseforetak) ja kunnan yhdessä ylläpitämä terveydenhoitolaitos paikoissa, joista on pitä matka sairaalaan ???
+sykkeltur	N	pyöräilyretki   pyöräilymatka
+syklist	N	pyöräilijä
+symbol	N	symboli vertauskuva
+syndebukk	N	syntipukki
+tagg	N	piikki  sakara  hammas
+tagging	N	hammastus   gaffitien maalaus   ???
+takst	N	taksa   arviohinta
+talerør	N	puhetorvi   äänitorvi   puolesta puhuja ???
+tallerken	N	lautanen
 tame	N	
 tampong	N	
 tåregass	N	
