@@ -616,82 +616,78 @@ tagging	N	hammastus   gaffitien maalaus   ???
 takst	N	taksa   arviohinta
 talerør	N	puhetorvi   äänitorvi   puolesta puhuja ???
 tallerken	N	lautanen
-tame	N	
-tampong	N	
-tåregass	N	
-tatovering	N	
-tein	N	
-teine	N	
-teip	N	
-temperaturfall	N	
-tenår	N	
-tide	N	
-tidel	N	
-tidsenhet	N	
-tilføring	N	
-tilholdssted	N	
-tilkopling	N	
-tilleggsutdanning	N	
-tilrop	N	
-tilsetting	N	
-tilstandsendring	N	
-tilstopping	N	
-tining	N	
-tobakksrøyking	N	
-tøm	N	
-tomannshånd	N	
-toppsjikt	N	
-tørk	N	
-tørstedrikk	N	
-touch	N	
-tråkk	N	
-traksjon	N	
-trall	N	
-tranghet	N	
-transfusjonsmedisin	N	
-transportkapasitet	N	
-trass	N	
-treflis	N	
-treningsøkt	N	
-treningsopplegg	N	
-trombin	N	
-trondheim	N	
-trosretning	N	
-trykkfordeling	N	
-trykkforskjell	N	
-trykkgradient	N	
-tuberkel	N	
-tupp	N	
-tuppe	N	
-turbo	N	
-tusjpenn	N	
-tvetydighet	N	
-tviler	N	
-tvilstilfelle	N	
-tydelighet	N	
-tygd	N	
-tynning	N	
-tyranni	N	
-tyrk	N	
-tyroksin	N	
-u.å	N	
-u.s	N	
-udyktighet	N	
-uføre	N	
-uforstand	N	
-ufrihet	N	
-ulyst	N	
-umulighet	N	
-underdirektør	N	
-undervisningsprogram	N	
-universitetslektor	N	
-unøyaktighet	N	
-utarbeidelse	N	
-utarming	N	
-utblåsing	N	
-utbuktning	N	
-utdyping	N	
-uteliv	N	
+tampong	N	tamponi
+tåregass	N	kyynelkaasu
+tatovering	N	tatuointi
+tein	N	värttinä    oksa
+teine	N	merta
+teip	N	teippi
+temperaturfall	N	lämmönlasku
+tenår	N	teini-ikä   ???
+tide	N	i - ajoissa det er på - on jo aika
+tidel	N	kymmenesosa
+tidsenhet	N	aikayksikkö
+tilføring	N	jnk jakelu jhk  jnk tuonti jhk
+tilholdssted	N	olinpaikka
+tilkopling	N	kykentä jnk yhdistäminen jhk
+tilleggsutdanning	N	lisäkoulutus
+tilrop	N	huuto   huudahdus jollekulle
+tilsetting	N	- av noe(n) jnk lisäys (ansettelse) jnk palkkaaminen
+tilstandsendring	N	(terveys) tilan muuttuminen tilanteen muutos
+tilstopping	N	tukos   tukkeuma
+tining	N	sulaminen   sulattaminen    ???
+tobakksrøyking	N	tupakanpoltto
+tøm	N	ohjakset
+tømme   N   ohjakset    holde en i - pitää jokin aisoissa
+tomannshånd	N	på - kahden kesken
+toppsjikt	N	ylin osa jstk
+tørk	N	talouspaperi    henge til - ripustaa kuivumaan
+tørke   N   kuivuus kuivuri
+tørstedrikk	N	janojuoma
+tråkk	N	askeleet    jalanjälki  polku
+trall	N	rallatus
+tralle  N   (pieni) vaunu   kärry   ???
+tranghet	N	ahtaus
+transfusjonsmedisin	N	verensiirtolääketiede
+transportkapasitet	N	kuljetuskapasiteetti
+trass	N	uhma    på - uhallaan
+trass   N   - i noe jst huolimatta  på - av noe jst huolimatta  ???
+treflis	N	puusälö puupiikki   puulastu    hake    ???
+treningsøkt	N	harjoitukset    treeni  (ark) harkat
+treningsopplegg	N	harjoitussuunnitelma    treenaussuunnitelma
+trombin	N	trombiini   fibrinogenaasi  trombaasi
+trosretning	N	uskonsuunta
+trykk	N	paino   paine   isku
+trykkforskjell	N	paine-ero
+gradient	N	gradientti  fyysisen suureen tietyn välimitan tai aikayksikön muutos  ???
+tuberkel	N	tuberkkeli  kyhmy   nystyrä
+tupp	N	pää kärki
+tuppe	N	tipu
+tusjpenn	N	tussi   tussikynä
+tvetydighet	N	kaksimielisyys  kaksimerkityksellisyys
+tviler	N	epäilijä
+tvilstilfelle	N	epäselvä tapaus
+tydelighet	N	selkeys
+tynning	N	laimennus   ohennus harventaminen
+tyranni	N	tyrannia    sortovalta
+tyrker	N	turkkilainen
+tyroksin	N	tyroksiini
+udyktighet	N	kelvottomuus    kyvyttömyys
+uføre	N	vaikea maasto   huono keli  (kuv) vaikea, huono tilanne umpikuja    ???
+uforstand	N	ymmärtämättömyys
+ufrihet	N	epäväpaus   vankeus rajoitus    ???
+ulyst	N	haluttomuus
+umulighet	N	mahdottomuus
+underdirektør	N	apulaisjohtaja  varajohtaja ???
+undervisningsprogram	N	opetusohjelma
+universitetslektor	N	yliopistonlehtori   apulaisprofessori ??? 
+unøyaktighet	N	epätarkkuus
+utarbeidelse	N	laadinta
+utarming	N	(henk) köyhtyminen  kuihtuminen kurjistuminen
+utblåsing	N	(öljy-, kaasu-) vuoto   uloshengitys - puhallus
+utbuktning	N	pullistuma
+utdyping	N	syvennys    tarkennus   selvennys   ??? parempi selvitys 
+uteliv	N	ulkoilu ravinotla-, yöelämä
 utfelling	N	
 utførsel	N	
 utg	N	
