@@ -688,55 +688,48 @@ utblåsing	N	(öljy-, kaasu-) vuoto   uloshengitys - puhallus
 utbuktning	N	pullistuma
 utdyping	N	syvennys    tarkennus   selvennys   ??? parempi selvitys 
 uteliv	N	ulkoilu ravinotla-, yöelämä
-utfelling	N	
-utførsel	N	
-utg	N	
-utgangsposisjon	N	
-utgliding	N	
-uthuling	N	
-utjevning	N	
-utladning	N	
-utlegging	N	
-utlufting	N	
-utpakking	N	
-utposing	N	
-utpressing	N	
-utpust	N	
-utrykning	N	
-utskylling	N	
-utstråling	N	
-utur	N	
-utvelgelse	N	
-uvisshet	N	
-vad	N	
-våg	N	
-våk	N	
-vaksinasjon	N	
-valk	N	
-vanilje	N	
-varmluft	N	
-varmtvann	N	
-varmtvannsbasseng	N	
-vatt	N	
-vedheng	N	
-vehikkel	N	
-vek	N	
-vektstang	N	
-velde	N	
-vemod	N	
-vennlighet	N	
-ventilator	N	
-verde	N	
-verdsetting	N	
-villighet	N	
-villrede	N	
-vintersesong	N	
-vinyl	N	
-vipp	N	
-virvelstrøm	N	
-visir	N	
-walk	N	
-western	N	
-wire	N	
-www	N	
-ytterkant	N	
+utfelling	N	saostus sakka   saostuma
+utførsel	N	vienti
+utgangsposisjon	N	lähtöasento lähtöasema ???
+utgliding	N	ulosliukuminen esiinluiskahdus
+uthuling	N	koverrus    kolo ???    (kuv) köyhdyttäminen???
+utjevning	N	tasaus  tasoitus
+utladning	N	purkaus
+utlegging	N	selitys ???
+utlufting	N	tuuletus
+utpakking	N	purkaminen
+utposing	N	pullistuma
+utpressing	N	kiristys    ulospainaminen
+utpust	N	uloshengitys
+utrykning	N	hälytyslähtö
+utskylling	N	huuhtelu
+utstråling	N	säteily
+utur	N	epäonni huono onni
+utvelgelse	N	valinta
+uvisshet	N	epävarmuus
+vad	N	kahlaamo
+våg	N	lahti
+vaksinasjon	N	rokotus
+valk	N	(iho)poimu  (hius)valkki
+vanilje	N	vanilja
+varmluft	N	lämminilma
+varmtvann	N	lämminvesi
+varmtvannsbasseng	N	lämminvesiallas
+vatt	N	vanu
+vedheng	N	lisäke  liite
+vehikkel	N	ajoneuvo    apuväline   väline
+vektstang	N	vipu
+velde	N	valta   mahtavuus
+vemod	N	surumielisyys
+vennlighet	N	ystävällisyys
+ventilator	N	tuuletin
+verde	N	arvo    
+verdsetting	N	arvostus
+villighet	N	halukkuus
+villrede	N	väre i - olla epävarma
+vintersesong	N	talvikausi  talvisesonki
+vinyl	N	vinyyli
+vipp	N	keinu   kiikku
+virvelstrøm	N	pyörrevirta
+visir	N	silmikko    visiiri
+ytterkant	N	laita   reuna   ulkoreuna
