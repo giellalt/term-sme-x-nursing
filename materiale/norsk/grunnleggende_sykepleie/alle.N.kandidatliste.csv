@@ -476,23 +476,23 @@ hudavdeling	liikedávdaossodat				ihotautiosasto	liikedávdaossodat		náhkeossod
 hudtype	liiketiipa				ihotyyppi	liiketiipa		liiketyppi	lápmašuvvan rumaš
 hudskade	liikevaháguvvan	liikevihki?			ihovaurio	#liiki#vaháguvvan		luddestahkan	luddestahkan
 hudblødning	liikevardin				ihoverenvuoto	liikevarasuođđu		lunddolaš vardin	luddestaga vardin
-aldersendring					ikääntymismuutos	agáiduvvat iežáhus		ahkerievdan	rievdan agi mielde
-uttrykksmiddel					ilmaisukeino	dajahusgeaidnu		ovdanbuktinreaidu	ovdanbuktinvuohki
-uttrykksmåte					ilmaisutapa	dajahusdáhpi		ovdanbuktinvuohki	ovdanbuktinvuohki
-lufttemperatur					ilman lämpötila	almmá temperatuvra		áibmtemperatuvra	áibmoáibmoáibmu
-luftdannelse					ilman muodostuminen	almmá 		áibmonuoskkideapmi	áibmu hápmahuvvan
-lufthunger					ilmannälkä	#ilbminealgi		áibmonuoskkideapmi	áibbas jávkan
-luftforurensning					ilmansaaste	#ilbminuoskkideapmi		áibmonuoskkideapmi	áibmonuoskkideapmi
+aldersendring	agáiduvvat iežáhus				ikääntymismuutos	agáiduvvat iežáhus		ahkerievdan	rievdan agi mielde
+uttrykksmiddel	olggosbuktinvuohki				ilmaisukeino	dajahusgeaidnu		ovdanbuktinreaidu	ovdanbuktinvuohki
+uttrykksmåte	ovtanbuktinvuohki				ilmaisutapa	dajahusdáhpi		ovdanbuktinvuohki	ovdanbuktinvuohki
+lufttemperatur	áimmu temperatuvra				ilman lämpötila	almmá temperatuvra		áibmtemperatuvra	áibmoáibmoáibmu
+luftdannelse	áimmu hápmašuvvan				ilman muodostuminen	almmá 		áibmonuoskkideapmi	áibmu hápmahuvvan
+lufthunger	áibmonealgi				ilmannälkä	#ilbminealgi		áibmonuoskkideapmi	áibbas jávkan
+luftforurensning	áibmonuoskkideapmi				ilmansaaste	#ilbminuoskkideapmi		áibmonuoskkideapmi	áibmonuoskkideapmi
 luftmotstand					ilmanvastus			áibmo-vuostálastin	áibmoveastta
-luftpassasje					ilmatie	ilbmegeaidnu		áibmogeavahanrusttet	áibmodieđa
+luftpassasje	áibmogeaidnu				ilmatie	ilbmegeaidnu		áibmogeavahanrusttet	áibmodieđa
 luftvolum					ilmatilavuus	 #ilbmi#daddjásvuohta		áibmohivvodat	albbas
-luftplage					ilmavaiva	ilbmeváivi		áibmonuoskkideapmi	áibmonuoskkideapmi
-luftsmerte					ilmavaiva	ilbmeváivi		vuoiŋŋahatbávččas	áibmonuoskkideapmi
+luftplage	áibmováivi				ilmavaiva	ilbmeváivi		áibmonuoskkideapmi	áibmonuoskkideapmi
+luftsmerte	áibmováivi				ilmavaiva	ilbmeváivi		vuoiŋŋahatbávččas	áibmonuoskkideapmi
 luftstrømobstruksjon					ilmavirran tukkeuma ilmavirran obstruktio	ilbmeeanu *tukkeuma ilbmeeanu 		áibmoárjjaobjeakta	áibmorájá gáržžideapmi áibmorusttega obstrukšuvdnan
 luftstrømmotstand					ilmavirran vastus	ilbmeeanu 		áibmorájá vuostálastin	áibmomolsun
-fenomen					ilmiö	albmoneapmi	fenomena	fenomena	fenomena
-kveldsmåltid					iltapala	eahketborramuš		eahkesmállásat	mállásat
-amming					imetys			njamaheapmi	njamaheapmi
+fenomen	albmoneapmi				ilmiö	albmoneapmi	fenomena	fenomena	fenomena
+kveldsmåltid	eahketbiebmu	eahketborramuš			iltapala	eahketborramuš		eahkesmállásat	mállásat
+amming	njamahit				imetys			njamaheapmi	njamaheapmi
 absorpsjon					imeytyminen	njammásit		absoršuvdna	
 malabsorpsjon					imeytymishäiriö	njammásit segohus		málabsorben	sohkabealedávda
 jomfruhinne					immenkalvo hymen			duohtadanruvdno	njammakeahtes hymen
