@@ -42,67 +42,65 @@ automatisert	A	automatisoitu
 avbrutt	A	keskeytetty katkonainen 
 avførende	A	ulostamista edistävä    ???
 avglemt	A	unohdettu
-avklarende	A	
-avkledd	A	
-avslappet	A	
-avstumpet	A	
-avtakende	A	
-avventende	A	
-bagatellmessig	A	
-bakenforliggende	A	
-bakoverbøyd	A	
-bakteriologisk	A	
-banal	A	
-bærbar	A	
-basal	A	
-basisk	A	
-bedøvende	A	
-begynnende	A	
-behandlingsmessig	A	
-behjelpelig	A	
-beisk	A	
-bekreftende	A	
-bekvem	A	
-belærende	A	
-beredt	A	
-beskrivende	A	
-beslektet	A	
-bestående	A	
-biokjemisk	A	
-biomedisinsk	A	
-blødende	A	
-blodglukosesenkende	A	
-blodtrykkssenkende	A	
-brennbar	A	
-brudden	A	
-brukerstyrt	A	
-brunlig	A	
-brunsvart	A	
-brutt	A	
-buet	A	
-bygningsmessig	A	
-central	A	
-cerebral	A	
-cyanotisk	A	
-datateknisk	A	
-dedikert	A	
-defekt	A	
-definitiv	A	
-delaktig	A	
-delikat	A	
-dement	A	
-dempende	A	
-dental	A	
-deprimerende	A	
-desperat	A	
-destruktiv	A	
-diabetisk	A	
-diakonal	A	
-diastolisk	A	
-different	A	
-diffus	A	
-direktevirkende	A	
-diskriminerende	A	
+avklarende	A	selventävä
+avkledd	A	alasti  riisuttu    
+avslappet	A	rento   rentoutunut
+avstumpet	A	turta   tunnekylmä
+avtakende	A	heikkenevä  vähenevä
+avventende	A	odottava
+bagatellmessig	A	vähäpätöinen    mitätön
+bakenforliggende	A	takana oleva    taustalla oleva
+bakoverbøyd	A	taaksepäin kääntynyt
+bakteriologisk	A	bakteriologinen
+banal	A	banaali lattea  arkinen
+bærbar	A	kannettava
+basal	A	basaalinen  basaali perus-
+basisk	A	emäksinen
+bedøvende	A	puuduttava  tainnuttava huumaava
+begynnende	A	alkava
+behandlingsmessig	A	hoitoa koskeva  ???
+behjelpelig	A	avulias  være - auttaa  olla avuksi
+beisk	A	kitkerä karvas  pureva
+bekreftende	A	vahvistava  myöntävä    myönteinen
+bekvem	A	mukava
+belærende	A	opettavainen
+beredt	A	valmis  valmistautunut
+beskrivende	A	kuvaileva
+beslektet	A	være - med noen olla sukua jllk en - sjel sukulaissielu - språk sukulaissielu
+bestående	A	kestävä pysyvä  det - vallitsevat olot - av sisältävä   ???
+biokjemisk	A	biokemiallinen
+biomedisinsk	A	biolääketieteellinen
+blødende	A	vuotava
+blodglukosesenkende	A	verensokeria alentava
+blodtrykkssenkende	A	verenpainetta alentava
+brennbar	A	palava  tulenarka
+brukerstyrt	A	käyttäjän hallinnoima
+brunlig	A	ruskehtava
+brunsvart	A	mustanruskea
+brutt	A	katkaistu   ???
+buet	A	kaareva käyrä   väärä
+bygningsmessig	A	rakentamista koskeva    rakenteellinen
+cerebral	A	aivoperäinen    - parese aivohalvaus
+cyanotisk	A	syanoottinen    sinertävä
+datateknisk	A	tietotekniikkaa koskeva ???
+dedikert	A	omistautunut    sitoutunut
+defekt	A	viallinen
+definitiv	A	lopullinen
+delaktig	A	osallinen   rikoskumppani   ???
+delikat	A	herkullinen arkaluontoinen  herkkä  tarkka  hieno   ???
+dement	A	muistisairas
+dempende	A	hillitsevä   vaimentava hiljentävä
+dental	A	dentaalinen hammas- hampaisiin liittyvä
+deprimerende	A	masentava
+desperat	A	epätoivoinen
+destruktiv	A	tuhoava hävittävä
+diabetisk	A	diabeettinen    diabetekseen liittyvä
+diakonal	A	viisto  vino lävistäjän suuntainen  vastakkainen
+diastolisk	A	diastolinen diastolen (sydämen lepovaiheen) aikainen
+different	A	erilainen   poikkeava   differentti
+diffus	A	epäselvä    epätarkka    diffuusi    (lääk) epätarkkarajainen   hajanainen  jäsentymätön
+direktevirkende	A	suoraan vaikuttava
+diskriminerende	A	syrjivä diskriminoiva
 distributiv	A	
 distriktsmedisinsk	A	
 dobbeltsidig	A	
