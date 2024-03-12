@@ -222,71 +222,65 @@ hjemmeboende	A	kotona asuva
 hjernedød	A	aivokuollut
 hjertesyk	A	sydänsairas
 holdningsskapende	A	asenteita muokkaava
-hørbar	A	
-høyfrekvent	A	
-høytstående	A	
-hurtigvirkende	A	
-huslig	A	
-hvilende	A	
-hydrostatisk	A	
-hygienisk	A	
-hypnotisk	A	
-iboende	A	
-iherdig	A	
-ikke-dømmende	A	
-ikke-medikamentell	A	
-ikke-medisinsk	A	
-ikke-motorisk	A	
-ikke-verbal	A	
-illeluktende	A	
-immun	A	
-inaktiv	A	
-infeksjonsforebyggende	A	
-infertil	A	
-inflammatorisk	A	
-infrarød	A	
-initial	A	
-inkl	A	
-inklusiv	A	
-inkonsistent	A	
-innadvendt	A	
-inneliggende	A	
-innerste	A	
-innestengt	A	
-innfløkt	A	
-innforstått	A	
-inngående	A	
-inngått	A	
-innledende	A	
-innlysende	A	
-instinktiv	A	
-insulinproduserende	A	
-intakt	A	
-integrerende	A	
-intens	A	
-intermitterende	A	
-interpersonal	A	
-intim	A	
-iøynefallende	A	
-irregulær	A	
-irrelevant	A	
-irriterende	A	
-ivaretakende	A	
-jamfør	A	
-jevnlig	A	
-justerbar	A	
-katastrofal	A	
-keramisk	A	
-kirurgisk	A	
-klam	A	
-klaustrofobisk	A	
-knusende	A	
-komfortabel	A	
-kommunikativ	A	
-komorbid	A	
-kompensatorisk	A	
-komplementær	A	
-komplett	A	
+hørbar	A	kuuluva korvinkuultava
+høyfrekvent	A	korkeataajuinen
+høytstående	A	korkea-arvoinen
+hurtigvirkende	A	nopeasti vaikuttava
+huslig	A	koti-   talous- være - av seg olla hyvä taloustöissä
+hvilende	A	lepäävä levossa oleva
+hydrostatisk	A	hydrostaattinen nesteiden tasapainoa ja niiden aiheuttamaa painetta koskeva
+hygienisk	A	hygieeninen puhdas  joka ei sisällä taudinaiheuttajia
+hypnotisk	A	hypnoottinen    (kuv) mielenkiinnon vangitseva  (lääk) unen tai nukahtamisen aiheuttava, uni-
+iboende	A	sisäinen    luontainen
+iherdig	A	sinnikäs    sitkeä  uuttera
+ikke-medikamentell	A	lääkkeetön
+ikke-verbal	A	sanaton ei-sanallinen   kehollinen  kehonkielinen ???
+illeluktende	A	pahanhajuinen
+immun	A	immuuni vastustuskykyinen
+inaktiv	A	toimimaton, toimeton, ei toiminnassa oleva  passiivinen ???
+infeksjonsforebyggende	A	infektioita ennalta ehkäisevä
+infertil	A	hedelmätön  (lääk) lisääntymiskyvytön
+inflammatorisk	A	tulehduksellinen
+infrarød	A	infrapunainen
+initial	A	aluksi  ???
+inklusiv	A	jk mukaan luettuna
+inkonsistent	A	epäjohdonmukainen
+innadvendt	A	sisäänpäinkääntynyt
+inneliggende	A	sisäänotettu    (sairh) osastolla oleva
+innerste	A	sisin, sisimmäinen  sisimpänä
+innestengt	A	suljettu    ummehtunut, tunkkainen
+innfløkt	A	monimutkainen
+innforstått	A	være - med noe olla tietoinen jstk
+inngående	A	saapuva perusteellinen
+innledende	A	alustava    alku-
+innlysende	A	ilmeinen
+instinktiv	A	vaistomainen
+insulinproduserende	A	insuliinia tuottava
+intakt	A	koskematon  vahingoittumaton    ehjä
+integrerende	A	osaksi kokonaisuutta tekevä yhteen sovittava ???
+intens	A	voimakas
+intermitterende	A	intermittoiva   jaksottainen
+interpersonal	A	henkilöden välinen  kahden välinen
+intim	A	intiimi arkaluontoisen henkilökohtainen
+iøynefallende	A	silmiinpistävä
+irregulær	A	epäsäännöllinen säännötön
+irrelevant	A	epäolennainen
+irriterende	A	ärsyttävä
+ivaretakende	A	huolehtivainen
+jevnlig	A	säännöllisesti
+justerbar	A	säädettävä
+katastrofal	A	tuhoisa katastrofaalinen
+keramisk	A	keraaminen
+kirurgisk	A	kirurginen
+klam	A	kostea  nihkeä
+klaustrofobisk	A	klaustrofobinen ahtaanpaikankammoinen   suljetunpaikankammoinen
+knusende	A	murskaava   musertava
+komfortabel	A	mukava
+kommunikativ	A	kommunikatiivinen   kommunikoiva    viestintään liittyvä
+komorbid	A	komorbidi   joka esiintyy samaan aikaan monihäiriöinen
+kompensatorisk	A	kompensatorinen, korvaava, hyvittävä, tasaava
+komplementær	A	komplementaarinen   täydentävä  vastakkainen
+komplett	A	täysi   täysilukuinen
 konfliktfylt	A	
 konfus	A	
 konsis	A	
