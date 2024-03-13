@@ -525,15 +525,15 @@ intimitet					intimiteetti	#intimitehtta		lagašvuohta	lagašvuohta
 intimitetsgrense					intimiteettiraja	#intimitehttarádji		lagašvuođarádji	lagašvuođa rádji
 slagvolum					iskutilavuus	iskuvolyymi	#časkkástat#daddjásvuohta	iskosa jietnadat	issoras stuoris lanjat
 lårbeinknute					iso sarvennoinen trochanter major	stuoris 		čoarbbeallađas	stuora čoarvenieida niestelávkesteaddji major
-systemkretsløp					iso verenkierto systeeminen verenkierto	stuoris varagarvin *systeeminen varagarvin		vuogádatsirdin	stuora varrajođus ja systemáhtalaš varrajođus
-stolpute					istuintyyny	beaŋkaguoddá		stoalppu	čohkkánluohti
-sittestilling					istuma-asento			čohkkánsajádat	čohkkánsajádat
-egenomsorgshandling					itsehoidollinen toiminta	*itsehoidollinen doaibma		iežasdikšun	iešráđálaš doaibma
-egenomsorgsrådgivning					itsehoidon neuvonta	#iešdikšu rávvehus		iežasdikšunráđđeaddin	iešdivššu ráva
-egenomsorgssvikt					itsehoidon vaje	#iešdikšu 		iežasfuolaheapmi	iešdivššu váilevašvuohta
-egenomsorgstenkning					itsehoitoajattelu	#iešdikšujurddašeapmi		iežasdikšunjurddašeapmi	iešbirgejeaddjidállu
+systemkretsløp	stuoris varrajohtu				iso verenkierto systeeminen verenkierto	stuoris varagarvin *systeeminen varagarvin		vuogádatsirdin	stuora varrajođus ja systemáhtalaš varrajođus
+stolpute	čohkkánguoddá				istuintyyny	beaŋkaguoddá		stoalppu	čohkkánluohti
+sittestilling	čohkkánstellelmas				istuma-asento			čohkkánsajádat	čohkkánsajádat
+egenomsorgshandling	iešdikšun doaibma				itsehoidollinen toiminta	*itsehoidollinen doaibma		iežasdikšun	iešráđálaš doaibma
+egenomsorgsrådgivning	iešdikšuma rávvehus				itsehoidon neuvonta	#iešdikšu rávvehus		iežasdikšunráđđeaddin	iešdivššu ráva
+egenomsorgssvikt	iešdikšuma váili				itsehoidon vaje	#iešdikšu 		iežasfuolaheapmi	iešdivššu váilevašvuohta
+egenomsorgstenkning	iešdikšujurddašeapmi				itsehoitoajattelu	#iešdikšujurddašeapmi		iežasdikšunjurddašeapmi	iešbirgejeaddjidállu
 egenomsorgsevne					itsehoitokyky	#iešdikšugálga		iešráđálašvuohta	iešráđálašvuohta
-egenomsorgsmodell					itsehoitomalli	#iešdikšumálle		iežasdikšunmálle	iešbirgenmálle
+egenomsorgsmodell	iešdikšumálle				itsehoitomalli	#iešdikšumálle		iežasdikšunmálle	iešbirgenmálle
 egenomsorgsbehov					itsehoitotarve	#iešdikšudárbu		iežasdikšundárbu	iešdivššu dárbu
 egenomsorgsteori					itsehoitoteoria	#iešdikšuteoriija		iežasfuolahusteoriija	iešbirgenteoriija
 egenomsorgskrav					itsehoitovaatimus	#iešdikšugáibádus		iežasdikšundárbbut	iešráđálašvuođa gáibádus
@@ -542,7 +542,7 @@ samtykkekompetanse					itsemääräämiskyky	#iešmearrideapmigálga		mieđihang
 utfoldelsesmulighet					itsensä ilmentämismahdollisuudet          Trond sjekka språk hit	N		ovdánanvejolašvuohta	ieš-čilgenvejolašvuohta Trond Welhaven gillii
 selvrealisering					itsensä toteuttaminen	ieš ollašupmi		iešrealiseren	iežas ollašuhttin
 selvskading					itsensä vahingoittaminen	ieš #billi		iešvahágahttin	iežas vahágahttin
-selvaktelse					itsetunto	omanarvontunto	iešdovdu	iešáddejupmi	iešdovdu
+selvaktelse	iešdovdu				itsetunto	omanarvontunto	iešdovdu	iešáddejupmi	iešdovdu
 faselidelse					jaksottainen vaiva	*jaksottainen váivi		fásalaš gillámuš	áigodaga váttisvuohta
 beinstrekk					jalan ojennus	juolggi 		dávttis	juolgesuorbmebáiki
 tørstfølelse					janon tunne	goikku dovdu		dovdu gohččumis	janoáibmu
