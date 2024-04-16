@@ -1,32 +1,25 @@
-A-vitaminmangel	N	
-ALS	N	
+
+ALS	N	Amyotrofinen lateraaliskleroosi, ALS-tauti  motoneuronitauti    Lou Gehrigin tauti
 AMD	N	
-AS	N	
-AT	N	
-Allergiforbundet	N	
-Assessment	N	
-Astma-	N	
-B-vitaminmangel	N	
-BMI	N	
+
+BMI	N	painoindeksi    Quetelet'n indeksi
 BPH	N	
 Bakers	N	
-Bekhterevs	N	
-Blindeforbund	N	
-Body	N	
-Braden-skala	N	
-Brickerblære	N	
-CKD-EPI	N	
-Coma	N	
-Crohns	N	
-Cullens	N	
-D-vitaminmangel	N	
-DBS	N	
-DMARD	N	
-DVT	N	
-Douglas	N	
-ECOG	N	
-EEG	N	
-ERCP	N	
+Bekhterevs sykdom	N	selkärankareuma Bechterewin tauti
+
+Braden-skala	N	Bradenin asteikko
+Brickerblære	N	Brickerin rakko virtsatieavanne
+CKD-EPI-formel	N	CKD-EPI-yhtälö  CKD-EPI-kaava
+Glasgow Coma Scale/Score GCS	N	Glasgow'n kooma-asteikko    GCS-asteikko
+Crohns sykdom	N	Crohnin tauti   morbus Crohn    regionaalinen enteriitti
+Cullens	tegn periumbilical ekkymose N	navan seudulla oleva mustelma
+vitaminmangel	N	vitamiinin puutos
+dyp hjernestimulering DBS	N	syväaivostimulaatio DBS
+DMARD sykdomsdempende medikamenter mot revmatiske sykdommer    N	tautiprosessia hidastava reumalääke
+dyp venetrombose DVT	N	syvä laskimotukos SLT
+Douglas-abscess	N	???märkäpesäke paise absessi peräsuolen ja kohdun välissä naisilla ja peräsuolen ja virtsarakon välissä miehillä
+elektroencefalografi EEG	N   aivosähkökäyrätutkimus  elektroenkefalografia EEG
+ERCP	N	  sapp-i ja haimatiehyen tähystystutkimus   endoskooppinen retrogradinen kolangio-pankretografia ERCP
 ESAS-skjema	N	
 Edmonton	N	
 Eksemforbundet	N	
