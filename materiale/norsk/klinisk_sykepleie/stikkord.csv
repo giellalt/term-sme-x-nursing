@@ -1,12 +1,10 @@
 
 ALS	N	Amyotrofinen lateraaliskleroosi, ALS-tauti  motoneuronitauti    Lou Gehrigin tauti
-AMD	N	
-
+aldersrelatert/aldersbetinget makuladegenerasjon AMD	N	ikään liittyvä makuladegeneraatio AMD
 BMI	N	painoindeksi    Quetelet'n indeksi
-BPH	N	
-Bakers	N	
+benign prostatahyperplasi BPH	N	hyvänlaatuinen prostatan hyperplasia BPH    eturauhasen liikakasvu
+Baker cyste popliteacyste	N	Bakerin kysta polven nivelkalvon pullistuma ???
 Bekhterevs sykdom	N	selkärankareuma Bechterewin tauti
-
 Braden-skala	N	Bradenin asteikko
 Brickerblære	N	Brickerin rakko virtsatieavanne
 CKD-EPI-formel	N	CKD-EPI-yhtälö  CKD-EPI-kaava
@@ -20,41 +18,24 @@ dyp venetrombose DVT	N	syvä laskimotukos SLT
 Douglas-abscess	N	???märkäpesäke paise absessi peräsuolen ja kohdun välissä naisilla ja peräsuolen ja virtsarakon välissä miehillä
 elektroencefalografi EEG	N   aivosähkökäyrätutkimus  elektroenkefalografia EEG
 ERCP	N	  sapp-i ja haimatiehyen tähystystutkimus   endoskooppinen retrogradinen kolangio-pankretografia ERCP
-ESAS-skjema	N	
-Edmonton	N	
-Eksemforbundet	N	
-FARV	N	
-FAST	N	
-GCS	N	
-GFR	N	
-GTK	N	
-GU	N	
-Glasgow	N	
-Glaukomforening	N	
-HPV	N	
-Health	N	
-Heimlichs	N	
-Helicobacter	N	
-ICP	N	
-IK	N	
-IVF	N	
-Index	N	
-Institute	N	
-K-vitaminmangel	N	
-KAD	N	
-KMI	N	
-Kreftforeningen	N	
-LUTS	N	
-Lazarus	N	
-MRCP	N	
-MS	N	
-Mass	N	
-NIHSS	N	
-NORILCO	N	
-National	N	
-Norges	N	
-Norsk	N	
-PASI-skår	N	
+ESAS-skjema (Edmonton Symptom Assessment System) N	ESAS-oirekyselylomake
+FARV fire vurderingsområder ved samtykkekompetanse	N	forstå ymmärtää, anerkjenne hyväksyä, resonnere järkeillä, velge valita ???
+FAST (face arm speech time)	N	aivohalvauksen oireiden tunnistamisessa käytettävä muistisääntö 
+GFR	glomerulær filtrasjonsrate  N	glomerulusten suodatusnopeus GFR (glomerular filtration rate)
+GTK generalisert tonisk-klonisk anfall	N	GTK generalisoituva toonis-klooninen kohtaus	
+HPV humant papillomavirus N	HPV ihmisen papilloomavirus
+Heimlich manøver	N	Heimlichin ote
+helicobacter pylori	N	helikobakteeri
+ICP intrahepatisk kolestase	N	raskaushepatoosi    hepatogestoosi  raskauskolestaasi
+ICP intrakranielt trykk N   kallonsisäinen paine ICP
+IVF in vitro-fertilisering	N	in vitro fertilization IVF koeputkihedelmöitys keinohedelmöitys   munasolun hedelmöittäminen elimistön ulkopuolella
+KAD kommunal akutt døgnenhet	N	kunnallinen ympärivuorokautinen akuuttiosasto
+KMI kroppsmasseindeks	N	kehon massaindeksi  painoindeksi
+LUTS nedre urinveissymptomer	N	Lower Urinary Tract Symptoms LUTS   alavirtsatieoireet
+MRCP magnetisk resonanskolangiopankreatografi	N	Magnetic Resonance Cholangiopancreatography MRCP magneettikolangiografia
+MS multippel sklerose	N	MS-tauti    multippeliskleroosi keskushermoston pesäkekovettumatauti
+NIHSS scåringsverktøy for å vurdere alvorlighetsgraden av hjerneslag	N	National Institutes of Health Stroke Scale NIHSS    aivoverenkierron arvioinissa käytettävä NHISS-asteikko/-mittari
+PASI et mål på total psoriasis, alvorlighetsgrad og dekning	N	Psoriasis Area and Severity Index PASI psoriasiksen vaikeusasteen määrittelyssä käytettävä mittari PASI
 PCOS	N	
 PEG	N	
 PID	N	
