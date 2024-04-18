@@ -549,7 +549,7 @@ tørstfølelse	goikku dovdu				janon tunne	goikku dovdu		dovdu gohččumis	jano�
 jodmangel	jodi váilevuohta	jodi vátni			jodin puute	*jodin váilevuohta		jodavátni	joda váilun
 drikkemengde	juhkamuša mearri				juoman määrä	juhkat #mearri		juhkkojuvvon hivvodat	juhkkojuvvon mearri
 drikkevane	juhkandáhpi				juomistapa	juhkat		juhkandábálaš	juhkanvuohki
-drikkevare	juhkamuš				juotava	jugahahtti		juhkamušat	juhkkojuvvot
+drikkevare	juhkamuš				juotava, juoma	jugahahtti		juhkamušat	juhkkojuvvot
 retardasjon					jälkeenjääneisyys	hidastuminen		maŋŋoneapmi	maŋisboahtti dilli
 avfallsbøtte	ruskalihtti	bázahuslihtti			jäteastia	bázahuslihtti		doapparbuhtadus	ruskabáiki
 resturin	bázahusgužža				jäännösvirtsa	bázahasgužža		resturin	loahppajupmi
@@ -572,12 +572,12 @@ folkehelsepolitikk	álbmotdearvvasvuođapolitihkka				kansanterveyspolitiikka	á
 tunnelsyn					kapeakatseisuus			tuneallaoaidnu	geahpasvuohta
 kartleggingsundersøkelse					kartoitustutkimus	kártendutkan		kárteniskkadeapmi	kárteniskkadeapmi
 kartleggingsverktøy					kartoitusväline	#kárten#gaskoapmi		kártenreaidu	kártenreaidu
-opphopning					kasautuminen			čoagganeapmi	čoagganeapmi
+opphopning					kasautuminen, kertyminen			čoagganeapmi	čoagganeapmi
 kastrasjon					kastraatio kastroiminen			kastreren	gásttašeapmi
 tumor	šattalmas				kasvain	tuumori	guorti	šattalmas	šattalmas
 vegetarrett	šaddoborramuš				kasvisruoka	ruonasgušta		šaddogirji	šaddodatborramuš
 ansiktsuttrykk	ámadajuid geahčastat	muohtogeahčastat			kasvojen ilme	#muođut geahčastat		ámadaju	ámadaju hápmi
-maskebruk					kasvomaskin käyttö kasvosuojaimen käyttö	*kasvomaskin atnin *kasvosuojaimen atnin		čalmmehisvuohta	šaddo maskar geavahus šuddadanávdnasa geavahusas
+maskebruk	muohtomáskka atnin				kasvomaskin käyttö kasvosuojaimen käyttö	*kasvomaskin atnin *kasvosuojaimen atnin		čalmmehisvuohta	šaddo maskar geavahus šuddadanávdnasa geavahusas
 ansiktskrem	ámadadjovuoiddas				kasvovoide	njeazzevuoiddas		olggošbuhttehus	rasefuođđara
 veksthormon	šaddohormona				kasvuhormoni	šaddohormona		ahtanuššanhormon	mu ahtanuššanhormon
 katetersystem	katehtárvuogádat				katetrijärjestelmä	#katehtárvuogádat		kateteravuogádat	katetrálavuogádat
@@ -589,15 +589,15 @@ katetertype	katehtártiipa				katetrityyppi	#katehtártiipa		katetráhpa šládj
 takheis	dáhkkejeahkka	rohpejeahkka			kattoon kiinnitetty siirtolaite, kattonosturi	rohpái *kiinnitetty sirdinrusttet		dáhkáduslihtti	sáddenrusttegat mat leat biddjojuvvon láhčái
 nakkevirvel	čeabetdákti				kaulanikama			niskevealgi	giehtagávpi
 skjønnhetsideal	čábbodat ovdagovva				kauneusihanne			čábbodaga ideála	čikŋagárri
-utviklingstrinn					kehitysaste	#ahtanuššan#ráđđa		ovdánandássi	ovdánandássi
-utviklingshemning					kehitysvamma	ahtanuššanveaidni		doaibmahehttehus	ovdáneapmi-hehttehus
+utviklingstrinn	ovdáneapmiráđđa				kehitysaste	#ahtanuššan#ráđđa		ovdánandássi	ovdánandássi
+utviklingshemning	čalgohehttehus	ovdáneapmi			kehitysvamma	ahtanuššanveaidni		doaibmahehttehus	ovdáneapmi-hehttehus
 kroppsideal					kehoihanne			rumašideála	du rumaš
 kroppsuttrykk					kehollinen ilmaisu	*kehollinen dajahus		rumašalbmi	rumašlaš namahus
-kroppsleie					kehon asento	rupmaša stellelmas		rumašdeavdin	rumašguoddu
+kroppsleie	rumašguoddu				kehon asento	rupmaša stellelmas		rumašdeavdin	rumašguoddu
 kroppsstilling					kehon asento	rupmaša stellelmas		rumašguoddu	rumašguoddu
-kroppsstell					kehon hoito	rupmaša dikšu		rumaščoaggin	rumašdivššu
-kroppsbevegelse					kehon liike	rupmaša gávpi		rumašlaš lihkadeapmi	rupmaša lihkadeapmi
-kroppstemperatur					kehon lämpötila	rupmaša temperatuvra		goruda temperatuvra	rumašdálkkádat
+kroppsstell	rumašdiksu				kehon hoito	rupmaša dikšu		rumaščoaggin	rumašdivššu
+kroppsbevegelse	rupmaša lihkadeapmi				kehon liike	rupmaša gávpi		rumašlaš lihkadeapmi	rupmaša lihkadeapmi
+kroppstemperatur	rupmaša temperatuvra				kehon lämpötila	rupmaša temperatuvra		goruda temperatuvra	rumašdálkkádat
 temperaturforstyrrelse					kehon lämpötilan häiriö	rupmaša temperatuvrra segohus		temperatuvra muosehuhttin	rumašgova temperatuvrra vuosteháhku
 temperaturutvikling					kehon lämpötilan kehittyminen	rupmaša temperatuvrra ovddideapmi		temperatuvraovdáneapmi	goruda temperatuvrra ovdáneapmi
 kroppsmasse					kehon massa	rupmaša #mássá		rumašdieđiheapmi	rumašmássa
