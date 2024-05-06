@@ -36,42 +36,34 @@ MRCP magnetisk resonanskolangiopankreatografi	N	Magnetic Resonance Cholangiopanc
 MS multippel sklerose	N	MS-tauti    multippeliskleroosi keskushermoston pesäkekovettumatauti
 NIHSS scåringsverktøy for å vurdere alvorlighetsgraden av hjerneslag	N	National Institutes of Health Stroke Scale NIHSS    aivoverenkierron arvioinissa käytettävä NHISS-asteikko/-mittari
 PASI et mål på total psoriasis, alvorlighetsgrad og dekning	N	Psoriasis Area and Severity Index PASI psoriasiksen vaikeusasteen määrittelyssä käytettävä mittari PASI
-PCOS	N	
-PEG	N	
-PID	N	
-PLISSIT-modellen	N	
-PMS	N	
-PRICE-prinsippet	N	
-PSA	N	
-Parkinsons	N	
-Psoriasis-	N	
-RA	N	
-RIK	N	
-Revmatikerforbund	N	
-SAB	N	
-SIADH	N	
-SOI	N	
-SPK	N	
-SSS	N	
-Scale	N	
-Scandinavian	N	
-Se	N	
-Sengstaken-Blakemores	N	
-Sjögrens	N	
-Stroke	N	
-Symptom	N	
-System	N	
-T-dren	N	
-TIA	N	
-TNM-stadier	N	
-TPN	N	
-TSF	N	
-TUMT	N	
-TUR-B	N	
-TUR-P	N	
-Turners	N	
-UVI	N	
-Whipples	N	
+PCOS polycystisk ovariesyndrom	N	munasarjojen monirakkulaoireyhtymä PCOS  PCO-oireyhtymä
+PEG perkutan endoskopisk gastrostomi	N	perkutaaninen endoskooppinen gastrostomia PEG
+PID	bekkeninfeksjon N	pelvic inflammatory disease PID sisäsynnytintulehdus
+PID primær immunsviktsykdom    N   primaaria immuunipuutossairautta PID
+PLISSIT-modellen	N	PLISSIT-malli
+PMS premenstruelt syndrom	N	kuukautisia edeltävä oireyhtymä premenstruaalioireyhtymä PMS
+PRICE-prinsippet	N	protection, rest, ice, compression og elevation PRICE principle suoja, lepo, kylmähoito, kompressio, kohoasento 
+PSA prostataspesifikt antigen	N	prostataspesifinen antigeeni PSA
+psoriasis	N	psoriaasi   psoriasis
+RA revmatoid artritt	N	nivelreuma  reumatoidi artriitti    arthritis rheumatoides
+RIK ren intermitterende kateterisering	N	puhdas toistokatetrointi
+SAB subaraknoidal blødning	N	lukinkalvonalaisen verenvuoto   subaraknoidaalivuoto SAV
+SIADH syndrome of inappropriate antidiuretic hormone secretion	N	abdomenntidiureettisen hormonin epäasianmukaisen erityksen oireyhtymä SIADH
+SOI seksuelt overførbare infeksjoner	N	seksitaudit sukupuolitaudit
+SPK suprapubisk kateter	N	suprapubinen kateteri
+SSS Scandinavian Stroke Scale	N	aivoverenkiertohäiriön tutkimisessa käytetty arviointilomake 
+Sengstaken-Blakemores sonde	N	Sengstaken-Blakemoren putki
+Sjögrens syndrom	N	Sjögrenin oireyhtymä (syndrooma)
+TIA transitorisk iskemisk anfall drypp	N	ohimenevä aivoverenkiertohäiriö TIA
+TNM-stadier	N	syöpäkasvainluokituksen asteet
+TPN total parenteral ernæring	N	totaalinen suonensisäinen ravitsemus
+TSF triceps skin fold	N	ojentajalihaksen eli kolmipäisen olkalihaksen ihopoimu
+TUMT Transurethral microwave thermotherapy, transuretral mikrobølgebehandling	N	transuretraalinen mikroaaltotermoterapia TUMT
+TUR-B ransuretral reseksjon av blæretumor	N	virtsarakon kasvaimen höyläysleikkaus TURB
+TUR-P transuretral reseksjon av prostata    N	eturauhasen höyläysleikkaus TURP
+Turners syndrom	N	Turnerin oireyhtymä
+UVI urinveisinfeksjon	N	virtsatieinfektio VTI
+Whipples operasjon, pankreatoduodenektomi	N	Whipplen leikkaus, 
 abdomen	N	
 abort	N	
 abscess	N	
