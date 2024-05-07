@@ -63,88 +63,73 @@ TUR-B ransuretral reseksjon av blæretumor	N	virtsarakon kasvaimen höyläysleik
 TUR-P transuretral reseksjon av prostata    N	eturauhasen höyläysleikkaus TURP
 Turners syndrom	N	Turnerin oireyhtymä
 UVI urinveisinfeksjon	N	virtsatieinfektio VTI
-Whipples operasjon, pankreatoduodenektomi	N	Whipplen leikkaus, 
-abdomen	N	
-abort	N	
-abscess	N	
-adjuvant	N	
-afasi	N	
-agnosi	N	
-aksonal	N	
-aktiviteter	N	
-akutt	N	
-alderslangsynthet	N	
-aldersrelatert	N	
-alfaføtoprotein	N	
-alginatbandasje	N	
-alkoholabstinens	N	
-allergitesting	N	
-alopesi	N	
-amenoré	N	
-amnesi	N	
-amputasjon	N	
-amyotrofisk	N	
-anabol	N	
-anastomoselekkasje	N	
-åndelig	N	
-anemi	N	
-aneurisme	N	
-anfall	N	
-anfallsforebyggende	N	
-angrepiller	N	
-anisokori	N	
-ankel-arm-indeks	N	
-ankelbrudd	N	
-ankyloserende	N	
-antebrachiumfraktur	N	
-anterograd	N	
-antiepileptika	N	
-antigen	N	
-anuri	N	
-apoplexia	N	
-appendektomi	N	
-appendisitt	N	
-apraksi	N	
-arterielle	N	
-arteriovenøs	N	
-arteriovenøse	N	
-artritt	N	
-artrodese	N	
-artrose	N	
-ascites	N	
-aspirasjon	N	
-assistert	N	
-astigmatisme	N	
-ataksi	N	
-atopisk	N	
-aura	N	
-autonom	N	
-av	N	
-avføringen	N	
-bakterieinfeksjon	N	
-balanseforstyrrelser	N	
-bandasje	N	
-barneeksem	N	
-barnløshet	N	
-bartholinitt	N	
-befruktning	N	
-behandling	N	
-behandlingshjelpemidler	N	
-behandlingsreiser	N	
-behov	N	
-beinmargsdepresjon	N	
-beinskjørhet	N	
-beinsykdom	N	
-bekkenbrudd	N	
-bekkenbunnstrening	N	
-bekkeninfeksjon	N	
-bekkenløft	N	
-benign	N	
-beslutningskompetanse	N	
-bevissthet	N	
-bind	N	
-biologiske	N	
-blandingsinkontinens	N	
+Whipples operasjon, pankreatoduodenektomi	N	pankreatikoduodenektomia, Whipplen leikkaus 
+abdomen	N	vatsa   maha
+abort	N	abortti raskaudenkeskeytys
+abscess	N	absessi märkäpesäke paise
+adjuvant	N	adjuvantti  rokotteen tai muun aineen vaikutusta tehostava aine
+afasi	N	afasia
+agnosi	N	agnosia tiedostamattomuus
+aksonal	N	aksonaalinen    hermon viejähaarakkeeseen liittyvä
+aktivitet	N	tominta, toiminto   aktiviteetti
+akutt	N	akuutti äkillinen, nopeasti kehittyvä, terävä
+alderslangsynthet	N	ikänäkö presbyopia
+aldersrelatert	N	ikään liittyvä
+alfaføtoprotein AFP	N	alfafetoproteiini AFP
+alginatbandasje	N	alginaattisidos
+alkoholabstinens	N	alkoholivieroitusoireyhtymä
+allergitesting	N	allergiatestaus
+alopesi	N	alopecia    karvojen lähtö
+amenoré	N	amenorrea   kuukautisten poisjääminen
+amnesi	N	amnesia muistinmenetys
+amputasjon	N	amputaatio  raajan tai muun kehon ulokkeen kirurginen poistaminen tai irtoaminen vammautumalla  amputoinnin tulos: raajan osittainen tai kokonaan puuttuminen; raajapuutos
+ALS amyotrofisk lateral sklerose	N	ALS-tauti, amyotrofisk lateral sklerose ALS Lou Gehrigin tauti  motoneuronitauti
+anabol	N	anabolinen  (aineenvaihdunnasta) rakentava
+anastomose	N	anastomoosi yhdysaukko kahden onton elimen välillä
+åndelig	N	henkinen    hengellinen
+anemi	N	anemia  vähäverisyys
+aneurisme	N	aneurysma   verisuonen seinämän pullistuma
+anfall	N	kohtaus puuska  hyökkäys
+angrepiller	N	jälkiehkäisyvalmiste    katumuspilleri
+anisokori	N	anisokoria  silmän mustuaisten erikokoisuus
+ankel-arm-indeks AAI	N	nilkka-olkavarsipainesuhde ABI
+ankelbrudd	N	nilkkamurtuma
+ankyloserende spondylitt Bekhterevs sykdom	N	selkärankareuma
+antebrachium underarm	N	kyynärvarsi
+anterograd	N	anterogradinen  eteenpäin ulottuva, ajassa eteenpäin suuntautuva  myötävirtaan liikkuva
+antiepileptika anfallsforebyggende legemidler	N	antiepileptinen lääke   antikonvulsantti    epileptisia kohtauksia ehkäisevä lääke
+antigen	N	antigeeni   aine joka aiheuttaa vasta-aineiden tuottamisen
+anuri	N	anuria  virtsanerityksen puute
+apoplexia	N	apopleksia  aivohalvaus (subaraknoidaalivuoto tai aivoverenvuoto tai ohimenevä aivojen verenkiertohäiriö tai aivoinfarkti)
+appendektomi 	N	appendisektomia umpilisäkkeen poistoleikkaus   
+appendisitt blindtarmsbetennelse	N	umpilisäketulehdus  appendisiitti
+apraksi	N	apraksia    lihassuoritusten ohjelmoinnin häiriö    liikkeiden koordinaatiovaikeus
+arteriell	N	arteriallinen   valtimoon liittyvä
+arteriovenøs  det som har med både arterier og vener å gjøre	N	valtimo-laskimo-    arteriovenoosinen   arteriovenoosi
+artritt leddbetennelse	N	artriitti   niveltulehdus
+artrodese avstivning av et ledd	N	nivelen luudutus    nivelen jäykistäminen
+artrose slitasjegikt	N	artroosi    nivelrikko
+ascites opphopning av væske i bukhulen innenfor bukhinnen	N	askites nesteen kertyminen vatsaonteloon
+aspirasjon	N	aspiraatio  henkeen vetäminen   keuhkoihin vetäminen
+astigmatisme skjeve hornhinner	N	astigmatismi    hajataittoisuus
+ataksi	N	ataksia lihasten keskushermostoperäinen toimintahäiriö
+atopi	N	atopia  henkilön periytyvä taipumus herkistyä esim. siitepölylle    yliherkkyys
+aura	N	lääk.  aura ennakkotunne    aavistus
+autonome nervesystem	N	tahdosta riippumaton hermosto   autonominen hermosto
+bandasje	N	side    sidos
+barneeksem	N	Atooppinen ihottuma atooppinen ekseema
+barnløshet	N	lapsettomuus
+bartholinitt	N	Bartholiniitti häpyhuulen rauhasen tulehdus bartoliniitti
+befruktning	N	hedelmöitys
+behandling	N	käsittely   kohtelu hoito
+behov	N	tarve
+beinskjørhet osteoporose	N	luukato osteoporoosi
+bekken	N	lantio	
+benign	N	benigni hyvänlaatuinen  hyvälaatuinen
+beslutningskompetanse	N	päätöskyky
+bevissthet	N	  tietoisuus    tajunta  
+bind	N	sidos   side    nidos, nide
+blandingsinkontinens	N	sekatyyppinen inkontinenssi
 blære	N	
 blærefunksjon	N	
 blærekateter	N	
