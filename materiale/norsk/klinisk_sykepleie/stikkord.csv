@@ -130,49 +130,44 @@ beslutningskompetanse	N	päätöskyky
 bevissthet	N	  tietoisuus    tajunta  
 bind	N	sidos   side    nidos, nide
 blandingsinkontinens	N	sekatyyppinen inkontinenssi
-blære	N	
-blærefunksjon	N	
-blærekateter	N	
-blærekreft	N	
-blæreskanning	N	
-blæretrening	N	
-blæretrykk	N	
-bleieveietest	N	
-blind	N	
-blod	N	
-blodig	N	
-blødning	N	
-blødningsforstyrrelser	N	
-blodrensingsdialyse	N	
-blodtrykk	N	
-bløtdelsrevmatisme	N	
-bolustilførsel	N	
-bøyleileostomi	N	
-brekninger	N	
-brennkopper	N	
-briller	N	
-brokk	N	
-brudd	N	
-brytningsfeil	N	
-calcaneusfraktur	N	
-cancer	N	
-candidainfeksjon	N	
-cap	N	
-cerebralt	N	
-cerebri	N	
-cerebrospinalvæske	N	
-chlamydia	N	
-claviculafraktur	N	
-cold	N	
-cøliaki	N	
-contusio	N	
-corpusblødning	N	
-crusamputasjon	N	
-cyste	N	
-cystenyre	N	
-cystitt	N	
-cystolitiasis	N	
-cytologisk	N	
+blære	N	rakko
+blærekateter	N	virtsarakon katetri    virtsakatetri
+blærekreft	N	virtsarakon syöpä
+blæreskanning	N	virtsarakon ultraäänitutkimus
+blæretrykk	N	virtsarakon paine
+blind	N	sokea   silmitön    - alarm väärä hälytys
+blod	N	veri
+blodig	N	verinen
+blødning	N	verenvuoto
+blødningsforstyrrelse	N	vuotohäiriö
+blodrensingsdialyse	N   hemodialyysi    verenpuhdistusdialyysi
+blodtrykk	N	verenpaine
+bløtdelsrevmatisme	N	pehmytkudosreuma
+bolustilførsel	N	kerta-annoksena annettava   boluksena annosteltava  ???
+bøyleileostomi	N	lenkkiavanne    loop-ileostooma
+brekning	N	yökkäys 
+brennkopper	N	märkärupi
+briller	N	silmälasit
+brokk	N	tyrä
+brudd	N	murtuma särkyminen  ???
+brytningsfeil	N	taitovirhe
+calcaneusfraktur brudd i hælbeinet	N	kantaluun murtuma
+cancer kreft	N	syöpä
+candidainfeksjon soppinfeksjon	N	sieni-infektio
+cerebral	N	aivoja koskeva
+cerebrospinalvæske	N	aivo-selkäydinneste
+chlamydia	N	klamydia
+claviculafraktur brudd på kraveben	N	solisluun murtuma
+cold cap ishette	N	kylmäpäähine    kylmähattu
+cøliaki	N	keliakia
+contusio kontusjon	N	kontuusio contusio  ruhjevamma  ruhjou(tu)ma
+corpusblødning blødning i glasslegemet (corpus vitreum)	N	lasiaisverenvuoto
+crusamputasjon amputasjon gjennom leggen	N	sääriamputaatio
+cyste	N	kysta   rakkula rakko   rakkokasvain
+cystenyre	N	kystinen munuainen
+cystitt nedre urinveisinfeksjon blærekatarr	N	virtsarakkotulehdus kystiitti
+cystolitiasis blærestein	N	virtsakivi(tauti)  munuaiskivi nefroiitti
+cytologisk	N	sytologinen soluopillinen
 cytostatikabehandling	N	
 dagliglivets	N	
 debridering	N	
