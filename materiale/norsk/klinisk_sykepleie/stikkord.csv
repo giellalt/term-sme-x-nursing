@@ -168,57 +168,50 @@ cystenyre	N	kystinen munuainen
 cystitt nedre urinveisinfeksjon blærekatarr	N	virtsarakkotulehdus kystiitti
 cystolitiasis blærestein	N	virtsakivi(tauti)  munuaiskivi nefroiitti
 cytologisk	N	sytologinen soluopillinen
-cytostatikabehandling	N	
-dagliglivets	N	
-debridering	N	
-degenerative	N	
-dehydrering	N	
-delirium	N	
-demens	N	
-dermatitt	N	
-dermatomkart	N	
-descens	N	
-descensus	N	
-detrusormuskelen	N	
-diabetesnefropati	N	
-diabetisk	N	
-dialysebehandling	N	
-diaré	N	
-dioptri	N	
-diurese	N	
-død	N	
-døende	N	
-dyp	N	
-dysartri	N	
-dysfagi	N	
-dysfasi	N	
-dysmenoré	N	
-dyspareuni	N	
-dyspepsi	N	
-dysrefleksi	N	
-eGFR	N	
-ebb-fasen	N	
-effloresenser	N	
-eksem	N	
-eksistensiell	N	
-eksistensielle	N	
-ekstern	N	
-ekstraartikulære	N	
-ekstrakorporal	N	
-ekstrakorporeal	N	
-ekstravasal	N	
-ektopisk	N	
-elastiske	N	
-eldre	N	
-elektroencefalografi	N	
-elektrolyttforstyrrelser	N	
-eller	N	
-emboli	N	
-emosjonsfokusert	N	
-empowerment	N	
-encefalopati	N	
-endeileostomi	N	
-endometriose	N	
+cytostatikabehandling	N	sytostaattihoito
+dagligliv	N	arkielämä
+debridering, fjerning av dødt, skadet eller infisert vev    N	kuolleen, vaurioituneen tai infektoituneen kudoksen poisto
+degenerativ	N	rappeuttava rappeutuva
+dehydrering	N	kuivuminen
+delirium	N	delirium    sekavuustila
+demens	N	dementia    elimellinen aivo-oireyhtymä, useiden älyllisten toimintojen heikentyminen sairauden, vamman tai vanhuuden vuoksi
+dermatitt	N	ihotulehdus ihottuma    dermatiitti
+dermatom	N	dermatomi   yhden selkäydinhermon hermottama ihoalue
+descens livmorfremfall nedsunken livmor	N	kohdunlaskeuma
+detrusormuskel	N	detrusor-lihas
+diabetesnefropati	N	diabeettinen neuropatia
+dialysebehandling	N	dialyysihoito
+diaré	N	ripuli  diarrea
+dioptri en måleenhet for et medie sin evne til bryte lyset	N	dioptria    optisen taitto­kyvyn ja optisen järjestemän voimakkuuden yksikkö
+diurese	N   virtsaneritys   diureesi
+død	N	kuolema
+døende	N	kuoleva
+dyp	N	syvyys  syöveri uumen
+dysartri	N	dysartria   aivosyntyisten puheen artikulaatiohäiriöiden yleisnimitys
+dysfagi	N	dysfagia    nielemishäiriö
+dysfasi	N	dysfasia    kielenkehityksen erityisvaikeus poikkeava kielenkehitys
+dysmenoré	N	kivuliaat kuukautiset   dysmenorrea algomenorrea menalgia
+dyspareuni	N	yhdyntäkipu
+dyspepsi	N	ylävätskivut    dyspepsia
+autonom dysrefleksi	N	autonominen dysrefleksia    massiivinen refleksivaste ärsykkeisiin
+ebb-fase	N	ebb- eli shokkivaihe traumapotilailla
+effloresens hudforandring i hudutslet	N	effloresenssi
+eksem	N	ekseema ihottuma    rohtuma rokahtuma
+eksistensiell	N	eksistentiaalinen   lemassaoloon liittyvä
+ekstern	N	ulkoinen    ulkopuolinen
+ekstraartikulære	N	ekstra-artikulaarinen   additiivinen    lisäävä
+ekstraartikulær brudd   N   ekstra-artikulaarinen murtuma   murtuma, joka ei ylety niveleen saakka
+ekstrakorporeal	N	kehon ulkoinen  ekstrakorporeaalinen
+ekstravasal utenfor blodårene	N	verisuonten ulkopuolinen    ekstravasaalinen
+ektopisk	N	ektooppinen virhepaikkainen virhesijaintinen    normaalilta paikaltaan poissa oleva
+elastisk	N	elastinen   kimmoinen kimmoisa  joustava
+elektroencefalografi EEG	N	elektroenkefalografia EEG   elektroenkelogrammi  aivosähkökäyrä
+elektrolyttforstyrrelse	N	elektrolyyttihäiriö
+emboli	N	veritulppa  embolia 
+empowerment	N	voimaantuminen  valtaistuminen
+encefalopati hjernesykdom	N	aivosairaus aivotauti   enkefalopatia
+endeileostomi	N	ileostomia ohutsuoliavanneleikkaus
+endometriose	N	endometrioosi
 endometritt	N	
 endoskopisk	N	
 endrede	N	
