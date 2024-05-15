@@ -212,61 +212,53 @@ empowerment	N	voimaantuminen  valtaistuminen
 encefalopati hjernesykdom	N	aivosairaus aivotauti   enkefalopatia
 endeileostomi	N	ileostomia ohutsuoliavanneleikkaus
 endometriose	N	endometrioosi
-endometritt	N	
-endoskopisk	N	
-endrede	N	
-endringer	N	
-energi-	N	
-enukleasjon	N	
-epiduralt	N	
-epikutantest	N	
-epilepsi	N	
-epilepticus	N	
-epileptiske	N	
-ergoterapi	N	
-ernæring	N	
-ernæringsbehandling	N	
-ernæringsløsninger	N	
-ernæringstilstand	N	
-erysipelas	N	
-etseskader	N	
-etter	N	
-facialisparese	N	
-fall	N	
-fantomsmerter	N	
-fase	N	
-fatigue	N	
-fatler	N	
-feber	N	
-feil-	N	
-femuramputasjon	N	
-femurfraktur	N	
-festeplate	N	
-fett	N	
-fettdiaré	N	
-fiberbandasje	N	
-fibromyalgi	N	
-fiksasjon	N	
-filtrasjonshastighet	N	
-fistel	N	
-fokale	N	
-fold	N	
-follikulitt	N	
-forgiftning	N	
-forkammerblødning	N	
-forstyrrelser	N	
-forutsetninger	N	
-fotsopp	N	
-fractura	N	
-funksjon	N	
-funksjonsstatus	N	
-fysioterapi	N	
-gallestase	N	
-gallesteinssykdom	N	
-ganghjelpemidler	N	
-gangrenosum	N	
-gardnerella	N	
-gastrostomi	N	
+endometritt	N	endometriitti   kohdun limakalvon tulehdus
+endoskopi	N	endoskopia  tähystystutkimus
+enukleasjon kirurgisk fjerning av øyeeplet	N	silmän poisto
+epiduralanestesi epiduralbedøvelse	N	epiduraalipuudutus
+epikutantest	N	epikutaanitesti iholle laitettava allergiatesti
+epilepsi	N	epilepsia
+status epilepticus	N	pitkittynyt epileptinen kohtaus
+ergoterapi	N	toimintaterapia
+ernæring	N	ravitsemus
+ernæringsbehandling	N	ravitsemushoito
+ernæringsløsning	N	ravintoliuos    ???
+ernæringstilstand	N	ravitsemustila
+erysipelas rosen	N	ruusutulehdus   erysipelas
+etseskade	N	syövytysvamma
+facialisparese ansiktslammelse	N	kasvohalvaus
+fall	N	kaatuminen putoaminen  putous  tapaus
+fantomsmerte	N	aavekipu    aavesärky   fantomikipu
+fase	N	vaihe
+fatigue utmattelse	N	uupumus väsymys fatigue
+fatle	N	mitella kolmioliina
+feber	N	kuume
+femuramputasjon	N	reisiamputaatio
+femurfraktur	N	reisiluun murtuma   ???
+fett	N	rasva   det er meg et - se on minulle yhdentekevää
+fettdiaré	N	rasvaripuli
+fiberbandasje	N	kuitusidos
+fibromyalgi	N	fibromyalgia    pehmytkudoskipuilu  pehmytkudosreuma lihasreuma
+fiksasjon	N	fiksaatio fiksointi kiinnittäminen  kiinnittyminen
+filtrasjonshastighet	N	suodatusnopeus  filtraationopeus
+fistel	N	fisteli fistula avanne
+fokal	N	keskeinen   fokaali
+fold	N	taite   laskos  poimu ryppy
+follikulitt hårkjertelbetennelse	N	karvatuppitulehdus  follikuliitti
+forgiftning	N	myrkytys
+forkammerblødning	N	etukammioverenvuoto
+forstyrrelse	N	häiriö  keskeytys
+forutsetning	N	ehto    edellytys
+fotsopp	N	jalkasieni
+fractura fraktur beinbrud	N	luunmurtuma
+funksjon	N	toiminta toiminto   käyttö  tehtävä
+funksjonsstatus	N	toimintakyvyn arvio
+fysioterapi	N	fysioterapia
+gallestase	N	sappitietukos
+gallesteinssykdom	N	sappikivitauti
+ganghjelpemiddel	N	kävelyn apuväline
+pyoderma gangrenosum	N	haavautuva ihotulehdus
+gastrostomi	N	gastrostomia    mahalaukkuavanteen teko
 generalisert	N	
 genital	N	
 genitalis	N	
