@@ -315,7 +315,7 @@ respirasjon	vuoigŋan		spesialiseren dohkkeheapmi		hengitys	respiraatio	vuoigŋa
 pusting	vuoigŋan		doavttir spesialistaoahpahusas 		hengitys  hengittäminen	vuoigŋan  sahkat		vuoiŋŋasteapmi	vuoigŋa
 respirasjonsorgan	vuoigŋanorgánat				hengityselimet	vuoigŋanorgánat		vuoiŋŋahatorgána	vuoiŋŋahatorgánat
 luftveissykdom	vuoigŋanorgánadávda				hengityselinsairaus	vuoigŋanorgánabuohcu		vuoiŋŋahatdávda	vuoiŋŋašdávda
-respirasjonsforstyrrelse	vuoigŋansegohus				hengityshäiriö	vuoigŋansegohus		vuoiŋŋahatváttut	vuoigŋanváddu
+respirasjonsforstyrrelse	vuoigŋanhehttehus				hengityshäiriö	vuoigŋansegohus		vuoiŋŋahatváttut	vuoigŋanváddu
 respirasjonssystem	vuoigŋanvuogádat		ovdamearkkaoahppu		hengitysjärjestelmä	vuoigŋanvuogádat		vuoiŋŋahaga vuogádat	vuoigŋanvuohki
 respirasjonssenter	vuoigŋanguovddáš		dearvvašvuođadiehtu 		hengityskeskus	#vuoigŋan#guovddaš		vuoiŋŋahanguovddáš	vuoiŋŋadusguovddáš
 respiratorpasient	vuoigŋanmašiidnabuohcci	vuoigŋŋahatmašiidnabuohcci			hengityskonepotilas	#vuoigŋan#mašiidna#buohcci		vuoiŋŋahatvigi	vuoiŋŋahatdávda
@@ -576,7 +576,7 @@ opphopning					kasautuminen, kertyminen			čoagganeapmi	čoagganeapmi
 kastrasjon					kastraatio kastroiminen			kastreren	gásttašeapmi
 tumor	šattalmas				kasvain	tuumori	guorti	šattalmas	šattalmas
 vegetarrett	šaddoborramuš				kasvisruoka	ruonasgušta		šaddogirji	šaddodatborramuš
-ansiktsuttrykk	ámadajuid geahčastat	muohtogeahčastat			kasvojen ilme	#muođut geahčastat		ámadaju	ámadaju hápmi
+ansiktsuttrykk	muohtogeahčastat				kasvojen ilme	#muođut geahčastat		ámadaju	ámadaju hápmi
 maskebruk	muohtomáskka atnin				kasvomaskin käyttö kasvosuojaimen käyttö	*kasvomaskin atnin *kasvosuojaimen atnin		čalmmehisvuohta	šaddo maskar geavahus šuddadanávdnasa geavahusas
 ansiktskrem	ámadadjovuoiddas				kasvovoide	njeazzevuoiddas		olggošbuhttehus	rasefuođđara
 veksthormon	šaddohormona				kasvuhormoni	šaddohormona		ahtanuššanhormon	mu ahtanuššanhormon
@@ -593,17 +593,17 @@ utviklingstrinn	ovdáneapmiráđđa				kehitysaste	#ahtanuššan#ráđđa		ovdá
 utviklingshemning	čalgohehttehus	ovdáneapmi			kehitysvamma	ahtanuššanveaidni		doaibmahehttehus	ovdáneapmi-hehttehus
 kroppsideal					kehoihanne			rumašideála	du rumaš
 kroppsuttrykk					kehollinen ilmaisu	*kehollinen dajahus		rumašalbmi	rumašlaš namahus
-kroppsleie	rumašguoddu				kehon asento	rupmaša stellelmas		rumašdeavdin	rumašguoddu
+kroppsleie	rumašguoddu	gorutguoddu			kehon asento	rupmaša stellelmas		rumašdeavdin	rumašguoddu
 kroppsstilling					kehon asento	rupmaša stellelmas		rumašguoddu	rumašguoddu
-kroppsstell	rumašdiksu				kehon hoito	rupmaša dikšu		rumaščoaggin	rumašdivššu
-kroppsbevegelse	rupmaša lihkadeapmi				kehon liike	rupmaša gávpi		rumašlaš lihkadeapmi	rupmaša lihkadeapmi
-kroppstemperatur	rupmaša temperatuvra				kehon lämpötila	rupmaša temperatuvra		goruda temperatuvra	rumašdálkkádat
-temperaturforstyrrelse					kehon lämpötilan häiriö	rupmaša temperatuvrra segohus		temperatuvra muosehuhttin	rumašgova temperatuvrra vuosteháhku
-temperaturutvikling					kehon lämpötilan kehittyminen	rupmaša temperatuvrra ovddideapmi		temperatuvraovdáneapmi	goruda temperatuvrra ovdáneapmi
+kroppsstell	rumašdiksu	gorutdikšu			kehon hoito	rupmaša dikšu		rumaščoaggin	rumašdivššu
+kroppsbevegelse	rupmaša lihkadeapmi	gorut lihkadeapmi			kehon liike	rupmaša gávpi		rumašlaš lihkadeapmi	rupmaša lihkadeapmi
+kroppstemperatur	rupmaša temperatuvra	gorut temperatuvra			kehon lämpötila	rupmaša temperatuvra		goruda temperatuvra	rumašdálkkádat
+temperaturforstyrrelse	rupmaša temperatuvrra hehttehus	gorut temperatuvrra hehttehus			kehon lämpötilan häiriö	rupmaša temperatuvrra segohus		temperatuvra muosehuhttin	rumašgova temperatuvrra vuosteháhku
+temperaturutvikling	rupmaša temperatuvrra ovddideapmi	gorut temperatuvrra ovddideapmi			kehon lämpötilan kehittyminen	rupmaša temperatuvrra ovddideapmi		temperatuvraovdáneapmi	goruda temperatuvrra ovdáneapmi
 kroppsmasse					kehon massa	rupmaša #mássá		rumašdieđiheapmi	rumašmássa
-kroppsendring					kehon muutos	rupmaša iežáhus		rumašrievdadus	rumaš rievdadeapmi
-kroppsvæske					kehon nesteet	rupmaša siejat		rumašjuhkki	golgamat rupmašis
-kroppsvask					kehon pesu	rupmaša bassan		rumašbassan	rumašbivttas
+kroppsendring	rupmaša iežáhus	gorut iežáhus			kehon muutos	rupmaša iežáhus		rumašrievdadus	rumaš rievdadeapmi
+kroppsvæske	rupmaša golgosat	goruda golgosat			kehon nesteet	rupmaša siejat		rumašjuhkki	golgamat rupmašis
+kroppsvask	rupmaša bassan	gorut bassan			kehon pesu	rupmaša bassan		rumašbassan	rumašbivttas
 kroppssammensetning					kehon rakenne	rupmaša ráhkadus		rumaščoahkkádus	rupmaša ráhkadus
 kroppsstruktur					kehon rakenne	rupmaša ráhkadus		rumašlaš ráhkadus	rupmaša ráhkadus
 kroppsoverflate					kehon ulkopinta	rupmaša 		goruda bajildus	goruda olgguldas hápmi
@@ -612,7 +612,7 @@ kroppsbilde					kehonkuva	rupmašagovva		rumašgovva	rumašgovva
 kroppsvarme					kehonlämpö	rupmašaliekkas		rumašlaš liegganeapmi	rumašdálkkádat
 kroppsvekt					kehonpaino	rupmašadeaddu		rumašdeaddu	rumašdeaddu
 kroppsforståelse					kehonymmärrys	rupmašaádden		rumašáddejupmi	rumašáddejupmi
-ankelknoke					kehräsluu	behkeš		juolgesuorpmas	ruksesluohti
+ankelknoke	behkeš				kehräsluu	behkeš		juolgesuorpmas	ruksesluohti
 sirkelbevegelse					kehäliike	birasgávpi		jorbalihkadus	jorbalihkadus
 keisersnitt					keisarileikkaus			keaisárlávki	keaisárráidu
 pasientfortelling					kertomus sairaudesta ja potilaanaolosta	muitalus buozus ja 		pasieantta muitalus	muitalus buohcuvuođa ja buohcuvuođa birra
