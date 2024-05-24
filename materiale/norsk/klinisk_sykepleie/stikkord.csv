@@ -259,54 +259,51 @@ gallesteinssykdom	N	sappikivitauti
 ganghjelpemiddel	N	kävelyn apuväline
 pyoderma gangrenosum	N	haavautuva ihotulehdus
 gastrostomi	N	gastrostomia    mahalaukkuavanteen teko
-generalisert	N	
-genital	N	
-genitalis	N	
-gips	N	
-gjennombruddssmerter	N	
-gjennomskylling	N	
-glaukom	N	
-gliom	N	
-global	N	
-glomerulær	N	
-glomerulonefritt	N	
-glutenfri	N	
-gonartrose	N	
-gonoré	N	
-grå	N	
-gravidarum	N	
-graviditet	N	
-gravis	N	
-griperefleks	N	
-grønn	N	
-guiding	N	
-gulsott	N	
-gynekologisk	N	
-haemorrhagia	N	
-håndeksem	N	
-håp	N	
-håravfall	N	
-helse	N	
-hematemese	N	
-hematom	N	
-hematuri	N	
-hemikolektomi	N	
-hemiplegi	N	
-hemodialyse	N	
-herniering	N	
-herpes	N	
-histologisk	N	
-hjelpemidler	N	
-hjemmedød	N	
-hjemmerehabilitering	N	
-hjerneblødning	N	
-hjernedød	N	
-hjernehinneblødning	N	
-hjerneinfarkt	N	
-hjerneødem	N	
-hjerneslag	N	
-hjernestimulering	N	
-hjernesykdommer	N	
+generalisert	N	yleistynyt  yleisluonteinen
+genital	N	genitaalinen    genitaali-, sukuelin-   sukuelimeen liittyvä
+genitalier kjønnsorganer	N	genitaalit  sukupuolielin
+gips	N	kipsi
+gjennombruddssmerte	N	läpilyöntikipu
+gjennomskylling	N	läpihuuhtelu
+glaukom	N	silmänpainetauti    glaukooma
+gliom	N	hermotukikudoskasvain
+global	N	yleis-, kokonais-  yleismaailmallinen  maailmanlaajuinen
+glomerulær	N	glomerulaarinen munuaiskeräsiin (erityisesti hiussuonikeräsiin) liittyvä
+glomerulonefritt	N	munuaiskerästulehdus    glomerulonefriitti
+glutenfri	N	gluteeniton
+gonartrose  kneleddsartrose	N	polven nivelrikko   polviartroosi
+gonoré	N	tippuri gonorrea
+hyperemesis gravidarum  alvorlig svangerskapskvalme	N	voimakas raskausoksentelu
+graviditet	N	raskaus graviditeetti
+myasthenia gravis	N	myastenia   hermo-lihasliitoksen sairaus
+griperefleks	N	tarttumisrefleksi
+guiding	N	ohjaus
+gulsott ikterus	N	keltaisuus  ikterus
+haemorrhagia	N	verenvuoto  haemorrhagia, hemorragia
+håndeksem	N	käsi-ihottuma   kåasiekseema
+håp	N	toivo
+håravfall	N	hiustenlähtö
+helse	N	terveys
+hematemese  blodig oppkast	N	verioksennus    hematemeesi
+hematom	N   verenpurkauma    mustelma   hematooma
+hematuri    blod i urinen	N	verivirtsaisuus hematuria
+hemikolektomi   operativ fjerning av høyre eller venstre del av tykktarmen	N	paksusuolikeikkaus  hemikolektomia
+hemiplegi   halvsidig lammelse	N	toispuolihalvaus    hemiplegia
+hemodialyse	N	hemodialyysi
+herniering  brokkdannelse	N   tyrän muodostuminen  
+herpes	N	herpes  herpesviruksen aiheuttama tauti
+histologisk	N	histologinen    kudosopillinen
+hjelpemiddel	N	apuväline
+hjemmedød	N	kuolema kotona (usein saattohoidon yhteydessä)
+hjemmerehabilitering	N	kotikuntoutus
+hjerneblødning  Hemorrhagisk hjerneslag N	aivoverenvuoto  aivohemorragia
+hjernedød	N	aivokuolema ???
+hjernehinneblødning subarachnoidal blødning SAB	N	lukinkalvonalainen verenvuoto SAV
+hjerneinfarkt	N	aivoinfarkti
+hjerneødem	N	aivoedeema  aivopöhö    aivoturvotus
+hjerneslag apoplexia cerebri apopleksi cerebralt insult slag	N	aivohalvaus aivoverenkiertohäiriö   apopleksia
+hjernestimulering	N	aivojen stimulointi
+hjernesykdom	N	aivosairaus
 hjernetamponade	N	
 hodepine	N	
 hodeskader	N	
