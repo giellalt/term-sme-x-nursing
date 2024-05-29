@@ -304,41 +304,38 @@ hjerneødem	N	aivoedeema  aivopöhö    aivoturvotus
 hjerneslag apoplexia cerebri apopleksi cerebralt insult slag	N	aivohalvaus aivoverenkiertohäiriö   apopleksia
 hjernestimulering	N	aivojen stimulointi
 hjernesykdom	N	aivosairaus
-hjernetamponade	N	
-hodepine	N	
-hodeskader	N	
-hoftebrudd	N	
-hornhinne	N	
-hos	N	
-hud	N	
-huden	N	
-hudfarge	N	
-hudkløe	N	
-hudsykdom	N	
-humant	N	
-hviletremor	N	
-hydrocephalus	N	
-hydrokolloider	N	
-hyperemesis	N	
-hyperkalemi	N	
-hyperkalsemi	N	
-hypermagnesemi	N	
-hypermetabolisme	N	
-hypermetropi	N	
-hypernatremi	N	
-hyperton	N	
-hypokalemi	N	
-hypokalsemi	N	
-hypomagnesemi	N	
-hyponatremi	N	
-hypotensjon	N	
-hypoventilasjon	N	
-hypovolemi	N	
-i	N	
-idrettsskader	N	
-ikke-oligurisk	N	
-ikterus	N	
-ileostomi	N	
+hjernetamponade	N	verenpainetta korkeamman tai yhtä korkean aivopaineen aiheuttama verenkulun loppuminen aivoissa eli tamponaatio aivoissa
+hodepine	N	päänsärky
+hodeskade	N	päävamma
+hoftebrudd	N	lonkkamurtuma
+hornhinne	N	sarveiskalvo
+hud	N	iho   ???
+hudfarge	N	ihonväri
+hudkløe	N	ihon kutina
+hudsykdom	N	ihosairaus
+human	N	inhimillinen    ???
+hviletremor	N	lepovapina
+hydrocephalus vannhode	N	hydrokefalus hydrokefalia   (aiemmin vesipää)
+hydrokolloid	N	hydrokolloidi   hyytelö jello
+hyperemesis	N	raju oksentaminen    raju ylenantaminen
+hyperkalemi	N	kohonnut veren kalium   hyperkalemia    hyperpotassemia
+hyperkalsemi	N	kohonnut veren kalsiumpitoisuus hyperkalsemia
+hypermagnesemi	N	kohonnut veren magnesiumpitoisuus   hypermagnesemia
+hypermetabolisme	N	hypermetabolia  kiihtynyt kudosten aineenvaihdunta
+hypermetropi hyperopi langsynthet	N	pitkänäköisyys pitkätaittoisuus kaukotaitteisuus kaukotaittoisuus   hypermetropia hyperopia
+hypernatremi	N	hypernatremia   varen kohonnut natriumpitoisuus
+hyperton	N	hypertoninen liuos, joka on väkevää eli sen osmoottinen paine on suuri verrattuna toiseen liuokseen
+hypokalemi	N	hypokalemia veren kaliumniukkuus
+hypokalsemi	N	hypokalsemia    veren kalsiumniukkuus
+hypomagnesemi	N	hypomagnesemia  veren magnesiumniukkuus
+hyponatremi	N	huponatremia    veren natriumniukkuus
+hypotensjon	N	matala verenpaine   hypotensio
+hypoventilasjon	N	hypoventilaatio vajaatuuletus   vähentynyt keuhkotuuletus
+hypovolemi	N	hypovolemia veren epänormaali vähyys    veren epänormaalin pieni tilavuus
+idrettsskade	N	urheiluvamma
+oliguri lav diurese	N	oliguria    vähävirtsaisuus
+ikterus	N	keltaisuus  kelatauti
+ileostomi	N	ileostomia  suoliavanne ??? tsekkaa
 ileumblære	N	
 ileus	N	
 immunforsvar	N	
