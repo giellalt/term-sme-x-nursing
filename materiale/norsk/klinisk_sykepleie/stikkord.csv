@@ -335,22 +335,21 @@ hypovolemi	N	hypovolemia veren epänormaali vähyys    veren epänormaalin pieni
 idrettsskade	N	urheiluvamma
 oliguri lav diurese	N	oliguria    vähävirtsaisuus
 ikterus	N	keltaisuus  kelatauti
-ileostomi	N	ileostomia  suoliavanne ??? tsekkaa
-ileumblære	N	
-ileus	N	
-immunforsvar	N	
-immunisering	N	
-immunmodulerende	N	
-immunoernæring	N	
-immunsupprimerende	N	
-impetigo	N	
-in	N	
-infeksjoner	N	
-infertilitet	N	
-infusjon	N	
-inkontinens	N	
-inngrep	N	
-inspeksjon	N	
+ileostomi	N	ileostomia  ileostooman teko    suoliavanteen tekeminen 
+ileumblære	N	virtsatieavanne ileumrakko  Brickerin rakko
+ileus   tarmslyng	N	suolentukkeuma  suolitukos  ileus
+immunforsvar	N	immuunipuolustus
+immunisering	N	immunisaatio    immunisoituminen
+immunmodulerende	N   immuunivastetta muuntava   immunomoduloiva
+immunoernæring	N	immunoravitsemus
+immunsupprimerende	N	immunivastetta heikentävä ???
+impetigo    brennkopper	N	märkärupi   impetigo
+infeksjon	N	tartunta    infektio
+infertilitet	N	hedelmättömyys  infertiliteetti
+infusjon	N	tiputus infuusio
+inkontinens	N	pidätyskyvyttömyys  inkontinenssi
+inngrep	N	???
+inspeksjon	N	???
 instillasjonsbehandling	N	
 insult	N	
 intermitterende	N	
