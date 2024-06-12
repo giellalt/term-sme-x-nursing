@@ -350,44 +350,43 @@ infusjon	N	tiputus infuusio
 inkontinens	N	pidätyskyvyttömyys  inkontinenssi
 inngrep	N	???
 inspeksjon	N	???
-instillasjonsbehandling	N	
-insult	N	
-intermitterende	N	
-intraabdominalt	N	
-intrakranial	N	
-intrakranialt	N	
-intrakutantest	N	
-intraokulært	N	
-intrarenal	N	
-intravenøs	N	
-intravesikal	N	
-iridosyklitt	N	
-irrigasjon	N	
-ishette	N	
-isjialgi	N	
-iskemisk	N	
-isometriske	N	
-isoton	N	
-jejunostomi	N	
-juvenil	N	
-kakeksi	N	
-kalium	N	
-kalkgips	N	
-kaloribehov	N	
-kalsium	N	
-kalsiumsteiner	N	
-kapselendoskopi	N	
-karbohydrater	N	
-karskade	N	
-katabol	N	
-katarakt	N	
-kateter	N	
-kateterisering	N	
-keratitt	N	
-kirurgi	N	
-kirurgiske	N	
-kjemoterapi	N	
-kjevegrep	N	
+instillasjonsbehandling	N	lääkeaineen laitto johonkin
+insult	N	loukkaus    ???
+intermitterende	N	ajoittainen ???
+intraabdominalt	N	vatsansisäinen  intra-abdominaalinen
+intrakranial	N	kallonsisäinen  
+intrakutan	N	ihonsisäinen    intrakutaaninen intradermaalinen
+intraokulær	N	silmänsisäinen  intraokulaarinen
+intrarenal	N	munuaisensisäinen   intrarenaalinen
+intravenøs	N	laskimonsisäinen    suonensisäinen  intravenoosinen IV
+intravesikal	N	virtsarakonsisäinen
+iridosyklitt    regnbuehinnebetennelse	N	silmän värikalvon ja sädekehän tulehdus irodosykliitti
+irrigasjon	N	suolihuuhtelu   ???
+ishette	N	kylmähattu
+isjialgi	N	lonkkahermosärky    iskias  flask isjias tarkista   ???
+iskemisk	N	hapen puutteeseen liittyvä  iskeeminen
+isometriske	N	samanmittainen  isometrinen (lihasharjoittelussa) sellainen, jossa lihaksen pituus ei muutu supistuksen aikana, staattinen
+isoton	N	isotoninen  liuos, jolla on sama osmoottinen vahvuus kuin vertailtavalla liuoksella
+jejunostomi	N	ohutsuoleen asetettava ravitsemusavanne
+juvenil	N	nuorusikään liittyvä    juveniili
+kakeksi	N	kuihtuminen kakeksia
+kalium	N	kalium
+kalkgips	N	kalkkikipsi
+kalori	N	kalori
+kalsium	N	kalsium
+kalsiumstein	N	kalsiumkivi
+kapselendoskopi	N	kapselitähystys kapseliendoskopia
+karbohydrat	N	hiilihydraatti
+karskade	N	verisuonivaurio
+katabol	N	hajottava   katabolinen
+katarakt    grå stær	N	harmaakaihi katarakta
+kateter	N	katetri
+kateterisering	N	katetrointi
+keratitt    hornhinnebetennelse	N	sarveiskalvon tulehdus  keratiitti
+kirurgi	N	kirurgia
+kirurgisk	N	kirurginen
+kjemoterapi	N	kemoterapia sairauden, erityisesti syövän hoito kemiallisin menetelmin valmistetuin lääkeainein
+kjevegrep	N	leuan kohotus elvytystilanteessa    ???
 kjønnslemlestelse	N	
 kjønnsvorter	N	
 klimakteriet	N	
