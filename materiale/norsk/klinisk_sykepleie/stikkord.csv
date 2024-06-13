@@ -387,43 +387,43 @@ kirurgi	N	kirurgia
 kirurgisk	N	kirurginen
 kjemoterapi	N	kemoterapia sairauden, erityisesti syövän hoito kemiallisin menetelmin valmistetuin lääkeainein
 kjevegrep	N	leuan kohotus elvytystilanteessa    ???
-kjønnslemlestelse	N	
-kjønnsvorter	N	
-klimakteriet	N	
-kløe	N	
-kneprotese	N	
-köbnerfenomenet	N	
-koksartrose	N	
-kolangitt	N	
-kolecystektomi	N	
-kolecystitt	N	
-kolecystolitiasis	N	
-koledokolitiasis	N	
-kolelitiasis	N	
-kolitt	N	
-kolonreseksjon	N	
-koloskopi	N	
-kolostomi	N	
-kompartmentsyndrom	N	
-kompresjonsbehandling	N	
-kompresjonsbind	N	
-kompresjonsbrudd	N	
-kompresjonsstrømper	N	
-kondylomer	N	
-konjunktivitt	N	
-konsekvenser	N	
-kontakteksem	N	
-kontaktlinser	N	
-kontinent	N	
-kontrakturprofylakse	N	
-korsbåndskade	N	
-kost	N	
-kostplan	N	
-kostregistrering	N	
-kragebeinsbrudd	N	
-kramper	N	
-kraniefraktur	N	
-kraniotomi	N	
+kjønnslemlestelse	N	naisten sukupuolielinten silpominen
+kjønnsvorter	N	visvasyylä  kondylooma
+klimakterium	N	vaihdevuodet    menopaussi  klimakterium
+kløe	N	kutina  ???
+protese	N	tekoraaja, tekojäsen    tekoelin  proteesi
+köbnerfenomen	N	Köbnerin ilmiö
+koksartrose, slitasjegikt i hoften, artrose i hoften	N	
+kolangitt, betennelse i gallegangene	N	sappitietylehdus    kolangiitti
+kolecystektomi	N	lonkan nivelrikko   lonkan kuluma   lonkan artroosi
+kolecystitt, betennelse i galleblære	N	sappirakkotulehdus  kolekystiitti
+kolecystolitiasis, gallesteinssykdom	N	sappikivitauti
+koledokolitiasis	N	sapenjohtimen kivitauti
+kolelitiasis	N	sappikivitauti  kolelitiaasi
+ulcerøs kolitt	N	haavainen paksusuolen tulehdus  ulseratiivinen koliitti colitis ulcerosa, colitis ulcerativa
+kolonreseksjon	N	paksusuolen osapoisto
+koloskopi	N	paksusuolen tähytstys   kolonoskopia
+kolostomi	N	paksusuoliavanne    kolostomia
+kompartmentsyndrom, muskellosjesyndrom	N	lihasaitio-oireyhtymä
+kompresjonsbehandling	N	kompressiohoito
+kompresjonsbind	N	kompressioside
+kompresjonsbrudd	N	puristusmurtuma kompressiomurtuma
+kompresjonsstrømpe	N	kompressiosukka
+kondylom. kjønnsvorte	N	visvasyylä  kondylooma
+konjunktivitt, øyekatarr	N	sidekalvon tulehdus konjunktiviitti
+kontakteksem	N	kosketurihottuma    kosketusekseema
+kontaktlins	N	piilolinssi
+kontinent	N	maanosa manner  ???
+kontraktur	N	kutistuma   kontraktuura
+profylakse  N   ennaltaehkäisy  ennakkotorjunta profylaksia
+korsbåndskade	N	ristisidevamma
+kost	N	???
+kostplan	N	ravitsemussuunnitelma
+kostregistrering	N	ravitsemuksen kirjaus   ravitsemuksen kirjaaminen
+kragebeinsbrudd	N	solisluun murtuma
+krampe	N	???
+kraniefraktur, kraniebrudd	N	kallonmurtuma
+kraniotomi	N	kallonavausleikkaus kraniotomia
 kreft	N	
 kreftoverlever	N	
 krise	N	
