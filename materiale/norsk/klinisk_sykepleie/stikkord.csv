@@ -424,42 +424,35 @@ kragebeinsbrudd	N	solisluun murtuma
 krampe	N	???
 kraniefraktur, kraniebrudd	N	kallonmurtuma
 kraniotomi	N	kallonavausleikkaus kraniotomia
-kreft	N	
-kreftoverlever	N	
-krise	N	
-kronisk	N	
-kroniske	N	
-kroppsbilde	N	
-kroppslig	N	
-kroppslige	N	
-kroppsmasseindeks	N	
-kroppsvekt	N	
-krykker	N	
-kunstgips	N	
-kvadriplegi	N	
-kvalme	N	
-laktobakterier	N	
-lammelser	N	
-langsynthet	N	
-låramputasjon	N	
-lårbeinsbrudd	N	
-lårhalsbrudd	N	
-laserbehandling	N	
-lateralsklerose	N	
-lavt	N	
-leddgikt	N	
-leddsykdommer	N	
-leddvern	N	
-legemidler	N	
-leggamputasjon	N	
-leggbrudd	N	
-leggsår	N	
-levercirrhose	N	
-leverdialyse	N	
-leverfunksjon	N	
-leversvikt	N	
-levertransplantasjon	N	
-levodopa	N	
+kreft	N	syöpä
+kreftoverlever	N	syövästä selvinnyt
+krise	N	kriisi
+kronisk	N	krooninen   jatkuva
+kroppsbilde	N	kehonkuva
+kroppslig	N	ruumiillinen    kehollinen
+kroppsmasseindeks	N	painoindeksi
+kroppsvekt	N	kehon paino
+krykke	N	kyynärsauva    kainalosauva
+kvadriplegi	N	neliraajahalvaus, kaikkien raajojen halvaus    tetraplegia kvadriplegia (vanh.)
+kvalme	N	pahoinvointi    kuvotus
+laktobakterier	N	maitohappobakteeri
+lammelse	N	halvaus
+langsynthet	N	kaukonäköisyys
+låramputasjon	N	reisiamputaatio
+lårbeinsbrudd	N	reisiluunmurtuma
+lårhalsbrudd	N	reisiluun kaulan murtuma
+laserbehandling	N	laserhoitoa
+leddgikt	N	nivelreuma
+leddsykdom	N	nivelrairaus
+leddvern	N	niveliä säästävät työtavat  ???
+leggamputasjon	N	sääriamputaatio
+leggbrudd	N	säärimurtuma
+leggsår	N	säärihaava
+levercirrhose	N	maksakirroosi
+leverdialyse	N	maksadialyysi
+leverfunksjon	N	maksan toiminta
+leversvikt	N	maksan vajaatoiminta
+levertransplantasjon	N	maksan siirto
 lidelse	N	
 linseoperasjon	N	
 livmoren	N	
