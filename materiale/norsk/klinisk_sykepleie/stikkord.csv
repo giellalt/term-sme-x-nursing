@@ -453,52 +453,48 @@ leverdialyse	N	maksadialyysi
 leverfunksjon	N	maksan toiminta
 leversvikt	N	maksan vajaatoiminta
 levertransplantasjon	N	maksan siirto
-lidelse	N	
-linseoperasjon	N	
-livmoren	N	
-livmorhalskreft	N	
-livmorkreft	N	
-livskvalitet	N	
-logoped	N	
-lysbehandling	N	
-mage-tarm-kanalen	N	
-magesår	N	
-magnetisk	N	
-makronæringsstoffer	N	
-makuladegenerasjon	N	
-malabsorpsjon	N	
-malformasjon	N	
-malignt	N	
-manøver	N	
-matlyst	N	
-med	N	
-medisinsk	N	
-melena	N	
-melkesyrebakterier	N	
-meningeom	N	
-meningsrettet	N	
-meniskskade	N	
-menopausen	N	
-menoragi	N	
-menstruasjon	N	
-mestring	N	
-mestringsstrategier	N	
-mestringstro	N	
-metabolisme	N	
-metamorfopsier	N	
-metroragi	N	
-metthetsfølelse	N	
-midtstrømsprøve	N	
-mikrobølgetermoterapi	N	
-mikronæringsstoffer	N	
-miksjon	N	
-miksjonsliste	N	
-mobiliseringsregime	N	
-motorisk	N	
-mukositt	N	
-multippel	N	
-munnsårhet	N	
-munntørrhet	N	
+lidelse	N	vaiva   sairaus kärsimys
+linseoperasjon	N	linssileikkaus
+livmor	N	kohtu   uterus
+livmorhalskreft	N	kohdunkaulansyöpä
+livmorkreft	N	kohtusyöpä
+logoped	N	puheterapeutti  logopedi
+lysbehandling	N	valohoito
+mage-tarm-kanalen	N	maha- ja suolistokanava
+magesår	N	vatsahaava  mahahaava
+magnetisk	N	magneettinen
+makronæringsstoffer	N	makroravintoaineet
+makuladegenerasjon	N	makulan (ikä)rappeuma    makuladegeneraatio silmän tarkan näkemisen alueen rappeuma
+malabsorpsjon	N	imeytymishäiriö malabsorptio
+malformasjon	N	epämuodostuma
+malign	N	pahanlaatuinen
+manøver	N	veto, temppu    manøøveri   taisteluharjoitus, sotaharjoitus
+matlyst	N	ruokahalu
+medisinsk	N	lääketieteellinen   lääke-
+melena	N	 meleena    veriripuli  mustat veriulosteet
+melkesyrebakterie	N	maitohappobakteeri
+meningeom, hjernehinnesvulst	N	meningeooma aivokalvokasvain
+meningsrettet	N	???
+meniskskade	N	kierukkavamma   meniskivamma
+menopaus	N	menopaussi  kuukautisten lopullinen päättyminen
+menoragi	N	menorragia  voimakas, pitkittynyt kuukautisvuoto
+menstruasjon	N	kuukautiset menstuaatio
+mestringstro	N	selviytymisusko
+metabolisme	N	aineenvaihdunta metabolia
+metamorfopsi	N	metamorfopsia   suorien linjonen vääristymä
+metroragi	N	metrorragia epäsäännöllinen kuukautisvuoto
+metthetsfølelse	N	kylläisyyden tunne
+midtstrømsprøve	N	keskisuihkunäyte
+mikrobølgetermoterapi	N	mikroaaltotermoterapiam (TUMT)
+mikronæringsstoffer	N	mikroravintoaineet
+miksjon, vannlating	N	virtsaneritys   diureesi
+miksjonsliste, vannlatingsliste	N	virtsaamislista
+mobiliseringsregime	N	???
+motorisk	N	motorinen   motoriikkaa, liikettä, liikkumista koskeva
+mukositt	N	mukosiitti  suun limakalvon tulehdus
+multippel	N	multippeli  moninkertainen  kerrannainen
+munnsårhet, stomatitt	N	suutulehdus stomatiitti
+munntørrhet	N	suun kuivuus
 muskellosjesyndrom	N	
 muskelstivhet	N	
 myasten	N	
