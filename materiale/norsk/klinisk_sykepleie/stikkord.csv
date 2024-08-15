@@ -495,41 +495,36 @@ mukositt	N	mukosiitti  suun limakalvon tulehdus
 multippel	N	multippeli  moninkertainen  kerrannainen
 munnsårhet, stomatitt	N	suutulehdus stomatiitti
 munntørrhet	N	suun kuivuus
-muskellosjesyndrom	N	
-muskelstivhet	N	
-myasten	N	
-myasthenia	N	
-mykoser	N	
-myoma	N	
-myopi	N	
-nakkeskader	N	
-næringsdrikker	N	
-næringsstoffer	N	
-næringstilskudd	N	
-nærsynthet	N	
-nasoenteral	N	
-nasogastrisk	N	
-natrium	N	
-nedre	N	
-nedsatt	N	
-nefrolitiasis	N	
-neglekt	N	
-neglepsoriasis	N	
-neglesopp	N	
-nekrose	N	
-nerveskade	N	
-netthinneløsning	N	
-neutropen	N	
-nevrokirurgisk	N	
-nevrologisk	N	
-nevronavigasjon	N	
-nevropatisk	N	
-nippel	N	
-nødlegemidler	N	
-nukleusprolaps	N	
-nyrecellekreft	N	
-nyreerstattende	N	
-nyreskade	N	
+muskellosjesyndrom	N	lihasaitio-oireyhtymä
+muskelstivhet	N	lihasten jäykkyys
+myotoni, muskelstivhet  N   myotonia, synnynnäinen tila, jossa lihaksen rentoutuminen on hidastunut
+myasteni, muskelsvaghet	N	klihasten heikkous, myastenia
+myasthenia gravis	N	autoimmuunisairaus  myastenia gravis
+mykose, soppsykdom	N	mykoosi sienisairaus    sienitauti
+myom, leiomyom, muskelknute	N	hyvänlaatuinen lihaskasvain myooma
+myopi, nærsynthet	N	likitaittiosuus likinäköisyys   myopia
+nakkeskade	N	niskavamma
+næringsdrikke	N	ravintojuoma
+næringsstoff	N	ravintoaine
+næringstilskudd	N	ravintolisä
+nærsynthet, myopi	N	likitaittiosuus likinäköisyys   myopia
+nasoenteral	N	nenästä suolikanavaan, jejunumiin eli tyhjäsuoleen, menevä
+nasogastrisk	N	nenä-maha-
+nedsatt	N	alentunut, - komité asetettu komitea
+nefrolitiasis, nyrestein	N	munuaiskivitauti    virtsakivitauti
+neglekt	N	neglect puuttuva kyky havainnoida ärsykkeitä kehon jommaltakummalta puolelta
+neglepsoriasis	N	kynsipsoriasis
+neglesopp	N	kynsisieni
+nekrose	N	kuolio  nekroosi
+nerveskade	N	hermovaurio
+netthinneløsning	N	verkkokalvon irtauma    retina-ablaatio
+nøytropeni	N	jyvässolukato   agranulosytoosi   granulosytopenia, neutropenia
+nevrokirurgi	N   neurokirurgia   keskushermoston eli aivojen ja selkäytimen leikkaushoitoa	
+nevronavigasjon	N	neuronavigointi
+nevropatisk	N	neuropaattinen  ääreishermojen sairauteen liittyvä
+nukleusprolaps, skiveprolaps, diskusprolaps	N	välilevypullistuma  diskusprolapsi  selkärangan nikamavälilevyn esiinluiskahdus
+nyrecellekreft	N	munuaissyöpä
+nyreskade	N	munuaisvaurio
 nyrestein	N	
 nyresteinsanfall	N	
 nyresvikt	N	
