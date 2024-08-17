@@ -525,52 +525,43 @@ nevropatisk	N	neuropaattinen  ääreishermojen sairauteen liittyvä
 nukleusprolaps, skiveprolaps, diskusprolaps	N	välilevypullistuma  diskusprolapsi  selkärangan nikamavälilevyn esiinluiskahdus
 nyrecellekreft	N	munuaissyöpä
 nyreskade	N	munuaisvaurio
-nyrestein	N	
-nyresteinsanfall	N	
-nyresvikt	N	
-nyresykdom	N	
-obstipasjon	N	
-of	N	
-oftalmoskopi	N	
-og	N	
-olecranonfraktur	N	
-oliguri	N	
-omskjæring	N	
-omsorg	N	
-on-off-fenomenet	N	
-operasjon	N	
-oppkast	N	
-ortopediske	N	
-ortose	N	
-øsofagusvaricer	N	
-osteoporose	N	
-osteosyntesemateriale	N	
-osteotomi	N	
-ovariesyndrom	N	
-øvelser	N	
-overarmsbrudd	N	
-overførbare	N	
-overgrep	N	
-overhydrering	N	
-øvre	N	
-øye	N	
-øyebetennelser	N	
-øyedråper	N	
-øyeprotese	N	
-øyestell	N	
-øyesykdommer	N	
-øyet	N	
-pain	N	
-pakkeforløp	N	
-palliativ	N	
-palpasjon	N	
-pankreasduodenektomi	N	
-pankreasreseksjon	N	
-pankreatitt	N	
-papillomavirus-infeksjon	N	
-paracetamol	N	
-parafimose	N	
-parallelløft	N	
+nyrestein	N	munuaiskivi virtsatiekivi
+nyresteinsanfall	N	virtsakivikohtaus   munuaiskivikohtaus
+nyresvikt	N	munuaisten vajaatoiminta
+nyresykdom	N	munuaistauti
+obstipasjon	N	ummetus
+oftalmoskopi	N	silmäntähystys  oftalmoskopia   silmän sisäosien tutkiminen oftalmoskoopilla
+olecranonfraktur, albuebrudd	N	kyynärlisäkkeen murtuma
+oliguri	N	niukkavirtsaisuus   vähävirtsaisuus oliguria
+omskjæring	N	ympärileikkaus
+on-off-fenomenet	N	on-off-ilmiö
+operasjon	N	leikkaus    toimi, toimenpide   sotatoimi
+oppkast	N	oksennus
+ortopedia	N	tuki- ja liikuntaelinten kirurgia
+ortose	N	ortoosi ortopediassa käytettävä tukilaite tai tukisidos, joka säilyttää asennon ja ehkäisee tai oikaisee virheasentoja
+øsofagusvaricer	N	ruokatorven suonikohjut ruokatorven laskimolaajentumat  varices oesophagi
+osteoporose	N	luukato osteoporoosi    luun huokoistuminen ja haurastuminen
+osteosyntese	N	osteosynteesi
+osteotomi	N	luuleikkaus osteotomia
+polycystisk ovariesyndrom, PCOS	N	munasarjojen monirakkulaoireyhtymä, PCOS
+overarmsbrudd	N	olkavarren murtuma
+overførbar	N	siirrettävä 
+overgrep	N	kajoaminen  oikeudenloukkaus
+overhydrering	N	ylinesteytys
+øye	N	silmä
+øyebetennelse	N	silmätulehdus
+øyedråpe	N	silmätippa
+øyeprotese	N	silmäproteesi
+øyestell	N	silmien hoito
+øyesykdom	N	silmäsairaus
+pakkeforløp	N	potilaan polku
+palliativ	N	palliatiivinen  oireita lievittävä (hoito)
+palpasjon	N	palpaatio   tunnustelu
+reseksjon	N	resektio    poistaminen leikkaamalla
+pankreatitt, betennelse i bukspyttkjertelen	N	haimatulehdus   pankreatiitti
+papillomavirus-infeksjon	N	papilloomavirusinfektio HPV-infektio
+paracetamol	N	parasetamoli
+parafimose	N	terskan kurouma parafimoosi "espanjankaulus"
 paralytisk	N	
 paraplegi	N	
 parastomalt	N	
