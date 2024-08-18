@@ -562,40 +562,29 @@ pankreatitt, betennelse i bukspyttkjertelen	N	haimatulehdus   pankreatiitti
 papillomavirus-infeksjon	N	papilloomavirusinfektio HPV-infektio
 paracetamol	N	parasetamoli
 parafimose	N	terskan kurouma parafimoosi "espanjankaulus"
-paralytisk	N	
-paraplegi	N	
-parastomalt	N	
-parenteral	N	
-pareser	N	
-parkinsonisme	N	
-pasienter	N	
-pasientforening	N	
-pasienthistorie	N	
-pasientmedvirkning	N	
-pasientopplevelse	N	
-patellafraktur	N	
-pepticum	N	
-perforert	N	
-peritonealdialyse	N	
-peritonitt	N	
-perkusjon	N	
-perkutan	N	
-pinnestell	N	
-plakk	N	
-pollakisuri	N	
-polycystisk	N	
-popliteacyste	N	
-postoperativ	N	
-postrenal	N	
-premenstruell	N	
-preoperativ	N	
-prerenal	N	
-presbyopi	N	
-prikktest	N	
-problemfokusert	N	
-prodromer	N	
-prolaps	N	
-prostatahyperplasi	N	
+paralytisk	N	halvaannuttava  paralyyttinen
+paraplegi	N	alaraajahalvaus paraplegia
+parastomal	N	avanteen eli stooman yhteydessä ilmenevä turvotus tai pullistuma
+parese	N	osittaishalvaus lievä halvaus   pareesi
+patella, kneskål	N	polvilumpio patella
+peptisk	N	peptinen    ruuansulatukseen liittyvä; mahan (erityisesti suolahapon ja pepsiinin) eritykseen liittyvä
+perforasjon, gjennomhulling	N	lävistys    perforaatio
+peritonealdialyse, dialysebehandling gjennom bukhinnen	N	vatsakalvodialyysi  peritoneaalidialyysi
+peritonitt, bukhinnebetennelse	N	vatsakalvon tulehdus    peritoniitti
+perkusjon	N	koputtelu(tutkimu)  perkussio
+perkutan	N	ihon läpi tapahtuva transkutaaninen, transdermaalinen   perkutaaninen
+pinnestell	N	piikkijuuren hoito
+plakk	N	plakki
+pollakisuri	N	tiheävirtsaisuus    pollakisuria
+polycystisk	N	 monirakkulainen    polykystinen
+popliteacyste, Bakers cyste	N	popliteaalikysta    Bakerin kysta
+postrenal	N	postrenaalinen  virtsanjohtimien, virtsarakon ja virtsaputken sairauksiin liittyvä	
+prerenal	N	ennen munuaisia ilmenevä syy, esim. heikentyneeseen verenkiertoon munuaisissa liittyvä syy
+presbyopi	N	ikänäkö  presbyopia
+prikktest	N	ihopistokoe
+prodrom	N	esioire  ennakko-oire   prodromi
+prolaps	N	pullistuma  esiinluiskahtaminen prolapsi
+prostatahyperplasi	N	eturauhasen liikakasvu  prostatahyperplasia
 prostatakreft	N	
 prostataspesifikt	N	
 prostatektomi	N	
