@@ -585,63 +585,52 @@ prikktest	N	ihopistokoe
 prodrom	N	esioire  ennakko-oire   prodromi
 prolaps	N	pullistuma  esiinluiskahtaminen prolapsi
 prostatahyperplasi	N	eturauhasen liikakasvu  prostatahyperplasia
-prostatakreft	N	
-prostataspesifikt	N	
-prostatektomi	N	
-protein	N	
-proteser	N	
-provosert	N	
-psoriasis	N	
-psoriasis-artritt	N	
-psykologisk	N	
-pupillereaksjon	N	
-pyelonefritt	N	
-pylori	N	
-pyoderma	N	
-radiusfraktur	N	
-refeeding-syndrom	N	
-referred	N	
-reflekser	N	
-reflukssymptomer	N	
-rehabilitering	N	
-rektumamputasjon	N	
-remisjon	N	
-ren	N	
-renal	N	
-reponering	N	
-reproduktiv	N	
-reseksjon	N	
-resonans-kolangiopankreatikografi	N	
-resturin	N	
-retensjon	N	
-retinopati	N	
-retrograd	N	
-revmatisk	N	
-revmatoid	N	
-rigiditet	N	
-rosen	N	
-ryggbrudd	N	
-ryggmargsskade	N	
-samtykkekompetanse	N	
-sår	N	
-sårtilheling	N	
-se	N	
-seksualitet	N	
-seksuelle	N	
-seksuelt	N	
-selvbilde	N	
-selvkateterisering	N	
-senabort	N	
-sensibilitet	N	
-sensorisk	N	
-sexologisk	N	
-shunt	N	
-sigmoidostomi	N	
-sjokk	N	
-sjokknyre	N	
-sjokksyndrom	N	
-skade	N	
-skin	N	
+prostatakreft	N	eturauhassyöpä
+prostata	N	eturauhanen prostata
+prostatektomi	N	eturauhasen poistoleikkaus  prostatektomia
+protein	N	valkuaisaine    proteiini
+protese	N	tekoraaja, tekojäsen    tekoelin, keinotekoinen kehon osa   proteesi
+provosere	N	provosoida  yllättää
+psoriasis	N	hilsetystauti, hilsettymä   psori   psoriaasi
+pupillereaksjon	N	pupillireaktio, pupilliheijaste, pupillirefleksi    mustuaisrefleksi, mustuaisheijaste
+pyelonefritt	N	munuaistulehdus munuaisaltaan ja munuaisen tulehdus pyelonefriitti
+pylori	N	mahanportti
+pyoderma	N	märkivä ihoinfektio
+radius	N	, spoleben  N   värttinäluu
+refeeding-syndrom, reernæringssyndrom	N	refeeding-oireyhtymä
+refluks	N	takaisinvuoto   takaisinvirtaus refluksi
+rektum, endetarm	N	peräsuoli   rektum
+remisjon	N	(taudin) elpymisvaihe   elpymä remissio
+renal	N	munuaisiin liittyvä munuais-    renaalinen
+reponering	N	reponoiminen    murtuman tai sijoiltaanmenon paikalleen asettaminen ilman leikkausta
+reproduktiv	N	(lääk.) lisääntymis-    lisääntymiskykyinen
+reseksjon	N	poistaminen leikkaamalla
+resonans-kolangiopankreatikografi, MRCP	N	magneettikolangiografia magnetic resonance cholangiopancreatography MRCP
+resturin	N	jäännösvirtsa
+retensjon	N	kertyminen  pidättäminen, pidättyminen  retentio
+retinopati	N	verkkokalvon sairaus    retinopatia
+retrograd	N	taaksepäin ajassa suuntautuva   retrogradinen
+revmatisk	N	reumaattinen
+revmatoid	N	reumankaltainen reumatoidi  reumatoidinen
+rigiditet	N	jäykkyys    rigiditeetti
+rosen	N   ruusu   erysipelas  rasvakudokseen ulottuva ihon syvä streptokokin aiheuttama bakteeri-infektio
+ryggmargsskade	N	selkäydinvamma
+sår N   haava   kipeä   arka
+sårtilheling	N	haavan paraneminen
+seksualitet	N	sukupuolisuus   seksuaalisuus   seksualiteetti
+seksuelle	N	sukupuolinen    seksuaalinen
+selvbilde	N	minäkuva
+selvkateterisering	N	itsekatetrointi
+senabort	N	myöhäinen raskaudenkeskeytys
+sensibilitet	N	herkkyys
+sensorisk	N	aistilähtöinen, aistimuksellinen, aisteja koskeva   aisti-  sensorinen
+seksologi   N   seksologia  seksuaalisuutta tutkiva tieteenala  
+sexologisk	N	seksologinen
+shunt	N	yhdystie    yhdyshaara  suntti
+sigmoidostomi	N	paksusuolen loppuosaan, sigmasuoleen, tehty avanne
+sjokk	N	sokki
+sjokknyre	N	akuutti munuaisvaurio
+sjokksyndrom	N	sokkioireyhtymä
 skjelettmetastaser	N	
 skjelving	N	
 skjev	N	
