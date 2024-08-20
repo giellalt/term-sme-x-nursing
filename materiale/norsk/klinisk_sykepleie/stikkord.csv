@@ -596,7 +596,7 @@ pupillereaksjon	N	pupillireaktio, pupilliheijaste, pupillirefleksi    mustuaisre
 pyelonefritt	N	munuaistulehdus munuaisaltaan ja munuaisen tulehdus pyelonefriitti
 pylori	N	mahanportti
 pyoderma	N	märkivä ihoinfektio
-radius	N	, spoleben  N   värttinäluu
+radius, spoleben  N   värttinäluu
 refeeding-syndrom, reernæringssyndrom	N	refeeding-oireyhtymä
 refluks	N	takaisinvuoto   takaisinvirtaus refluksi
 rektum, endetarm	N	peräsuoli   rektum
@@ -631,48 +631,45 @@ sigmoidostomi	N	paksusuolen loppuosaan, sigmasuoleen, tehty avanne
 sjokk	N	sokki
 sjokknyre	N	akuutti munuaisvaurio
 sjokksyndrom	N	sokkioireyhtymä
-skjelettmetastaser	N	
-skjelving	N	
-skjev	N	
-sklerose	N	
-skumbandasje	N	
-slag	N	
-slitasjegikt	N	
-smerte	N	
-smerter	N	
-sonde	N	
-sondeernæring	N	
-sondeløsninger	N	
-sondetyper	N	
-soppinfeksjon	N	
-spasmer	N	
-spastisitet	N	
-spenning	N	
-spesialkost	N	
-spinalt	N	
-spondylitt	N	
-spontanabort	N	
-språk	N	
-stær	N	
-stase-eksem	N	
-status	N	
-steatoré	N	
-steinsykdom	N	
-stiks	N	
-stivhet	N	
-stomi	N	
-støtte	N	
-strålebehandling	N	
-stress	N	
-strimmelprøve	N	
-subaraknoidalblødning	N	
-subduralt	N	
-subkonjunktival	N	
-sult	N	
-superabsorberende	N	
-suprapubisk	N	
-svaksynt	N	
-svangerskap	N	
+skjelettmetastaser	N	luustoetäpesäke luustometastaasi
+skjelving	N	tärinä  vapina
+skjev	N	vino, viisto    kiero
+skeiv   N   muntlig beruset homofil
+sklerose	N	kovettuma   kudoksen kovettuminen   skleroosi
+skumbandasje	N	vaahtomuovinen side vaahtosidos
+slag	N	isku, lyönti, taistelu  halvaus laji
+slitasjegikt, artrose	N	nivelrikko  artroosi
+smerte	N	kipu    tuska
+sonde	N	luotain, tutkain    koetin sondi
+sondeernæring	N	letkuravitsemus
+sondeløsning	N	letkuravintovalmiste
+soppinfeksjon	N	sieni-infektio
+spasme	N	kouristus   spasmi
+spastisitet	N	spastisuus, spastisiteetti  jäykkähalvaus, (jousto)kankeus, (lihas)jäykkyys kouristuksellisuus
+spenning	N	jännitys    jännite
+spesialkost	N	erikoisruokavalio
+spinal	N	kärki-  selkäranka- selkäydin-
+spondylitt	N	nikamatulehdus
+spontanabort	N	spontaani keskenmeno
+stær	N	kottarainen kaihi
+staseeksem, stasedermatitt	N	paineesta johtuva ihotulehdus   paineesta johtuva dermatiitti
+status	N	tila    asema   status
+steatoré	N	rasvaripuli steatorrea
+steinsykdom	N	virtsakivitauti
+stiks	N	reagenssiliuska
+stivhet	N	jäykkyys    kankeus
+støtte	N	tuki    muistomerkki    tukea
+strålebehandling	N	sädehoito
+stress	N	rasitus stressi paine
+strimmelprøve	N	liuskakoe
+subaraknoidal	N	lukinkalvon alainen
+subdural	N	kovakalvon alainen  subduraalinen
+subkonjunktival	N	sidekalvon alainen
+sult	N	nälkä
+absorbere	N	imeä itseensä   absorboida
+suprapubisk	N	suprapubinen    vatsanpeitteiden läpi laitettava
+svaksynt	N	heikkonäköinen  huononäköinen
+svangerskap	N	raskaus
 svangerskapsavbrudd	N	
 svangerskapskvalme	N	
 svelgevansker	N	
