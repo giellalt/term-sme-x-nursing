@@ -12,19 +12,19 @@ angstlidelse					ahdistuneisuushäiriö			áŧestusdávda	áŧestusdávda	fuolas
 angstsymptom	áŧestussymptoma	áŧestusdávdamearka			ahdistusoire	áŧestussymptoma		áŧestussymptoma	áŧestusdávda	fuolastumi dávdamearka	fuolastuhtti dávdamearka
 snevring					ahtauma	kurouma	baskkádat	gáržžideapmi	áŧestus	hedjonan	váttisvuohta
 obstruksjonsgrad					ahtauman aste	baskkádaga #ráđđa		ceahkkálas standárda	geahnohis dássi	hehttehusa dássi	stenosa dássi
-aids					AIDS			aids	AIDS	hehttehus	čoahkkanan
-tidsorientering					aikaan orientoituminen	áigái 		áigeáddejupmi	áiggi orientearašuvdna	AIDS	AIDS
-tidspress					aikapaine	áigedeaddu		deaddu áiggis	deaddu áiggis	áigeorienteren	orienteren áigái
-tidsdimensjon					aikaulottuvuus	áigeolli		áigedimenšuvdna	áigedimenšuvdna	áigepreassa	áigepreassa
-metabolisme	ávnnasmolsašuvvan				aineenvaihdunta	metabolia	#ávnnasmolsašuvvan	metabolisma	ávnnaslotnolasvuohta	áigedimenšuvdna	áigedimenšuvdna
+aids					AIDS			aids	AIDS	AIDS	AIDS
+tidsorientering					aikaan orientoituminen	áigái 		áigeáddejupmi	áiggi orientearašuvdna	áigeorienteren	orienteren áigái
+tidspress					aikapaine	áigedeaddu		deaddu áiggis	deaddu áiggis	áigepreassa	áigepreassa
+tidsdimensjon					aikaulottuvuus	áigeolli		áigedimenšuvdna	áigedimenšuvdna	áigedimenšuvdna	áigedimenšuvdna
+metabolisme	ávnnasmolsašuvvan				aineenvaihdunta	metabolia	#ávnnasmolsašuvvan	metabolisma	ávnnaslotnolasvuohta	metabolisma	metabolisma
 stoffomsetning	ávnnasmolsašuvvan				aineenvaihdunta	#ávnnasmolsašuvvan		ávnnasjohtu	ávnnaslotnolasvuohta	metabolisma	metabolisma
-stoffskifteprosess	ávnnasmolsašuvvanproseassa				aineenvaihduntaprosessi	#ávnnasmolsašuvvanproseassa		ávnnasmolsašuddama proseassa	ávnnasmolsašuddanproseassa	metabolisma	metabolisma
-stoffskiftesykdom	ávnnasmolsašuvvanbuohcu				aineenvaihduntasairaus	#ávnnasmolsašuvvanbuohcu		ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	metabolalaš proseassa	metabolalaš proseassa
-stoffskiftesykdom	ávnnasmolsašuvvanbuohcu				aineenvaihduntasairaus		#ávnnasmolsašuvvanbuohcu	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	metabolalaš dávda	metabolalaš dávda
-sansning					aistiminen	tuntemus		vuohttimis	dovdamuš	hallusinašuvdna	hallusinašuvdna
-sansehage					aistipuutarha	dovddagárdin		áiccangárdi	áiccangárdi	dovdu	dovdu
-hjernebølge	vuoiŋŋašbárru				aivoaalto	vuoiŋŋašbárru		vuoiŋŋašbávččas	vuoiŋŋašváldin	áddejupmegárdi	áddejupmegárdi
-hjerneaktivitet	vuoiŋŋašaktivitehta				aivoaktiviteetti	vuoiŋŋašbuđaldeapmi		vuoiŋŋamaččaid aktivitehta	vuoiŋŋašaktivitehta	oaiveskálžžu	oaiveskálžžu
+stoffskifteprosess	ávnnasmolsašuvvanproseassa				aineenvaihduntaprosessi	#ávnnasmolsašuvvanproseassa		ávnnasmolsašuddama proseassa	ávnnasmolsašuddanproseassa	metabolalaš proseassa	metabolalaš proseassa
+stoffskiftesykdom	ávnnasmolsašuvvanbuohcu				aineenvaihduntasairaus	#ávnnasmolsašuvvanbuohcu		ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	metabolalaš dávda	metabolalaš dávda
+stoffskiftesykdom	ávnnasmolsašuvvanbuohcu				aineenvaihduntasairaus		#ávnnasmolsašuvvanbuohcu	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	hallusinašuvdna	hallusinašuvdna
+sansning					aistiminen	tuntemus		vuohttimis	dovdamuš	dovdu	dovdu
+sansehage					aistipuutarha	dovddagárdin		áiccangárdi	áiccangárdi	áddejupmegárdi	áddejupmegárdi
+hjernebølge	vuoiŋŋašbárru				aivoaalto	vuoiŋŋašbárru		vuoiŋŋašbávččas	vuoiŋŋašváldin		
+hjerneaktivitet	vuoiŋŋašaktivitehta				aivoaktiviteetti	vuoiŋŋašbuđaldeapmi		vuoiŋŋamaččaid aktivitehta	vuoiŋŋašaktivitehta		
 slagpasient	vuoiŋŋašgáldnanbuohcci				aivohalvauspotilas	#vuoigŋašat#ravkin#buohcci		čuolmmastuhttin	vuoiŋŋašdohppe	strokepasieanta	strokepasieanta
 hjernesvulst	vuoiŋŋaššattalmas				aivokasvain	vuoiŋŋašguorti kasvain šattalmas		vuoiŋŋašdávda	vuoiŋŋaššattalmas	oaiveskálžžu doaibma	oaiveskálžžu doaimmat
 hjernehalvdel	vuoiŋŋašbealli				aivopuolisko	vuoiŋŋašbealli		vuoiŋŋašspiehkastat	vuoiŋŋašbealli	oaiveskálžžu bealli	oaiveskálžžu bealli
@@ -45,7 +45,7 @@ aktivitetsmulighet					aktiviteettimahdollisuus			doaibmanvejolašvuohta	aktivit
 aktivitetsplan					aktiviteettisuunnitelma			doaibmaplána	aktivitehtaplána	doaibmaplána	doaibmaplána
 aktivitetsmønster					aktiviteettitapa			doaibmanminsttar	aktivitehttavuohki		
 aktivitetstiltak					aktiviteettitoimenpide aktiviteettikeino			aktivitehtadoaibmabijut	aktivitehtadoaibmabidju aktivitehtadoaibma		
-akupunktur					akupunktio      akupunktuvra  akupunkšuvdna		
+akupunktur					akupunktio      akupunktuvra  akupunkšuvdna						
 MONA-behandling	MONA-dikšu				akuutissa sydänkohtauksessa käytettävä hoito, morfiini, happi, nitroglyseriini, asetyylisalisyylihappo			MONA-dikšun	dikšun mii geavahuvvo fáhkka váibmoáhpuin, morfiidna, oksygen, nitrogliceridna, acetylsalicylsyra		
 underlivvask					alapesu	suorgebassan		vuolledábiid bassan	vuolit gákti		
 albumin					albumiini	álbumasan		skearru	albuma		
@@ -211,7 +211,7 @@ ereksjonsproblem	erekšuvdnaproblema				erektio-ongelma	erekšuvdnaproblema		ere
 ereksjonsevne					erektiokyky	erekšuvdnagálga		erekšuvdnadássi	ceagginnávccat		
 ereksjonspumpe					erektiopumppu	erekšuvdnapumpa		erekšuvdnapumpa	erekšunbumpa		
 spesialseng	spesiálaseaŋga				erikoissänky			erenoamáš seaŋga	erenoamáš seaŋga		
-spesialistgodkjenning	sierraneami dohkkeheapmi		spesialiseren dohkkeheapmi		erikoistumisen hyväksyntä	sierraneami dohkkeheapmi		spesialistaguorahallan	spesialiseren dohkkeheapmi		
+spesialistgodkjenning	sierraneami dohkkeheapmi		spesialiserendohkkeheapmi		erikoistumisen hyväksyntä	sierraneami dohkkeheapmi		spesialistaguorahallan	spesialiseren dohkkeheapmi		
 LIS-lege			doavttir spesialistaoahpahusas 		erikoistuva lääkäri	*erikoistuva doavttir		LIS-doavttir	spesialista doavttir		
 sekresjonsmengde	vuhčos mearri				eritteen määrä	#čuolddašupmi #mearri		sekšuvdnadássi	ekskreantamearri		
 eliminasjon	vuohčun				eritys	vuohčun		heaittiheapmi	erekšon		
@@ -219,7 +219,7 @@ foldtykkelse					esim. niskapoimun paksuus	*esim. *niskapoimun assodat		čihkoju
 eksempellæring			ovdamearkkaoahppu		esimerkin avulla oppiminen	eksempela veahkis oahppat		ovdamearkkaoahppu	oahppat ovdamearkkaid bokte		
 helsehistorie	dearvvašvuođahistorjá		dearvvašvuođadiehtu 		esitiedot anamneesi  terveydenhuollon historia 	*esitiedot *anamneesi  healssadikšuma historjá 		dearvvašvuođahistorjá	ovdadieđut anakeahta dearvvašvuođafuolahusa historjjás		
 anamneseskjema	ovdadiehtoskovvi				esitietolomake			lea jeagelskovvi	ovdadiehtovuorká		
-forforståelse	ovdaáddejupmi		ipmárdus 		esiymmärrys			ovdaáddejupmi	ovdaáddejupmi		
+forforståelse	ovdaáddejupmi		ovdaipmárdus 		esiymmärrys			ovdaáddejupmi	ovdaáddejupmi		
 hemning	caggaseapmi				esto	caggaseapmi		hehttehussan	eastta		
 østrogen	estrogena				estrogeeni	østrogena		estrogena	estrogena		
 østrogentilskudd	estrogenalassi				estrogeenilisä	østrogenalassi		østrogenttilskudd	østrogena lasáhus		
@@ -228,7 +228,7 @@ hemning	caggaseapmi				esto	caggaseapmi		hehttehussan	eastta
 østrogenfall	estrogenadási geahpádus				estrogeenitason lasku	østrogenadási rehket		estrogena vuosttaldeapmi	østrogena njiedjan		
 østrogenmangel	estrogenavátni				estrogeenivaje			estrogena váilivuohta	eastrogena vátni		
 prostatakjertel	ovdaráksá		ovdaráksá		eturauhanen	ávkeráksá		ovdaráksá raksa	ovdaraksa		
-prostataoperasjon	ovdarávssáčuohpahus		ovdarávssá čuohpahus 		eturauhasleikkaus			ovdaráksakirurgiija	ovdaráksá čuohpadeapmi		
+prostataoperasjon	ovdarávssáčuohpahus		ovdarávssáčuohpahus 		eturauhasleikkaus			ovdaráksakirurgiija	ovdaráksá čuohpadeapmi		
 prostatabesvær	ovdarávssáváivi		ovdaráksá váttut 		eturauhasvaiva			ovdaráksáshkka	ovdaráksáváivvit		
 EU-direktiv	EU-direktiiva				EU-direktiivi			EU:a direktiiva	EU-direktiiva		
 evidens	duođaštus				evidenssi	näyttö		duođalaš	vuolláneapmi		
@@ -281,13 +281,13 @@ oksygentransport	oksygena fievrredeapmi		oksygenafievrrideapmi		hapenkuljetus	ok
 oksygenopptak	oksygenaváldin		oksygenavuostáiváldin	oksygenváldin	hapenotto	#oksygena#váldin		oksygenavuostáiváldin	oksygenváldin		
 oksygenbehov	oksygenadárbu		oksygenadárbu		hapentarve	oksygenadárbu		oksygenadárbu	oksygenadárbu		
 surhetsgrad	suvrodatdássi		suvredássi 		happamuusaste			surgadis dássi	happedássi		
-oksygenbehandling	oksygenadikšu		dikšun oksygenadikšon  		happihoito	oksygenadikšu		dikšun oksygena bakte	oksygenadutkan		
+oksygenbehandling	oksygenadikšu		oksygenadikšon  		happihoito	oksygenadikšu		dikšun oksygena bakte	oksygenadutkan		
 oksygenterapi	oksygenadikšu		oksygenadikšu		happihoito		oksygenadikšu	oksygenterapiija	oksygenadutkan		
 oksygenutstyr	oksygenarusttet		oksygenarusttet		happilaite	oksygenarusttet		oksygenrusttet	happinrusttegat		
 surstoffapparat	oksygenarusttet		suvreáhparáhttá		happilaite	oksygenarusttet		happivuođarusttegat	happinrusttegat		
 oksygeninnhold	oksygenadoallu		oksygenasisdoallu		happipitoisuus	oksygenasisdoallu		oksygenasealli	happisvuohta		
 oksygennivå	oksygenadássi		oksygenadássi		happitaso	oksygenadássi		oksygenadássi	happodatdássi		
-oksygensbrille	oksygenasepmonat		Oxygena-čalbmeglása		happiviikset	oksygenaskávžžát		Oxygena-čalbmeglása	happivuohta		
+oksygensbrille	oksygenasepmonat		oksygena-čalbmeglása		happiviikset	oksygenaskávžžát		Oxygena-čalbmeglása	happivuohta		
 syreangrep	sivrefalleheapmi		suvredohppeheapmi 		happohyökkäys	suvrefalleheapmi		suvrra arvi	happirihkkun		
 syrekapp	suvrelihpar				happovaippa	suvrelihpar		suvrra gahpir	happisuvdna		
 syrekappe	suvrelihpar				happovaippa	suvrelihpar		suddadanbivttas	happisuvdna		
@@ -311,15 +311,15 @@ respirasjonsbesvær	vuoigŋama áŧestus	lahpastuvvan			hengenahdistus	dyspnea, 
 respirasjonsstatus	vuoigŋama klinihkalaš stáhtus				hengityksen kliininen status	vuoigŋama #klinihkalaš stáhtus		vuoiŋŋastanstáhtus	vuoiŋŋasteami klinihkalaš stahtus		
 respirasjonsdybde	vuoigŋama čikŋodat				hengityksen syvyys	vuoigŋama čikŋodat		vuoiŋŋahaga čiekŋalisvuohta	vuoiŋŋasteapmi		
 respirasjon	vuoigŋan				hengitys	vuoigŋan		vuoiŋŋasteapmi	vuoigŋan		
-respirasjon	vuoigŋan		spesialiseren dohkkeheapmi		hengitys	respiraatio	vuoigŋan	vuoiŋŋasteapmi	vuoigŋan		
-pusting	vuoigŋan		doavttir spesialistaoahpahusas 		hengitys  hengittäminen	vuoigŋan  sahkat		vuoiŋŋasteapmi	vuoigŋa		
+respirasjon	vuoigŋan				hengitys	respiraatio	vuoigŋan	vuoiŋŋasteapmi	vuoigŋan		
+pusting	vuoigŋan				hengitys  hengittäminen	vuoigŋan  sahkat		vuoiŋŋasteapmi	vuoigŋa		
 respirasjonsorgan	vuoigŋanorgánat				hengityselimet	vuoigŋanorgánat		vuoiŋŋahatorgána	vuoiŋŋahatorgánat		
 luftveissykdom	vuoigŋanorgánadávda				hengityselinsairaus	vuoigŋanorgánabuohcu		vuoiŋŋahatdávda	vuoiŋŋašdávda		
 respirasjonsforstyrrelse	vuoigŋanhehttehus				hengityshäiriö	vuoigŋansegohus		vuoiŋŋahatváttut	vuoigŋanváddu		
-respirasjonssystem	vuoigŋanvuogádat		ovdamearkkaoahppu		hengitysjärjestelmä	vuoigŋanvuogádat		vuoiŋŋahaga vuogádat	vuoigŋanvuohki		
-respirasjonssenter	vuoigŋanguovddáš		dearvvašvuođadiehtu 		hengityskeskus	#vuoigŋan#guovddaš		vuoiŋŋahanguovddáš	vuoiŋŋadusguovddáš		
+respirasjonssystem	vuoigŋanvuogádat				hengitysjärjestelmä	vuoigŋanvuogádat		vuoiŋŋahaga vuogádat	vuoigŋanvuohki		
+respirasjonssenter	vuoigŋanguovddáš				hengityskeskus	#vuoigŋan#guovddaš		vuoiŋŋahanguovddáš	vuoiŋŋadusguovddáš		
 respiratorpasient	vuoigŋanmašiidnabuohcci	vuoigŋŋahatmašiidnabuohcci			hengityskonepotilas	#vuoigŋan#mašiidna#buohcci		vuoiŋŋahatvigi	vuoiŋŋahatdávda		
-respirasjonsmuskulatur	vuoigŋanoažži	vuoigŋandeahkit	ipmárdus 		hengityslihaksisto			vuoiŋŋahatmuskulatuvra	vuoiŋŋahatlaš lihkastagat		
+respirasjonsmuskulatur	vuoigŋanoažži	vuoigŋandeahkit			hengityslihaksisto			vuoiŋŋahatmuskulatuvra	vuoiŋŋahatlaš lihkastagat		
 respirasjonsmuskel	vuoigŋanoažži				hengityslihas	vuoigŋanoažži		vuoiŋŋahatmusihkka	vuoiŋŋahatluohti		
 respirasjonsbevegelse	vuoigŋanlihkadus				hengitysliike	vuoigŋangávpi		vuoiŋŋahatlihkadus	vuoigŋanlihkadus		
 respirasjonsproblem	vuoigŋančuolbma	vuoigŋanproblema			hengitysongelma	vuoigŋanproblema		vuoiŋŋahatváttisvuohta	vuoigŋanváttisvuohta		
@@ -327,8 +327,8 @@ respirasjonsstans		onko oikea suomenkielinen sana			hengityspysähdys, hengitysl
 respirasjonsrytme	vuoigŋanritma				hengitysrytmi	vuoigŋanritma		vuoiŋŋasteapmi	vuoigŋanvuohki		
 respirasjonssyklus	vuoigŋanbirrajohtu				hengityssykli			vuoiŋŋahatdássi	vuoiŋŋasteapmi		
 respirasjonsfrekvens					hengitystaajuus	vuoigŋandávjodat		vuoiŋŋahatdássi	vuoigŋanluođđa		
-respirasjonsmønster	vuoigŋandáhpi		ovdaráksá		hengitystapa	vuoigŋandáhpi		vuoiŋŋahatminsttar	vuoigŋanvuohki		
-respirasjonsfrekvens			ovdarávssá čuohpahus 		hengitystiheys	#vuoiŋandávjodat		vuoiŋŋahatdássi	vuoiŋŋahatdávda		
+respirasjonsmønster	vuoigŋandáhpi				hengitystapa	vuoigŋandáhpi		vuoiŋŋahatminsttar	vuoigŋanvuohki		
+respirasjonsfrekvens					hengitystiheys	#vuoiŋandávjodat		vuoiŋŋahatdássi	vuoiŋŋahatdávda		
 respirasjonsstøtte	vuoigŋandoarjja		ovdaráksá váttut 		hengitystuki	vuoigŋanduvdda		vuoiŋŋahat doarjja	vuoiŋŋahatvuođđu		
 respirasjonsarbeid	vuoigŋanbargu				hengitystyö	vuoigŋanbargu		vuoiŋŋahatbargu	vuoigŋanbargu		
 personopplysning	olmmošdiehtu	heaggadiehtu			henkilötieto	olmmošdiehtu		persuvdnadieđut	persuvdnadieđut		
@@ -337,7 +337,7 @@ sensitivitet	hearkivuohta				herkkyys	hearkivuohta		hearkkesvuohta	hearkkesvuoht
 nerveimpuls	nearvaimpulsa				hermoimpulssi	#nervaimpulsa		nervaimpulssa	nervaimpulssa		
 nervebane	nearvaluodda	nearvageainnus			hermorata	#nervaluodda		nervobáddi	nervováikkuhus		
 ryggmargsbrokk					hermostoputken sulkeutumishäiriö  meningomyeloseele	MMC 	nearvafierbmebohcci *sulkeutumishäiriö  	čielgemáddodatbávččas	meningomyelosealla sivva, nervaceal giddennávccaid váddu		
-hg			rumaš guoskkahallan 	rumaš guoskkan 	hg	hektogramma		hg	hg		
+hg				rumaš guoskkan 	hg	hektogramma		hg	hg		
 massasje	ruvven				hieronta	#massáša		mássa	mássaeapmi		
 massasjestav	ruvvensoabbi				hierontasauva	#massášasoabbi		mássaviežžanstággu	mássaviežžahat		
 karbondioksid	čitnadioksiida				hiilidioksidi	hilladioksiida		karbondioksiida	riššadioksiida		
@@ -345,105 +345,105 @@ CO2-narkose	CO2-narkosa				hiilidioksidinarkoosi	#hilla#dioksiida#narkosa		CO2-n
 karbondioksidinnhold	čitnadioksiidadoallu				hiilidioksidipitoisuus	hilladioksiidasisdoallu		karbondioksiida	čáhppesmurjen		
 karbondioksidnivå	čitnadioksiidadássi				hiilidioksiditaso	hilladioksiidadássi		karbondioksiidadássi	čáhppesmurrii gullevaš		
 kullsyre	čitnasivra	čađđasivra			hiilihappo	hillasuvri		giehtahápmi	čáhppesmurjen		
-kullsyrevann	čitnasivračáhci		hávvedivššu bagadallan		hiilihappovesi	hillasuvrečáhci		čáhppesmurjenčáhci	karbonávnnas čáhci		
-karbohydratinntak	čitnahydráhta oažžun		hávi árvvoštallan 		hiilihydraatien saanti	*hiilihydraatien oažžun		karbohydratesisdoallu	čáhppesmurjjiid oažžun		
-hydrokarbonkjede	čitnačázaviđji		hávi álgu 		hiilivetyketju	hillačázaviđji		hydrocarbohydratesollisvuohta	čáhppesmurjenláhki		
-svettetokt	bivastuvvanvuohkku	bivastuvvandohppehallan	hávi buorráneapmi 		hikoilukohtaus			vuigadis ášši	vuoigŋanbáiki		
-operasjonshette	vuoktasuodji		hávvevuođđu 		hiussuojus 			čuohpahusgávpi	suodji		
-hårvekst	vuovttaid šaddu guolggaid šaddu		hávveravda 		hiusten kasvu  karvojen kasvu	vuovttaid šaddu  guolggaid šaddu		vuovdešaddu	čivga mii šaddá go gállu šaddá		
+kullsyrevann	čitnasivračáhci				hiilihappovesi	hillasuvrečáhci		čáhppesmurjenčáhci	karbonávnnas čáhci		
+karbohydratinntak	čitnahydráhta oažžun				hiilihydraatien saanti	*hiilihydraatien oažžun		karbohydratesisdoallu	čáhppesmurjjiid oažžun		
+hydrokarbonkjede	čitnačázaviđji				hiilivetyketju	hillačázaviđji		hydrocarbohydratesollisvuohta	čáhppesmurjenláhki		
+svettetokt	bivastuvvanvuohkku	bivastuvvandohppehallan			hikoilukohtaus			vuigadis ášši	vuoigŋanbáiki		
+operasjonshette	vuoktasuodji				hiussuojus 			čuohpahusgávpi	suodji		
+hårvekst	vuovttaid šaddu guolggaid šaddu				hiusten kasvu  karvojen kasvu	vuovttaid šaddu  guolggaid šaddu		vuovdešaddu	čivga mii šaddá go gállu šaddá		
 håravfall		luovvanit			hiustenlähtö  hiuskato	vuovttaidvuolgga vuoktavátnun  		vuovssadeamit	vuovssadeapmi		
-hårvaskhette	vuovttaidbassangahpir		hávvedivššu bagadallan 		hiustenpesumyssy	vuovttaidbassangahpir		vuovssadanbivttas	vuovssadeamit		
-sporstoff	vátneávnnas		hávvedikšun 		hivenaine	#binnánašávnnas		luoddaávdnasat	hivvodat		
+hårvaskhette	vuovttaidbassangahpir				hiustenpesumyssy	vuovttaidbassangahpir		vuovssadanbivttas	vuovssadeamit		
+sporstoff	vátneávnnas				hivenaine	#binnánašávnnas		luoddaávdnasat	hivvodat		
 omsorgsutøver	divššuaddi				hoidon antaja	divššu #addi		fuolaheaddji	dikšoaddi		
 behandlingssvikt	divššu eahpelihkostupmi				hoidon epäonnistuminen	divššu eahpelihkostuvvat		dikšunmeattáhus	dikšunváttisvuohta		
-omsorgsbegrep	divššu doapa		hávvedikšun 		hoidon käsite	divššu doaba		fuolahusdoaba	divššu doaba		
+omsorgsbegrep	divššu doapa				hoidon käsite	divššu doaba		fuolahusdoaba	divššu doaba		
 behandlingskvalitet	divššu dássi				hoidon laatu	divššu dássu		dikšunkvalitehta	dikšuma kvalitehta		
-omsorgsdepartement		norjalainen titteli?	sidjon hávvi 		hoidon ministeriö (NO)	divššu ministeriija		fuolahusdepartemeanta	dearvvašvuođa ministeriija		
-behandlingsopplegg	divššu plána		hávvemálle 		hoitosuunnitelma	divššu plána		dikšunskovvi	divššu plána		
-behandlingsplan	divššu plána		lievlla 		hoitosuunnitelma	divššu plána		dikšunplána	divššu plána		
-behandlingsregime	divššu plána		lievlla liekkas 		hoitosuunnitelma	divššu plána		dikšunvuohki	divššu plána		
-kartleggingssamtale	divššu dárbbu árvvoštallan ságastallan		haksinguovddáš 		hoidon tarpeen arviointikeskustelu	divššu dárbbu evaluerengulahallan		kártenságastallan	dikšundárbbu árvvoštallan ságastallan		
-sykepleieresultat	divššu boađus		haksinváddu 		hoidon tulos	divššu boađus		buohccidivššárboađus	divššu boađus		
-sykepleiebehov	dikšundárbu	dikšodarbu	luoddaneapmi 		hoidontarve	divššodárbu		buohccedikšundárbu	dikšundárbu		
-omsorgsgiver			hálddašankursa 		hoitava henkilö	#hoitát olmmoš		fuolaheaddji	lea divššohas		
-pleiemiddel	dikšunávnnas		hálddašangealbu 		hoitoaine	dikšoávnnas		dikšunávnnas	dálkkas		
+omsorgsdepartement		norjalainen titteli?			hoidon ministeriö (NO)	divššu ministeriija		fuolahusdepartemeanta	dearvvašvuođa ministeriija		
+behandlingsopplegg	divššu plána				hoitosuunnitelma	divššu plána		dikšunskovvi	divššu plána		
+behandlingsplan	divššu plána				hoitosuunnitelma	divššu plána		dikšunplána	divššu plána		
+behandlingsregime	divššu plána				hoitosuunnitelma	divššu plána		dikšunvuohki	divššu plána		
+kartleggingssamtale	divššu dárbbu árvvoštallan ságastallan				hoidon tarpeen arviointikeskustelu	divššu dárbbu evaluerengulahallan		kártenságastallan	dikšundárbbu árvvoštallan ságastallan		
+sykepleieresultat	divššu boađus				hoidon tulos	divššu boađus		buohccidivššárboađus	divššu boađus		
+sykepleiebehov	dikšundárbu	dikšodarbu			hoidontarve	divššodárbu		buohccedikšundárbu	dikšundárbu		
+omsorgsgiver					hoitava henkilö	#hoitát olmmoš		fuolaheaddji	lea divššohas		
+pleiemiddel	dikšunávnnas				hoitoaine	dikšoávnnas		dikšunávnnas	dálkkas		
 pleieassistent	dikšunveahkki				hoitoapulainen	dikšoveahkki		buohccedikšunassisteanta	dikšunveahkki		
-pleiemedhjelper	dikšunveahkki		bátnedákti 		hoitoapulainen	dikšoveahkki		buohccedikšuveahkki	dikšunveahkki		
-pleiepersonale	dikšunbargoveahka		koanstabánit 		hoitohenkilökunta	dikšoolmmošgielda		dikšubargoveahka	dikšubargoveahka		
+pleiemedhjelper	dikšunveahkki				hoitoapulainen	dikšoveahkki		buohccedikšuveahkki	dikšunveahkki		
+pleiepersonale	dikšunbargoveahka				hoitohenkilökunta	dikšoolmmošgielda		dikšubargoveahka	dikšubargoveahka		
 sykehusopphold	dikšunáigodat buohcceviesus				hoitojakso sairaalassa	dikšooassi buohcceviesus		buohcceviesus orruma birra	lea buohcciviesus		
-behandlingssystem	dikšunvuogádat		bátnedikšun		hoitojärjestelmä	dikšovuogádat		dikšunvuogádat	dikšunvuogádat		
-behandlingsforløp			bátnebeassan 	bátneluovvaneapmi 	hoitoketju	dikšoviđji		dálkkodanproseassa	dálkkodanriekkis		
-sykehjemsbeboer	dikšunruoktoášši	dikšunruoktoorru	bátnegeallan 		hoitokodin asukas	dikšogođiiguin #ássi		buhcciidsiidda ássi	dikšunguovddáža ássi		
-pleiekultur	dikšunkultuvra		bániid dearvvašvuođadilli 		hoitokulttuuri	dikšokultuvra		dikšunkultuvra	dikšunkultuvra		
-pleielidelse	dikšungillámuš		oksygena addin		hoitokärsimys	dikšogillámuš		dikšunváttisvuohta	dálkkodanriekkis		
-behandlingsrutine	dikšunvuohki	dikšungeavat	oksygenageavaheapmi		hoitokäytäntö	dikšogeavat		dikšunrutiidna	dikšungeavahus		
-behandlingsmulighet	dikšunvejolašvuohta	dikšunliiba	oksygenafievrrideapmi		hoitomahdollisuus	dikšoliiba		dikšunvejolašvuohta	dikšunvejolašvuohta		
-behandlingspakke	dikšunpáhkka		okygensisaváldin 		hoitopakkaus			dikšunpáhkka	dikšunpáhkka		
-pasientforløp	dikšunbálggis		oksygenadárbu		hoitopolku	dikšoluodda		pasieantamannolaga	dálkkodanbálggis		
-tjenesteforløp	dikšunbálggis		suvredássi 		hoitopolku	dikšoluodda		bálvalusáigi	dálkkodanbálggis		
-omsorgsrelasjon	dikšungaskavuohta		oksygenadikšu		hoitosuhde	dikšogorri		fuolahusoktavuohta	dikšundilli		
+behandlingssystem	dikšunvuogádat				hoitojärjestelmä	dikšovuogádat		dikšunvuogádat	dikšunvuogádat		
+behandlingsforløp				bátneluovvaneapmi 	hoitoketju	dikšoviđji		dálkkodanproseassa	dálkkodanriekkis		
+sykehjemsbeboer	dikšunruoktoášši	dikšunruoktoorru			hoitokodin asukas	dikšogođiiguin #ássi		buhcciidsiidda ássi	dikšunguovddáža ássi		
+pleiekultur	dikšunkultuvra				hoitokulttuuri	dikšokultuvra		dikšunkultuvra	dikšunkultuvra		
+pleielidelse	dikšungillámuš				hoitokärsimys	dikšogillámuš		dikšunváttisvuohta	dálkkodanriekkis		
+behandlingsrutine	dikšunvuohki	dikšungeavat			hoitokäytäntö	dikšogeavat		dikšunrutiidna	dikšungeavahus		
+behandlingsmulighet	dikšunvejolašvuohta	dikšunliiba			hoitomahdollisuus	dikšoliiba		dikšunvejolašvuohta	dikšunvejolašvuohta		
+behandlingspakke	dikšunpáhkka				hoitopakkaus			dikšunpáhkka	dikšunpáhkka		
+pasientforløp	dikšunbálggis				hoitopolku	dikšoluodda		pasieantamannolaga	dálkkodanbálggis		
+tjenesteforløp	dikšunbálggis				hoitopolku	dikšoluodda		bálvalusáigi	dálkkodanbálggis		
+omsorgsrelasjon	dikšungaskavuohta				hoitosuhde	dikšogorri		fuolahusoktavuohta	dikšundilli		
 sykepleieplan	dikšunplána				hoitosuunnitelma	dikšoplána		buohccedikšoplána	dikšunplána		
-institusjonsseng	dikšunseaŋga		oksygenarusttet		hoitosänky	dikšoseaŋga		institušuvdna seaŋga	dálkkodanlatnja		
-livstestament	dikšundeastámentá		oksygenarusttet		hoitotestamentti	dikšotestameanta		eallingearvastuvvan	dálkoduođaštus		
-sykepleievitenskap	dikšundieđa		oksygenasisdoallu		hoitotiede	dikšodieđa		buohccidivššárdieđa	dálkkasdieđa		
-sykepleiefag			oksygenadássi		hoitotiede??	dikšodieđa?		buohccidivššárfága	dikšunfága?		
-behandlingssituasjon	dikšundilli		Oxygena-čalbmeglása		hoitotilanne	dikšodilli		dikšundilli	dikšundilli		
-pleiesituasjon	dikšundilli		suvrefalleheapmi		hoitotilanne	dikšodilli		dikšundilli	dikšundilli		
-behandlingstiltak	dikšundoaibmabidju		suvrelihpar		hoitotoimenpide	dikšodoaibmabidju		dikšundoaimmat	dikšundoaimma		
-sykepleietiltak	dikšundoaimmat		suvrelihpar		hoitotoimet	dikšodoaimmat			dikšundoaimmat		
-pleieoppgave			suvrebadjebáza		hoitotoimi hoitotyön tehtävä	dikšodoaibma dikšobarggu doaibma		dikšunbargu	dikšundoaimma dikšunbargu		
-sykepleietenkning	dikšunbarggu jurddašeapmi		boasttuvuohta		hoitotyön ajattelu sairaanhoidollinen ajattelu	dikšobarggu jurddašeapmi *sairaanhoidollinen jurddašeapmi		buohccidivššárjurdda	dikšunbarggu jurddašeapmi buohccidivššus		
-omsorgsverdi	dikšunbarggu árvvut		hárjehusáigodat 		hoitotyön arvot	dikšobarggu árvvut		fuolahusárvosaš	dikšunbarggu árvvut		
-sykepleieverdi	dikšunbarggu árvvut		hárjehallanprográmma		hoitotyön arvot	dikšobarggu árvvut		buohccidikšunárvu	dikšunbarggu árvvut		
-omsorgsetikk	dikšunbarggu etihkka		hárjehallanvuohki		hoitotyön etiikka	dikšobarggu etihkka		fuolahanetihkka	dikšunbarggu etihkka		
-omsorgsfilosofi	dikšunbarggu filosofiija		stielkan 		hoitotyön filosofia	dikšobarggu filosofiija		fuolahusfilosofiija	dálkkodanrieggá filosofiija		
-sykepleiedokumentasjon		dikšunbarggu registreret	Headju 		hoitotyön kirjaaminen	dikšobarggu 		buohccidikšunduođaštus	dikšunbarggu girji		
+institusjonsseng	dikšunseaŋga				hoitosänky	dikšoseaŋga		institušuvdna seaŋga	dálkkodanlatnja		
+livstestament	dikšundeastámentá				hoitotestamentti	dikšotestameanta		eallingearvastuvvan	dálkoduođaštus		
+sykepleievitenskap	dikšundieđa				hoitotiede	dikšodieđa		buohccidivššárdieđa	dálkkasdieđa		
+sykepleiefag					hoitotiede??	dikšodieđa?		buohccidivššárfága	dikšunfága?		
+behandlingssituasjon	dikšundilli				hoitotilanne	dikšodilli		dikšundilli	dikšundilli		
+pleiesituasjon	dikšundilli				hoitotilanne	dikšodilli		dikšundilli	dikšundilli		
+behandlingstiltak	dikšundoaibmabidju				hoitotoimenpide	dikšodoaibmabidju		dikšundoaimmat	dikšundoaimma		
+sykepleietiltak	dikšundoaimmat				hoitotoimet	dikšodoaimmat			dikšundoaimmat		
+pleieoppgave					hoitotoimi hoitotyön tehtävä	dikšodoaibma dikšobarggu doaibma		dikšunbargu	dikšundoaimma dikšunbargu		
+sykepleietenkning	dikšunbarggu jurddašeapmi				hoitotyön ajattelu sairaanhoidollinen ajattelu	dikšobarggu jurddašeapmi *sairaanhoidollinen jurddašeapmi		buohccidivššárjurdda	dikšunbarggu jurddašeapmi buohccidivššus		
+omsorgsverdi	dikšunbarggu árvvut				hoitotyön arvot	dikšobarggu árvvut		fuolahusárvosaš	dikšunbarggu árvvut		
+sykepleieverdi	dikšunbarggu árvvut				hoitotyön arvot	dikšobarggu árvvut		buohccidikšunárvu	dikšunbarggu árvvut		
+omsorgsetikk	dikšunbarggu etihkka				hoitotyön etiikka	dikšobarggu etihkka		fuolahanetihkka	dikšunbarggu etihkka		
+omsorgsfilosofi	dikšunbarggu filosofiija				hoitotyön filosofia	dikšobarggu filosofiija		fuolahusfilosofiija	dálkkodanrieggá filosofiija		
+sykepleiedokumentasjon		dikšunbarggu registreret			hoitotyön kirjaaminen	dikšobarggu 		buohccidikšunduođaštus	dikšunbarggu girji		
 sykepleieferdighet	dikšunbarggu gieđadáiddut				hoitotyön kädentaidot	dikšobarggu gieđadáiddut		buohccidivššárgealbu	dikšunbarggu giehtaduogáš		
 sykepleiehåndbok	dikšunbarggu giehtagirji				hoitotyön käsikirja	dikšobarggu giehtagirji		buohccedikšungiehtagirji	dikšunbargogiehtagirji		
 omsorgsmodell	dikšunbarggu málle				hoitotyön malli	dikšobarggu #málle		fuolahusmodealla	dikšunbarggu málle		
 sykepleiemodell	dikšunbarggu málle				hoitotyön malli	dikšobarggu #málle		buohccidivššármálle	dikšunbarggu málle		
-sykepleiedefinisjon	dikšunbarggu definišuvdna				hoitotyön määritelmä	dikšobarggu definišuvdna		buohccidivššármearrádus	dálkkodanbarggu meroštallan		
-sykepleieproblem	dikšunbarggu problema				hoitotyön ongelma	dikšobarggu problema		buohccidivššu váttisvuohta	dikšunbarggu čuolbma		
-sykepleieprosess	dikšunbarggu proseassa				hoitotyön prosessi	dikšobarggu proseassa		buohccedikšunproseassa	dikšunproseassa		
-pleieplan	dikšunbarggu plána				hoitotyön suunnitelma	dikšobarggu plána		dikšunplána	dikšunplána		
-sykepleieferdighet	dikšunbarggu dáiddut				hoitotyön taidot	dikšobarggu dáiddut		buohccidivššárgealbu	dálkkodanmáhttu		
-sykepleieoppgave	dikšunbarggu dahkamuš				hoitotyön tehtävä	dikšobarggu doaibma		buohccidivššárbargu	dikšunbarggu bargu		
-sykepleieteoretiker					hoitotyön teoreetikko	dikšobarggu 		buohccidivššoteorehtalaš	dálkkodanrieggá teorehtalaš oassi		
-sykepleieteori	dikšunbarggu teoriija				hoitotyön teoria	dikšobarggu teoriija		buohccindábiid teoriija	dálkkodanrieggá teoriija		
-sykepleiekunnskap	dikšunbarggu diehtu				hoitotyön tieto	dikšobarggu diehtu		buohccidivššármáhttu	dikšunbarggu diehtu		
-behandlingsalternativ	dikšunmolssaeaktu				hoitovaihtoehto	dikšomolssaeaktu		dikšun molssaeaktu	dikšun molssaeaktu		
-behandlingsvalg	dikšunválljen				hoitovalinta	dikšoválljen		dikšunválljen	dikšunválljen		
-behandlingsansvar	dikšunvástu				hoitovastuu	dikšovástu		dikšunovddasvástádus	dikšunovddasvástádus		
-behandlingsmiljø	dikšunbiras				hoitoympäristö	dikšobiras		dikšunbiras	dálkkodanbiras		
-sykehjemsbestyrer	dikšunruokto hoavda				hoivakodin johtaja	fuolahangođiiguin hoavda		buhcciidsiidda hoavda	dearvvašvuođaguovddáža hoavda		
-sykehjemslege	dikšunruokto doavttir				hoivakodin lääkäri	fuolahangođiiguin doavttir		buhcciidruovttu doavttir	dikšunguovddáža doavttir		
-sykehjemspasient					hoivakotipotilas, hoivakodin asukas	#fuolaheapmi#ruoktu#buohcci		buhcciidsiidda pasieanta	dearvvašvuođaguovddáš		
-omsorgskultur					hoivakulttuuri	fuolahankultuvra		fuolahankultuvra	dálkkodankultuvra		
-omsorgstradisjon					hoivaperinne	fuolahanárbevierru		fuolahusvierru	dikšunárbevierru		
-omsorgsressurs					hoivaresurssit	fuolahanresurssat		fuolahusresursa	dikšunresurssat		
-omsorgsformål					hoivan tarkoitus	fuolahanulbmil		fuolahusášši	dikšundárkkuhus		
-muggsopp	guohpaguoppar				homesieni	guohpaguoppar		guoggáiduhttin	mu iđit		
-hormonbehandling	hormonadikšu				hormonihoito	hormonadikšu		hormonadikšun	hormonadikšun		
-hormonnivå	hormonadássi				hormonitaso	hormonadássi		hormona dássi	hormona dássi		
-beinklær	buvssat				housut	buvssat		dávgegovttat	baksamat		
-humoralpatologi					humoraalioppi			humor-patologiija	humoristaoahppa		
-formynderi					huoltajuus			buhtisvuohta	fuolaheapmi		
-leppepust					huulirakohengitys  huulihengitys	bavssasálvovuoigŋan bavssavuoigŋan  		njálbmi vuoigŋan	njálbmevuoigŋan		
-rusmisbruker	gárihuhttiávdnasiid boasttogaevaheaddji				huumausaineiden väärinkäyttäjä	huumeenkäyttäjä		gárrenmirko boasttogeavaheaddji	narkogeavaheaddji		
-stoffmisbruker					huumausaineiden väärinkäyttäjä			narkogeavaheaddji	narkogeavaheaddji		
-rusmiljø	gárrenávnnasbiire				huumepiiri	narkotihkkabiire		gárrenbiras	narkobiras		
-sanitærforhold					hygieeniset olosuhteet	hygieeninen tila	*hygieeniset eksisteansagorit	dearvvašvuođadilli	hygienalaš dilálašvuohta		
-hygienerutine					hygieniatapa	buhtisindoallandáhpi		buhtisvuođarutiidna	hygienalaš vuohki		
-utenforskap	badjelgeahččanan vásihus	guolmmas vásihus			hyljeksinnän kokemus	*hyljeksinnän vásihus		olgguldasvuohta	hilgunvásáhus		
-velferdssystem	buresveadjin vuogádat				hyvinvointijärjestelmä	čálgovuogádat		buorredillevuogádat	buresbirgejupmevuogádat		
-velværeteknologi	buresveadjin teknologiija				hyvinvointiteknologia	čálgoteknologiija		buorrediliteknologiija	buorrediliteknologiija		
-vellukt	buorre hádja				hyvä tuoksu	buorre 		lihkostuvvan	vuogas vuoigŋa		
-velgjørenhetsprinsipp	buorredahkki prinsihppa	buorredahkki vuođđojurdda			hyväntekemisen periaate	*hyväntekemisen prinsihppa		buorredagolašvuođaprinsihppa	buorredahkki vuođđojurdda		
-nyttekriterium	ávkekriteara				hyötykriteeri	guddakriteara		ávkeeaktu	ávkedoaibma		
-kullos					häkä	hiilomonoksidi	heahki	kulos	dušši		
-CO-narkose					häkänarkoosi	#heahki#narkosa		CO-narkoisa	hávlabissuin ávkkástallan		
-alarmmatte	alárbma rátnu				hälyttävä matto	#alarmeret rátnu		signálamáhta	áibbas hirpmástuhtti		
-responssenter	alárbmaguovddaš				hälytyskeskus	#alárbma#guovddaš		responsguovddáš	heahteguovddáš		
+sykepleiedefinisjon	dikšunbarggu definišuvdna				hoitotyön määritelmä	dikšobarggu definišuvdna		buohccidivššármearrádus	dálkkodanbarggu meroštallan	buohccedivššárdefinišuvdna	buohccedivššároahpu definišuvdna
+sykepleieproblem	dikšunbarggu problema				hoitotyön ongelma	dikšobarggu problema		buohccidivššu váttisvuohta	dikšunbarggu čuolbma	buohccedivššárváttisvuohta	buohccedivššárváttisvuohta
+sykepleieprosess	dikšunbarggu proseassa				hoitotyön prosessi	dikšobarggu proseassa		buohccedikšunproseassa	dikšunproseassa	buohccedivššárproseassa	buohccedivššárproseassa
+pleieplan	dikšunbarggu plána				hoitotyön suunnitelma	dikšobarggu plána		dikšunplána	dikšunplána	fuolahusplána	buohccedivššárplána
+sykepleieferdighet	dikšunbarggu dáiddut				hoitotyön taidot	dikšobarggu dáiddut		buohccidivššárgealbu	dálkkodanmáhttu	buohccedivššárgelbbolašvuohta	buohccedivššárgelbbolašvuohta
+sykepleieoppgave	dikšunbarggu dahkamuš				hoitotyön tehtävä	dikšobarggu doaibma		buohccidivššárbargu	dikšunbarggu bargu	buohccedivššárbargu	buohccedivššárbargu
+sykepleieteoretiker					hoitotyön teoreetikko	dikšobarggu 		buohccidivššoteorehtalaš	dálkkodanrieggá teorehtalaš oassi	buohccedivššárteoretihkkár	buohccedivššárteoretihkkár
+sykepleieteori	dikšunbarggu teoriija				hoitotyön teoria	dikšobarggu teoriija		buohccindábiid teoriija	dálkkodanrieggá teoriija	buohccedivššárteoriija	buohccedivššárteoriija
+sykepleiekunnskap	dikšunbarggu diehtu				hoitotyön tieto	dikšobarggu diehtu		buohccidivššármáhttu	dikšunbarggu diehtu	buohccedivššároahpu máhttu	buohccedivššároahpu máhttu
+behandlingsalternativ	dikšunmolssaeaktu				hoitovaihtoehto	dikšomolssaeaktu		dikšun molssaeaktu	dikšun molssaeaktu	dikšunvejolašvuohta	dikšunvejolašvuohta
+behandlingsvalg	dikšunválljen				hoitovalinta	dikšoválljen		dikšunválljen	dikšunválljen	dikšunválljen	dikšunválljen
+behandlingsansvar	dikšunvástu				hoitovastuu	dikšovástu		dikšunovddasvástádus	dikšunovddasvástádus	gieđahallan ovddasvástádus	fuolahusovddasvástádus
+behandlingsmiljø	dikšunbiras				hoitoympäristö	dikšobiras		dikšunbiras	dálkkodanbiras	dikšunbiras	dikšunbiras
+sykehjemsbestyrer	dikšunruokto hoavda				hoivakodin johtaja	fuolahangođiiguin hoavda		buhcciidsiidda hoavda	dearvvašvuođaguovddáža hoavda	fuolahusviesu jođiheaddji	fuolahusviesu direktevra
+sykehjemslege	dikšunruokto doavttir				hoivakodin lääkäri	fuolahangođiiguin doavttir		buhcciidruovttu doavttir	dikšunguovddáža doavttir	fuolahusviesu doavttir	fuolahusviesu doavttir
+sykehjemspasient					hoivakotipotilas, hoivakodin asukas	#fuolaheapmi#ruoktu#buohcci		buhcciidsiidda pasieanta	dearvvašvuođaguovddáš	fuolahusruovttu pasieanta	fuolahusviesu pasieanta, fuolahusviesu ássi
+omsorgskultur					hoivakulttuuri	fuolahankultuvra		fuolahankultuvra	dálkkodankultuvra	fuolahuskultuvra	fuolalaš kultuvra
+omsorgstradisjon					hoivaperinne	fuolahanárbevierru		fuolahusvierru	dikšunárbevierru	fuolahusárbevierru	fuolahusárbevierru
+omsorgsressurs					hoivaresurssit	fuolahanresurssat		fuolahusresursa	dikšunresurssat	fuolahusresursa	fuolahusresurssaid
+omsorgsformål					hoivan tarkoitus	fuolahanulbmil		fuolahusášši	dikšundárkkuhus	fuolahusulbmilat	dikšuma ulbmil
+muggsopp	guohpaguoppar				homesieni	guohpaguoppar		guoggáiduhttin	mu iđit	guohpa	muohttaga
+hormonbehandling	hormonadikšu				hormonihoito	hormonadikšu		hormonadikšun	hormonadikšun	hormonaterapiija	hormonaterapiija
+hormonnivå	hormonadássi				hormonitaso	hormonadássi		hormona dássi	hormona dássi	hormona dássi	hormona dássi
+beinklær	buvssat				housut	buvssat		dávgegovttat	baksamat	julggiid biktasiid	buvssat
+humoralpatologi					humoraalioppi			humor-patologiija	humoristaoahppa	humorála patologiija	humorála oahppu
+formynderi					huoltajuus			buhtisvuohta	fuolaheapmi	fuolaheapmi	fuolaheapmi
+leppepust					huulirakohengitys  huulihengitys	bavssasálvovuoigŋan bavssavuoigŋan  		njálbmi vuoigŋan	njálbmevuoigŋan	njuoratmánná	lip gap vuoiŋŋasteapmi lip breading
+rusmisbruker	gárihuhttiávdnasiid boasttogaevaheaddji				huumausaineiden väärinkäyttäjä	huumeenkäyttäjä		gárrenmirko boasttogeavaheaddji	narkogeavaheaddji	narkotihka geavaheaddji	narkotihka geavaheaddji
+stoffmisbruker					huumausaineiden väärinkäyttäjä			narkogeavaheaddji	narkogeavaheaddji	narkotihka geavaheaddji	narkotihka geavaheaddji
+rusmiljø	gárrenávnnasbiire				huumepiiri	narkotihkkabiire		gárrenbiras	narkobiras	narkotihka biras	dálkkassirkuvla
+sanitærforhold					hygieeniset olosuhteet	hygieeninen tila	*hygieeniset eksisteansagorit	dearvvašvuođadilli	hygienalaš dilálašvuohta	sanitehtadilit	hygienalaš dilit
+hygienerutine					hygieniatapa	buhtisindoallandáhpi		buhtisvuođarutiidna	hygienalaš vuohki	hygienarutiinna	hygienageavaheapmi
+utenforskap	badjelgeahččanan vásihus	guolmmas vásihus			hyljeksinnän kokemus	*hyljeksinnän vásihus		olgguldasvuohta	hilgunvásáhus	olggobealevuohta	hilguma vásáhus
+velferdssystem	buresveadjin vuogádat				hyvinvointijärjestelmä	čálgovuogádat		buorredillevuogádat	buresbirgejupmevuogádat	buresbirgenvuogádat	buresbirgenvuogádat
+velværeteknologi	buresveadjin teknologiija				hyvinvointiteknologia	čálgoteknologiija		buorrediliteknologiija	buorrediliteknologiija	buresbirgenteknologiija	buresbirgenteknologiija
+vellukt	buorre hádja				hyvä tuoksu	buorre 		lihkostuvvan	vuogas vuoigŋa	duovdagis	buorre duovdagis
+velgjørenhetsprinsipp	buorredahkki prinsihppa	buorredahkki vuođđojurdda			hyväntekemisen periaate	*hyväntekemisen prinsihppa		buorredagolašvuođaprinsihppa	buorredahkki vuođđojurdda	buorredáhtolašvuođaprinsihppa	ráhkisvuođa prinsihppa
+nyttekriterium	ávkekriteara				hyötykriteeri	guddakriteara		ávkeeaktu	ávkedoaibma	ávkkástallankriteara	ávkkástallankriteara
+kullos					häkä	hiilomonoksidi	heahki	kulos	dušši	čitna	karbonmonoksiida
+CO-narkose					häkänarkoosi	#heahki#narkosa		CO-narkoisa	hávlabissuin ávkkástallan	CO-anestesiija	karbonmonoksiidagivssideapmi
+alarmmatte	alárbma rátnu				hälyttävä matto	#alarmeret rátnu		signálamáhta	áibbas hirpmástuhtti	váruhusmátta	fuolastuhtti teppe
+responssenter	alárbmaguovddaš				hälytyskeskus	#alárbma#guovddaš		responsguovddáš	heahteguovddáš	vástádusguovddáš	heahteguovddáš
 alarmknapp	alárbmaboallu				hälytysnappi	alárbmaboallu		várrenboallu	almmuhanboallu		
 varmelaken	liekkasgovččas				hätäpeite avaruuspeitto	heahtegovččas #gomuvuohtagovččas		báhkkenjuolggadus	heahtečiehka ávusruovttus		
 bluferdighet	heahpu				häveliäisyys	heahpu		bluffivuohta	heahpat		
