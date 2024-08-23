@@ -670,38 +670,34 @@ absorbere	N	imeä itseensä   absorboida
 suprapubisk	N	suprapubinen    vatsanpeitteiden läpi laitettava
 svaksynt	N	heikkonäköinen  huononäköinen
 svangerskap	N	raskaus
-svangerskapsavbrudd	N	
-svangerskapskvalme	N	
-svelgevansker	N	
-svulster	N	
-syfilis	N	
-sykdom	N	
-sykdomsmanifestasjoner	N	
-sykepleie	N	
-sykepleiefaglig	N	
-syn	N	
-syndrom	N	
-synovektomi	N	
-synovitt	N	
-synsforstyrrelser	N	
-synshemmede	N	
-synsstyrke	N	
-syre-base-forstyrrelser	N	
-tannhjulsrigiditet	N	
-target	N	
-tarmslyng	N	
-tarmtømming	N	
-tegn	N	
-tekstilbind	N	
-temporalisarteritt	N	
-teori	N	
-terapi	N	
-testikkelkreft	N	
-toalettrutiner	N	
-toksisk	N	
-tømmerstokkregime	N	
-tonisk-klonisk	N	
-total	N	
+svangerskapsavbrudd	N	raskaudenkeskeytys
+svangerskapskvalme	N	raskauspahoinvointi
+svelgevansker	N	nielemisvaikeus
+svulst	N	kasvain
+syfilis	N	kuppa   syfilis
+sykdomsmanifestasjon	N	sairauden ilmentymä
+syn	N	näkö    näky, näkemys   kasvot
+syndrom	N	oireyhtymä
+synovektomi	N	nivelkalvojen poistoleikkaus    synovektomia
+synovitt	N	nivelkalvon tulehdus    synoviitti
+synsforstyrrelse	N	näköhäiriö
+synshemmet	N	näkövammainen
+synsstyrke	N	näöntarkkuus
+syre-base-forstyrrelse	N	happo-emästasapainon häiriö
+tannhjulsrigiditet	N	hammasratasjäykkyys
+tarmslyng	N	suolitukos  suolen tukkeuma ileus
+volvulus    N   rotert tarm
+ileus   N   suolitukos  suolen tukkeuma ileus 
+tarmtømming	N	suolen tyhjennys
+tegn	N	merkki
+temporalisarteritt, AT	N	ohimovaltimotulehdus    temporaaliarteriitti    Hortonin arteriitti
+testikkelkreft	N	kivessyöpä
+toksisk	N	myrkyllinen, toksinen   vahingollinen, haitallinen  antipatiaa herättävä
+tømmerstokkregime	N	selän ja niskan pitäminen täysin suorana ja jäykkänä potilaan liikkuessa tai potilasta liikuteltaessa
+tonisk-klonisk anfall	N   tajuttomuuskouristuskohtaus toonis-klooninen kohtaus
+tonisk  N   lihasjänteyttä ylläpitävä   tooninen
+klonisk  N   tahdottomasti nykivä klooninen
+total	N	koko määrä
 totalprotese	N	
 trachomatis	N	
 trangvinkelglaukom	N	
