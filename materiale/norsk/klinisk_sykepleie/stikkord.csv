@@ -698,29 +698,26 @@ tonisk-klonisk anfall	N   tajuttomuuskouristuskohtaus toonis-klooninen kohtaus
 tonisk  N   lihasjänteyttä ylläpitävä   tooninen
 klonisk  N   tahdottomasti nykivä klooninen
 total	N	koko määrä
-totalprotese	N	
-trachomatis	N	
-trangvinkelglaukom	N	
-transitorisk	N	
-translokasjon	N	
-transurethral	N	
-transversostomi	N	
-traumatisk	N	
-traumemetabolisme	N	
-tremor	N	
-tretthet	N	
-treveiskateter	N	
-triceps	N	
-tricepshudfold	N	
-trombolytisk	N	
-trombose	N	
-trykk	N	
-trykkindeks	N	
-trykkmåling	N	
-trykksår	N	
-tubulær	N	
-tumorrelaterte	N	
-ufrivillig	N	
+totalprotese	N	kokoproteesi
+trangvinkelglaukom	N	sulkukulmaglaukooma
+glaukom N   silmänpainetauti
+transitorisk	N	ohimenevä   transitorinen
+translokasjon	N	siirtymä    translokaatio   kromosomin osan siirtyminen toiseen kromosomiin
+transurethral	N	 transuretraalinen  virtsaputken kautta tapahtuva   virtsaputken kautta tehtävä
+transversostomi	N	poikittaiseen paksusuoleen (colon transversum) tehtävä avanne
+traumatisk  N   traumaattinen
+traumemetabolisme, hypermetabolisme, stressmetabolisme   N   hypermetabolia
+tremor, skjelving	N	vapina  tremor  tärinä
+tretthet	N	väsymys
+treveiskateter	N	kolmitiehyinen katetri  kolmiluumen katetri
+triceps	N	ojentajalihas   kolmipäinen olkalihas
+trombolytisk	N	hyytymiä liuottava  trombolyyttinen
+trombose	N	verisuonitukos  verisuonitukkeuma   tromboosi
+trykkindeks	N	paineindeksi
+trykkmåling	N	paineen mittaus
+trykksår	N	painehaava
+tubulær	N	tiehyen muotoinen,  tiehyitä sisältävä   (munuais-)tiehyeen liittyvä    tubulaarinen
+ufrivillig	N	tahaton pakollinen
 ulcerøs	N	
 ulcus	N	
 ulnafraktur	N	
