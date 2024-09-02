@@ -604,36 +604,36 @@ kroppsmasse					kehon massa	rupmaša #mássá		rumašdieđiheapmi	rumašmássa
 kroppsendring	rupmaša iežáhus	gorut iežáhus			kehon muutos	rupmaša iežáhus		rumašrievdadus	rumaš rievdadeapmi		
 kroppsvæske	rupmaša golgosat	goruda golgosat			kehon nesteet	rupmaša siejat		rumašjuhkki	golgamat rupmašis		
 kroppsvask	rupmaša bassan	gorut bassan			kehon pesu	rupmaša bassan		rumašbassan	rumašbivttas		
-kroppssammensetning					kehon rakenne	rupmaša ráhkadus		rumaščoahkkádus	rupmaša ráhkadus		
+kroppssammensetning	rupmaša ráhkadus				kehon rakenne	rupmaša ráhkadus		rumaščoahkkádus	rupmaša ráhkadus		
 kroppsstruktur					kehon rakenne	rupmaša ráhkadus		rumašlaš ráhkadus	rupmaša ráhkadus		
 kroppsoverflate					kehon ulkopinta	rupmaša 		goruda bajildus	goruda olgguldas hápmi		
-kroppsvann					kehon vesi	rupmaša čáhci		rumaščáhci	rumaš čáhci		
+kroppsvann	rupmaša čáhci				kehon vesi	rupmaša čáhci		rumaščáhci	rumaš čáhci		
 kroppsbilde					kehonkuva	rupmašagovva		rumašgovva	rumašgovva		
-kroppsvarme					kehonlämpö	rupmašaliekkas		rumašlaš liegganeapmi	rumašdálkkádat		
-kroppsvekt					kehonpaino	rupmašadeaddu		rumašdeaddu	rumašdeaddu		
-kroppsforståelse					kehonymmärrys	rupmašaádden		rumašáddejupmi	rumašáddejupmi		
+kroppsvarme	rupmaša liekkas	gorut liekkas			kehonlämpö	rupmašaliekkas		rumašlaš liegganeapmi	rumašdálkkádat		
+kroppsvekt	rupmaša deaddu				kehonpaino	rupmašadeaddu		rumašdeaddu	rumašdeaddu		
+kroppsforståelse	gorut ipmárdus	gorut áddejupmi			kehonymmärrys	rupmašaádden		rumašáddejupmi	rumašáddejupmi		
 ankelknoke	behkeš				kehräsluu	behkeš		juolgesuorpmas	ruksesluohti		
 sirkelbevegelse					kehäliike	birasgávpi		jorbalihkadus	jorbalihkadus		
-keisersnitt					keisarileikkaus			keaisárlávki	keaisárráidu		
+keisersnitt	keaisárčuohpadus				keisarileikkaus			keaisárlávki	keaisárráidu		
 pasientfortelling					kertomus sairaudesta ja potilaanaolosta	muitalus buozus ja 		pasieantta muitalus	muitalus buohcuvuođa ja buohcuvuođa birra		
-oppsamlingskolbe					keräysastia	#čoaggilihtti		čohkkenskovvi	čohkkenláhki		
-oppsamlingssystem					keräysjärjestelmä	#čoaggivuogádat		čoagginvuogádat	kollektiiva vuogádat		
-oppsamlingspose					keräyspussi	#čoaggibusse		čoaggináigi	čohkkirassuolu		
+oppsamlingskolbe	čoagginlihtti				keräysastia	#čoaggilihtti		čohkkenskovvi	čohkkenláhki		
+oppsamlingssystem	čoagginvuogádat				keräysjärjestelmä	#čoaggivuogádat		čoagginvuogádat	kollektiiva vuogádat		
+oppsamlingspose	čoagginseahkka	čoagginbusse			keräyspussi	#čoaggibusse		čoaggináigi	čohkkirassuolu		
 oppsamling					kerääminen	kerääntyminen	čoaggit	čoahkkáigeassu	čohkke		
 utskrivningssamtale					keskustelu ennen uloskirjoitusta	gulahallan ovdal 		olggosčálihanságastallan	ságastallan ovdal go čálát olggos		
-samtalepartner					keskustelukumppani	gulahallanguoibmi		ságastanguoibmi	ságastanguoibmi		
+samtalepartner	ságastallanguoibmi	árvalanguoibmi			keskustelukumppani	gulahallanguoibmi		ságastanguoibmi	ságastanguoibmi		
 samtaletempo					keskustelun tempo	gulahallama 		gulahallanleaktu	ságastallama hoahppu		
-samtalegruppe					keskusteluryhmä	gulahallanjoavku		ságastallanjoavku	ságastallanjoavku		
-samtaleterapi					keskusteluterapia	gulahallanterapiija		ságastallanterapiija	ságastallanterapiija		
-holdbarhet					kesto	säilyvyys	bistu	ceavzilvuohta	guhká		
+samtalegruppe	ságastallanjoavku				keskusteluryhmä	gulahallanjoavku		ságastallanjoavku	ságastallanjoavku		
+samtaleterapi	ságastallanterapiija				keskusteluterapia	gulahallanterapiija		ságastallanterapiija	ságastallanterapiija		
+holdbarhet	seailun				kesto	säilyvyys	bistu	ceavzilvuohta	guhká		
 utholdenhetstrening					kestävyysharjoittelu	#gillilvuohtahárjehallan		gierdavašvuođahárjehallan	gierdavašvuođahárjehallan		
-kolssykdom					keuhkoahtaumatauti	geahpesbaskkádatdávda		kolssa dávda	vuoigŋašiid-dávda		
-lungevolum					keuhkojen tilavuus	geahppáid #daddjásvuohta		geahpesvuođus	vuoigŋama portreahtta		
-lungefunksjon					keuhkojen toiminta	geahppáid doaibma		geahpesdávda	geahppáid bargu		
-lungeavsnitt					keuhkon osa	geahppá oassi		geahppuboahkán	geahpes oassi		
-lungesekk					keuhkopussi	geahpesbusse		buhcciidseahkka	vuohččecuocca		
+kolssykdom	geahpesbaskundávda				keuhkoahtaumatauti	geahpesbaskkádatdávda		kolssa dávda	vuoigŋašiid-dávda		
+lungevolum	geahppáid sturrodat				keuhkojen tilavuus	geahppáid #daddjásvuohta		geahpesvuođus	vuoigŋama portreahtta		
+lungefunksjon	geahppáid doaibma				keuhkojen toiminta	geahppáid doaibma		geahpesdávda	geahppáid bargu		
+lungeavsnitt	geahppá oassi				keuhkon osa	geahppá oassi		geahppuboahkán	geahpes oassi		
+lungesekk	geahppesseahkka				keuhkopussi	geahpesbusse		buhcciidseahkka	vuohččecuocca		
 bronkiegrein					keuhkoputken haara	geahpesbohcci #hárči		bronkeasu	vuohččecuocca hádja		
-bronkie					keuhkoputki	geahpesbohcci		bronkiija	bronkiijaboraš		
+bronkie	geahppesbohcci				keuhkoputki	geahpesbohcci		bronkiija	bronkiijaboraš		
 lungeødem					keuhkopöhö keuhkoedeema	*keuhkopöhö geahpesødema		geahpesdávda	vuohččecuocca vuolledábiin		
 lungeemboli					keuhkoveritulppa  keuhkoembolia	*keuhkoveritulppa  		geahpesemboliija	geahpeborasdávda keuhkoemboliijas		
 sirkulære					kiertää	garvit		jorbbas	jorbbas		
