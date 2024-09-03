@@ -718,58 +718,47 @@ trykkmåling	N	paineen mittaus
 trykksår	N	painehaava
 tubulær	N	tiehyen muotoinen,  tiehyitä sisältävä   (munuais-)tiehyeen liittyvä    tubulaarinen
 ufrivillig	N	tahaton pakollinen
-ulcerøs	N	
-ulcus	N	
-ulnafraktur	N	
-underarmsbrudd	N	
-underernæring	N	
-underlivet	N	
-underlivsinfeksjoner	N	
-undersøkelse	N	
-undersøkelser	N	
-uremi	N	
-ureterkateter	N	
-ureterolitiasis	N	
-urethritt	N	
-urgeinkontinens	N	
-uridom	N	
-urin	N	
-urinblære	N	
-urininkontinens	N	
-urinkateter	N	
-urinprøve	N	
-urinretensjon	N	
-urinveiene	N	
-urinveisinfeksjon	N	
-urodynamiske	N	
-uroflowmetri	N	
-urolitiasis	N	
-urostomi	N	
-utenfor	N	
-uteri	N	
-uterus	N	
-utflod	N	
-uveitt	N	
-vagina	N	
-vaginalis	N	
-vaginisme	N	
-vannhode	N	
-vannlating	N	
-vannlatingsliste	N	
-vannlatingsproblemer	N	
-væske	N	
-væske-	N	
-vaskulær	N	
-vaskulære	N	
-vaskulært	N	
-vaskulitt	N	
-vasospasme	N	
-ved	N	
-veiledning	N	
-vektkontroll	N	
-vekttap	N	
-venetrombose	N	
-venøse	N	
+ulcerøs	N	haavaumia muodostava    haavainen   ulseratiivinen
+ulcus	N	mahahaava   ulkus
+ulna, albuebeinet	N	kyynärluu   ulna
+underarm	N	kyynärvarsi
+underernæring	N	aliravitsemus
+underlivet	N	alapää
+undersøkelse	N	tutkimus
+uremi	N	virtsamyrkytys  uremia
+ureter, urinleder	N	virtsanjohdin   ureter
+ureterolitiasis, ureterstein	N	virtsakivitauti urolitiaasi
+urethritt, urinrørsbetennelse	N	virtsaputkien tulehdus  uretriitti
+urgeinkontinens	N	pakkoinkontinenssi  virtsapakkoinkontinenssi
+uridom	N	virtsankerääjä  uridomi
+urin	N	virtsa
+urinblære	N	virtsarakko
+urininkontinens	N	virtsankarkailu virtsainkontinenssi
+urinkateter	N	virtsakatetri
+urinprøve	N	virtasakoe
+urinretensjon	N	virtsaumpi  virtsaamiskyvyttömyys   retentio urinae 
+urinveiene	N	virtsatiet mon.
+urinveisinfeksjon, UVI	N	virtsatieinfektio, VTI   virtsatietulehdus
+urodynamisk	N	virtsateiden toimintaan ja virtsan virtaukseen liittyvä
+uroflowmetri	N	virtsan virtausmittaus  uroflowmetria
+urolitiasis	N	virtsakivitauti urolitiaasi
+urostomi	N	virtsa-avanne   virtsatieavanne urostooma
+uterus, livmor	N	kohtu   uterus
+utflod	N	vuoto
+uveitt	N	silmämunan seinämän keskikerroksen tulehdus silmän suonikalvoston tulehdus  uveiitti
+vagina, skjede	N	emätin  vagina
+vaginisme	N	emätinkouristus vaginismi
+vannhode, hydrocefalus	N	hydrokefalus    hydrokefalia    vesipää ent. ???
+vannlating	N	virtsaaminen
+vannlatingsliste	N	virtsaamispäiväkirja    ???
+væske	N	neste
+vaskulær	N	verisuoniin liittyvä    verisuoni-  vaskulaarinen
+vaskulitt	N	verisuonitulehdus   vaskuliitti
+vasospasme, blodåresammentrekning	N	valtimon supistustila   vasospasmi
+veiledning	N	ohjaus  opastus
+vekttap	N	painonmenetys   painonlasku
+venetrombose	N	laskimotukos    laskimoveritulppa   laskomitromboosi
+venøs	N	laskimoihin liittyvä    laskimoperäinen venoosi, venoosinen
 ventrikkeldrenasje	N	
 ventrikkelretensjon	N	
 ventrikuloperitoneal	N	
