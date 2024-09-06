@@ -459,7 +459,7 @@ menneskeoppfatning	olmmošoaidnu				ihmiskäsitys			olbmuid oaidnu	olbmuid oaidn
 gåsehud	liiki vuoncábierggus				iho kananlihalla	liiki vuoncábierggus		goaskinis	gámačeabeha náhkki		
 hudproblem	liikeproblema				iho-ongelma	liikeproblema		miha čuolbma	juoga mii čuohcá		
 hudombud	liikeproblemaide čiekŋudit vástu buohccedivššár				iho-ongelmiin paneutunut vastuusairaanhoitaja	liikeproblemaide #čiekŋudit #vástu#buohccidikšu		luddesteaddji	ovddasvástádusbuohccedivššár, guhte lea čalmmustahttán iežas skihpáriid		
-hudsans	liikeáicu, dovdoáicu				ihoaisti  tuntoaisti kosketusaisti	liikedovdda dovdodovdda  guoskkahusdovdda		miellačájeheapmi	áibbaš dovddakeahtes guoskkaheapmi		
+hudsans	liikeáicu, dovdoáicu	liikedovdu			ihoaisti  tuntoaisti kosketusaisti	liikedovdda dovdodovdda  guoskkahusdovdda		miellačájeheapmi	áibbaš dovddakeahtes guoskkaheapmi		
 hudområde	liikeguovlu				ihoalue	liikeguovlu		guovlu gos oaidná	lunddolaš		
 hudkontakt	liikekontákta	liikeguoskkahus			ihokontakti	liikekontákta		luddestagain	lápmašupmi		
 hudtermometer	liikeliekkasmihttár				iholämpömittari			lunddolaš termomehter	ivdneliekkasmihttár		
@@ -637,27 +637,27 @@ bronkie	geahppesbohcci				keuhkoputki	geahpesbohcci		bronkiija	bronkiijaboraš
 lungeødem					keuhkopöhö keuhkoedeema	*keuhkopöhö geahpesødema		geahpesdávda	vuohččecuocca vuolledábiin		
 lungeemboli					keuhkoveritulppa  keuhkoembolia	*keuhkoveritulppa  		geahpesemboliija	geahpeborasdávda keuhkoemboliijas		
 sirkulære					kiertää	garvit		jorbbas	jorbbas		
-tannemalje					kiille			bátneelasta	gállu		
-festemiddel					kiinnitysaine	giddehusávnnas		čatnanreaidu	darvánanrusttet		
+tannemalje	gearradas				kiille			bátneelasta	gállu		
+festemiddel	giddehusávnnas				kiinnitysaine	giddehusávnnas		čatnanreaidu	darvánanrusttet		
 tilknytningsteori					kiintymyssuhdeteoria			čatnaseami teoriija	gullevašvuohtateoriija		
 kilojoule					kilojoule	gilojoule		kilojoule	kilojoule		
 kcal					kilokalori	gilokaloriija		kcal	kilokaloriija		
 kilokalori					kilokalori	gilokaloriija		kilokaloriija	kilokaloriija		
 kinin					kiniini			kin-niila	luopmániin		
-gipse					kipsata			gipsabivttas	gipsaravda		
-smertesans					kipuaisti	bávččasdovdda		bávččagahttin			
-smerteproblem					kipuongelma	bávččasproblema		bávččagahttá	bávččagahttin		
-smertepumpe					kipupumppu	bávččaspumpa					
-smertetilstand					kiputila	bávččasdilli		gibuváidudanbivttas			
+gipse	gipsit				kipsata			gipsabivttas	gipsaravda		
+smertesans	bávččasáicu	bávččasdovdu			kipuaisti	bávččasdovdda		bávččagahttin			
+smerteproblem	bávččasváttisvuohta	bávččasproblema			kipuongelma	bávččasproblema		bávččagahttá	bávččagahttin		
+smertepumpe	bávččasbumpa				kipupumppu	bávččaspumpa					
+smertetilstand	bávččasdilli				kiputila	bávččasdilli		gibuváidudanbivttas			
 dokumentasjonssystem					kirjaamisjärjestelmä  dokumentaatiojärjestelmä	*kirjaamisjärjestelmä  dokumentašuvdnavuogádat		bávččagahttin	bávččas		
 dokumentasjonsplikt					kirjaamisvelvollisuus  kirjaamisvelvoite	*kirjaamisvelvollisuus  		dokumentašuvdnavuogádat	lea dokumenterenvuogádat		
 litteraturgjennomgang					kirjallisuuskatsaus	#girjjálašvuohtadárkkistus		dokumentašuvdnageatnegasvuohta	čállingeatnegasvuohta		
 litteratursøk					kirjallisuuskatsaus	#girjjálašvuohtadárkkistus		girjjálašvuođa geahčadeapmi			
 litteraturstudie					kirjallisuuskatsaus	#girjjálašvuohtadárkkistus		girjjálašvuođa ohcan			
-loggføre					kirjata			loggejuvvo	reivvet		
+loggføre	čállit bajás	girjet			kirjata			loggejuvvo	reivvet		
 hospitalisere					kirjautua sairaalahoitoon	*kirjautua 		buohcceviessu	sisačáliheapmi buohcceviesu divššu vuollái		
 spekter					kirjo	#girjjogárjjohallat		spekter	girji		
-testikkelkreft					kivessyöpä	bálloboras		ovdaráksáborašdávda	ráppi vuostá		
+testikkelkreft	bálloboras				kivessyöpä	bálloboras		ovdaráksáborašdávda	ráppi vuostá		
 steindannelse					kivien muodostuminen	geđggiid 		geađgeráhkadus	geađgeráidduid hápmi		
 smerteuttrykk					kivun ilmenemismuoto	bákčasa dovdot hápmi		bávččagahttin	bákčasa dovddahanvuohki		
 smerteopplevelse					kivun kokemus	bákčasa vásihus		bávččasvásáhus	bávččas vásáhus		
