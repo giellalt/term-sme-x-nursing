@@ -759,19 +759,10 @@ veiledning	N	ohjaus  opastus
 vekttap	N	painonmenetys   painonlasku
 venetrombose	N	laskimotukos    laskimoveritulppa   laskomitromboosi
 venøs	N	laskimoihin liittyvä    laskimoperäinen venoosi, venoosinen
-ventrikkeldrenasje	N	
-ventrikkelretensjon	N	
-ventrikuloperitoneal	N	
-verdier	N	
-vestibulitt	N	
-virkninger	N	
-virusinfeksjon	N	
-visus	N	
-vitaminmangel	N	
-viten	N	
-vitro-fertilisering	N	
-vulvitt	N	
-vurdering	N	
-walker	N	
-–	N	
-’	N	
+ventrikkeldrenasje	N	aivo-selkäydinnesteen poisto
+ventrikkelretensjon	N	mahalaukun retentio ruoan epänormaali kertyminen mahalaukkuun
+ventrikuloperitoneal	N	aivokammiosta vatsaonteloon menevä
+vestibulitt	N	emättimen eteisen tulehdus
+visus, synsstyrke, synsskarphet	N	näköaisti   näkö    näöntarkkuus
+in vitro-fertilisering, IVF	N	koeputkihedelmöitys, IVF
+vulvitt	N	häpytulehdus    naisen ulkoisten sukupuolielinten tulehdus
