@@ -1,17 +1,19 @@
-adjuvant kjemoterapi	Phrase	
-akutt abdomen	Phrase	
-akutt bekkeninfeksjon (PID)	Phrase	
-akutt cerebralt vaskulært insult	Phrase	
-akutt leversvikt	Phrase	
-akutt nyreskade	Phrase	
-akutt pankreatitt	Phrase	
-akutt tubulær nekrose	Phrase	
-aldersrelatert makuladegenerasjon (AMD)	Phrase	
-amyotrofisk lateralsklerose. Se ALS	Phrase	
-anabol fase	Phrase	
-anfallsforebyggende legemidler	Phrase	
-ankyloserende spondylitt (AS)	Phrase	
-anterograd amnesi	Phrase	
+adjuvant kjemoterapi	Phrase	adjuvantti kemoterapia
+adjuvanttihoito N   täydentävä hoito    liitännäishoito
+akutt abdomen	Phrase	akuuutti vatsatauti
+akuutti A   äkillinen, nopeasti kehittyvä   terävä  akuutti
+akutt bekkeninfeksjon (PID)	Phrase	sisäsynnytintulehdus PID
+akutt cerebralt vaskulært insult	Phrase	akuutti vaskulaarinen eli verisuoniin liittyvä aivohalvaus
+akutt leversvikt	Phrase	akuutti maksan vajaatoiminta
+akutt nyreskade	Phrase	äkillinen munuaisvaurio 
+akutt pankreatitt	Phrase	äkillinen haimatulehdus   akuutti pankreatiitti
+akutt tubulær nekrose	Phrase	äkillinen munuaistiehyiden tuhoutuminen ja virtsantulon (ohimenevä) loppuminen  akuutti tubulusnekroosi
+aldersrelatert makuladegenerasjon (AMD)	Phrase	silmänpohjan ikärappeuma    ikääntymiseen liittyvä makuladegeneraatio
+amyotrofisk lateralsklerose ALS	Phrase	amyotrofinen lateraaliskleroosi ALS motoneuronitauti
+anabol fase	Phrase	anabolinen tila
+ankyloserende spondylitt (AS)   Bekhterevs sykdom	Phrase	ankylosoiva/ ankyloottinen spondylartriitti    selkärangan niveltulehdus   Bechterevin tauti
+anterograd amnesi	Phrase	muistinmenetyksen muoto, jossa polilas on kyvyttön tallentamaan uusia muistoja
+anterograd  A   eteenpäin ajassa suuntautuva    anterogradinen
 apoplexia cerebri	Phrase	
 arterielle leggsår	Phrase	
 arteriovenøse leggsår	Phrase	
