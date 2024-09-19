@@ -1,33 +1,23 @@
 avlastning	N	apu,helpotus
-dilemma	N	
+dilemma	N	pulma   dilemma
 forvirre	V	hämmentää   hämätä
-hjerneslag	N	
-hofte	N	
-hofte	N	
-hofte	N	
-inndele	V	
-innvirkning	N	
-ivaretakelse	N	
-kar	N	
-karsykdom	N	
-kartlegging	N	
-kartlegging	N	
-leddbevegelighet	N	
-ly	N	
-mestre	N	
-mestre	V	
-mestringsstrategi	N	
-miljøtiltak	N	
-omsorgsarbeid	N	
-opplæring	N	
-oversikt	N	
-problemstilling	N	
-samtykke	N	
-samtykke	V	
-sluttfase	N	
-spesialisthelsetjeneste	N	
-sykehjem	N	
-sykehjem	N	
-søvn	N	
-tilnærme	V	
-vurderingsskjema	N	
+hofte	N	lonkka  lanne lantio
+inndele	V	jakaa   jaotella
+innvirkning	N	vaikutus
+ivaretakelse	N	huolehtiminen   hoitaminen
+kar	N	mies    astia
+karsykdom	N	verisuonisairaus
+kartlegging	N	kartoitus
+leddbevegelighet	N	nivelten liikkuvuus
+ly	N	suoja
+miljøtiltak	N	ympäristötoimenpide toimenpiteet, jotka tukevat sairaan ihmisen omien resurssien käyttöä
+omsorgsarbeid	N	hoitotyö
+opplæring	N	oppiminen   opetus  koulutus
+oversikt	N	yleiskatsaus
+problemstilling	N	ongelmanasettelu
+samtykke	N	suostumus
+sluttfase	N	loppuvaihe  viimeinen vaihe
+spesialisthelsetjeneste	N	erikoissairaanhoito
+sykehjem	N	sairaskoti  vanhustenhoitolaitos
+søvn	N	uni
+vurderingsskjema	N	arviointilomake
