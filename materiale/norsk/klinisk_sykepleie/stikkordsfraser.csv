@@ -14,41 +14,30 @@ anabol fase	Phrase	anabolinen tila
 ankyloserende spondylitt (AS)   Bekhterevs sykdom	Phrase	ankylosoiva/ ankyloottinen spondylartriitti    selkärangan niveltulehdus   Bechterevin tauti
 anterograd amnesi	Phrase	muistinmenetyksen muoto, jossa polilas on kyvyttön tallentamaan uusia muistoja
 anterograd  A   eteenpäin ajassa suuntautuva    anterogradinen
-apoplexia cerebri	Phrase	
-arterielle leggsår	Phrase	
-arteriovenøse leggsår	Phrase	
-arteriovenøs fistel	Phrase	
-arteriovenøs malformasjon	Phrase	
-assistert befruktning	Phrase	
-Astma- og Allergiforbundet	Phrase	
-atopisk eksem	Phrase	
-autonom dysrefleksi	Phrase	
-Bakers cyste	Phrase	
-bakterieinfeksjon i huden	Phrase	
-Bekhterevs sykdom	Phrase	
-benign prostatahyperplasi	Phrase	
-biologiske legemidler	Phrase	
-blind. Se synshemmede	Phrase	
-blod i avføringen	Phrase	
-Body Mass Index (BMI). Se kroppsmasseindeks	Phrase	
-brekninger. Se kvalme og brekninger	Phrase	
-cerebralt vaskulært insult	Phrase	
-chlamydia trachomatis	Phrase	
-cold cap	Phrase	
-contusio cerebri	Phrase	
-Crohns sykdom	Phrase	
-Cullens tegn	Phrase	
-cytologisk undersøkelse	Phrase	
-dagliglivets aktiviteter	Phrase	
-degenerative leddsykdommer	Phrase	
-descensus genitalis	Phrase	
-diabetisk retinopati	Phrase	
-Douglas’ abscess	Phrase	
-dyp hjernestimulering	Phrase	
-dyp venetrombose (DVT)	Phrase	
-døende pasienter	Phrase	
-ECOG funksjonsstatus	Phrase	
-Edmonton Symptom Assessment System	Phrase	
+apoplexia cerebri, hjerneslag	Phrase	aivohalvaus
+arterielle leggsår	Phrase	valtimoperäinen säärihaava
+arteriovenøse leggsår	Phrase	valtimo-laskimoperäinen säärihaava
+arteriovenøs fistel	Phrase	valtimo-laskimoyhteys   arteriovenoosinen fisteli
+arteriovenøs malformasjon	Phrase	valtimo-laskimoepämuodostuma    arteriovenoosi malformaatio
+assistert befruktning	Phrase	koeputkihedelmöitys IVF
+atopisk eksem	Phrase	atooppinen ihottuma atooppinen ekseema
+autonom dysrefleksi	Phrase	autonominen dysrefleksia AD
+Bekhterevs sykdom	Phrase	selkärankareuma spondylarthritis ancylopoetica  Bechterewin tauti
+benign prostatahyperplasi	Phrase	eturauhasen hyvänlaatuinen liikakasvu   prostatahyperplasia
+biologiske legemidler	Phrase	biologiset lääkkeet
+brekning	N	yökkäys
+chlamydia trachomatis	Phrase	klamydia
+kjølehette	N	kylmähattu
+cytologisk undersøkelse	Phrase	sytologinen tutkimus
+dagliglivets aktiviteter	Phrase	päivittäiset toiminnot
+degenerative leddsykdommer	Phrase	degeneratiiviset nivelsairaudet
+degeneratiivinen    A   rappeuttava rappeutumiseen liittyvä
+diabetisk retinopati	Phrase	diabeettinen retinopatia    diabetekseen liittyvä verkkokalvosairaus
+Douglas’ abscess	Phrase	Douglasin absessi   Douglasin märkäpaise
+dyp hjernestimulering	Phrase	syväaivostimulaatio
+dyp venetrombose (DVT)	Phrase	syvä laskimotukos SLT   syvä laskimotromboosi
+ECOG funksjonsstatus, The Everyday Cognition Performance Status Scale	Phrase	ECOG-toimintakykyluokitus
+Edmonton Symptom Assessment System	Phrase	ESAS-oirekysely 
 eksistensielle behov	Phrase	
 eksistensiell omsorg	Phrase	
 ekstern fiksasjon	Phrase	
