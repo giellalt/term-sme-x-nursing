@@ -38,43 +38,31 @@ dyp hjernestimulering	Phrase	syväaivostimulaatio
 dyp venetrombose (DVT)	Phrase	syvä laskimotukos SLT   syvä laskimotromboosi
 ECOG funksjonsstatus, The Everyday Cognition Performance Status Scale	Phrase	ECOG-toimintakykyluokitus
 Edmonton Symptom Assessment System	Phrase	ESAS-oirekysely 
-eksistensielle behov	Phrase	
-eksistensiell omsorg	Phrase	
-ekstern fiksasjon	Phrase	
-ekstern ventrikkeldrenasje	Phrase	
-ekstraartikulære sykdomsmanifestasjoner	Phrase	
-ekstrakorporal assistert leverfunksjon	Phrase	
-ekstrakorporeal blodrensingsdialyse	Phrase	
-ekstravasal infusjon	Phrase	
-ektopisk graviditet	Phrase	
-elastiske bind	Phrase	
-elektroencefalografi (EEG)	Phrase	
-emosjonsfokusert mestring	Phrase	
-epiduralt hematom	Phrase	
-epileptiske anfall	Phrase	
-fall hos eldre	Phrase	
-fokale anfall	Phrase	
-gardnerella vaginalis	Phrase	
-generalisert tonisk-klonisk anfall	Phrase	
-genital descens	Phrase	
-Glasgow Coma Scale (GCS)	Phrase	
-glaukom (grønn stær)	Phrase	
-global afasi	Phrase	
-glomerulær filtrasjonshastighet	Phrase	
-glutenfri kost	Phrase	
-grønn stær	Phrase	
-grå stær	Phrase	
-gynekologisk sykdom	Phrase	
-gynekologisk undersøkelse (GU)	Phrase	
-haemorrhagia cerebri	Phrase	
-Heimlichs manøver	Phrase	
-Helicobacter pylori	Phrase	
-herpes genitalis	Phrase	
-histologisk undersøkelse	Phrase	
-humant papillomavirus-infeksjon (HPV)	Phrase	
-hyperemesis gravidarum	Phrase	
-hyperton dehydrering	Phrase	
-ikke-oligurisk nyreskade	Phrase	
+eksistensiell behov	Phrase	eksistentiaalinen tarve
+eksistensiell omsorg	Phrase	eksistentiaalinen hoiva
+ekstern fiksasjon	Phrase	ulkoinen kiinnitys
+ekstraartikulær	A	ekstra-artikulaarinen
+ekstrakorporal	A   kehon ulkoinen	
+ekstravasal infusjon	Phrase	suonenulkoinen
+ektopisk graviditet	Phrase	kohdunulkoinen raskaus
+emosjonsfokusert    A   tunteisiin keskittyvä
+epiduralt hematom	Phrase	epiduraalihematooma verenpurkauma epiduraalitilassa
+fokale anfall	Phrase	paikallisalkuinen kohtaus
+gardnerella vaginalis	Phrase	bakteerivaginoosi BV
+genital descens	Phrase	gynekologinen laskeuma
+glaukom (grønn stær)	Phrase	viherkaihi  silmänpainetauti    glaukooma
+global afasi	Phrase	globaali afasia
+glomerulær filtrasjonshastighet	Phrase	glomerulussuodosnopeus GFR
+glutenfri kost	Phrase	gluteeniton ruoka
+grå stær	Phrase	harmaakaihi katarakta
+gynekologisk undersøkelse (GU)	Phrase	gynekologinen tutkimus
+haemorrhagia cerebri	Phrase	aivoverenvuoto
+Heimlichs manøver	Phrase	Heimlichin ote  
+Helicobacter pylori	Phrase	helokobakteeri
+herpes genitalis	Phrase	sukupuoliherpes genitaaliherpes
+histologisk undersøkelse	Phrase	(kudos)näytteen histologinen tutkimus
+humant papillomavirus-infeksjon (HPV)	Phrase	papillomavirus HPV	
+hyperton dehydrering	Phrase	hypertoninen kuivuma hypertoninen dehydraatio
 immunmodulerende legemidler	Phrase	
 immunsupprimerende legemidler	Phrase	
 inkontinens. Se urininkontinens	Phrase	
