@@ -771,22 +771,22 @@ begrepsfeste					käsitteellistää			doabaevttohus	doabaevttohus
 forståelsesform					käsitystapa	ipmárdusdáhpi		ipmárdusa vuohki	bargovuohki		
 armbrudd					käsivarren murtuma	giehtanađa 		giehtaborddu	gieđa mii lea botkejuvvon		
 krybbedød					kätkytkuolema	gietkkajápmin		jápmin riebanluosat	jávkan suollemasat		
-gangfunksjon					kävelykyky	vázzingálga		vázzinfunkšuvdna	vázzinmáhttu		
-ganghastighet					kävelynopeus	vázzinjohtilvuohta		vázzinleaktu	vázzinmátki		
-praksissted					käytännön harjoittelupaikka	geavada hárjehallanbáiki		hárjehallanbáiki	praktihkalaš hárjehallanbáiki		
+gangfunksjon	vázzinnákca				kävelykyky	vázzingálga		vázzinfunkšuvdna	vázzinmáhttu		
+ganghastighet	vázzinjohtilvuohta				kävelynopeus	vázzinjohtilvuohta		vázzinleaktu	vázzinmátki		
+praksissted	geavatlaš hárjehallanbáiki				käytännön harjoittelupaikka	geavada hárjehallanbáiki		hárjehallanbáiki	praktihkalaš hárjehallanbáiki		
 praksiskontekst					käytännön konteksti	geavada konteaksta		praksiskonteaksta	lea geavatlaš		
-ferdighetsutøvelse					käytännön taitojen harjoittelu	geavada dáidduid hárjehallan		dáiddu hárjehallan	geavatlaš máhttui hárjehallan		
-ferdighetslæring					käytännön taitojen oppiminen	geavada dáidduid oahppat		dáidduid oahppan	geavatlaš máhtuid oahppu		
-praksisteori					käytännön teoria	geavada teoriija		praksisteoriija	geavatlaš teoriija		
-handlingskunnskap					käytännön tieto	geavada diehtu		doaibmanmáhttu	geavatlaš máhttu		
-ferdighetskunnskap					käytännön tietotaito	geavada diehtodáidu		dáidduidmáhttu	geavatlaš máhttu		
+ferdighetsutøvelse	geavatlaš dáidduid hárjehallan				käytännön taitojen harjoittelu	geavada dáidduid hárjehallan		dáiddu hárjehallan	geavatlaš máhttui hárjehallan		
+ferdighetslæring	geavatlaš dáidduid oahppan				käytännön taitojen oppiminen	geavada dáidduid oahppat		dáidduid oahppan	geavatlaš máhtuid oahppu		
+praksisteori	geavatlaš teoriija				käytännön teoria	geavada teoriija		praksisteoriija	geavatlaš teoriija		
+handlingskunnskap	geavatlaš diehtu				käytännön tieto	geavada diehtu		doaibmanmáhttu	geavatlaš máhttu		
+ferdighetskunnskap	geavatlaš diehtodáidu				käytännön tietotaito	geavada diehtodáidu		dáidduidmáhttu	geavatlaš máhttu		
 praktiker					käytännön toimija	geavada aktevra		hárjehallit	geavatlaš doaibma		
 fronesiskunnskap					käytäntöön pohjautuva tieto	geavadii *pohjautuva diehtu		fronesiamáhttu	vuođđuduvvá praksisii		
 atferdsendring					käytöksen muutos	ealagearddi iežáhus		láhttenrievdadus	láhttema rievdadeapmi		
-atferdsforstyrrelse					käytöshäiriö	ealageardesegohus		láhttenváttisvuohta	láhttenváttisvuohta		
+atferdsforstyrrelse	geavahus hehttehus				käytöshäiriö	ealageardesegohus		láhttenváttisvuohta	láhttenváttisvuohta		
 atferdsfaktor					käytöstekijä	#ealageardi#dahkki		láhttenfáktor	láhttenvuohki		
 atferdsterapi					käytösterapia	ealageardeterapiija		láhttenterapiija	láhttenterapiija		
-kvalitetsnivå					laadun taso	dásu dássi		kvalitehtadássi	kvalitehta dássi		
+kvalitetsnivå	dássodássi				laadun taso	dásu dássi		kvalitehtadássi	kvalitehta dássi		
 kvalitetsutviklingstiltak					laadunkehittämistoimenpide	#dássu#ovddideapmidoaibmabidju		kvalitehtaovddidandoaibmabidju	kvalitehtaovdánahttindoaibmabidju		
 kvalitetsutviklingsarbeid					laadunkehittämistyö	#dássu#ovddideapmibargu		kvalitehtaovddidanbargu	kvalitehtaovdánahttinbargu		
 kvalitetsutviklingsprosess					laadunkehitysprojekti	dásoahtanuššanprojeakta		kvalitehtaovdánahttinproseassa	kvalitehtaovdánahttinprošeakta		
@@ -802,7 +802,7 @@ kvalitetsmål					laatutavoite	dássoulbmil		kvalitehtaulbmil	kvalitehtaulbmil
 institusjonsmiljø					laitosympäristö	ásahusbiras		institušuvdnabiras	lágádusbiras		
 brukerrettighetslov					laki potilaan oikeuksista	láhka #buohcci rivttiin		geavaheaddjivuoigatvuođaláhka	pasientta vuoigatvuođaid láhka		
 lovforbud					lakisääteinen kielto	*lakisääteinen gieldu		láhkagielddus	lágas mearriduvvon gielddus		
-laktoseintoleranse					laktoosi-intoleranssi	laktosaintoleránsa		laktosa-geaseheapmi	laktosa gierdameahttunvuohta		
+laktoseintoleranse	laktosaintoleránsa				laktoosi-intoleranssi	laktosaintoleránsa		laktosa-geaseheapmi	laktosa gierdameahttunvuohta		
 laktosetoleranse					laktoosin sietokyky	laktosa 		laktosa gierdameahttunvuohta	laktosa gierdilvuohta		
 lanolin					lanoliini			lanoliidna	lanoliidna		
 kolbe					lasiastia	mittalasi	láselihtti	gálbi	lásešlájas		
