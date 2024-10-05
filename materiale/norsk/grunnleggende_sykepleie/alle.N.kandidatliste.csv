@@ -577,7 +577,7 @@ kastrasjon					kastraatio kastroiminen			kastreren	gásttašeapmi
 tumor	šattalmas				kasvain	tuumori	guorti	šattalmas	šattalmas		
 vegetarrett	šaddoborramuš				kasvisruoka	ruonasgušta		šaddogirji	šaddodatborramuš		
 ansiktsuttrykk	muohtogeahčastat				kasvojen ilme	#muođut geahčastat		ámadaju	ámadaju hápmi		
-maskebruk	muohtomáskka atnin				kasvomaskin käyttö kasvosuojaimen käyttö	*kasvomaskin atnin *kasvosuojaimen atnin		čalmmehisvuohta	šaddo maskar geavahus šuddadanávdnasa geavahusas		
+maskebruk	muohtomáskka atnu				kasvomaskin käyttö kasvosuojaimen käyttö	*kasvomaskin atnin *kasvosuojaimen atnin		čalmmehisvuohta	šaddo maskar geavahus šuddadanávdnasa geavahusas		
 ansiktskrem	ámadadjovuoiddas				kasvovoide	njeazzevuoiddas		olggošbuhttehus	rasefuođđara		
 veksthormon	šaddohormona				kasvuhormoni	šaddohormona		ahtanuššanhormon	mu ahtanuššanhormon		
 katetersystem	katehtárvuogádat				katetrijärjestelmä	#katehtárvuogádat		kateteravuogádat	katetrálavuogádat		
@@ -822,45 +822,45 @@ sondeernæring					lekturuokinta	enteraalinen ravitsemus		sondealáhus	lektorbor
 hvilestoffskifte					lepoaineenvaihdunta	#vuoiŋŋasteapmi#ávnnasmolsašuvvan		vuoiŋŋasteapmi	vuoiŋŋasteapmi		
 hvilestilling	vuoiŋŋastanstellelmas				lepoasento	vuoiŋŋastanstellelmas		vuoiŋŋadanbáiki	vuoiŋŋadanlatnja		
 hvilesmerte	vuoiŋŋastanbávččas				lepokipu	vuoiŋŋastanbávččas		vuoiŋŋasteapmi	muhtinlágan vuoiŋŋasteapmi		
-hvilepuls	vuoiŋŋastanravkkas				leposyke  lepopulssi	*leposyke  vuoiŋŋastanravkkas		vuoiŋŋasteapmi	vuoiŋŋasteapmi		
+hvilepuls	vuoiŋŋastanravkkin	vuoiŋŋastanravkkas			leposyke  lepopulssi	*leposyke  vuoiŋŋastanravkkas		vuoiŋŋasteapmi	vuoiŋŋasteapmi		
 hvilevolum					lepovolyymi	vuoiŋŋastanvoluma		vuoiŋŋastanhivvodat	vuoiŋŋastanfálaldat		
 sondeløsning					letkuruokintavalmiste			sonnetčoavddus	dálkkas mii doalvu bottu		
 lidokain					lidokaiini			lidokaidna	lidokaidna		
-lindring					lievitys			geahpádus	ávžžuhus		
-muskelsvekkelse					lihasheikkous	oažžeheadju		deahkkemeahttun deattut	lihkadanvátni		
+lindring	geahpedeapmi				lievitys			geahpádus	ávžžuhus		
+muskelsvekkelse	deahkkeheadjuvuohta				lihasheikkous	oažžeheadju		deahkkemeahttun deattut	lihkadanvátni		
 muskelspenning					lihasjännite	oažžegealdu		deahkkesealgga	deahkkaleapmi		
-muskelkrampe					lihaskramppi	suonenveto	oažžekrámpa	min lihkastahttin	muskleravda		
+muskelkrampe	deahkkekrámpa	suotnageasáhat			lihaskramppi	suonenveto	oažžekrámpa	min lihkastahttin	muskleravda		
 muskelkrampe					lihaskramppi	suonenveto		min lihkastahttin	muskleravda		
 muskelfiber					lihaskuitu	oažžefiiber		dego muskulašávnnas	čáhppeslihtti		
-muskelmasse					lihasmassa	#oažži#mássá		deahkkemeahttun	deahkkemeahttun		
-muskelprotein					lihasproteiini	#oažži#proteidna		muskulašproteinealla	muskulatuvraproteiidna		
-muskelgruppe					lihasryhmä	oažžejoavku		muskkaljoavku	muskkaljoavku		
-muskelsykdom					lihassairaus	oažžebuohcu		deahkkedávda	mielkegusa dávda		
+muskelmasse	deahkkemássá				lihasmassa	#oažži#mássá		deahkkemeahttun	deahkkemeahttun		
+muskelprotein	deahkkeproteiidna				lihasproteiini	#oažži#proteidna		muskulašproteinealla	muskulatuvraproteiidna		
+muskelgruppe	deahkkejoavku				lihasryhmä	oažžejoavku		muskkaljoavku	muskkaljoavku		
+muskelsykdom	deahkkebuohcu	deahkkedávda			lihassairaus	oažžebuohcu		deahkkedávda	mielkegusa dávda		
 muskelknute					lihassolukasvaiN	 myooma	oažžeseallaguorti	muskulaš guolga	lihassolbmosuvdna		
 muskelkontraksjon					lihassupistus			deahkkemeahttun muskleráhkadeapmi	dakkár ahte oažžu lihkastagaid		
-muskelomfang					lihasten koko	oččiid #ollis		muskela viidodat	muskkal sturrodat		
-muskelbruk					lihasten käyttö	oččiid atnin		deahkkedoaibma	dego muskkelgeavaheapmi		
+muskelomfang	dehkiid sturrodat				lihasten koko	oččiid #ollis		muskela viidodat	muskkal sturrodat		
+muskelbruk	dehkiid gaevaheapmi				lihasten käyttö	oččiid atnin		deahkkedoaibma	dego muskkelgeavaheapmi		
 muskelatrofi					lihasten surkastuminen	oččiid 		deahkkedávda	deahkkemeahttun lihkastagat		
 muskelsvinn					lihasten surkastuminen	lihasatrofia	oččiid 	deahkkemeahttun	deahkkemeahttun lihkastagat		
-muskelaktivitet					lihastoiminta	oažžedoaibma		deahkkedoaibma	dego lihkahallan		
-muskelarbeid					lihastyö	oažžebargu		deahkkedoaibma	lihkadus		
-muskelkraft					lihasvoima	oažžefápmu		muskulaš jođiheapmi	muskulaš jođádat		
+muskelaktivitet	deahkkedoaibma				lihastoiminta	oažžedoaibma		deahkkedoaibma	dego lihkahallan		
+muskelarbeid	deahkkebargu				lihastyö	oažžebargu		deahkkedoaibma	lihkadus		
+muskelkraft	deahkkefábmu				lihasvoima	oažžefápmu		muskulaš jođiheapmi	muskulaš jođádat		
 muskelvolum					lihasvolyymi  lihastilavuus	oažževoluma #oažži#daddjásvuohta  		deahkkemearri	muskkaluossamihttu		
-overskuddsvæske					liika neste ylimääräinen neste	liigi siedja #badjelmearálaš siedja		badjelmearálaš golgi	ila olu golggus badjelmearálaš golggus		
-bevegelighetstrening					liikeharjoittelu	gávpehárjehallan		lihkadanhárjehallan	fitnodatdoaibma		
-bevegelsesinnskrenkning					liikerajoite	gávperáddjen		lihkadanráddjen	fitnodatrádji		
+overskuddsvæske	liigi golggus				liika neste ylimääräinen neste	liigi siedja #badjelmearálaš siedja		badjelmearálaš golgi	ila olu golggus badjelmearálaš golggus		
+bevegelighetstrening	lihkadanhárjehallan				liikeharjoittelu	gávpehárjehallan		lihkadanhárjehallan	fitnodatdoaibma		
+bevegelsesinnskrenkning	lihkadanráddjen				liikerajoite	gávperáddjen		lihkadanráddjen	fitnodatrádji		
 mobilisering					liikkeellelähtö			mobiliseren	johtingeađgejuolgi		
 bevegelsesforstyrrelse					liikkumishäiriö	lihkkat segohus		lihkahallanváttisvuohta	lihkahallanváttisvuohta		
 bevegelseskapasitet					liikkumiskapasiteetti	lihkkat #kapasitehtta		lihkadanváldi	lihkadanváldi		
 aktivitetstoleranse					liikunnan sietokyky	lášmmohallama 		aktivitehtadohkálašvuohta	lihkadeami gierdavašvuohta		
-førlighet					liikuntakyky	lášmmohallangálga		ovdavuohta	lihkadanmáhttu		
-slimhinneødem					limakalvoturvotus			muohttašgođđosa bođus	guođđinlihkohisvuohta		
+førlighet	lihkadannákca				liikuntakyky	lášmmohallangálga		ovdavuohta	lihkadanmáhttu		
+slimhinneødem	vuohččecuozzabohtaneapmi				limakalvoturvotus			muohttašgođđosa bođus	guođđinlihkohisvuohta		
 slimmobilisering					liman liikkeelle saaminen	njivlli gávpái oažžut		šliivvillihkadeapmi	moivi mii sirdojuvvo		
 slimproduksjon					liman tuotanto	njivlli duddjon		šliivvasbuvttadus	šliivvi buvtta		
-slimsekresjon					limaneritys	njivllevuohčun		šliivvasekresuvdna	rievssatbivttas		
-tilsetning					lisä	lassi		lasáhus	lasáhus		
-tilsetningsmiddel					lisäaine	lasseávnnas		lasahus	lasseávnnas		
-binyremarg					lisämunuaisydin	#lassi#monimušađa		bihtánsáidi	lassiođđasa váimmus		
+slimsekresjon	šliivevuohcun				limaneritys	njivllevuohčun		šliivvasekresuvdna	rievssatbivttas		
+tilsetning	lassi				lisä	lassi		lasáhus	lasáhus		
+tilsetningsmiddel	lasseávnnas				lisäaine	lasseávnnas		lasahus	lasseávnnas		
+binyremarg	lassemanimušađa				lisämunuaisydin	#lassi#monimušađa		bihtánsáidi	lassiođđasa váimmus		
 tilleggsbelastning					lisätaakka	lassenoađđi		lassi noađđi	lassi noađđi		
 tilleggskrav					lisävaatimus	lassegáibádus		lassigáibádusat	lassegáibádus		
 strimmelundersøkelse					liuskatesti			suoggadaniskkus	skievravárri		
