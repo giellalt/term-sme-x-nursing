@@ -63,42 +63,16 @@ herpes genitalis	Phrase	sukupuoliherpes genitaaliherpes
 histologisk undersøkelse	Phrase	(kudos)näytteen histologinen tutkimus
 humant papillomavirus-infeksjon (HPV)	Phrase	papillomavirus HPV	
 hyperton dehydrering	Phrase	hypertoninen kuivuma hypertoninen dehydraatio
-immunmodulerende legemidler	Phrase	
-immunsupprimerende legemidler	Phrase	
-inkontinens. Se urininkontinens	Phrase	
-intermitterende kateterisering	Phrase	
-intraabdominalt trykk	Phrase	
-intrakranial skade og sykdom	Phrase	
-intrakranialt trykk	Phrase	
-intraokulært trykk	Phrase	
-intrarenal akutt nyreskade	Phrase	
-intravenøs ernæring	Phrase	
-intravesikal instillasjonsbehandling	Phrase	
-in vitro-fertilisering (IVF)	Phrase	
-isometriske øvelser	Phrase	
-isoton dehydrering	Phrase	
-juvenil artritt	Phrase	
-katabol fase	Phrase	
-katarakt (grå stær)	Phrase	
-kjemoterapi. Se cytostatikabehandling	Phrase	
-kontinent ileostomi	Phrase	
-kroniske sår	Phrase	
-kronisk leversvikt	Phrase	
-kronisk nyresvikt	Phrase	
-kronisk pankreatitt	Phrase	
-kroppslige endringer	Phrase	
-kroppslig viten	Phrase	
-kvalme og brekninger	Phrase	
-lavt blodtrykk. Se hypotensjon; Se hypotensjon	Phrase	
-Lazarus teori	Phrase	
-leddgikt. Se revmatoid artritt	Phrase	
-magnetisk resonans-kolangiopankreatikografi	Phrase	
-malignt hjerneødem	Phrase	
-medisinsk abort	Phrase	
-meningsrettet mestring	Phrase	
-mobiliseringsregime etter kirurgi	Phrase	
-motorisk afasi	Phrase	
-multippel sklerose (MS)	Phrase	
+immunmodulerende	N	immuunivastetta moduloiva
+immunsupprimerende	N	immunospupressiivinen
+intraokulær	A   silmänsisäinen  intraokulaarinen    silmän sisäosaa koskeva		
+intravesikal instillasjonsbehandling	Phrase	virtsarakon sisäinen infuusiohoito  intravesikaalinen instillaatiohoito
+isometrisk øvelse	Phrase	isometrinen harjoitus
+isoton dehydrering	Phrase	isotoninen kuivuma   isotoninen dehydraatio
+juvenil artritt	Phrase	lastenreumaStillin tauti
+kontinent ileostomi	Phrase	pysyvä ohutsuoliavanne
+kroppslig viten	Phrase	kehollinen tieto	
+medisinsk abort	Phrase	lääkkeellinen abortti	
 myasten krise	Phrase	
 myasthenia gravis	Phrase	
 myoma uteri	Phrase	
