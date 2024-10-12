@@ -861,26 +861,26 @@ slimsekresjon	šliivevuohcun				limaneritys	njivllevuohčun		šliivvasekresuvdna
 tilsetning	lassi				lisä	lassi		lasáhus	lasáhus		
 tilsetningsmiddel	lasseávnnas				lisäaine	lasseávnnas		lasahus	lasseávnnas		
 binyremarg	lassemanimušađa				lisämunuaisydin	#lassi#monimušađa		bihtánsáidi	lassiođđasa váimmus		
-tilleggsbelastning					lisätaakka	lassenoađđi		lassi noađđi	lassi noađđi		
-tilleggskrav					lisävaatimus	lassegáibádus		lassigáibádusat	lassegáibádus		
+tilleggsbelastning	lassenoađđi				lisätaakka	lassenoađđi		lassi noađđi	lassi noađđi		
+tilleggskrav	lassegáibádus				lisävaatimus	lassegáibádus		lassigáibádusat	lassegáibádus		
 strimmelundersøkelse					liuskatesti			suoggadaniskkus	skievravárri		
-hoftebrudd					lonkkamurtuma			čoarbbeallađas	beaiveloddu		
+hoftebrudd	čoarvedáktegullan				lonkkamurtuma			čoarbbeallađas	beaiveloddu		
 ukrenkelighet					loukkaamattomuus			rihkokeahtesvuohta	loavkašmeahttun		
 lukking					lukitseminen	lukitsemislaite	lásset	giddenáigi	lohkkaduvvon		
 låsbar					lukittava			lohkkadanláhkái	lohkkaduvvot		
 klassifikasjonssystem					luokittelujärjestelmä	klassifiserenvuogádat		klassifiserenvuogádat	klassifiserenvuohki		
 tillitsforhold					luottamussuhde	dorvogorri		luohttámušdilálašvuohta	luohttámušvuohta		
-ben					luu	dákti		dávttit	luossa		
-skjelettsystem					luujärjestelmä	dáktevuogádat		dákteriggevuogádat	dávttiidvuogádat		
-beinbrudd					luunmurtuma			dávttis	dávttis		
+ben	dákti				luu	dákti		dávttit	luossa		
+skjelettsystem	dáktevuogádat				luujärjestelmä	dáktevuogádat		dákteriggevuogádat	dávttiidvuogádat		
+beinbrudd	gullan				luunmurtuma			dávttis	dávttis		
 beintetthet					luuntiheys 	#dákti#deahtisvuohta 		dávttit	dávttit 		
 skjelettmuskulatur					luustolihas	luurankolihas	dákteriggeoažži	dákteriggemuskulatuvra	dákteriggečalbmi		
-beinmarg					luuydin	dákteađa		dávttit	dákteriggi		
+beinmarg	dákteađa				luuydin	dákteađa		dávttit	dákteriggi		
 avlastningsopphold					lyhytaikaishoito			helpensorrun	oanehisáigge dikšu		
 litteraturliste					lähdeluettelo	gáldolistu		girjjálašvuođalisttu	gáldut		
 nestenuhell					lähesonnettomuus			measta áibbas jávkan	measta juo lihkohisvuohta		
-helsefagarbeider					lähihoitaja	#lagasdivššár		dearvvašvuođafágabargi	lagasdivššár		
-nestekjærlighet					lähimmäisenrakkaus			nubbi-ráhkisvuohta	lagamus ráhkisvuohta		
+helsefagarbeider	lagasdivššar	lagasdiksu			lähihoitaja	#lagasdivššár		dearvvašvuođafágabargi	lagasdivššár		
+nestekjærlighet	lagamučča ráhkisvuohta				lähimmäisenrakkaus			nubbi-ráhkisvuohta	lagamus ráhkisvuohta		
 baseline					lähtökohta vertailukohta	vuolggačuokkis veardádusčuokkis		baseline	buohtastahttima vuolggasadji		
 varmetapet					lämmmönhukka			liekkasvuođa manaheapmi	galbmafeaskkir		
 varmeproduksjon					lämmön tuotanto	lieggasa duddjon		lieggabuvttadeapmi	lieggasa buvttadeapmi		
@@ -891,7 +891,7 @@ temperaturregulering					lämmönsäätely	#liekkasvuohtamudden		temperatuvrahei
 temperatursans					lämpöaisti	liekkasdovdda		temperatuvrra mearri	liekkasvuođamihttu		
 heteslag					lämpöhalvaus	#liekkas#ravkin		báhkkasátni	liegganeapmi		
 varmelaken					lämpölakana suojapeite	*lämpölakana suodjegovččas		báhkkenjuolggadus	lieggavisttis suodji		
-termometer					lämpömittari			termomehter	temperatuvraárvomearri		
+termometer	liekkasmihttár				lämpömittari			termomehter	temperatuvraárvomearri		
 temperaturforhold					lämpøolosuhteet			temperatuvra	lieggasoasit		
 varmepose					lämpöpussi	liekkasbusse		báhkaseahkka	lieggaskoađas		
 passasjehindring					läpikulkueste	ráigejohtueastta		vánddardan- hehttehussan	čađačuovgi		
