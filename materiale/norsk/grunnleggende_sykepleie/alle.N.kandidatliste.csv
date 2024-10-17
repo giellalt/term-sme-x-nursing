@@ -19,7 +19,7 @@ tidsdimensjon					aikaulottuvuus	áigeolli		áigedimenšuvdna	áigedimenšuvdna	
 metabolisme	ávnnasmolsašuvvan				aineenvaihdunta	metabolia	#ávnnasmolsašuvvan	metabolisma	ávnnaslotnolasvuohta	metabolisma	metabolisma
 stoffomsetning	ávnnasmolsašuvvan				aineenvaihdunta	#ávnnasmolsašuvvan		ávnnasjohtu	ávnnaslotnolasvuohta	metabolisma	metabolisma
 stoffskifteprosess	ávnnasmolsašuvvanproseassa				aineenvaihduntaprosessi	#ávnnasmolsašuvvanproseassa		ávnnasmolsašuddama proseassa	ávnnasmolsašuddanproseassa	metabolalaš proseassa	metabolalaš proseassa
-stoffskiftesykdom	ávnnasmolsašuvvanbuohcu				aineenvaihduntasairaus	#ávnnasmolsašuvvanbuohcu		ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	metabolalaš dávda	metabolalaš dávda
+stoffskiftesykdom	ávnnasmolsašuvvanbuohcu				aineenvaihduntasairaus			ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	metabolalaš dávda	metabolalaš dávda
 stoffskiftesykdom	ávnnasmolsašuvvanbuohcu				aineenvaihduntasairaus		#ávnnasmolsašuvvanbuohcu	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	hallusinašuvdna	hallusinašuvdna
 sansning					aistiminen	tuntemus		vuohttimis	dovdamuš	dovdu	dovdu
 sansehage					aistipuutarha	dovddagárdin		áiccangárdi	áiccangárdi	áddejupmegárdi	áddejupmegárdi
