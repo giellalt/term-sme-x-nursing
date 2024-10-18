@@ -881,9 +881,9 @@ litteraturliste					lähdeluettelo	gáldolistu	bibliografiija	referánsalistu	gi
 nestenuhell					lähesonnettomuus		lahka vajálduhttit	lahka vajálduhttit	measta áibbas jávkan	measta juo lihkohisvuohta	
 helsefagarbeider	lagasdivššar	lagasdiksu			lähihoitaja	#lagasdivššár	dearvvašvuođabargi	bearašbuohccidivššár	dearvvašvuođafágabargi	lagasdivššár	
 nestekjærlighet	lagamučča ráhkisvuohta				lähimmäisenrakkaus		buorredagolašvuohta	ráhkisvuohta lagamuččaide	nubbi-ráhkisvuohta	lagamus ráhkisvuohta	
-baseline					lähtökohta vertailukohta	vuolggačuokkis veardádusčuokkis	vuođđolinjá	vuolggasadji referánsačuokkis	baseline	buohtastahttima vuolggasadji	
-varmetapet					lämmmönhukka		lieggasa jávkan	lieggasa jávkan	liekkasvuođa manaheapmi	galbmafeaskkir	
-varmeproduksjon					lämmön tuotanto	lieggasa duddjon	lieggasa buvttadeapmi	lieggasa buvttadeapmi	lieggabuvttadeapmi	lieggasa buvttadeapmi	
+baseline	baseline	vuolggasadji			lähtökohta; vertailukohta; baseline	vuolggačuokkis veardádusčuokkis	vuođđolinjá	vuolggasadji referánsačuokkis	baseline	buohtastahttima vuolggasadji	
+varmetap	liekkasmanaheapmi				lämmmönhukka		lieggasa jávkan	lieggasa jávkan	liekkasvuođa manaheapmi	galbmafeaskkir	
+varmeproduksjon	liekkasbuvttadeapmi				lämmön tuotanto	lieggasa duddjon	lieggasa buvttadeapmi	lieggasa buvttadeapmi	lieggabuvttadeapmi	lieggasa buvttadeapmi	
 temperaturmåling					lämmönmittaus	lieggasamihtideapmi	temperatuvrra mihtideapmi	lieggasa mihtideapmi	temperatuvramihtideapmi	liekkasmihtideapmi	
 temperaturstigning					lämmönnousu	#liekkas#loktaneapmi	temperatuvrra lassáneapmi	lieggasa loktanan	temperatuvrra loktaneapmi	temperatuvra mii loktana	
 varmestråling					lämmönsäteily	lieggasasuonjardeapmi	lieggačuovggat	lieggačuovggat	liegganeapmi	suotnjardeapmi	
@@ -2040,8 +2040,8 @@ forståelsesmåte					ymmärrystapa	áddendáhpi	áddejumi vuohki	áddejumi vuoh
 omverden					ympäristö	biras	olggobeale máilbmi	biras	olgomáilbmi	biras	
 omgivelsestemperatur					ympäristön lämpötila	birrasa temperatuvra	birrasa temperatuvra	birrasa temperatuvra	temperatuvra birrasis	birrasa temperatuvra	
 hosteteknikk					yskimistekniikka	gossat teknihkka	gosahatteknihkka	gosahatteknihkka	gossanteknihkka	gossanteknihkka	
-hostekraft					yskimisvoima		gosahatfápmu	gosahatfápmu	gossanfápmu	gosohatvuoibmi	gossat fápmu
-hostemaskin					yskityslaite		gosahatmášiidna	gosahatrusttet	goaskinmašiidna	gossanrusttet	
+hostekraft	gossanfápmu				yskimisvoima		gosahatfápmu	gosahatfápmu	gossanfápmu	gosohatvuoibmi	gossat fápmu
+hostemaskin	gossanmášiidna				yskityslaite		gosahatmášiidna	gosahatrusttet	goaskinmašiidna	gossanrusttet	
 hosteanfall					yskänkohtaus	#gosahat#dohppehallat	gosahat	gosahat	gosohatdávda	gosohatdávda	
 hosterefleks					yskänrefleksi	gosahatrefleaksa	gosahatrefleksa	gosahatrefleksa	gossanrefleksa	gosohatrefleksa	
 besøkstjeneste					ystävätoiminta	ustitdoaibma	galledanbálvalus	ustitdoaibma	guossebálvalus	ustitvuođa doaibma	
