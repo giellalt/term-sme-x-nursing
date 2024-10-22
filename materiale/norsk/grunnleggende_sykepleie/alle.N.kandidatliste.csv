@@ -359,7 +359,7 @@ behandlingssvikt	divššu eahpelihkostupmi				hoidon epäonnistuminen	divššu e
 omsorgsbegrep	divššu doapa				hoidon käsite	divššu doaba	sormsbegrep	dikšunkonsepta	fuolahusdoaba	divššu doaba	
 behandlingskvalitet	divššu dássi				hoidon laatu	divššu dássu	dikšuma kvalitehta	dikšuma kvalitehta	dikšunkvalitehta	dikšuma kvalitehta	
 omsorgsdepartement		norjalainen titteli?			hoidon ministeriö (NO)	divššu ministeriija	fuolahusossodat	Fuolahusdepartemeanta (NO)	fuolahusdepartemeanta	dearvvašvuođa ministeriija	
-behandlingsopplegg	divššu plána				hoitosuunnitelma	divššu plána	dikšunvejolašvuohta	dikšunplána	dikšunskovvi	divššu plána	
+behandlingsopplegg	divššu plána	dikšunplána			hoitosuunnitelma	divššu plána	dikšunvejolašvuohta	dikšunplána	dikšunskovvi	divššu plána	
 behandlingsplan	divššu plána				hoitosuunnitelma	divššu plána	dikšunplána	dikšunplána	dikšunplána	divššu plána	
 behandlingsregime	divššu plána				hoitosuunnitelma	divššu plána	dikšunortnet	dikšunplána	dikšunvuohki	divššu plána	
 kartleggingssamtale	divššu dárbbu árvvoštallan ságastallan				hoidon tarpeen arviointikeskustelu	divššu dárbbu evaluerengulahallan	kartleggingssamtale	dikšundárbbu árvvoštallan ságastallan	kártenságastallan	dikšundárbbu árvvoštallan ságastallan	
@@ -884,31 +884,31 @@ nestekjærlighet	lagamučča ráhkisvuohta				lähimmäisenrakkaus		buorredagola
 baseline	baseline	vuolggasadji			lähtökohta; vertailukohta; baseline	vuolggačuokkis veardádusčuokkis	vuođđolinjá	vuolggasadji referánsačuokkis	baseline	buohtastahttima vuolggasadji	
 varmetap	liekkasmanaheapmi				lämmmönhukka		lieggasa jávkan	lieggasa jávkan	liekkasvuođa manaheapmi	galbmafeaskkir	
 varmeproduksjon	liekkasbuvttadeapmi				lämmön tuotanto	lieggasa duddjon	lieggasa buvttadeapmi	lieggasa buvttadeapmi	lieggabuvttadeapmi	lieggasa buvttadeapmi	
-temperaturmåling					lämmönmittaus	lieggasamihtideapmi	temperatuvrra mihtideapmi	lieggasa mihtideapmi	temperatuvramihtideapmi	liekkasmihtideapmi	
-temperaturstigning					lämmönnousu	#liekkas#loktaneapmi	temperatuvrra lassáneapmi	lieggasa loktanan	temperatuvrra loktaneapmi	temperatuvra mii loktana	
+temperaturmåling	lieggasa mihtideapmi				lämmönmittaus	lieggasamihtideapmi	temperatuvrra mihtideapmi	lieggasa mihtideapmi	temperatuvramihtideapmi	liekkasmihtideapmi	
+temperaturstigning	lieggasa lokanan				lämmönnousu	#liekkas#loktaneapmi	temperatuvrra lassáneapmi	lieggasa loktanan	temperatuvrra loktaneapmi	temperatuvra mii loktana	
 varmestråling					lämmönsäteily	lieggasasuonjardeapmi	lieggačuovggat	lieggačuovggat	liegganeapmi	suotnjardeapmi	
 temperaturregulering					lämmönsäätely	#liekkasvuohtamudden	temperatuvrra reguleren	temperatuvrra reguleren	temperatuvraheivehallan	galmmasuoidnen	
-temperatursans					lämpöaisti	liekkasdovdda	temperatuvrra dovdu	termalaš dovdu	temperatuvrra mearri	liekkasvuođamihttu	
+temperatursans	liekkasáicu				lämpöaisti	liekkasdovdda	temperatuvrra dovdu	termalaš dovdu	temperatuvrra mearri	liekkasvuođamihttu	
 heteslag					lämpöhalvaus	#liekkas#ravkin	lieggačuohpadeapmi	lieggačuohpadeapmi	báhkkasátni	liegganeapmi	
 varmelaken					lämpölakana suojapeite	*lämpölakana suodjegovččas	lieggananbláđđi	dego termalaš lávki, suodjaluslávdi	báhkkenjuolggadus	lieggavisttis suodji	
 termometer	liekkasmihttár				lämpömittari		termomehter	termomehter	termomehter	temperatuvraárvomearri	
 temperaturforhold					lämpøolosuhteet		temperatuvrra dilit	temperatuvrra dilit	temperatuvra	lieggasoasit	
-varmepose					lämpöpussi	liekkasbusse			báhkaseahkka	lieggaskoađas	
+varmepose	liekkasbusse				lämpöpussi	liekkasbusse			báhkaseahkka	lieggaskoađas	
 passasjehindring					läpikulkueste	ráigejohtueastta			vánddardan- hehttehussan	čađačuovgi	
-nærvær					läsnäolo				lahkavuohta	oassálastimis	
-legemiddelvirkning					lääkeaineen vaikutus	dálkkasávdnasa váikkuhus			dálkkaslaš váikkuhus	ávdnasiid váikkuhus	
+nærvær	mieldeorrun				läsnäolo				lahkavuohta	oassálastimis	
+legemiddelvirkning	dálkkasávdnasa váikkuhus				lääkeaineen vaikutus	dálkkasávdnasa váikkuhus			dálkkaslaš váikkuhus	ávdnasiid váikkuhus	
 medisindispenser					lääkeannostelija				dálkkasdildojuvvon	narkogeavaheaddji	
 legemiddelhåndtering					lääkehoidon toteuttaminen	dálkkasdivššu čađahit			dálkkasgieđahallan	dálkkasgieđahallama čađaheapmi	
-legemiddelbehandling					lääkehoito	dálkkasdikšu			dálkkasgieđahallan	dálkkasdikšu	
-legemiddelregime					lääkehoitosuunnitelma	dálkkasdikšoplána			dálkkasrešuvdna	Dálkkodanriekkis	
-legemiddelhåndbok					lääkeopas	dálkkasofelaš			dálkkasgiehtagirji	dálkkasbagadus	
-medisinhistorie					lääketieteen historia	dálkkasdiehtaga historjá			dálkkashistorjá	medisiinnalaš historjá	
-legemiddelkurve					lääkityslista  lääkelista	#dálkun#lista #dálkkas#lista  			dálkkaskoarta	medisiinnalaš listu	
+legemiddelbehandling	dálkkasdikšu				lääkehoito	dálkkasdikšu			dálkkasgieđahallan	dálkkasdikšu	
+legemiddelregime	dálkkasdikšunplána				lääkehoitosuunnitelma	dálkkasdikšoplána			dálkkasrešuvdna	Dálkkodanriekkis	
+legemiddelhåndbok	dálkkasofelaš	dálkkasoahpistangirji			lääkeopas	dálkkasofelaš			dálkkasgiehtagirji	dálkkasbagadus	
+medisinhistorie	dálkkasdiehtaga historjá				lääketieteen historia	dálkkasdiehtaga historjá			dálkkashistorjá	medisiinnalaš historjá	
+legemiddelkurve	dálkkaslistu				lääkityslista  lääkelista	#dálkun#lista #dálkkas#lista  			dálkkaskoarta	medisiinnalaš listu	
 legemiddelliste					lääkityslista  lääkelista	#dálkun#lista #dálkkas#lista  			lea dálkasiid birra	medisiinnalaš listu	
-medisineringstidspunkt					lääkkeenantoaika	dálkasaaddináigi			dálkkastidjanáigi	lea dál	
-legetime					lääkäriaika	doavtteráigi			dálkkasdiibmu	doavttirstudeanta	
-legetilsyn					lääkärinhoito	doaktáradikšu			doavttergeahčču	doavtterdálkkodeapmi	
-legevisitt					lääkärinkierto	doaktáragarvin			dálkkasdiehtu	doavttirguorahallan	
+medisineringstidspunkt	dálkasaaddináigi				lääkkeenantoaika	dálkasaaddináigi			dálkkastidjanáigi	lea dál	
+legetime	doavttiráidi				lääkäriaika	doavtteráigi			dálkkasdiibmu	doavttirstudeanta	
+legetilsyn	doaktáradikšu				lääkärinhoito	doaktáradikšu			doavttergeahčču	doavtterdálkkodeapmi	
+legevisitt	doaktáragarvin				lääkärinkierto	doaktáragarvin			dálkkasdiehtu	doavttirguorahallan	
 innvandrerbakgrunn					maahanmuuttajatausta	#sisafárrejeaddjiduogáš			sisafárrenduogáš	sisafárrenduogáš	
 verdensbegrep					maailmankuva  maailmankäsitys				máilmmi doaba	máilmmigovva máilmmis	
 lekfolk					maallikko				stoahkanolbmot	eananeaiggát	
