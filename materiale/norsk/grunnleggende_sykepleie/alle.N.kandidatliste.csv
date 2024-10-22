@@ -457,7 +457,7 @@ idealkropp					ihannekeho		ideála rumaš	ideála rumaš	ideála gorut	áibbas a
 menneskekropp					ihmiskeho		olbmo rumaš	olbmo rumaš	olbmo gorut	olbmo gorut	
 menneskeoppfatning	olmmošoaidnu				ihmiskäsitys		olbmo oaidnu	olbmo oaidnu	olbmuid oaidnu	olbmuid oaidnu	
 gåsehud	liiki vuoncábierggus				iho kananlihalla	liiki vuoncábierggus	njuoratmánná	náhki mas lea čihččetbiergu	goaskinis	gámačeabeha náhkki	
-hudproblem	liikeproblema				iho-ongelma	liikeproblema	ivdneváttisvuohta	ivdneváttisvuohta	miha čuolbma	juoga mii čuohcá	
+hudproblem	liikeproblema	liikeváttisvuohta			iho-ongelma	liikeproblema	ivdneváttisvuohta	ivdneváttisvuohta	miha čuolbma	juoga mii čuohcá	
 hudombud	liikeproblemaide čiekŋudit vástu buohccedivššár				iho-ongelmiin paneutunut vastuusairaanhoitaja	liikeproblemaide #čiekŋudit #vástu#buohccidikšu	ivdneávnnas	buohccidivššár fokusere ivdneváttisvuođaide	luddesteaddji	ovddasvástádusbuohccedivššár, guhte lea čalmmustahttán iežas skihpáriid	
 hudsans	liikeáicu, dovdoáicu	liikedovdu			ihoaisti  tuntoaisti kosketusaisti	liikedovdda dovdodovdda  guoskkahusdovdda	ivdnedovdu	ivdnedovdu guoskkaheami dovdu guoskkaheami dovdu	miellačájeheapmi	áibbaš dovddakeahtes guoskkaheapmi	
 hudområde	liikeguovlu				ihoalue	liikeguovlu	ivdneguovlu	ivdneguovlu	guovlu gos oaidná	lunddolaš	
@@ -879,7 +879,7 @@ beinmarg	dákteađa				luuydin	dákteađa	beanavuodjin	beanavuodjin	dávttit	dá
 avlastningsopphold					lyhytaikaishoito		veahkkeorrun	oanehisáigásaš dikšun	helpensorrun	oanehisáigge dikšu	
 litteraturliste					lähdeluettelo	gáldolistu	bibliografiija	referánsalistu	girjjálašvuođalisttu	gáldut	
 nestenuhell					lähesonnettomuus		lahka vajálduhttit	lahka vajálduhttit	measta áibbas jávkan	measta juo lihkohisvuohta	
-helsefagarbeider	lagasdivššar	lagasdiksu			lähihoitaja	#lagasdivššár	dearvvašvuođabargi	bearašbuohccidivššár	dearvvašvuođafágabargi	lagasdivššár	
+helsefagarbeider	lagasdivššar	lagasdikšu			lähihoitaja	#lagasdivššár	dearvvašvuođabargi	bearašbuohccidivššár	dearvvašvuođafágabargi	lagasdivššár	
 nestekjærlighet	lagamučča ráhkisvuohta				lähimmäisenrakkaus		buorredagolašvuohta	ráhkisvuohta lagamuččaide	nubbi-ráhkisvuohta	lagamus ráhkisvuohta	
 baseline	baseline	vuolggasadji			lähtökohta; vertailukohta; baseline	vuolggačuokkis veardádusčuokkis	vuođđolinjá	vuolggasadji referánsačuokkis	baseline	buohtastahttima vuolggasadji	
 varmetap	liekkasmanaheapmi				lämmmönhukka		lieggasa jávkan	lieggasa jávkan	liekkasvuođa manaheapmi	galbmafeaskkir	
@@ -909,68 +909,68 @@ medisineringstidspunkt	dálkasaaddináigi				lääkkeenantoaika	dálkasaaddinái
 legetime	doavttiráidi				lääkäriaika	doavtteráigi			dálkkasdiibmu	doavttirstudeanta	
 legetilsyn	doaktáradikšu				lääkärinhoito	doaktáradikšu			doavttergeahčču	doavtterdálkkodeapmi	
 legevisitt	doaktáragarvin				lääkärinkierto	doaktáragarvin			dálkkasdiehtu	doavttirguorahallan	
-innvandrerbakgrunn					maahanmuuttajatausta	#sisafárrejeaddjiduogáš			sisafárrenduogáš	sisafárrenduogáš	
-verdensbegrep					maailmankuva  maailmankäsitys				máilmmi doaba	máilmmigovva máilmmis	
-lekfolk					maallikko				stoahkanolbmot	eananeaiggát	
-magnesium					magnesium				magnesium 	magnesium 	
-magesaft					mahaneste	čoavjjeeastta			čoavjjesiika	ráigi	
-melkesukker					maitosokeri	mielkesohkar			mielkegorudiidna	mielkegorudiidna	
+innvandrerbakgrunn	sisafárrejeaddjiduogáš				maahanmuuttajatausta	#sisafárrejeaddjiduogáš			sisafárrenduogáš	sisafárrenduogáš	
+verdensbegrep	máilmmigovva	máilmmifiehttu			maailmankuva  maailmankäsitys				máilmmi doaba	máilmmigovva máilmmis	
+lekfolk	oahpoheapme				maallikko				stoahkanolbmot	eananeaiggát	
+magnesium	magnesium				magnesium				magnesium 	magnesium 	
+magesaft	čoavjjegolggus				mahaneste	čoavjjeeastta			čoavjjesiika	ráigi	
+melkesukker	mielkesohkar				maitosokeri	mielkesohkar			mielkegorudiidna	mielkegorudiidna	
 melkegang					maitotiehyt				mielkegolaheapmi	mielkegorudiidna	
 sengeleie					makuuasento	vuodehoito			seaŋgabeavddáš	oađđenseaŋka	
 mansjett					mansetti				giehtamihttu	giehtamánná	
 marihuana					marihuana	kannabis			marihuána	marihuána	
-mask					maski				maska	maska	
+mask	máskka				maski				maska	maska	
 maskebehandling					maskilla annettava happihoito	*maskilla *annettava oksygenadikšu			čalmmehahtti ášši	oksygenaduohtadeapmi maskain	
 masseindeks					massaindeksi	#mássá#indeksa			čoahkkeindeaksa	čoahkkeindeaksa	
 master					master				master	master	
 melatoninutskilling					melatoniinin eritys	*melatoniinin vuohčun			melaton- sirren	melatonin-golgodahkuhus	
-støynivå					melutaso	riedjadássi			jienaid dássi	šlápmadássi	
+støynivå	ruodjadássi				melutaso	riedjadássi			jienaid dássi	šlápmadássi	
 støyskade					meluvaurio	#riedja#vaháguvvan			jienastanvahát	šlápmafearán	
 mentorordning					mentorointiohjelma				mentorortnet	mentoranprográmma	
 betydningsinnhold					merkityssisältö	oaivilsisdoallu			mearkkašumi sisdoallu	mearkašupmi	
 meskalin					meskaliini				meskalin	meskalin	
 metaanalyse					meta-analyysi				metanalysa	meta-analysa	
 metasyntese					metasynteesi				metasyntesa	metasyntesa	
-sinnsstemning					mieliala	hállosuorgi			miellačájáhus	miellačájáhus	
-stemningsleie					mieliala	hállosuorgi			miellačájeheapmi	miellačájáhus	
-velbehag					mielihyvä	dáhttu			vuogas	suohtas	
-migrene					migreeni	oaivebávččas			migreena	migreana	
-minustegn					miinusmerkki	minusmearka			minusmearka	minus mearka	
+sinnsstemning	miellaláhki				mieliala	hállosuorgi			miellačájáhus	miellačájáhus	
+stemningsleie	miellaláhki				mieliala	hállosuorgi			miellačájeheapmi	miellačájáhus	
+velbehag	loksu				mielihyvä	dáhttu			vuogas	suohtas	
+migrene	migreena				migreeni	oaivebávččas			migreena	migreana	
+minustegn	minusmearka				miinusmerkki	minusmearka			minusmearka	minus mearka	
 mikroorganisme					mikro-organismi				mikroorganismmat	mikroorganisma	
 mikrobe					mikrobi				mikrobalaš	mikrobiella	
 mikroskop					mikroskooppi				mikroskohppa	mikroskohppa	
 mikroteori					mikroteoria				mikroteoriija	mikroteoriija	
 mikstur					mikstuura				miniturisma	mikstuvra	
-milliliter					millilitra				millilittárat	millilittár	
+milliliter	millilihttar				millilitra				millilittárat	millilittár	
 mimikk					mimiikka 	ilmehtiminen			mimihkka	eahpelunddolaš	
 minuttventilasjon					minuuttikeuhkotuuletus minuuttiventilaatio	*minuuttikeuhkotuuletus 			minuhtta- ventilašuvdna	minuhtačoallu ja minuvttačoallu	
 minuttvolum					minuuttivolyymi				minuhta jietnadat	minuhttavoluma	
-ml					ml	millilitra			ml	ml	
+ml	ml				ml	millilitra			ml	ml	
 MNA-skjema	MNA-skovvi				MNA-testilomake				MNA-skovvi	MNA-dárkkistanskovvi	
 monitor					monitori				monitor	monitora	
 mol					mooli				mol	moalla	
 mortalitet					mortaliteetti	kuolleisuus			jámolašvuohta	jábálašvuohta	
-MS-medisin					MS-tautilääke				MS-dálkkas	MS-dávdda dálkkas	
+MS-medisin	MS-dávdadálkkas				MS-tautilääke				MS-dálkkas	MS-dávdda dálkkas	
 reminisens					muistelu	#muitin			reminiseren	muitinášši	
 minnegruppe					muisteluryhmä	#muitinjoavku			muitoveahkkejoavku	muitalanjoavku	
 minneaktivitet					muistelutoiminnot	#muitindoaimmat			muittoaktivitehta	muitodoahpagat	
-hukommelsesproblem					muistiongelma	muitoproblema			muitinváttisvuođat	muitinváttisvuohta	
+hukommelsesproblem	muitováttisvuohta	muitoproblema			muistiongelma	muitoproblema			muitinváttisvuođat	muitinváttisvuohta	
 minnealbum					muistoalbumi	muitoálbum			muitobáddi	muitobáddi	
 bekvemmelighetsgrunn					mukavuussyy				oadjebasvuođa sivva	vuogasvuođa dihte	
 multippel					multippeli				máŋgga geardde	multipel	
-eggløsning					munasolun irtoaminen	monneseala luovvanit			ovdánahttin	monnecealla luovvaneapmi	
-nyrestein					munuaiskivi	#monimušgeađgi			geađgejuolgi	geađgejuolgi	
+eggløsning	monneseala luovvanit				munasolun irtoaminen	monneseala luovvanit			ovdánahttin	monnecealla luovvaneapmi	
+nyrestein	manimušgeađgi				munuaiskivi	#monimušgeađgi			geađgejuolgi	geađgejuolgi	
 nyreterskel					munuaiskynnys	#monimuššielbmá			borasdávda	geahnohis dássi	
 nyresykdom					munuaissairaus	#monimušbuohcu			geahpesdávda	vuoivvasdávda	
-nyrelidelse					munuaistauti	#monimušdávda			ođđaoskku rihkkun	vuolledábiin	
+nyrelidelse	manimušdávda				munuaistauti	#monimušdávda			ođđaoskku rihkkun	vuolledábiin	
 nyresykdom					munuaistauti	#monimušdávda			geahpesdávda	vuolledábiin	
-nyreregion					munuaisten alue	manimučča guovlu			biepmusregiovdna	vuollejoga guovlu	
-nyrefunksjon					munuaisten toiminta	manimučča doaibma			geahnohis doaibma	vuoimmehisvuođabargu	
-nyresvikt					munuaisten vajaatoiminta	manimučča 			geahnohisvuohta	vuoimmehisvuohta	
-nyreskade					munuaisvaurio	#monimuš#vaháguvvan			borasdávda	vuoigŋašskibir	
-plastkateter					muovikatetri	#plastihkka#katehtár			plástakaseahtta	plastihkkakaseahtta	
-plastinnlegg					muovisuoja	plastihkkasuodji			plástarukses	plástasuddjen	
-pubertetsutvikling					murrosiän kehitys	*murrosiän ahtanuššan			rávásmanahki ovdáneapmi	rávásmanagi ovdáneapmi	
+nyreregion	manimuččaid guovlu				munuaisten alue	manimučča guovlu			biepmusregiovdna	vuollejoga guovlu	
+nyrefunksjon	manimuččaid doaibma				munuaisten toiminta	manimučča doaibma			geahnohis doaibma	vuoimmehisvuođabargu	
+nyresvikt	manimuččaid váilevaš doibmen				munuaisten vajaatoiminta	manimučča 			geahnohisvuohta	vuoimmehisvuohta	
+nyreskade	manimušvaháguvvan				munuaisvaurio	#monimuš#vaháguvvan			borasdávda	vuoigŋašskibir	
+plastkateter	plastihkkakatehtár				muovikatetri	#plastihkka#katehtár			plástakaseahtta	plastihkkakaseahtta	
+plastinnlegg	plastihkkasuodji				muovisuoja	plastihkkasuodji			plástarukses	plástasuddjen	
+pubertetsutvikling	rávásmanagi ovdaneapmi	rávásmanagi ahtanuššan			murrosiän kehitys	*murrosiän ahtanuššan			rávásmanahki ovdáneapmi	rávásmanagi ovdáneapmi	
 bruddskade					murtumavamma				cuovkanvahát	cuovkanskibir	
 musikkterapi					musiikkiterapia	musihkkaterapiija			musihkkaterapiija	musihkkaterapiija	
 svartedauden					musta surma	#čáhppat jápmu			čáhppes jápmin	čáhppes sorbma	
