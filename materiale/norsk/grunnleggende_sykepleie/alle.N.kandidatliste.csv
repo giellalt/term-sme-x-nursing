@@ -183,7 +183,7 @@ livkvalitetsbegrep	eallindássodoaba	eallinkvaliteahta doaba			elämänlaadun k�
 livskvalitetsproblem	eallindássočuolbma				elämänlaatuongelma	#ealli#dássuproblema	eallinkvalitehta váttisvuohta	eallinkvalitehta váttisvuohta	eallinkvalitehtačuolbma	eallinkvalitehtačuolbma	
 livslang					elämänpituinen	eallinguhkkosaš	eallinagi	eallinagi	eallingeardi	olles eallinagi bistán	
 livsstilsfaktor					elämäntapaan vaikuttava tekijä 	eallinvuohkái #čuohcit #dahkki 	eallindábiid fáktor	fáktor mii váikkuha eallinvuohkái	eallinvuohkefáktor	eallinvuohkái	
-livsstilsendring	eallinvuohkeiežáhus				elämäntapamuutos	eallinvuohkeiežáhus	eallindábiid rievdadeapmi	eallindábiid rievdadeapmi	eallinvuogi rievdan	eallinvuohkeheapmi	
+livsstilsendring	eallinvuohkerievdadeapmi				elämäntapamuutos	eallinvuohkeiežáhus	eallindábiid rievdadeapmi	eallindábiid rievdadeapmi	eallinvuogi rievdan	eallinvuohkeheapmi	
 livsstilopplysning					elämäntapavalistus vai elintapaohjaus	eallinvuohkečuvgehus	eallinvuogi dieđut	eallinvuogi oahpahus dahje eallinvuogi bagadallan	eallinvuohkečuvgehus	eallinvuohke-iskkus	
 livshistorie		eallingeardi			elämäntarina vai elämänkerta	#eallimáinnas	eallinhistorjá	eallinmuitalus dahje biografiija	mu eallinmuitalus	muitalus eallimis	
 emboli	varrabunci				embolia	veritulppa	emboliija	emboliija	embryo	embolia	
@@ -463,7 +463,7 @@ hudsans	liikeáicu, dovdoáicu	liikedovdu			ihoaisti  tuntoaisti kosketusaisti	l
 hudområde	liikeguovlu				ihoalue	liikeguovlu	ivdneguovlu	ivdneguovlu	guovlu gos oaidná	lunddolaš	
 hudkontakt	liikekontákta	liikeguoskkahus			ihokontakti	liikekontákta	ivdneoktavuohta	ivdneoktavuohta	luddestagain	lápmašupmi	
 hudtermometer	liikeliekkasmihttár				iholämpömittari		ivdnetermomehter	ivdnetermomehter	lunddolaš termomehter	ivdneliekkasmihttár	
-hudforandring	liikeiežáhus				ihomuutos	liikeiežáhus	ivdnerievdadus	ivdnerievdadus	rievdan olbmos	rievdadeapmi	
+hudforandring	liikerievdadus				ihomuutos	liikeiežáhus	ivdnerievdadus	ivdnerievdadus	rievdan olbmos	rievdadeapmi	
 hudvurdering	liikki árvvoštallan				ihon arviointi	liikki evalueren	ivdneárvvoštallan	ivdneárvvoštallan	liikeárvvoštallan	árvvoštallan maid olbmot liikojit dahkat	
 hudtemperatur	liikki temperatuvra				ihon lämpötila	liikki temperatuvra	ivdnetemperatuvra	ivdnetemperatuvra	goruda temperatuvra	min goruda temperatuvra	
 hudoverflate					ihon pinta	liikki aláš	ivdneovddabealli	ivdneovddabealli	guolga	lunddolaš	
@@ -476,7 +476,7 @@ hudavdeling	liikedávdaossodat				ihotautiosasto	liikedávdaossodat	ivdneossodat
 hudtype	liiketiipa				ihotyyppi	liiketiipa	ivdnešládja	ivdnešládja	liiketyppi	lápmašuvvan rumaš	
 hudskade	liikevaháguvvan	liikevihki?			ihovaurio	#liiki#vaháguvvan	ivdnevahágat	ivdnevahágat	luddestahkan	luddestahkan	
 hudblødning	liikevardin				ihoverenvuoto	liikevarasuođđu	ivdnebuozalmasvuohta	ivdnebuozalmasvuohta	lunddolaš vardin	luddestaga vardin	
-aldersendring	agáiduvvat iežáhus				ikääntymismuutos	agáiduvvat iežáhus	ahkerievdadus	boarráseappot rievdan	ahkerievdan	rievdan agi mielde	
+aldersendring					ikääntymismuutos	agáiduvvat iežáhus	ahkerievdadus	boarráseappot rievdan	ahkerievdan	rievdan agi mielde	
 uttrykksmiddel	olggosbuktinvuohki				ilmaisukeino	dajahusgeaidnu	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinreaidu	ovdanbuktinvuohki	
 uttrykksmåte	ovtanbuktinvuohki				ilmaisutapa	dajahusdáhpi	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinvuohki	
 lufttemperatur	áimmu temperatuvra				ilman lämpötila	almmá temperatuvra	áimmu temperatuvra	áimmu temperatuvra	áibmtemperatuvra	áibmoáibmoáibmu	
@@ -698,7 +698,7 @@ oppsummeringsskjema					koontilomake		čoahkkáigeassu	čoahkkáigeassu	čoahkk�
 reparasjonshvile					korjaava lepo	#muddet vuoiŋŋasteapmi	divvut	fas faskkodan vuoiŋŋasteapmi	divvunbottu	vuoiŋŋasteapmi	
 koronapandemi	koronapandemiija				koronapandemia	koronapandemiija	koronapandemiija	koronapandemiija	koronapandemia	koronapandemia	
 øreskylling	bealljedoidin				korvahuuhtelu	#beallji#doidildeapmi	čuovgačuohppan	čuoikkaid čáhci	bealljenávllálaš	bealljenávhllahat	
-øretermometer	bealljefebersmihtu				korvakuumemittari		čuovgatermomehter	čuovgafebermihtideaddji	bealljeliekkastearpma	bealljeliekkasmihttu	
+øretermometer	bealljefebersmihttár				korvakuumemittari		čuovgatermomehter	čuovgafebermihtideaddji	bealljeliekkastearpma	bealljeliekkasmihttu	
 erstatningskrav	buhtadusgáibádus				korvausvaatimus	buhtadasgáibádus	buhtadusgáibádus	buhtadusgáibádus	buhtadusgáibádus	buhtadusgáibádus	
 urørlighetssone					koskemattomuusvyöhyke		guoskatkeahtes guovlu	rihkkumeahttun guovlu	lea bissovašvuođaguovlu	guoskameahttunvuođa avádat	
 kontaktallergi	guoskkahusallergiija				kosketusallergia	guoskkahusallergiija	oktavuođaallergiija	oktavuođaallergiija	oktavuohtaallergiija	guoskkahallanallergiija	
@@ -889,7 +889,7 @@ temperaturstigning	lieggasa lokanan				lämmönnousu	#liekkas#loktaneapmi	temper
 varmestråling					lämmönsäteily	lieggasasuonjardeapmi	lieggačuovggat	lieggačuovggat	liegganeapmi	suotnjardeapmi	
 temperaturregulering					lämmönsäätely	#liekkasvuohtamudden	temperatuvrra reguleren	temperatuvrra reguleren	temperatuvraheivehallan	galmmasuoidnen	
 temperatursans	liekkasáicu				lämpöaisti	liekkasdovdda	temperatuvrra dovdu	termalaš dovdu	temperatuvrra mearri	liekkasvuođamihttu	
-heteslag					lämpöhalvaus	#liekkas#ravkin	lieggačuohpadeapmi	lieggačuohpadeapmi	báhkkasátni	liegganeapmi	
+heteslag	lieggagáldnan				lämpöhalvaus	#liekkas#ravkin	lieggačuohpadeapmi	lieggačuohpadeapmi	báhkkasátni	liegganeapmi	
 varmelaken					lämpölakana suojapeite	*lämpölakana suodjegovččas	lieggananbláđđi	dego termalaš lávki, suodjaluslávdi	báhkkenjuolggadus	lieggavisttis suodji	
 termometer	liekkasmihttár				lämpömittari		termomehter	termomehter	termomehter	temperatuvraárvomearri	
 temperaturforhold					lämpøolosuhteet		temperatuvrra dilit	temperatuvrra dilit	temperatuvra	lieggasoasit	
@@ -961,9 +961,9 @@ multippel					multippeli				máŋgga geardde	multipel
 eggløsning	monneseala luovvanit				munasolun irtoaminen	monneseala luovvanit			ovdánahttin	monnecealla luovvaneapmi	
 nyrestein	manimušgeađgi				munuaiskivi	#monimušgeađgi			geađgejuolgi	geađgejuolgi	
 nyreterskel					munuaiskynnys	#monimuššielbmá			borasdávda	geahnohis dássi	
-nyresykdom					munuaissairaus	#monimušbuohcu			geahpesdávda	vuoivvasdávda	
+nyresykdom	manimušbuohcuvuohta				munuaissairaus	#monimušbuohcu			geahpesdávda	vuoivvasdávda	
 nyrelidelse	manimušdávda				munuaistauti	#monimušdávda			ođđaoskku rihkkun	vuolledábiin	
-nyresykdom					munuaistauti	#monimušdávda			geahpesdávda	vuolledábiin	
+nyresykdom	manimušdávda				munuaistauti	#monimušdávda			geahpesdávda	vuolledábiin	
 nyreregion	manimuččaid guovlu				munuaisten alue	manimučča guovlu			biepmusregiovdna	vuollejoga guovlu	
 nyrefunksjon	manimuččaid doaibma				munuaisten toiminta	manimučča doaibma			geahnohis doaibma	vuoimmehisvuođabargu	
 nyresvikt	manimuččaid váilevaš doibmen				munuaisten vajaatoiminta	manimučča 			geahnohisvuohta	vuoimmehisvuohta	
@@ -972,14 +972,14 @@ plastkateter	plastihkkakatehtár				muovikatetri	#plastihkka#katehtár			plásta
 plastinnlegg	plastihkkasuodji				muovisuoja	plastihkkasuodji			plástarukses	plástasuddjen	
 pubertetsutvikling	rávásmanagi ovdaneapmi	rávásmanagi ahtanuššan			murrosiän kehitys	*murrosiän ahtanuššan			rávásmanahki ovdáneapmi	rávásmanagi ovdáneapmi	
 bruddskade					murtumavamma				cuovkanvahát	cuovkanskibir	
-musikkterapi					musiikkiterapia	musihkkaterapiija			musihkkaterapiija	musihkkaterapiija	
-svartedauden					musta surma	#čáhppat jápmu			čáhppes jápmin	čáhppes sorbma	
-blåmerke					mustelma				alitdohko	bleahttá	
+musikkterapi	musihkkaterapiija				musiikkiterapia	musihkkaterapiija			musihkkaterapiija	musihkkaterapiija	
+svartedauden	čáhppesjápmu	čáhppesrohttu			musta surma	#čáhppat jápmu			čáhppes jápmin	čáhppes sorbma	
+blåmerke	sáhpadas				mustelma				alitdohko	bleahttá	
 transduser					muunnin				translatiiva	rievdadeaddji	
-endringsarbeid					muutostyö	iežáhusbargu			rievdadanbargu	rievdadanbargu	
-giftstoff					myrkkyaine	mirkoávnnas			mirkoávnnas	mirkoávnnas	
-giftbehandling					myrkkykäsittely	mirkogieđahallan			mirkobálvalus	mirkofáhta	
-puss					mätä	märkäinen erite			dušši	duolva	guohca
+endringsarbeid	rievdadanbargu				muutostyö	iežáhusbargu			rievdadanbargu	rievdadanbargu	
+giftstoff	mirkkoávnnas				myrkkyaine	mirkoávnnas			mirkoávnnas	mirkoávnnas	
+giftbehandling	mirkkogieđahallan				myrkkykäsittely	mirkogieđahallan			mirkobálvalus	mirkofáhta	
+puss	siedja				mätä	märkäinen erite			dušši	duolva	guohca
 forråtnelsesprosess					mätänemisprosessi				rievdanproseassa	meaddinproseassa	
 mengdekrav					määrällinen vaatimus	*määrällinen gáibádus			hivvodatgáibádusat	mearrediđolaš gáibádus	
 ordinere					määrätä	mearridit			dábáleabbo	mearriduvvon	
