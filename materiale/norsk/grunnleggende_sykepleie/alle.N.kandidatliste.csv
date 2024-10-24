@@ -713,7 +713,7 @@ skolemåltid	skuvlamális				kouluateria	skuvlamális	skuvlaborramuš	skuvlaborr
 krisereaksjon	heahtereakšuvdna				kriisireaktio	heahtedillereakšuvdna	kriisavástádus	kriisavástádus	heahtečoavdin	kriisareakšuvdna	
 krisetilstand	heahtedilli				kriisitila	heahtedilledilli	kriisadilli	kriisamodealla	heahtedilli	heahtedilli	
 vevhormon	gođushormona				kudoshormoni	gođushormona	čáhcehormona	čáhcehormona	goaŧŧo- Hormon	gođđoshormon	
-vevsvæske	gođusgolggus				kudosneste	gođussiedja	čáhceávdnasat	čáhceávdnasat	čuovgalaheapmi	gođđinduodji	
+vevsvæske	gođusgolggus	gođusgolgi			kudosneste	gođussiedja	čáhceávdnasat	čáhceávdnasat	čuovgalaheapmi	gođđinduodji	
 vevskade					kudosvaurio	#gođus#vaháguvvan	čáhcevahágat	čáhcevahágat	čuovvovahát	gođđovahát	
 fibermengde	fiibera mearri				kuidun määrä	fiibera #mearri	fibermearri	fibermearri	fiberhivvodat	fibermearri	
 fiberinntak	fiibera oažžun				kuidun saanti	fiibera oažžun	fiberváldin	fiberváldin	fibersisaboallu	fibera oažžun	
@@ -961,7 +961,7 @@ multippel					multippeli				máŋgga geardde	multipel
 eggløsning	monneseala luovvanit				munasolun irtoaminen	monneseala luovvanit			ovdánahttin	monnecealla luovvaneapmi	
 nyrestein	manimušgeađgi				munuaiskivi	#monimušgeađgi			geađgejuolgi	geađgejuolgi	
 nyreterskel					munuaiskynnys	#monimuššielbmá			borasdávda	geahnohis dássi	
-nyresykdom	manimušbuohcuvuohta				munuaissairaus	#monimušbuohcu			geahpesdávda	vuoivvasdávda	
+nyresykdom	manimušbuohcu				munuaissairaus	#monimušbuohcu			geahpesdávda	vuoivvasdávda	
 nyrelidelse	manimušdávda				munuaistauti	#monimušdávda			ođđaoskku rihkkun	vuolledábiin	
 nyresykdom	manimušdávda				munuaistauti	#monimušdávda			geahpesdávda	vuolledábiin	
 nyreregion	manimuččaid guovlu				munuaisten alue	manimučča guovlu			biepmusregiovdna	vuollejoga guovlu	
@@ -982,41 +982,41 @@ giftbehandling	mirkkogieđahallan				myrkkykäsittely	mirkogieđahallan			mirkob
 puss	siedja				mätä	märkäinen erite			dušši	duolva	guohca
 forråtnelsesprosess					mätänemisprosessi				rievdanproseassa	meaddinproseassa	
 mengdekrav					määrällinen vaatimus	*määrällinen gáibádus			hivvodatgáibádusat	mearrediđolaš gáibádus	
-ordinere					määrätä	mearridit			dábáleabbo	mearriduvvon	
-forordning					määräys	dákti			láhkaásahus	mearrádus	
-spissbekken					naisten alusastia	nissoniid álgolihtti			spissebákti	nissonolbmuid vuolitvuollebivttas	
-kvinnekateter					naisten katetri	nissoniid #katehtár			nissonolbmuid kátta	nissonolbmuid kateterapiija	
-kvinnehelse					naisten terveys naisterveys	nissoniid healsa #nissonhealsa			nissonolbmuid dearvvašvuohta	nissonolbmuid dearvvašvuohta	
-kvinnesykdom					naistentaudit	nissoniiddávddat			nissonbuozalmasvuohta	nissonolbmuid duodji	
-navlestreng					napanuora				nállestreaŋga	rátnu	
+ordinere	mearridit				määrätä	mearridit			dábáleabbo	mearriduvvon	
+forordning	mearrádus				määräys	dákti			láhkaásahus	mearrádus	
+spissbekken	nissoniid vuollihtti				naisten alusastia	nissoniid álgolihtti			spissebákti	nissonolbmuid vuolitvuollebivttas	
+kvinnekateter	nissoniid katehtár				naisten katetri	nissoniid #katehtár			nissonolbmuid kátta	nissonolbmuid kateterapiija	
+kvinnehelse	nissoniid dearvvašvuohta				naisten terveys naisterveys	nissoniid healsa #nissonhealsa			nissonolbmuid dearvvašvuohta	nissonolbmuid dearvvašvuohta	
+kvinnesykdom	nissoniiddávddat				naistentaudit	nissoniiddávddat			nissonbuozalmasvuohta	nissonolbmuid duodji	
+navlestreng	náhpečoalli				napanuora				nállestreaŋga	rátnu	
 perkutere					naputella ja kuunnella sisäelimiä	*naputella ja guldalit 			biiggát	deaddit ja guldalit siskkáldas struktuvrraid	
 perkusjon					naputtelu				lihkohisvuohta	nággovuloš	
 narrativ					narratiivi	kertomus			narratiiva	muitalus	#narratiiva
 nesekateter					nenäkatetri	#njunni#katehtár			njunnesoabbi	njunnesoabbi	
 ødemsamling					nesteen kertyminen kehoon	sieja *kertyminen rupmašii			ávdinčoahkádus	golgi mii darvána gorudii	
-væskebehov					nesteen tarve	sieja dárbu			golgi	čáhcefápmu	
-væskeinntak					nesteensaanti	siejaoažžun			golgi sisaváldin	golggosáddu	
-væsketilførsel					nesteensaanti	siejaoažžun			golgi lasáhus	golggosáddu	
-væskebehandling					nestehoito	siedjadikšu			golgi divvun	golgi divššu	
-væskeinfusjon					nesteinfuusio	#siedja#infušuvdna			golgi infušuvdna	golgi fušuvdna	
+væskebehov	golggus dárbu				nesteen tarve	sieja dárbu			golgi	čáhcefápmu	
+væskeinntak	golggosa oažžun				nesteensaanti	siejaoažžun			golgi sisaváldin	golggosáddu	
+væsketilførsel	golggosa oažžun				nesteensaanti	siejaoažžun			golgi lasáhus	golggosáddu	
+væskebehandling	golggusdikšu				nestehoito	siedjadikšu			golgi divvun	golgi divššu	
+væskeinfusjon	infušuvdnagolggus				nesteinfuusio	#siedja#infušuvdna			golgi infušuvdna	golgi fušuvdna	
 væskeansamling					nestekertymä				golgi čoaggin	golgi čoaggin	
 væskeopphopning					nestekertymä				golgi čoagganeapmi	golgi čoaggin	
-drikkeliste					nestelista	#siedja#lista			juhkamušlisttu	nuohttejuvvon	
-drikkeskjema					nestelista	#siedja#lista			juhkkojuvvon skiera	nuohttejuvvon	
+drikkeliste	golgguslistu				nestelista	#siedja#lista			juhkamušlisttu	nuohttejuvvon	
+drikkeskjema	golgguslistu				nestelista	#siedja#lista			juhkkojuvvon skiera	nuohttejuvvon	
 væskeregistrering					nestemäärien kirjaaminen	siedjameriid 			golgi registreren	golgodávdameari čállin	
-væskemengde					nestemäärä	siedjamearri			golgi	golgi	
+væskemengde	golggusmearri				nestemäärä	siedjamearri			golgi	golgi	
 væskeinnhold					nestepitoisuus	siedjasisdoallu			golgi	golgi	
-drikkerestriksjon					nesterajoitus	siedjaoahci			gáržžideapmi	nesterájiidus	
+drikkerestriksjon	golggusgáržžádus				nesterajoitus	siedjaoahci			gáržžideapmi	nesterájiidus	
 væskerestriksjon					nesterajoitus	siedjaoahci			golgi gáržžideapmi	nesterájiidus	
-væskebalanse					nestetasapaino	siedjabalánsa			golgadasdássedeaddu	golgi dássedeaddu	
+væskebalanse	golggusdássedeaddu				nestetasapaino	siedjabalánsa			golgadasdássedeaddu	golgi dássedeaddu	
 væskeregnskap					nestetasapainon kirjaus 	siedjabalánssa 			golgi rehkenastin	golgi dássedeattu registreren	
-væsketap					nestevajaus	siedjaváili			golggosmassimat	golgideapmi	
-væskeunderskudd					nestevajaus	siedjaváili			golgi vuolláibáza	golgideapmi	
-væskemangel					nestevajaus nestevaje	siedjaváili 			golgi váilivuohta	golggosbuhtisvuohta	
+væsketap	golggusváili				nestevajaus	siedjaváili			golggosmassimat	golgideapmi	
+væskeunderskudd	golggusváili				nestevajaus	siedjaváili			golgi vuolláibáza	golgideapmi	
+væskemangel	golggusváili				nestevajaus nestevaje	siedjaváili 			golgi váilivuohta	golggosbuhtisvuohta	
 væskeoverskudd					nesteylimäärä				golgi vuolláibáza	golgi dássi	
 nettmobbing					nettikiusaaminen	neahttagivssideapmi			neahtta givssideapmi	givssideapmi	
 nevrolog					neurologi				neurologa	neurologa	
-nevrologi					neurologia				neurologiija	neurologiija	
+nevrologi	neurologiija				neurologia				neurologiija	neurologiija	
 nevrose					neuroosi	ahdistuneisuushäiriö			mu mielas dávda	neurosa	
 rådgivningsklinikk					neuvontayksikkö neuvontaklinikka	rávvehusovttadat rávvehusklinihkka			rávvenbálvalusklinihkka	ráđđeaddivššohat	
 NIC-klassifikasjon					NIC-luokitus				NIC-klassifiseren	NIC-árvosátni	
