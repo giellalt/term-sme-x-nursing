@@ -73,63 +73,36 @@ juvenil artritt	Phrase	lastenreumaStillin tauti
 kontinent ileostomi	Phrase	pysyvä ohutsuoliavanne
 kroppslig viten	Phrase	kehollinen tieto	
 medisinsk abort	Phrase	lääkkeellinen abortti	
-myasten krise	Phrase	
-myasthenia gravis	Phrase	
-myoma uteri	Phrase	
-nasoenteral sonde	Phrase	
-nasogastrisk sonde	Phrase	
-National Institute of Health Stroke Scale	Phrase	
-nedre urinveisinfeksjon	Phrase	
-nedsatt bevissthet	Phrase	
-nedsatt syn. Se synshemmede	Phrase	
+myasten krise	Phrase	hengityslihasten äkillinen raju heikkeneminen
+myasthenia gravis	Phrase	myastenia
+myoma uteri	Phrase	kohdun lihaskyhmy   myooma
+nasoenteral sonde	Phrase	nenäohutsuoliletku
+nasogastrisk sonde	Phrase	nenämahaletku
+nedsatt bevissthet	Phrase	tajunnan alenema
 neutropen feber	Phrase	kuumeinen neutropenia
-nevrokirurgisk sykepleie	Phrase	
-nevrologisk sykdom	Phrase	
-nevropatisk smerte	Phrase	
-Norges Blindeforbund	Phrase	
-Norsk Glaukomforening	Phrase	
-Norsk Revmatikerforbund	Phrase	
-nyreerstattende behandling	Phrase	
-nyrestein. Se steinsykdom i urinveiene	Phrase	
-nyresvikt. Se akutt nyreskade og kronisk nyresvikt	Phrase	
-ortopediske hjelpemidler	Phrase	
-palliativ fase	Phrase	
-paralytisk ileus	Phrase	
-parastomalt brokk	Phrase	
-Parkinsons sykdom	Phrase	
-pasienthistorie med sykepleiefaglig vurdering	Phrase	
-perforert magesår	Phrase	
-perkutan endoskopisk gastrostomi	Phrase	
-polycystisk ovariesyndrom (PCOS)	Phrase	
-postoperativ sykepleie	Phrase	
-postrenal akutt nyreskade	Phrase	
-premenstruell spenning (PMS)	Phrase	
-preoperativ sykepleie	Phrase	
-prerenal akutt nyreskade	Phrase	
-problemfokusert mestring	Phrase	
-provosert abort	Phrase	
-Psoriasis- og Eksemforbundet	Phrase	
-psykologisk stress	Phrase	
-pyoderma gangrenosum	Phrase	
-referred pain	Phrase	
-renal beinsykdom	Phrase	
-ren intermitterende selvkateterisering	Phrase	
-reproduktiv helse	Phrase	
-retrograd amnesi	Phrase	
-revmatisk sykdom	Phrase	
-revmatoid artritt	Phrase	
-rigiditet. Se muskelstivhet	Phrase	
-Scandinavian Stroke Scale	Phrase	
-seksuelle overgrep	Phrase	
-seksuelt overførbare infeksjoner (SOI)	Phrase	
-Sengstaken-Blakemores sonde	Phrase	
-sensorisk afasi	Phrase	
-sexologisk veiledning	Phrase	
-Sjögrens syndrom	Phrase	
-skjev hornhinne	Phrase	
-slag. Se hjerneslag	Phrase	
-spinalt sjokk	Phrase	
-status epilepticus	Phrase	
+nevropatisk smerte	Phrase	neuropaattinen kipu
+nyreerstattende behandling	Phrase	munuaisten toiminnan korvaava hoito
+palliativ fase	Phrase	palliatiivisen hoidon vaihe
+paralytisk ileus	Phrase	suolilama   paralyyttinen ileus
+parastomalt brokk	Phrase	parastomaalinen tyrä
+Parkinsons sykdom	Phrase	Parkinsonin tauti
+perforert magesår	Phrase	puhjennut umpilisäke
+polycystisk ovariesyndrom (PCOS)	Phrase	munasarjonen monirakkulaoireyhtymä PCOS
+postoperativ sykepleie	Phrase	välittömästi toimenpiteen jälkeen annettava sairaanhoito
+postrenal akutt nyreskade	Phrase	virtsateiden ongelmaan liittyvä akuutti munuaisten vajaatoiminta
+premenstruell spenning (PMS)	Phrase	premenstruaalioireyhtymä PMS
+preoperativ sykepleie	Phrase	leikkausta edeltävä hoitotyö/sairaanhoito
+prerenal akutt nyreskade	Phrase	heikentyneeseen verenkiertoon liittyvä akuutti munuaisten vajaatoiminta
+provosert abort	Phrase	provosoitu raskauden keskeytys  provosoitu abortti  	
+referred pain	Phrase	heijastekipu
+renal beinsykdom	Phrase	munuaispotilaan luustosairaus
+rigiditet	N   kankeus jäykkyys	
+Sengstaken-Blakemores sonde	Phrase	Sengstaken-Blakemoren putki
+sensorisk afasi	Phrase	sensorinen afasia
+Sjögrens syndrom	Phrase	Sjögrenin syndrooma
+skjev hornhinne	Phrase	hajataitteisuus astigmatismi    astimatia
+spinalt sjokk	Phrase	spinaalishokki
+status epilepticus	Phrase	pitkittynyt epileptinen kohtaus
 steinsykdom i urinveiene	Phrase	
 subduralt hematom	Phrase	
 subkonjunktival blødning	Phrase	
