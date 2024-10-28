@@ -217,7 +217,7 @@ sekresjonsmengde	vuhčos mearri				eritteen määrä	#čuolddašupmi #mearri	ere
 eliminasjon	vuohčun				eritys	vuohčun	heaittiheapmi	eretváldin	heaittiheapmi	erekšon	
 foldtykkelse					esim. niskapoimun paksuus	*esim. *niskapoimun assodat	čalbmáičuohcci assásvuohta	omd. hávgga njuolggočalmmi guhkkodat.	čihkojuvvon	omd nástti roahkasnuppi guvlui	
 eksempellæring			ovdamearkkaoahppu		esimerkin avulla oppiminen	eksempela veahkis oahppat	oahppat ovdamearkka bokte	oahppat ovdamearkka bokte	ovdamearkkaoahppu	oahppat ovdamearkkaid bokte	
-helsehistorie	dearvvašvuođahistorjá		dearvvašvuođadiehtu 		esitiedot anamneesi  terveydenhuollon historia 	*esitiedot *anamneesi  healssadikšuma historjá 	dearvvašvuođahistorjá	Eaktun anamnesa dearvvašvuođahistorjá	dearvvašvuođahistorjá	ovdadieđut anakeahta dearvvašvuođafuolahusa historjjás	
+helsehistorie	dearvvašvuođahistorjá	dearvvašvuođadiehtu 	dearvvašvuođadiehtu 		esitiedot anamneesi  terveydenhuollon historia 	*esitiedot *anamneesi  healssadikšuma historjá 	dearvvašvuođahistorjá	Eaktun anamnesa dearvvašvuođahistorjá	dearvvašvuođahistorjá	ovdadieđut anakeahta dearvvašvuođafuolahusa historjjás	
 anamneseskjema	ovdadiehtoskovvi				esitietolomake		medisiinnalaš historjjá skovvi	ovdadiehtojuohkinskovi	lea jeagelskovvi	ovdadiehtovuorká	
 forforståelse	ovdaáddejupmi		ovdaipmárdus 		esiymmärrys		ovdaáddejupmi	ovdaáddejupmi	ovdaáddejupmi	ovdaáddejupmi	
 hemning	caggaseapmi				esto	caggaseapmi	eastadeapmi	eastadeapmi	hehttehussan	eastta	
@@ -1020,40 +1020,40 @@ nevrologi	neurologiija				neurologia				neurologiija	neurologiija
 nevrose					neuroosi	ahdistuneisuushäiriö			mu mielas dávda	neurosa	
 rådgivningsklinikk					neuvontayksikkö neuvontaklinikka	rávvehusovttadat rávvehusklinihkka			rávvenbálvalusklinihkka	ráđđeaddivššohat	
 NIC-klassifikasjon					NIC-luokitus				NIC-klassifiseren	NIC-árvosátni	
-svelgeevne					nielemiskyky	njiellat gálga			njiellačehppi	njiellat	
+svelgeevne	njiellannákca				nielemiskyky	njiellat gálga			njiellačehppi	njiellat	
 svelgparese					nielemispareesi				guollebávččas	njieladanbivttas	
 svelgtest					nielemistesti nielemiskoe	njiellat teasta njiellat iskan			njiellatiskkus	njiellangeahččaleapmi	
 svelgfunksjon					nielemistoiminto	njiellat doaibma			guoddalanfunkšuvdna	njielladoaibma	
-svelgeproblem					nielemisvaikeus	njiellat váttisvuohta			njielladanváttisvuohta	njieladanváttisvuohta	
+svelgeproblem	njiellanváttisvuohta				nielemisvaikeus	njiellat váttisvuohta			njielladanváttisvuohta	njieladanváttisvuohta	
 nitrat					nitraatti				nitráhta	nitráhta 	
 leddvern					nivelen suojaus				lašmesuodji	lađđasis suodji	lađđasa 
 leddkapsel					nivelkapseli	#lađas#kapsela			lašvealljakapsula	searveluohta-kapsel	
-leddsmerte					nivelkipu	lađasbávččas			ovttastuvvon bávččas	dákkár ovttastallan	
-leddgikt					nivelreuma	lađasleasmi			ovttastahttin	artralaš artrala	
-leddsans					niveltunto	lađasdovdu			oalgecealkka	ovttastuvvon dovdu	
+leddsmerte	lađasbávččas				nivelkipu	lađasbávččas			ovttastuvvon bávččas	dákkár ovttastallan	
+leddgikt	lađasleasmi				nivelreuma	lađasleasmi			ovttastahttin	artralaš artrala	
+leddsans	lađasdovdu				niveltunto	lađasdovdu			oalgecealkka	ovttastuvvon dovdu	
 tutekopp					nokkamuki	geahčemugga			dušše dušše čiehka	njálgát	
 nonverbal					nonverbaalinen sanaton				leat vearba	ii-verbaálalaš sátni	
 normaltemperatur					normaali lämpötila	#normála temperatuvra			dábálaš temperatuvra	dábálaš temperatuvra	
-normalverdi					normaaliarvo				dábálaš árv	norbmaárvu	
-normalposisjon					normaaliasento				dábálaš sadji	dábálaš doaladupmi	
+normalverdi	normálaárvu				normaaliarvo				dábálaš árv	norbmaárvu	
+normalposisjon	normálastellelmas	normálasajádat			normaaliasento				dábálaš sadji	dábálaš doaladupmi	
 normalflora					normaalifloora				dábálaš flora	dábálaš šládja	
 normalflora					normaalifloora normaalimikrobisto				dábálaš flora	dábálaš flora normálamikrobasta	
 normalgrense					normaalin raja	normála rádji			dábálaš rádji	dábálaš ráji	
 normalitetsbegrep					normaalisuuskäsite				normálavuohta-doaba	normálalašvuođa doaba	
-normalfunksjon					normaalitoiminta				dábálaš doaibma	dábálaš dilli	
-normalvariasjon					normaalivaihtelu				dábálaš molsašuddan	dábálaš molsašuddan	
+normalfunksjon	normáladoaibma				normaalitoiminta				dábálaš doaibma	dábálaš dilli	
+normalvariasjon	normálamolsašuddan				normaalivaihtelu				dábálaš molsašuddan	dábálaš molsašuddan	
 novise					noviisi	vasta-alkaja			ođas	ođasášši	#noviisa
 novisenivå					noviisitaso aloittelijan taso	#noviisadássi #álggahalli dássi			ođđasisdássi	ođđaálggaheaddji dássi	
-sovestilling					nukkumisasento	oađđit stellelmas			oađđensearvi	oađđenseaŋka	
-narkose					nukutus	yleisanestesia			narkosa	oađđádat	
-synsinntrykk					näköaistimus  visuaalinen vaikutelma	*näköaistimus  visuálalaš 			oaidnu	oaidnimis visuálalaš mearkkašupmi	
-synsvanske					näköhäiriö	oaidnosegohus			oaidninváttisvuohta	oaidninváttisvuohta	
-standpunkt					näkökanta	oaidnojocca			oaidnu	geahčastat	
+sovestilling	nohkanstellelmas	oađđanstellelmas			nukkumisasento	oađđit stellelmas			oađđensearvi	oađđenseaŋka	
+narkose	nohkkadeapmi				nukutus	yleisanestesia			narkosa	oađđádat	
+synsinntrykk	oaidnindovdda				näköaistimus  visuaalinen vaikutelma	*näköaistimus  visuálalaš 			oaidnu	oaidnimis visuálalaš mearkkašupmi	
+synsvanske	oaidninhehttehus				näköhäiriö	oaidnosegohus			oaidninváttisvuohta	oaidninváttisvuohta	
+standpunkt	oaidninvuohki				näkökanta	oaidnojocca			oaidnu	geahčastat	
 synsvidde					näkökentän laajuus	oaidnogietti viidodat			oaidnemearri	oaidnemeahttun viidodat	
 stråleprøve					näyte virtsasuihkusta	čájánas gužžarišus			suonjardusteasta	iskosa gožžaráhkus	
-objektglass					näytelasi	čájánasláse			objeaktaglássa	du čájálmas	
-prøveglass					näytelasi	čájánasláse			geahččalanluohkká	du čájálmas	
-synsskarphet					näöntarkkuus	oainnodárkkuhus			oaidninskovvi	oaidnemeahttunvuohta	
+objektglass	čájánasláse				näytelasi	čájánasláse			objeaktaglássa	du čájálmas	
+prøveglass	čájánasláse				näytelasi	čájánasláse			geahččalanluohkká	du čájálmas	
+synsskarphet	oainnodárkkástus				näöntarkkuus	oainnodárkkuhus			oaidninskovvi	oaidnemeahttunvuohta	
 kontaktsykepleier					ohjaava sairaanhoitaja vastuusairaanhoitaja	#bagadallat #buohccidikšu #vástu#buohccidikšu			gulahallanbuohccedikšu	bagadeaddji buohccedivššárovddasvástideaddji buohccedivššár	
 guiding					ohjaus	bagadallan			ofelaš	stivren	
 symptomlindring					oireen lievitys	symptoma 			dávdamearkkaid geahpedeapmi	symptoma váidudeapmi	
