@@ -661,10 +661,10 @@ testikkelkreft	bálloboras				kivessyöpä	bálloboras	njuoratmáná borasdávda
 steindannelse					kivien muodostuminen	geđggiid 	geađgehápmi	geađgehápmi	geađgeráhkadus	geađgeráidduid hápmi	
 smerteuttrykk					kivun ilmenemismuoto	bákčasa dovdot hápmi	váivvi ovdanbuktin	váivvi čájáhus	bávččagahttin	bákčasa dovddahanvuohki	
 smerteopplevelse	bávččas vásáhus	bákčasa vásáhus			kivun kokemus	bákčasa vásihus	váibmovásáhus	váivvi vásáhus	bávččasvásáhus	bávččas vásáhus	
-smertetegn	bákčása mearka				kivun merkki	bákčasa mearka	váivvi mearkkat	váivvi mearka	bákčasa mearka	bákčasa mearka	
-smertescore	bákčása čuokkesmearkki				kivun pistemäärä	bákčasa čuokkesmearri	váibmočuokkis	váibmočuokkis	Báktehárji	bákčasa čuoggát	
-smertebehandling	bákčása dikšu				kivunhoito	bákčasadikšu	sáhkuid dikšun	sáhkuid dikšun	bákčasiid dikšu	bákčasiid dikšu	
-smertelindring	bákčasa vuogeheapmi				kivunlievitys		sáhkuid buhttejupmi	sáhkuid buhttejupmi	bávččagahttin	bávččagahttin	
+smertetegn	bákčasa mearka				kivun merkki	bákčasa mearka	váivvi mearkkat	váivvi mearka	bákčasa mearka	bákčasa mearka	
+smertescore	bákčasa čuokkesmearkki				kivun pistemäärä	bákčasa čuokkesmearri	váibmočuokkis	váibmočuokkis	Báktehárji	bákčasa čuoggát	
+smertebehandling	bákčasa dikšu				kivunhoito	bákčasadikšu	sáhkuid dikšun	sáhkuid dikšun	bákčasiid dikšu	bákčasiid dikšu	
+smertelindring	bákčasa geahpedeapmi	bákčasa vuogeheapmi			kivunlievitys		sáhkuid buhttejupmi	sáhkuid buhttejupmi	bávččagahttin	bávččagahttin	
 klamydiainfeksjon	klamydiainfekšuvdna				klamydiainfektio		klamydiainfekšuvdna	klamydiainfekšuvdna	klamydiainfekšuvdna	klamydiainfekšuvdna	
 klor					kloori		klora	klora	klora	klora	
 IVF-behandling	iskkusbohcceáhpehisvuohta				koeputkihedelmöitys in vitro fertilisaatio (IVF)    *koeputkihedelmöitys 		IVF-divššu	in vitro beaivádeapmi (IVF) *in vitro beaivádeapmi	IVF-dikšun	geahččalanávdnasteapmi in vitro fertilisašuvnnas (IVF) *gođusávdnasteapmi	
@@ -1054,16 +1054,16 @@ stråleprøve					näyte virtsasuihkusta	čájánas gužžarišus			suonjarduste
 objektglass	čájánasláse				näytelasi	čájánasláse			objeaktaglássa	du čájálmas	
 prøveglass	čájánasláse				näytelasi	čájánasláse			geahččalanluohkká	du čájálmas	
 synsskarphet	oainnodárkkástus				näöntarkkuus	oainnodárkkuhus			oaidninskovvi	oaidnemeahttunvuohta	
-kontaktsykepleier					ohjaava sairaanhoitaja vastuusairaanhoitaja	#bagadallat #buohccidikšu #vástu#buohccidikšu			gulahallanbuohccedikšu	bagadeaddji buohccedivššárovddasvástideaddji buohccedivššár	
-guiding					ohjaus	bagadallan			ofelaš	stivren	
-symptomlindring					oireen lievitys	symptoma 			dávdamearkkaid geahpedeapmi	symptoma váidudeapmi	
-symptomerfaring					oireiden kokemus	symptomaid vásihus			dávdamušvásáhus	dávdamearka	
-symptomopplevelse					oireiden kokemus	symptomaid vásihus			dávdamušvásáhus	dávdamearka	
+kontaktsykepleier	rávvejeaddji buohčedivššar	vástideaddji buohčedivššar			ohjaava sairaanhoitaja vastuusairaanhoitaja	#bagadallat #buohccidikšu #vástu#buohccidikšu			gulahallanbuohccedikšu	bagadeaddji buohccedivššárovddasvástideaddji buohccedivššár	
+guiding	bagadallan				ohjaus	bagadallan			ofelaš	stivren	
+symptomlindring	dávdamearkka geahpedeapmi				oireen lievitys	symptoma 			dávdamearkkaid geahpedeapmi	symptoma váidudeapmi	
+symptomerfaring	dávdamearkkaid vásáhus				oireiden kokemus	symptomaid vásihus			dávdamušvásáhus	dávdamearka	
+symptomopplevelse	dávdamearkkaid vásáhus				oireiden kokemus	symptomaid vásihus			dávdamušvásáhus	dávdamearka	
 ekstensjon					ojennus				eksponeren	oalgecealkka	
-brekningssenter					oksennuskeskus	#vuovssanas#guovddaš			breakingguovddáš	ávkkástallanbáiki	
-skulderledd					olkanivel				oalgecealka	oalgecealkka	
-egennytte					oma hyöty	#ieš gudda			iežas ávkin	midjiide ávkin	
-primærsykepleier					oma sairaanhoitaja	#ieš #buohccidikšu			vuođđodearvvašvuođadivššu	mu iežan buohccedikšu	
+brekningssenter	vuovssanas guovddaš				oksennuskeskus	#vuovssanas#guovddaš			breakingguovddáš	ávkkástallanbáiki	
+skulderledd	oalgelađas				olkanivel				oalgecealka	oalgecealkka	
+egennytte	ieš ávki				oma hyöty	#ieš gudda			iežas ávkin	midjiide ávkin	
+primærsykepleier	ieš buohčedivššar				oma sairaanhoitaja	#ieš #buohccidikšu			vuođđodearvvašvuođadivššu	mu iežan buohccedikšu	
 selvhjelpløsning					oma-apukeino  omahoitokeino	#ieš-veahkkegeaidnu  			iešveahkkičoavddus	iežasdikšunveahkki	
 selvhjelpsgruppe					oma-apuryhmä	#ieš-veahkkejoavku			iešveahkkejoavku	veahkkeapparáhta joavku	
 egenaktivitet					omaehtoinen aktiivisuus	*omaehtoinen aktiviteahtta			iešdoaibma	eaktodáhtolaš aktivitehta	
