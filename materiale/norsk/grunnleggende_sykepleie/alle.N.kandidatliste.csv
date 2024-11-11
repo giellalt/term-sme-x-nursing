@@ -995,8 +995,8 @@ narrativ					narratiivi	kertomus			narratiiva	muitalus	#narratiiva
 nesekateter					nenäkatetri	#njunni#katehtár			njunnesoabbi	njunnesoabbi	
 ødemsamling					nesteen kertyminen kehoon	sieja *kertyminen rupmašii			ávdinčoahkádus	golgi mii darvána gorudii	
 væskebehov	golggus dárbu				nesteen tarve	sieja dárbu			golgi	čáhcefápmu	
-væskeinntak	golggosa oažžun				nesteensaanti	siejaoažžun			golgi sisaváldin	golggosáddu	
-væsketilførsel	golggosa oažžun				nesteensaanti	siejaoažžun			golgi lasáhus	golggosáddu	
+væskeinntak	golgosa oažžun				nesteensaanti	siejaoažžun			golgi sisaváldin	golggosáddu	
+væsketilførsel	golgosa oažžun				nesteensaanti	siejaoažžun			golgi lasáhus	golggosáddu	
 væskebehandling	golggusdikšu				nestehoito	siedjadikšu			golgi divvun	golgi divššu	
 væskeinfusjon	infušuvdnagolggus				nesteinfuusio	#siedja#infušuvdna			golgi infušuvdna	golgi fušuvdna	
 væskeansamling					nestekertymä				golgi čoaggin	golgi čoaggin	
@@ -1104,17 +1104,17 @@ vektendring					painonmuutos	deattoiežáhus			deaddomuddus	deaddomuddus
 vektøkning	deaddoloktaneapmi				painonnousu	#deaddu#loktaneapmi			deaddu lassáneapmi	lossa deaddileapmi	
 vektreduksjon					painonpudotus	deattogahččan			deattu geahpedeapmi	deaddomihttu	
 vektreduksjonstiltak					painonpudotustoimenpide	deattogahččandoaibmabidju			doaibmabijut maiguin geahpedit deattu	doaibmabidju man ulbmil lea geahpedit deattu	
-dagsplan					paiväsuunnitelma				áigeplána	báhčinplána	
-tvangsbehandling					pakkohoito	bággodikšu			lea bággobearramiin	bággodoaibma	
-hastverksinkontinens					pakkoinkontinenssi	bággoinkontineansa			heahtedoaimmaid botkehus	bággobearráigeahčču	
-tvangsmedisinering					pakkolääkitys	bággodálkun			bággendoaimmat	bággendoaimmat	
-tvangsmating					pakkosyöttö	bággoboraheapmi			bággodoallu	bággosáhkku	
-virkelighetsflukt					pako todellisuudesta	báhtareapmi duođalašvuođas			duohtavuođa báhtaremiin	báhtareapmi duohtavuođas	
-tvangsbruk					pakon käyttö	bákku atnin			bággogeavaheapmi	bággogeavaheapmi	
-koloskopi					paksusuolen tähystys	gassačoali 			kolosspeadjalastin	guovssonjuolggis	
-colon					paksusuoli	gassačoalli			kolona	assás duolva	
+dagsplan	beaiveplána				paiväsuunnitelma				áigeplána	báhčinplána	
+tvangsbehandling	bággodikšu				pakkohoito	bággodikšu			lea bággobearramiin	bággodoaibma	
+hastverksinkontinens	bággoinkontineansa				pakkoinkontinenssi	bággoinkontineansa			heahtedoaimmaid botkehus	bággobearráigeahčču	
+tvangsmedisinering	bággodálkun				pakkolääkitys	bággodálkun			bággendoaimmat	bággendoaimmat	
+tvangsmating	bággoboraheapmi				pakkosyöttö	bággoboraheapmi			bággodoallu	bággosáhkku	
+virkelighetsflukt	báhtareapmi albmailmmis	báhtareapmi duođalašvuođas			pako todellisuudesta	báhtareapmi duođalašvuođas			duohtavuođa báhtaremiin	báhtareapmi duohtavuođas	
+tvangsbruk	bákku atnin				pakon käyttö	bákku atnin			bággogeavaheapmi	bággogeavaheapmi	
+koloskopi	gassačoaliguovlan				paksusuolen tähystys	gassačoali 			kolosspeadjalastin	guovssonjuolggis	
+colon	gassačoalli				paksusuoli	gassačoalli			kolona	assás duolva	
 responssystem					palautejärjestelmä				responsavuogádat	buollin	
-frostskade					paleltuma	suvččageapmi			galbmageavaheapmi	almmustahttin	
+frostskade	suvččageapmi				paleltuma	suvččageapmi			galbmageavaheapmi	almmustahttin	
 blotte					paljastaa				guorus	palliatiiva dikšu	
 palliasjon					palliatiivinen hoito	oireita lievittävä hoito			palliatiija	buollinveara	*palliatiivinen dikšu
 brannskade					palovamma	dollaveaidni			buollinvahát	bálvalusealáhus	
