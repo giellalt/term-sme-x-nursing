@@ -1,7 +1,7 @@
 adjuvant kjemoterapi	Phrase	adjuvantti kemoterapia
-adjuvanttihoito N   täydentävä hoito    liitännäishoito
+adjuvanttihoito	N	täydentävä hoito    liitännäishoito
 akutt abdomen	Phrase	akuuutti vatsatauti
-akuutti A   äkillinen, nopeasti kehittyvä   terävä  akuutti
+akuutti	A	äkillinen, nopeasti kehittyvä   terävä  akuutti
 akutt bekkeninfeksjon (PID)	Phrase	sisäsynnytintulehdus PID
 akutt cerebralt vaskulært insult	Phrase	akuutti vaskulaarinen eli verisuoniin liittyvä aivohalvaus
 akutt leversvikt	Phrase	akuutti maksan vajaatoiminta
@@ -13,7 +13,7 @@ amyotrofisk lateralsklerose ALS	Phrase	amyotrofinen lateraaliskleroosi ALS moton
 anabol fase	Phrase	anabolinen tila
 ankyloserende spondylitt (AS)   Bekhterevs sykdom	Phrase	ankylosoiva/ ankyloottinen spondylartriitti    selkärangan niveltulehdus   Bechterevin tauti
 anterograd amnesi	Phrase	muistinmenetyksen muoto, jossa polilas on kyvyttön tallentamaan uusia muistoja
-anterograd  A   eteenpäin ajassa suuntautuva    anterogradinen
+anterograd	A	eteenpäin ajassa suuntautuva    anterogradinen
 apoplexia cerebri, hjerneslag	Phrase	aivohalvaus
 arterielle leggsår	Phrase	valtimoperäinen säärihaava
 arteriovenøse leggsår	Phrase	valtimo-laskimoperäinen säärihaava
@@ -31,7 +31,7 @@ kjølehette	N	kylmähattu
 cytologisk undersøkelse	Phrase	sytologinen tutkimus
 dagliglivets aktiviteter	Phrase	päivittäiset toiminnot
 degenerative leddsykdommer	Phrase	degeneratiiviset nivelsairaudet
-degeneratiivinen    A   rappeuttava rappeutumiseen liittyvä
+degeneratiivinen	A	rappeuttava rappeutumiseen liittyvä
 diabetisk retinopati	Phrase	diabeettinen retinopatia    diabetekseen liittyvä verkkokalvosairaus
 Douglas’ abscess	Phrase	Douglasin absessi   Douglasin märkäpaise
 dyp hjernestimulering	Phrase	syväaivostimulaatio
@@ -42,10 +42,10 @@ eksistensiell behov	Phrase	eksistentiaalinen tarve
 eksistensiell omsorg	Phrase	eksistentiaalinen hoiva
 ekstern fiksasjon	Phrase	ulkoinen kiinnitys
 ekstraartikulær	A	ekstra-artikulaarinen
-ekstrakorporal	A   kehon ulkoinen	
+ekstrakorporal	A	kehon ulkoinen	
 ekstravasal infusjon	Phrase	suonenulkoinen
 ektopisk graviditet	Phrase	kohdunulkoinen raskaus
-emosjonsfokusert    A   tunteisiin keskittyvä
+emosjonsfokusert	A	tunteisiin keskittyvä
 epiduralt hematom	Phrase	epiduraalihematooma verenpurkauma epiduraalitilassa
 fokale anfall	Phrase	paikallisalkuinen kohtaus
 gardnerella vaginalis	Phrase	bakteerivaginoosi BV
@@ -65,7 +65,7 @@ humant papillomavirus-infeksjon (HPV)	Phrase	papillomavirus HPV
 hyperton dehydrering	Phrase	hypertoninen kuivuma hypertoninen dehydraatio
 immunmodulerende	N	immuunivastetta moduloiva
 immunsupprimerende	N	immunospupressiivinen
-intraokulær	A   silmänsisäinen  intraokulaarinen    silmän sisäosaa koskeva		
+intraokulær	A	silmänsisäinen  intraokulaarinen    silmän sisäosaa koskeva		
 intravesikal instillasjonsbehandling	Phrase	virtsarakon sisäinen infuusiohoito  intravesikaalinen instillaatiohoito
 isometrisk øvelse	Phrase	isometrinen harjoitus
 isoton dehydrering	Phrase	isotoninen kuivuma   isotoninen dehydraatio
@@ -96,7 +96,7 @@ prerenal akutt nyreskade	Phrase	heikentyneeseen verenkiertoon liittyvä akuutti 
 provosert abort	Phrase	provosoitu raskauden keskeytys  provosoitu abortti  	
 referred pain	Phrase	heijastekipu
 renal beinsykdom	Phrase	munuaispotilaan luustosairaus
-rigiditet	N   kankeus jäykkyys	
+rigiditet	N	kankeus jäykkyys	
 Sengstaken-Blakemores sonde	Phrase	Sengstaken-Blakemoren putki
 sensorisk afasi	Phrase	sensorinen afasia
 Sjögrens syndrom	Phrase	Sjögrenin syndrooma
