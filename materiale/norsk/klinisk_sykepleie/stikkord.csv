@@ -1,36 +1,37 @@
 
-ALS	N	Amyotrofinen lateraaliskleroosi, ALS-tauti  motoneuronitauti    Lou Gehrigin tauti
-aldersrelatert/aldersbetinget makuladegenerasjon AMD	N	ikään liittyvä makuladegeneraatio AMD
-BMI	N	painoindeksi    Quetelet'n indeksi
-benign prostatahyperplasi BPH	N	hyvänlaatuinen prostatan hyperplasia BPH    eturauhasen liikakasvu
-Baker cyste popliteacyste	N	Bakerin kysta polven nivelkalvon pullistuma ???
-Bekhterevs sykdom	N	selkärankareuma Bechterewin tauti
+ALS	N	Amyotrofinen lateraaliskleroosi; ALS-tauti; motoneuronitauti    Lou Gehrigin tauti
+aldersrelatert makuladegenerasjon; AMD	N	ikään liittyvä makuladegeneraatio; AMD
+aldersbetinget makuladegenerasjon; AMD	N	ikään liittyvä makuladegeneraatio; AMD
+BMI	N	painoindeksi; Quetelet'n indeksi
+benign prostatahyperplasi BPH	N	hyvänlaatuinen prostatan hyperplasia; BPH; eturauhasen liikakasvu
+Baker cyste; popliteacyste	N	Bakerin kysta; polven nivelkalvon takaosan pullistuma
+Bekhterevs sykdom	N	selkärankareuma; Bechterewin tauti
 Braden-skala	N	Bradenin asteikko
-Brickerblære	N	Brickerin rakko virtsatieavanne
-CKD-EPI-formel	N	CKD-EPI-yhtälö  CKD-EPI-kaava
-Glasgow Coma Scale/Score GCS	N	Glasgow'n kooma-asteikko    GCS-asteikko
-Crohns sykdom	N	Crohnin tauti   morbus Crohn    regionaalinen enteriitti
-Cullens	tegn periumbilical ekkymose N	navan seudulla oleva mustelma
+Brickerblære	N	Brickerin rakko; virtsatieavanne
+CKD-EPI-formel	N	CKD-EPI-yhtälö; CKD-EPI-kaava
+Glasgow Coma Scale or Score; GCS	N	Glasgow'n kooma-asteikko; GCS-asteikko
+Crohns sykdom	N	Crohnin tauti; morbus Crohn; regionaalinen enteriitti
+Cullens	tegn; periumbilical ekkymose N	navan seudulla oleva mustelma
 vitaminmangel	N	vitamiinin puutos
-dyp hjernestimulering DBS	N	syväaivostimulaatio DBS
-DMARD sykdomsdempende medikamenter mot revmatiske sykdommer    N	tautiprosessia hidastava reumalääke
-dyp venetrombose DVT	N	syvä laskimotukos SLT
-Douglas-abscess	N	???märkäpesäke paise absessi peräsuolen ja kohdun välissä naisilla ja peräsuolen ja virtsarakon välissä miehillä
-elektroencefalografi EEG	N   aivosähkökäyrätutkimus  elektroenkefalografia EEG
-ERCP	N	  sapp-i ja haimatiehyen tähystystutkimus   endoskooppinen retrogradinen kolangio-pankretografia ERCP
-ESAS-skjema (Edmonton Symptom Assessment System) N	ESAS-oirekyselylomake
-FARV fire vurderingsområder ved samtykkekompetanse	N	forstå ymmärtää, anerkjenne hyväksyä, resonnere järkeillä, velge valita ???
-FAST (face arm speech time)	N	aivohalvauksen oireiden tunnistamisessa käytettävä muistisääntö 
-GFR	glomerulær filtrasjonsrate  N	glomerulusten suodatusnopeus GFR (glomerular filtration rate)
-GTK generalisert tonisk-klonisk anfall	N	GTK generalisoituva toonis-klooninen kohtaus	
-HPV humant papillomavirus N	HPV ihmisen papilloomavirus
+dyp hjernestimulering; DBS	N	syväaivostimulaatio; DBS
+DMARD; sykdomsdempende medikamenter mot revmatiske sykdommer    N	antireumaattinen lääke; tautiprosessia hidastava reumalääke
+dyp venetrombose; DVT	N	syvä laskimotukos; SLT
+Douglas-abscess	N	märkäpesäke kohtuperäsuolisyvänteessä; paise kohtuperäsuolisyvänteessä
+elektroencefalografi; EEG	N   aivosähkökäyrätutkimus; elektroenkefalografia; EEG
+ERCP	N	  sappi ja haimatiehyen tähystystutkimus; endoskooppinen retrogradinen kolangio-pankretografia; ERCP
+ESAS-skjema; Edmonton Symptom Assessment System; N	ESAS-oirekyselylomake
+FARV; metode forå vurdere samtykkekompetanse	N	oikeustoimikelpoisuuden arviointimenetelmä
+FAST	N	aivohalvauksen oireiden tunnistamisessa käytettävä muistisääntö 
+glomerulær filtrasjonsrate; GFR  N	glomerulusten suodatusnopeus; GFR
+generalisert tonisk-klonisk anfall; GTK	N	generalisoituva toonis-klooninen kohtaus GTK	
+humant papillomavirus; HPV N	ihmisen papilloomavirus; HPV
 Heimlich manøver	N	Heimlichin ote
 helicobacter pylori	N	helikobakteeri
-ICP intrahepatisk kolestase	N	raskaushepatoosi    hepatogestoosi  raskauskolestaasi
-ICP intrakranielt trykk N   kallonsisäinen paine ICP
-IVF in vitro-fertilisering	N	in vitro fertilization IVF koeputkihedelmöitys keinohedelmöitys   munasolun hedelmöittäminen elimistön ulkopuolella
-KAD kommunal akutt døgnenhet	N	kunnallinen ympärivuorokautinen akuuttiosasto
-KMI kroppsmasseindeks	N	kehon massaindeksi  painoindeksi
+intrahepatisk kolestase; ICP	N	raskaushepatoosi; hepatogestoosi; raskauskolestaasi
+intrakranielt trykk; ICP N   kallonsisäinen paine; ICP
+in vitro-fertilisering; IVF	N	in vitro fertilization; IVF; koeputkihedelmöitys; keinohedelmöitys; munasolun hedelmöittäminen elimistön ulkopuolella
+kommunal akutt døgnenhet; KAD	N	kunnallinen ympärivuorokautinen akuuttiosasto
+kroppsmasseindeks; KMI	N	kehon massaindeksi; painoindeksi
 LUTS nedre urinveissymptomer	N	Lower Urinary Tract Symptoms LUTS   alavirtsatieoireet
 MRCP magnetisk resonanskolangiopankreatografi	N	Magnetic Resonance Cholangiopancreatography MRCP magneettikolangiografia
 MS multippel sklerose	N	MS-tauti    multippeliskleroosi keskushermoston pesäkekovettumatauti
@@ -41,7 +42,7 @@ PEG perkutan endoskopisk gastrostomi	N	perkutaaninen endoskooppinen gastrostomia
 PID	bekkeninfeksjon N	pelvic inflammatory disease PID sisäsynnytintulehdus
 PID primær immunsviktsykdom    N   primaaria immuunipuutossairautta PID
 PLISSIT-modellen	N	PLISSIT-malli
-PMS premenstruelt syndrom	N	kuukautisia edeltävä oireyhtymä premenstruaalioireyhtymä PMS
+PMS premenstruel syndrom	N	kuukautisia edeltävä oireyhtymä premenstruaalioireyhtymä PMS
 PRICE-prinsippet	N	protection, rest, ice, compression og elevation PRICE principle suoja, lepo, kylmähoito, kompressio, kohoasento 
 PSA prostataspesifikt antigen	N	prostataspesifinen antigeeni PSA
 psoriasis	N	psoriaasi   psoriasis
