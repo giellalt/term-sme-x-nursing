@@ -903,7 +903,7 @@ legemiddelbehandling	dálkkasdikšu				lääkehoito	dálkkasdikšu			dálkkasgie
 legemiddelregime	dálkkasdikšunplána				lääkehoitosuunnitelma	dálkkasdikšoplána			dálkkasrešuvdna	Dálkkodanriekkis	
 legemiddelhåndbok	dálkkasofelaš	dálkkasoahpistangirji			lääkeopas	dálkkasofelaš			dálkkasgiehtagirji	dálkkasbagadus	
 medisinhistorie	dálkkasdiehtaga historjá				lääketieteen historia	dálkkasdiehtaga historjá			dálkkashistorjá	medisiinnalaš historjá	
-legemiddelkurve	dálkkaslistu				lääkityslista  lääkelista	#dálkun#lista #dálkkas#lista  			dálkkaskoarta	medisiinnalaš listu	
+legemiddelkurve	dálkkaslistu	dálkunlistu			lääkityslista  lääkelista	#dálkun#lista #dálkkas#lista  			dálkkaskoarta	medisiinnalaš listu	
 legemiddelliste					lääkityslista  lääkelista	#dálkun#lista #dálkkas#lista  			lea dálkasiid birra	medisiinnalaš listu	
 medisineringstidspunkt	dálkasaaddináigi				lääkkeenantoaika	dálkasaaddináigi			dálkkastidjanáigi	lea dál	
 legetime	doavttiráidi				lääkäriaika	doavtteráigi			dálkkasdiibmu	doavttirstudeanta	
@@ -1104,49 +1104,49 @@ vektendring					painonmuutos	deattoiežáhus			deaddomuddus	deaddomuddus
 vektøkning	deaddoloktaneapmi				painonnousu	#deaddu#loktaneapmi			deaddu lassáneapmi	lossa deaddileapmi	
 vektreduksjon					painonpudotus	deattogahččan			deattu geahpedeapmi	deaddomihttu	
 vektreduksjonstiltak					painonpudotustoimenpide	deattogahččandoaibmabidju			doaibmabijut maiguin geahpedit deattu	doaibmabidju man ulbmil lea geahpedit deattu	
-dagsplan					paiväsuunnitelma				áigeplána	báhčinplána	
-tvangsbehandling					pakkohoito	bággodikšu			lea bággobearramiin	bággodoaibma	
-hastverksinkontinens					pakkoinkontinenssi	bággoinkontineansa			heahtedoaimmaid botkehus	bággobearráigeahčču	
-tvangsmedisinering					pakkolääkitys	bággodálkun			bággendoaimmat	bággendoaimmat	
-tvangsmating					pakkosyöttö	bággoboraheapmi			bággodoallu	bággosáhkku	
-virkelighetsflukt					pako todellisuudesta	báhtareapmi duođalašvuođas			duohtavuođa báhtaremiin	báhtareapmi duohtavuođas	
-tvangsbruk					pakon käyttö	bákku atnin			bággogeavaheapmi	bággogeavaheapmi	
+dagsplan	beaiveplána				paiväsuunnitelma				áigeplána	báhčinplána	
+tvangsbehandling	bággodikšu				pakkohoito	bággodikšu			lea bággobearramiin	bággodoaibma	
+hastverksinkontinens	bággoinkontineansa				pakkoinkontinenssi	bággoinkontineansa			heahtedoaimmaid botkehus	bággobearráigeahčču	
+tvangsmedisinering	bággodálkun				pakkolääkitys	bággodálkun			bággendoaimmat	bággendoaimmat	
+tvangsmating	bággoboraheapmi				pakkosyöttö	bággoboraheapmi			bággodoallu	bággosáhkku	
+virkelighetsflukt	báhtareapmi duođalašvuođas				pako todellisuudesta	báhtareapmi duođalašvuođas			duohtavuođa báhtaremiin	báhtareapmi duohtavuođas	
+tvangsbruk	bákku atnin				pakon käyttö	bákku atnin			bággogeavaheapmi	bággogeavaheapmi	
 koloskopi					paksusuolen tähystys	gassačoali 			kolosspeadjalastin	guovssonjuolggis	
-colon					paksusuoli	gassačoalli			kolona	assás duolva	
+colon	gassačoalli				paksusuoli	gassačoalli			kolona	assás duolva	
 responssystem					palautejärjestelmä				responsavuogádat	buollin	
-frostskade					paleltuma	suvččageapmi			galbmageavaheapmi	almmustahttin	
+frostskade	suvččageapmi				paleltuma	suvččageapmi			galbmageavaheapmi	almmustahttin	
 blotte					paljastaa				guorus	palliatiiva dikšu	
 palliasjon					palliatiivinen hoito	oireita lievittävä hoito			palliatiija	buollinveara	*palliatiivinen dikšu
-brannskade					palovamma	dollaveaidni			buollinvahát	bálvalusealáhus	
-tertiærnæring					palveluelinkeino	bálvalusealáhus			tertiálaealáhus	bálvalusaid ovddideapmi	
-tjenesteutvikling					palveluiden kehittäminen	bálvalusaid ovddideapmi			bálvalusovddideapmi	min bálvalusa kvalitehta	
-tjenestekvalitet					palvelun laatu	bálvalusa dássu			bálvaluskvalitehta	bálvalusjođiheapmi	
+brannskade	buollinváddu				palovamma	dollaveaidni			buollinvahát	bálvalusealáhus	
+tertiærnæring	bálvalanealáhus				palveluelinkeino	bálvalusealáhus			tertiálaealáhus	bálvalusaid ovddideapmi	
+tjenesteutvikling	bálvalusaid ovddideapmi				palveluiden kehittäminen	bálvalusaid ovddideapmi			bálvalusovddideapmi	min bálvalusa kvalitehta	
+tjenestekvalitet	bálvalusa dássu	bálvalusa kvalitehta			palvelun laatu	bálvalusa dássu			bálvaluskvalitehta	bálvalusjođiheapmi	
 tjenesteutøvelse					palvelunalan harjoittaminen	bálvalussuorggi hárjehit			bálvaleapmi		
-pandemi					pandemia	erittäin laajalle levinnyt epidemia			pandemia	pandemia	pandemiija
-healing					paraneminen				buorideapmi	buorráneapmi	
+pandemi	pandemiija				pandemia	erittäin laajalle levinnyt epidemia			pandemia	pandemia	pandemiija
+healing	buorráneapmi	áhtan			paraneminen				buorideapmi	buorráneapmi	
 forbedringstiltak					parannustoimenpide	buorádusdoaibmabidju			buoridanbargu	dálkkodanrieggá	
 forbedringsarbeid					parannustyö	buorádusbargu			buoridanbargu	buoridanbargu	
-parforhold					parisuhde	bárragorri			bárraoaivilvuohta	párraoktavuohta	
+parforhold	párragaskavuohta				parisuhde	bárragorri			bárraoaivilvuohta	párraoktavuohta	
 samlivskurs					parisuhdekurssi	#bárra#gorri#gursa			ovttastallankursa	searvevuođakursa	
-parkinsonisme					parkinsonismi				parkinsonisma	parkinsonisma	
+parkinsonisme	parkinsonisma				parkinsonismi				parkinsonisma	parkinsonisma	
 skjeggvekst					parrankasvu				guovža	bárrastávval	
 paternalisme					paternalismi				áhččivuođas	patriarkálalaš	
-madrasstrekk					patjansuojus				láđđeboagán	suodji báttis	
+madrasstrekk	bolstarasuodji				patjansuojus				láđđeboagán	suodji báttis	
 patofysiologi					patofysiologia	buođđofysiologiija			patofysiologiija	patofysiologiija	
 kjøttbetennelse					pehmytkudostulehdus				vuolši bierggus	dipma čoavjevuolši	
-belegg					peite	govččas			coahkkádus	čiegusvuohta	
-skrekkanfall					pelkokohtaus	#ballu#dohppehallat			balddihahtti ášši	balu dáhpáhus	
-penishode					peniksen kärki terska	diri geahči 			beanabártni oaivi	peanna nannosealgá bátti	
-penishode					peniksen pää	diri #oaivi			beanabártni oaivi	guolgaoaivi	
-penicillin					penisilliini				penicilliidna	penicillin	
-penispumpe					penispumppu	dirrepumpa			beanavuoiddas	beanavuodjin	
+belegg	tehppen	govččas			peite, peitto	govččas			coahkkádus	čiegusvuohta	
+skrekkanfall	balludohppehallat				pelkokohtaus	#ballu#dohppehallat			balddihahtti ášši	balu dáhpáhus	
+penishode	návleoaivi				peniksen kärki terska	diri geahči 			beanabártni oaivi	peanna nannosealgá bátti	
+penishode	návleoaivi				peniksen pää	diri #oaivi			beanabártni oaivi	guolgaoaivi	
+penicillin	penisilliidna				penisilliini				penicilliidna	penicillin	
+penispumpe	návlepumpa				penispumppu	dirrepumpa			beanavuoiddas	beanavuodjin	
 tradisjonsgrunnlag					perinnepohja	árbevierrobodni			árbevierru	árbevierru	
 personlighetsegenskap					persoonallisuuden piirre	*persoonallisuuden sárggus			persovnnalašvuođaiešvuohta	persovnnalašvuođa sárggis	
 livsperspektiv					perspektiivi elämään	perspektiiva #ealli			eallinoainnu	perspektiiva eallimii	
-grunnvilkår					perusehto	vuođđoeaktu			eavttut	vuođđoeaktu	
-grunnlidelse					perussairaus	vuođđobuohcu			vuođđováivi	vuođđodávda	
-stikkpille					peräpuikko suppo				bohccobiergu	luomeguolgaseahkka	
-klystersetting					peräruiskeen anto	*peräruiskeen addin			klystaráhkadeapmi	seahkalas ruvdna	
+grunnvilkår	vuođđoeaktu				perusehto	vuođđoeaktu			eavttut	vuođđoeaktu	
+grunnlidelse	vuođđobuohcu	vuođđodávda			perussairaus	vuođđobuohcu			vuođđováivi	vuođđodávda	
+stikkpille	bahtačoalledálkkas	bahtaráibuiccahas			peräpuikko suppo				bohccobiergu	luomeguolgaseahkka	
+klystersetting	bahtačoalledoiddusa addin	bahtačoallecirgehaga addin			peräruiskeen anto	*peräruiskeen addin			klystaráhkadeapmi	seahkalas ruvdna	
 pessar					pessaari				pessára	pessára	
 pessimisme					pessimismi				beahttámuš	ahtanuššan	
 væskeskjema					pesutaulukko	bassantabealla			golgosaš skovvi	basadangárri	
