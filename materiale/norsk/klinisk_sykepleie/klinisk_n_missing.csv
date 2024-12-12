@@ -1,3 +1,4 @@
+ISBN	N	kirjan kansainvälinen standardinumero
 abstraksjon	N	abstraktio; konkreettisen kohteen tietyn piirteen tai piirrejoukon eristäminen ja tarkastelu sellaisenaan
 adhesjon	N	adheesio; kiinnike; tartuntakyky
 aerosol	N	aerosoli; ilmassa oleva ainehiukkasten ja veden tai kaasun seos (mikr)
@@ -8,6 +9,7 @@ alginat	N	alginaatti; merilevästä saatu aine
 alkoholmisbruker	N	alkoholin väärinkäyttäjä
 anabolisme	N	anabolia; synteesiaineenvaihdunta
 ange	N	tuoksu 
+angioplastikk	N	verisuonen (yleensä sepelvaltimon) pallolaajennus
 anleggelse	N	rakentaminen; tekeminen
 annal	N	aikakirja; vuosikirja
 ansiktsdrag	N	kasvonpiirre
@@ -39,6 +41,7 @@ arvelighet	N	perinnöllisyys
 askorbinsyre	N	askorbiinihappo
 astigmatisme	N	hajataittoisuus; astigmatismi
 aura	N	sairauskohtauksen ennakkotunne esimerkiksi epilepsiassa (lääk)
+autoklav	N	autoklaavi; painekattila; välineiden sterilisaatiossa käytettävä painehöyrylaite
 automatikk	N	automatiikka
 avbrekk	N	keskeytys; tauko; haitta
 avhengighetsforhold	N	riippuvuussuhde
@@ -51,21 +54,15 @@ avveksling	N	vaihtelu
 badevann	N	kylpyvesi
 bagatellisering	N	vähättely
 bakgrunnsinformasjon	N	taustatiedot (mon.)
-ball	N	pallo; tanssiaiset
-tåball	N	päkiä
-rumpeball	N	pakara
 barberhøvel	N	partahöylä
 barbermaskin	N	partakone; parranajokone
 bardun	N	vaijeri; vahvistava ommel (med)
 barium	N	barium
 barneår	N	lapsuus; lapsuusvuodet
 barnsbein	N	(fra - av) lapsuudesta lähtien
-barriere	N	este
 barskhet	N	karskius
-base	N	emäs; tukikohta; asemapaikka
 begrepsapparat	N	käsitteistö
 behag	N	mieltymys; ihastus; 
-etter behag	Phrase	mielen mukaan
 beis	N	petsi
 beklagelse	N	pahoittelu
 benektelse	N	kieltäminen
@@ -79,11 +76,10 @@ bestråling	N	säteily
 betaler	N	maksaja
 bevegelsesutslag	N	nivelten liikelaajuus
 bidragsyter	N	avustaja; avunantaja
+bilirubin	N	bilirubiini punainen sappiväriaine
 bioingeniør	N	laboratoriohoitaja
-bl.a.	N	mm.
 blaff	N	puuska; vihuri; lepatus
 borre	N	takiainen
-borrelås	N	tarrakiinnitys
 botulisme	N	botulismi; botuliinin aiheuttama myrkytys
 brannfare	N	palovaara
 brekkasje	N	rikkoutuminen; särkyminen
@@ -98,12 +94,8 @@ d.c.	N	uudelleen
 d.d.	N	tänään
 d.e.	N	vanhempi (nimien yhteydessä)
 d.m.	N	tätä kuuta
-da capo	N	uudelleen
-dakapo	N	uudelleen
-dags dato	N	tänään
-den eldre	N	vanhempi (nimien yhteydessä)
-denne måned	N	tätä kuuta
 dagdrøm	N	valveuni; unelma
+dakapo	N	uudelleen
 dashbord	N	kojetaulu
 defekt	N	vika; puute
 defekt	A	viallinen; puutteellinen
@@ -124,12 +116,10 @@ dna	N	DNA deoksiribonukleiinihappo
 donor	N	luovuttaja
 drahjelp	N	vetoapu
 drakt	N	puuskaasu
-dvs. (det vil si)	N	eli ???
 dysenteri	N	punatauti; dysenteria
-e.l. (eller lignende)	N	jne. ja niin edelleen
+erle	N	västäräkki
 egentrening	N	itsenäinen harjoittelu; ???
 eggedosis	N	sokerin kanssa vatkattu muna
-eks. (eksemplar)	N	kappale yksikkö
 ekstrautgift	N	ylimääräinen meno
 ekstrautstyr	N	lisävarusteet
 elektrokardiogram	N	elektrokardiogrammi sähköimpulssien avulla muodostettu sydämen toimintaa kuvaava graafinen käyrä
@@ -147,15 +137,12 @@ epitel	N	epiteeli; epiteelikudos
 ergonomi	N	ergonomia
 erle	N	västäräkki
 erstatningssak	N	korvausasia
-etc. (et cetera)	N	ja niin edelleen; ynnä muuta
+behag	N	mieltymys; ihastus; 
 ettergivenhet	N	myöntyvyys
 etterkontroll	N	jälkitarkastus
 ettertid	N	tulevaisuus myöhemmät ajat
 etui	N	kotelo
 etylen	N	eteeni; etyleeni
-evt. (etter vår tidsregning)	N	jaa. jälkeen ajanlaskun alun
-f.eks. (for eksempel) 	N	esim. esimerkiksi
-f.t. (for tiden)	N	nykyään tällä hetkellä; ???
 fabrikant	N	valmistaja; tehtailija
 fagdag	N	oman alan koulutuspäivä koulussa yhteen oppiaineeseen keskittyvä päivä
 fagkompetanse	N	ammatillinen pätevyys
@@ -186,7 +173,6 @@ fór	N	rehu; vuori (vaateissa)
 foranledning	N	syy aihe
 forbytting	N	vaihtaminen; ??? vaihtuminen ???
 foreleser	N	luennoitsija
-forgjengelighet	N	katoavaisuus; kuolevaisuus
 forhøyning	N	kohouma koroke
 fôring	N	ruokinta; vuoraus
 forlegenhet	N	kiusaantuneisuus; nolostuminen häpeä
@@ -197,7 +183,6 @@ forstørrelse	N	suurennos
 fortetning	N	tiivistyminen; tiivistymä
 fortielse	N	vaikeneminen
 fortrenging	N	(psy) torjunta; patouma
-forvei i forveien	N	edeltä; dagen i - edellisenä; päivänä; lang tid i - hyvissä ajoin ennen
 forvissning	N	varmuus
 fraksjon	N	puolueryhmittymä; ryhmäkunta; jae
 framspring	N	ulkonema; kieleke uloke
@@ -205,17 +190,14 @@ funksjonshemming	N	vamma
 furie	N	raivotar
 galgenhumor	N	hirtehishuumori
 gall	N	(bot) äkämä
-galle; N; sappi
 gammaglobulin	N	gammablobuliini veriplasman proteiini
 garderobeskap	N	vaatekomero
 gassflaske	N	kaasupullo
 gassmengde	N	kaasun määrä
 gelé	N	hyytelö
-gen	N	geeni; perintötekijä
 genspleising	N	geenien yhteenliittäminen
 gigantisme	N	jättikasvu; gigantismi; gigantismus
 gjenvekst	N	takaisin kasvaminen uudelleen kasvaminen; ???
-gjerde	N	aita
 glassbit	N	lasinsiru
 glidning	N	liukuminen; liuku; ???
 glipe	N	rako
@@ -225,6 +207,7 @@ gnidning	N	hankaus
 godvilje	N	hyvä tahto
 golfspiller	N	golfin pelaaja
 gradering	N	(arvostelu)asteikko arvosteluasteikkoon laittaminen ???
+gradient	N	gradientti; fyysisen suureen tietyn välimitan tai aikayksikön muutos; ???
 gravitasjon	N	painovoima; gravitaatio
 grønnsåpe	N	mäntysuopa
 grundighet	N	perusteellisuus
@@ -237,7 +220,6 @@ halting	N	ontuminen; nilkuttaminen
 håndgemeng	N	käsikähmä; käsirysy
 hårbørste	N	hiusharja
 hårføner	N	hiustenkuivain; hiustenkuivaaja fööni
-heltid	N	på - täyspäiväinen
 henhold	N	i - til jnk nojalla
 hermetikk	N	säilyke
 herr	N	(puhuttelu) herra
@@ -251,19 +233,16 @@ hogg	N	isku; lyönti
 hol	N	reikä; aukko; loukko
 homeopati	N	homeopatia
 hovedåre	N	pääsuoni
-huff -!	N	(tretthet) huh! (avsky) hyi!; (skrekk) hui!
 hundehår	N	koirankarva
 hundekjører	N	koiravaljakon ajaja ???
 hvilepause	N	lepotauko
 hyll	N	selja
 hylse	N	hylsy
 hypnose	N	hyypnoosi
-i.e. (id est)	N	eli sanoen
 igangsettelse	N	aloitus käynnistys
 ikke-røyker	N	tupakoimaton henkilö
 iling	N	väre; väristys
 infiltrasjon	N	soluttautuminen leviäminen tiivistymä; infiltraatio; ???
-informasjon	N	tieto; tiedotus
 informasjonshefte	N	tiedotusvihkonen; tiedotusvihko
 inhalering	N	sisäänhengitys
 inkompetanse	N	epäpätevyys
@@ -277,7 +256,6 @@ instrumentering	N	laitteilla varustaminen instrumentointi (lääk) laitteiden la
 internet	N	internet; maailmanlaajuinen informaationsiirtojärjestelmä
 invasjon	N	maahantunkeutuminen tunkeutuminen; invaasio
 iridium	N	iridium
-ISBN	N	kirjan kansainvälinen standardinumero
 jobbsituasjon	N	työtilanne
 jogging	N	lenkkeily
 judaisme	N	juutalaisuus
@@ -290,7 +268,6 @@ kjør	N	kiire; rääkki; i ett - yhtä mittaa
 klapp	N	taputus lyönti
 klarering	N	kontrollointi ja hyväksyntä tullaus 
 klargjøring	N	valmistelu; selventäminen
-autoklav	N	autoklaavi; painekattila; välineiden sterilisaatiossa käytettävä painehöyrylaite
 klebeevne	N	kiinnityskyky
 klientell	N	asiakkaat; potilaat
 klikk	N	kuppikunta; naksahdus; epäonnistuminen
@@ -324,7 +301,6 @@ kraniebrudd	N	kallonmurtuma
 krisesenter	N	kriisikeskus; turvakoti
 kroppsbygning	N	ruumiinrakenne
 kruspersille	N	kähäräpersilja
-kur	N	kuuri; hoito
 kursendring	N	kurssinmuutos; suunnanmuutos
 kveil	N	vyyhti; ??? kerä
 labyrint	N	labyrintti; sokkelo
@@ -355,7 +331,6 @@ løsningsmiddel	N	liuotusaine liuotin
 lotion	N	voide
 luftfuktighet	N	ilmankosteus
 lumbago	N	alaselkäkipu; noidannuoli
-m.v. (med videre)	N	jne. ja niin edelleen 
 makron	N	mantelipikkuleipä; makroni macaron
 maktbalanse	N	voimatasapaino
 målenhet	N	mittayksikkö
@@ -365,7 +340,6 @@ manipulering	N	manipulointi
 manøvrering	N	ohjailu taktikointi junailu
 margin	N	marginaali; syrjäinen asema erotus
 maskulinitet	N	maskuliinisuus
-match; N; yhteensopivuus (lääk) transplantaatiossa; ottelu; tehtävä 
 meditasjon	N	mietiskely; meditaatio
 medspiller	N	pelitoveri
 mellomstasjon	N	väliasema; välietappi
@@ -373,8 +347,6 @@ mellomtid	N	väliaika; i - sillä välin
 menneskelighet	N	ihmisyys; inhimillisyys
 metadon	N	metadoni
 metalltråd	N	metallilanka
-mfl. med flere	N	ym. ynnä muut; ja muut
-mht. med hensyn til/på	N	koskien jtk
 mikron	N	mikrometri; mikroni (vanhentunut)
 miljøterapeut	N	yhteisöpedagogi terveys- ja sosiaalihuollossa
 milligram	N	milligramma
@@ -402,10 +374,6 @@ nøling	N	epäröinti
 nominal-	A	nimellis-; ???
 normalisering	N	normalisoida
 normalitet	N	normaalius; tavallisuus normaalitila
-o.a. og annet	N	ym. ja muut ynnä muut
-o.a. oversetterens anmerkning; N; kääntäjän huomautus
-o.l. og lignende	N	ja vastaavat; ???
-o.m. og mer	N	ja lisää; ???
 obs	N	huom.
 ødelegging	N	hävittäminen; tuhoaminen
 oksyhemoglobin	N	oksihemoglobiini; (lääk) hapettunut hemoglobiini
@@ -435,7 +403,6 @@ oppsett	N	lehtikirjoitus; ??? asettelu ??? timeoppsett aikataulu
 oppsikt	N	huomio; vekke - herättää huomiota; valvonta ha - med noe pitää silmällä jtk???
 oppslagsbok	N	hakuteos
 oppstartingsfase	N	käynnistysvaihe
-osv. og så videre	N	jne. ja niin edelleen
 overgriper	N	hyväksikäyttäjä ahdistelija pahoinpitelijä; ???
 overhånd	N	ta- overhånd ottaa vallan
 overlevering	N	vaihto; luovutus; perinne
@@ -445,12 +412,7 @@ oversykepleier	N	ylihoitaja
 overvinnelse	N	(henkinen) voitto
 øyebryn	N	kulmakarva
 øyenvitne	N	silminnäkijä
-p.r. poste restante	N	noutoposti
-p.a. pro anno	N	tänä vuonna vuosittain; ???
-p.m. post meridiem	N	keskipäivän jälkeen
-p.p. per prokura	N	valtakirjan mukaan
-ps.; PS postskriptum	N	jälkikirjoitus
-p.t. pro tempore	N	nykyään
+pore	N	huokonen
 påfyll	N	lisä; täydennys
 påfylling	N	täyttäminen täyte
 pakking	N	pakkaaminen (lääk) (haavakanavan) pakkaaminen
@@ -460,18 +422,13 @@ patolog	N	patologi
 pek	N	vihje; kuje; pila
 pelikan	N	pelikaani
 pepsin	N	pepsiini
-pga. på grunn av	N	jkn takia; jkn vuoksi
 piercing	N	lävistys; 
 pipette	N	pipetti
 pir	N	satamalaituri; (el) pikkumakrilli
-pkt. punkt	N	kohta (esim. lakipykälässä)
 placebo	N	lumelääke; plasebo lume
 plageånd	N	kiusanhenki
 plansje	N	kuvataulu
-angioplastikk	N	verisuonen (yleensä sepelvaltimon) pallolaajennus
 platå	N	ylätasanko; tasanne
-PMS premestruelt syndrom	N	premenstruaalioireyhtymä; kuukautisia edeltävä oireyhtymä
-etterforskning	N	tutkinta; etsintä
 polstring	N	toppaus
 pore	N	huokonen
 potteplante	N	ruukkukasvi
@@ -490,7 +447,6 @@ rammel	N	kolina; melu
 ramse	N	loru
 red	N	reti satamaselkä
 reduksjonsventil	N	paineensäädinventtiili
-registerdata	N	rekisteritiedot rekisteröydyt tiedot
 rekonvalesent	N	toipilas
 relieff	N	kohokuva; korkokuva; reliefi
 remse	N	suikale loru
@@ -501,17 +457,15 @@ reversering	N	jnk kääntäminen päinvastaiseen suuntaan
 revurdering	N	uudelleenarviointi
 ringeapparat	N	soittolaite
 rivalisering	N	kilpaileminen; kilpailu; kilvoittelu
-rolle	N	rooli; osa
 røntgenstråle	N	röntgensäde
 røykutvikling	N	savun tuleminen jstk
-bilirubin	N	bilirubiini punainen sappiväriaine
 rullegardin	N	rullakaihdin; kierrekaihdin; avattava valikko tiekoneohjelmassa
+rumpeball	N	pakara
 rye	N	räsymatto; floss- ryijy
 ryggoperasjon	N	selkäleikkaus
 rykning	N	nykäys
 rystelse	N	tärähdys; järkytys
-s.a. sine anno	N	ilman painatusvuotta
-s.d. se dette, samme dag	N	katso tätä, samana päivänä
+stag	N	harus; gå over - kääntää suuntaa
 safe	N	kassakaappi
 samkvem	N	kanssakäyminen
 samlag	N	yhteisö yhdistys
@@ -537,11 +491,9 @@ sexliv	N	seksielämä; sukupuolielämä
 sexolog	N	seksologi
 sikkerhetsnål	N	hakaneula
 simulant	N	teeskentelijä
-SIRS systemisk inflammatorisk responssyndrom	N	tulehdusreaktio-oireyhtymä
 siv	N	kaisla; ruoko
 sjikt	N	kierros kerrostuma
 sjukepleie	N	sairaanhoito
-ikke skade-prinsipp	N	vahingoittamisen välttämisen periaate
 skalpell	N	kirurgin leikkausveitsi (vnahahtava) skalpelli
 skarphet	N	terävyys
 skinnebein	N	sääriluu
@@ -559,7 +511,6 @@ sleng	N; heilahdus; heitto;
 slipp	N	tarkastuslappu; (merenk) vetotelakka
 sluttfase	N	loppuvaihe
 smittevernlov	N	tartuntatautilaki; laki infektioiden torjunnasta
-snack, snacks	N	välipala; naposteltava
 snuoperasjon	N	käännös kääntyminen täyskäännös ???
 sodavann	N	kivennäisvesi; soodavesi
 søkning	N	hakijamäärä
@@ -572,7 +523,6 @@ spekemat	N	suolatut, savustetut tai kuivatut leikkeleet; ???
 spesialområde	N	erikoisalue
 spesialutdanning	N	erikoiskoulutus erikoistuminen ???
 spesialutstyr	N	erikoisvälineet erikoisvarusteet
-spiker	N	naula
 spile	N	säle; (paraply-) ruode, ruoteet; ???
 spindel	N	akseli; värttinä; kehräin ???
 spinning	N	kehruu
@@ -580,21 +530,17 @@ spis	N	takka
 spray	N	sumute; suihke; spray
 sprayflaske	N	suihkepullo sumutepullo 
 spyling	N	huuhtelu
-st.meld. stortingsmelding	N	dokumentti hallitukselta Suurkäräjille ???
 stag	N	harus; gå over - kääntää suuntaa
 steng	N	et - på et tonn tonnin saalis
 steppe	N	aro
 sterilisering	N	sterilointi
 stift	N	naula; (tegne-) nasta; (leppe-) huulipuikko
-fargestift; N; väriliitu; ; ; ; ; ; ; ; ; ; 
 stigma	N	stigma
 stillbilde	N	stillkuva
 størstedel	N	suurin osa
-stråle	N	säde; (væske) suihku
 streptomycin	N	streptomysiini
 stressreaksjon	N	stressireaktio
 strikk	N	neule; gummi- kuminauha
-strikke N; kÿsi; naru
 strimmel	N	suikale
 strippingskade	N	ihovaurio esim. varomattomasti poistetun avannepussin takia ns. ihon pintakerroksen kuoriutumisvaurio
 strømning	N	virtaus hengellinen tai kulturellinen suuntaus
@@ -604,7 +550,6 @@ sulfid	N	sulfidi
 surring	N	surina; hyrinä; sitominen/siteet
 surrogat	N	korvike surrogat; surrogatmor sijaissynnyttäjä
 surstoff	N	happi
-svaberg	N	paljas kallio
 svekking	N	heikennys
 svikt	N	puute; jousto menneskelig svikt inhimillinen erehdys; hjerte- sydämen vajaatoiminta; ???
 svineinfluensa	N	sikainfluenssa
@@ -615,13 +560,12 @@ sykepenge	N	sairauspäiväraha
 sykestue	N	Norjassa sairaanhoitopiirin (helseforetak) ja kunnan yhdessä ylläpitämä terveydenhoitolaitos paikoissa, joista on pitä matka sairaalaan ???
 sykkeltur	N	pyöräilyretki; pyöräilymatka
 syklist	N	pyöräilijä
-symbol	N	symboli vertauskuva
 syndebukk	N	syntipukki
+tåball	N	päkiä
 tagg	N	piikki; sakara; hammas
 tagging	N	hammastus; gaffitien maalaus; ???
 takst	N	taksa; arviohinta
 talerør	N	puhetorvi; äänitorvi; puolesta puhuja ???
-tallerken	N	lautanen
 tampong	N	tamponi
 tåregass	N	kyynelkaasu
 tatovering	N	tatuointi
@@ -644,28 +588,22 @@ tilstopping	N	tukos; tukkeuma
 tining	N	sulaminen; sulattaminen; ???
 tobakksrøyking	N	tupakanpoltto
 tøm	N	ohjakset
-tømme; N; ohjakset; holde en i - pitää jokin aisoissa
 tomannshånd	N	på - kahden kesken
 toppsjikt	N	ylin osa jstk
 tørk	N	talouspaperi; henge til - ripustaa kuivumaan
-tørke; N; kuivuus kuivuri
 tørstedrikk	N	janojuoma
 tråkk	N	askeleet; jalanjälki; polku
 trall	N	rallatus
-tralle; N; (pieni) vaunu; kärry; ???
 tranghet	N	ahtaus
 transfusjonsmedisin	N	verensiirtolääketiede
 transportkapasitet	N	kuljetuskapasiteetti
 trass	N	uhma; på - uhallaan
-trass; N; - i noe jst huolimatta; på - av noe jst huolimatta; ???
 treflis	N	puusälö puupiikki; puulastu; hake; ???
 treningsøkt	N	harjoitukset; treeni; (ark) harkat
 treningsopplegg	N	harjoitussuunnitelma; treenaussuunnitelma
 trombin	N	trombiini; fibrinogenaasi; trombaasi
 trosretning	N	uskonsuunta
-trykk	N	paino; paine; isku
 trykkforskjell	N	paine-ero
-gradient	N	gradientti; fyysisen suureen tietyn välimitan tai aikayksikön muutos; ???
 tuberkel	N	tuberkkeli; kyhmy; nystyrä
 tupp	N	pää kärki
 tuppe	N	tipu
@@ -676,7 +614,6 @@ tvilstilfelle	N	epäselvä tapaus
 tydelighet	N	selkeys
 tynning	N	laimennus; ohennus harventaminen
 tyranni	N	tyrannia; sortovalta
-tyrker	N	turkkilainen
 tyroksin	N	tyroksiini
 udyktighet	N	kelvottomuus; kyvyttömyys
 uføre	N	vaikea maasto; huono keli; (kuv) vaikea, huono tilanne umpikuja; ???
