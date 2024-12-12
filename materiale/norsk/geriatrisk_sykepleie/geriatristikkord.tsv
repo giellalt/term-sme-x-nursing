@@ -1,23 +1,25 @@
-avlastning	N	apu,helpotus
+Lag til i ordboka 12.12.24.
+
+avlastning	N	apu	helpotus
 dilemma	N	pulma   dilemma
-forvirre	V	hämmentää   hämätä
-hofte	N	lonkka  lanne lantio
-inndele	V	jakaa   jaotella
+forvirre	V	hämmentää	 hämätä
+hofte	N	lonkka	lanne	lantio
+inndele	V	jakaa	jaotella
 innvirkning	N	vaikutus
-ivaretakelse	N	huolehtiminen   hoitaminen
+ivaretakelse	N	huolehtiminen	hoitaminen
 kar	N	mies    astia
 karsykdom	N	verisuonisairaus
 kartlegging	N	kartoitus
 leddbevegelighet	N	nivelten liikkuvuus
 ly	N	suoja
-miljøtiltak	N	ympäristötoimenpide toimenpiteet, jotka tukevat sairaan ihmisen omien resurssien käyttöä
+miljøtiltak	N	ympäristötoimenpide	toimenpiteet, jotka tukevat sairaan ihmisen omien resurssien käyttöä
 omsorgsarbeid	N	hoitotyö
-opplæring	N	oppiminen   opetus  koulutus
+opplæring	N	oppiminen	opetus	koulutus
 oversikt	N	yleiskatsaus
 problemstilling	N	ongelmanasettelu
 samtykke	N	suostumus
-sluttfase	N	loppuvaihe  viimeinen vaihe
+sluttfase	N	loppuvaihe	viimeinen vaihe
 spesialisthelsetjeneste	N	erikoissairaanhoito
-sykehjem	N	sairaskoti  vanhustenhoitolaitos
+sykehjem	N	sairaskoti	vanhustenhoitolaitos
 søvn	N	uni
 vurderingsskjema	N	arviointilomake
