@@ -1,37 +1,24 @@
 
 ALS	N	Amyotrofinen lateraaliskleroosi; ALS-tauti; motoneuronitauti; Lou Gehrigin tauti
-aldersrelatert makuladegenerasjon; AMD	N	ikään liittyvä makuladegeneraatio; AMD
-aldersbetinget makuladegenerasjon; AMD	N	ikään liittyvä makuladegeneraatio; AMD
+ALS amyotrofisk lateral sklerose	N	ALS-tauti, amyotrofisk lateral sklerose ALS Lou Gehrigin tauti; motoneuronitauti
 BMI	N	painoindeksi; Quetelet'n indeksi
-benign prostatahyperplasi BPH	N	hyvänlaatuinen prostatan hyperplasia; BPH; eturauhasen liikakasvu
 Baker cyste; popliteacyste	N	Bakerin kysta; polven nivelkalvon takaosan pullistuma
 Bekhterevs sykdom	N	selkärankareuma; Bechterewin tauti
+Braden-skala	N	Braden-asteikko Braden-painehaavariskimittari
 Braden-skala	N	Bradenin asteikko
+Brickerblære	N	Brickerin rakko Brickerin avanne
 Brickerblære	N	Brickerin rakko; virtsatieavanne
 CKD-EPI-formel	N	CKD-EPI-yhtälö; CKD-EPI-kaava
-Glasgow Coma Scale or Score; GCS	N	Glasgow'n kooma-asteikko; GCS-asteikko
 Crohns sykdom	N	Crohnin tauti; morbus Crohn; regionaalinen enteriitti
 Cullens tegn; periumbilical ekkymose	N	navan seudulla oleva mustelma
-vitaminmangel	N	vitamiinin puutos
-dyp hjernestimulering; DBS	N	syväaivostimulaatio; DBS
 DMARD; sykdomsdempende medikamenter mot revmatiske sykdommer	N	antireumaattinen lääke; tautiprosessia hidastava reumalääke
-dyp venetrombose; DVT	N	syvä laskimotukos; SLT
 Douglas-abscess	N	märkäpesäke kohtuperäsuolisyvänteessä; paise kohtuperäsuolisyvänteessä
-elektroencefalografi; EEG	N; 	aivosähkökäyrätutkimus; elektroenkefalografia; EEG
 ERCP	N	; sappi ja haimatiehyen tähystystutkimus; endoskooppinen retrogradinen kolangio-pankretografia; ERCP
 ESAS-skjema; Edmonton Symptom Assessment System	N	ESAS-oirekyselylomake
 FARV; metode for å vurdere samtykkekompetanse	N	oikeustoimikelpoisuuden arviointimenetelmä
 FAST	N	aivohalvauksen oireiden tunnistamisessa käytettävä muistisääntö 
-glomerulær filtrasjonsrate; GFR	N	glomerulusten suodatusnopeus; GFR
-generalisert tonisk-klonisk anfall; GTK	N	generalisoituva toonis-klooninen kohtaus GTK	
-humant papillomavirus; HPV N	ihmisen papilloomavirus; HPV
+Glasgow Coma Scale or Score; GCS	N	Glasgow'n kooma-asteikko; GCS-asteikko
 Heimlich manøver	N	Heimlichin ote
-helicobacter pylori	N	helikobakteeri
-intrahepatisk kolestase; ICP	N	raskaushepatoosi; hepatogestoosi; raskauskolestaasi
-intrakranielt trykk; ICP N; kallonsisäinen paine; ICP
-in vitro-fertilisering; IVF	N	in vitro fertilization; IVF; koeputkihedelmöitys; keinohedelmöitys; munasolun hedelmöittäminen elimistön ulkopuolella
-kommunal akutt døgnenhet; KAD	N	kunnallinen ympärivuorokautinen akuuttiosasto
-kroppsmasseindeks; KMI	N	kehon massaindeksi; painoindeksi
 LUTS nedre urinveissymptomer	N	Lower Urinary Tract Symptoms LUTS; alavirtsatieoireet
 MRCP magnetisk resonanskolangiopankreatografi	N	Magnetic Resonance Cholangiopancreatography MRCP magneettikolangiografia
 MS multippel sklerose	N	MS-tauti; multippeliskleroosi keskushermoston pesäkekovettumatauti
@@ -42,10 +29,11 @@ PEG perkutan endoskopisk gastrostomi	N	perkutaaninen endoskooppinen gastrostomia
 PID	bekkeninfeksjon N	pelvic inflammatory disease PID sisäsynnytintulehdus
 PID primær immunsviktsykdom	N	primaaria immuunipuutossairautta PID
 PLISSIT-modellen	N	PLISSIT-malli
+PLISSIT-modellen	N	PLISSIT-malli
 PMS premenstruel syndrom	N	kuukautisia edeltävä oireyhtymä premenstruaalioireyhtymä PMS
+PRICE-prinsippet	N	PRICE-protokolla protection, rest, ice, compression, elevation
 PRICE-prinsippet	N	protection, rest, ice, compression og elevation PRICE principle suoja, lepo, kylmähoito, kompressio, kohoasento 
 PSA prostataspesifikt antigen	N	prostataspesifinen antigeeni PSA
-psoriasis	N	psoriaasi; psoriasis
 RA revmatoid artritt	N	nivelreuma; reumatoidi artriitti; arthritis rheumatoides
 RIK ren intermitterende kateterisering	N	puhdas toistokatetrointi
 SAB subaraknoidal blødning	N	lukinkalvonalaisen verenvuoto; subaraknoidaalivuoto SAV
@@ -68,23 +56,27 @@ Whipples operasjon, pankreatoduodenektomi	N	pankreatikoduodenektomia, Whipplen l
 abdomen	N	vatsa; maha
 abort	N	abortti raskaudenkeskeytys
 abscess	N	absessi märkäpesäke paise
+absorbere	N	imeä itseensä; absorboida
 adjuvant	N	adjuvantti; rokotteen tai muun aineen vaikutusta tehostava aine
 afasi	N	afasia
 agnosi	N	agnosia tiedostamattomuus
 aksonal	N	aksonaalinen; hermon viejähaarakkeeseen liittyvä
 aktivitet	N	tominta, toiminto; aktiviteetti
 akutt	N	akuutti äkillinen, nopeasti kehittyvä, terävä
+aldersbetinget makuladegenerasjon; AMD	N	ikään liittyvä makuladegeneraatio; AMD
 alderslangsynthet	N	ikänäkö presbyopia
 aldersrelatert	N	ikään liittyvä
+aldersrelatert makuladegenerasjon; AMD	N	ikään liittyvä makuladegeneraatio; AMD
+alfaføtoprotein	N	alfafetoproteiini
 alfaføtoprotein AFP	N	alfafetoproteiini AFP
 alginatbandasje	N	alginaattisidos
 alkoholabstinens	N	alkoholivieroitusoireyhtymä
 allergitesting	N	allergiatestaus
 alopesi	N	alopecia; karvojen lähtö
+alopesi	N	pälvikalju  alopecia areata
 amenoré	N	amenorrea; kuukautisten poisjääminen
 amnesi	N	amnesia muistinmenetys
 amputasjon	N	amputaatio; raajan tai muun kehon ulokkeen kirurginen poistaminen tai irtoaminen vammautumalla; amputoinnin tulos: raajan osittainen tai kokonaan puuttuminen; raajapuutos
-ALS amyotrofisk lateral sklerose	N	ALS-tauti, amyotrofisk lateral sklerose ALS Lou Gehrigin tauti; motoneuronitauti
 anabol	N	anabolinen; (aineenvaihdunnasta) rakentava
 anastomose	N	anastomoosi yhdysaukko kahden onton elimen välillä
 åndelig	N	henkinen; hengellinen
@@ -108,6 +100,7 @@ apraksi	N	apraksia; lihassuoritusten ohjelmoinnin häiriö; liikkeiden koordinaa
 arteriell	N	arteriallinen; valtimoon liittyvä
 arteriovenøs; det som har med både arterier og vener å gjøre	N	valtimo-laskimo-; arteriovenoosinen; arteriovenoosi
 artritt leddbetennelse	N	artriitti; niveltulehdus
+artrodese	N	nivelen jäykistys(leikkaus) nivelen luudutusleikkaus    arthrodesis
 artrodese avstivning av et ledd	N	nivelen luudutus; nivelen jäykistäminen
 artrose slitasjegikt	N	artroosi; nivelrikko
 ascites opphopning av væske i bukhulen innenfor bukhinnen	N	askites nesteen kertyminen vatsaonteloon
@@ -116,17 +109,23 @@ astigmatisme skjeve hornhinner	N	astigmatismi; hajataittoisuus
 ataksi	N	ataksia lihasten keskushermostoperäinen toimintahäiriö
 atopi	N	atopia; henkilön periytyvä taipumus herkistyä esim. siitepölylle; yliherkkyys
 aura	N	lääk.; aura ennakkotunne; aavistus
+autonom dysrefleksi	N	autonominen dysrefleksia; massiivinen refleksivaste ärsykkeisiin
 autonome nervesystem	N	tahdosta riippumaton hermosto; autonominen hermosto
 bandasje	N	side; sidos
 barneeksem	N	Atooppinen ihottuma atooppinen ekseema
 barnløshet	N	lapsettomuus
 bartholinitt	N	Bartholiniitti häpyhuulen rauhasen tulehdus bartoliniitti
+bartholinitt	N	häpyhuulen rauhasen tulehdus    Bartholiniitti
 befruktning	N	hedelmöitys
 behandling	N	käsittely; kohtelu hoito
 behov	N	tarve
 beinskjørhet osteoporose	N	luukato osteoporoosi
 bekken	N	lantio	
+bekkenbrudd	N	lantion murtuma
+bekkenbunnstrening	N	lantionpohjan (lihasten) harjoittelu
+bekkenløft	N	lantion nosto
 benign	N	benigni hyvänlaatuinen; hyvälaatuinen
+benign prostatahyperplasi BPH	N	hyvänlaatuinen prostatan hyperplasia; BPH; eturauhasen liikakasvu
 beslutningskompetanse	N	päätöskyky
 bevissthet	N	; tietoisuus; tajunta; 
 bind	N	sidos; side; nidos, nide
@@ -134,8 +133,10 @@ blandingsinkontinens	N	sekatyyppinen inkontinenssi
 blære	N	rakko
 blærekateter	N	virtsarakon katetri; virtsakatetri
 blærekreft	N	virtsarakon syöpä
+blæreskanning	N	virtsarakon skannaus
 blæreskanning	N	virtsarakon ultraäänitutkimus
 blæretrykk	N	virtsarakon paine
+bleieveietest	N	vaipan painon mittaustesti
 blind	N	sokea; silmitön; - alarm väärä hälytys
 blod	N	veri
 blodig	N	verinen
@@ -144,96 +145,142 @@ blødningsforstyrrelse	N	vuotohäiriö
 blodrensingsdialyse	N	hemodialyysi; verenpuhdistusdialyysi
 blodtrykk	N	verenpaine
 bløtdelsrevmatisme	N	pehmytkudosreuma
+bløtdelsrevmatisme	N	pehmytkudosreuma
+bøyleileostomi	N	lenkki-ileostomia
 bøyleileostomi	N	lenkkiavanne; loop-ileostooma
 brekning	N	yökkäys 
 brennkopper	N	märkärupi
+brennkopper	N	märkärupi
+brille	N	(silmä)lasit (mon.)
 briller	N	silmälasit
 brokk	N	tyrä
 brytningsfeil	N	taitovirhe
+calcaneusfraktur	N	kantaluun murtuma; kantapään murtuma
 calcaneusfraktur brudd i hælbeinet	N	kantaluun murtuma
+cancer	N	syöpä
 cancer kreft	N	syöpä
 candidainfeksjon soppinfeksjon	N	sieni-infektio
 cerebral	N	aivoja koskeva
 cerebrospinalvæske	N	aivo-selkäydinneste
 chlamydia	N	klamydia
+claviculafraktur	N	solisluun murtuma
 claviculafraktur brudd på kraveben	N	solisluun murtuma
 cold cap ishette	N	kylmäpäähine; kylmähattu
 cøliaki	N	keliakia
+cøliaki	N	keliakia
 contusio kontusjon	N	kontuusio contusio; ruhjevamma; ruhjou(tu)ma
+corpus	N	keho; kokoelma
 corpusblødning blødning i glasslegemet (corpus vitreum)	N	lasiaisverenvuoto
+crusamputasjon	N	sääriamputaatio
 crusamputasjon amputasjon gjennom leggen	N	sääriamputaatio
 cyste	N	kysta; rakkula rakko; rakkokasvain
 cystenyre	N	kystinen munuainen
+cystenyre	N	rakkulainen munuainen
+cystitt	N	virtsatietulehdus; virsatie-infektio; kystiitti
 cystitt nedre urinveisinfeksjon blærekatarr	N	virtsarakkotulehdus kystiitti
+cystolitiasis	N	virtsakivi(tauti)
 cystolitiasis blærestein	N	virtsakivi(tauti); munuaiskivi nefroiitti
 cytologisk	N	sytologinen soluopillinen
+cytostatikabehandling	N	solunsalpaajahoito; sytostaattihoito
 cytostatikabehandling	N	sytostaattihoito
 dagligliv	N	arkielämä
+debridering	N	kuolleen kudoksen poisto
 debridering, fjerning av dødt, skadet eller infisert vev	N	kuolleen, vaurioituneen tai infektoituneen kudoksen poisto
 degenerativ	N	rappeuttava rappeutuva
 dehydrering	N	kuivuminen
 delirium	N	delirium; sekavuustila
 demens	N	dementia; elimellinen aivo-oireyhtymä, useiden älyllisten toimintojen heikentyminen sairauden, vamman tai vanhuuden vuoksi
 dermatitt	N	ihotulehdus ihottuma; dermatiitti
+dermatitt	N	ihotulehdus; ihottuma
 dermatom	N	dermatomi; yhden selkäydinhermon hermottama ihoalue
+dermatomkart	N	dermatomikartta
 descens livmorfremfall nedsunken livmor	N	kohdunlaskeuma
 detrusormuskel	N	detrusor-lihas
+detrusormuskelen	N	detrusor-lihas
 diabetesnefropati	N	diabeettinen neuropatia
+diabetesnefropati	N	diabeettinen neuropatia; diabeteksen aiheuttama hermovaurio
 dialysebehandling	N	dialyysihoito
 diaré	N	ripuli; diarrea
+dioptri	N	dioptria; optisen taitto­kyvyn ja optisen järjestemän voimakkuuden yksikkö
 dioptri en måleenhet for et medie sin evne til bryte lyset	N	dioptria; optisen taitto­kyvyn ja optisen järjestemän voimakkuuden yksikkö
 diurese	N	virtsaneritys; diureesi
 død	N	kuolema
 døende	N	kuoleva
 dyp	N	syvyys; syöveri uumen
+dyp hjernestimulering; DBS	N	syväaivostimulaatio; DBS
+dyp venetrombose; DVT	N	syvä laskimotukos; SLT
 dysartri	N	dysartria; aivosyntyisten puheen artikulaatiohäiriöiden yleisnimitys
+dysartri	N	puhemotorinen häiriö; dysartria
 dysfagi	N	dysfagia; nielemishäiriö
+dysfagi	N	nielemishäiriö; dysfagia
 dysfasi	N	dysfasia; kielenkehityksen erityisvaikeus poikkeava kielenkehitys
+dysfasi	N	kehityksellinen kielihäiriö; dysfasia
 dysmenoré	N	kivuliaat kuukautiset; dysmenorrea algomenorrea menalgia
+dysmenoré	N	kuukautiskivut; kivuliaat kuukautiset; dysmenorrea
 dyspareuni	N	yhdyntäkipu
+dyspareuni	N	yhdyntäkipu; naisen kivulias yhdyntä; dyspareunia
+dyspepsi	N	ylävatsakipu; ruoansulatusvaiva, johon liittyy mm. ylävatsakipu, turvotus ja närästys; dyspepsia
 dyspepsi	N	ylävätskivut; dyspepsia
-autonom dysrefleksi	N	autonominen dysrefleksia; massiivinen refleksivaste ärsykkeisiin
+eGFR	N	munuaisten suodattumisnopeus
 ebb-fase	N	ebb- eli shokkivaihe traumapotilailla
+ebb-fasen	N	ravitsemuksen ebb-vaihe (lääk.): varhainen sokkivaihe,  hidastunut aineenvaihdunta
+effloresens	N	erilaiset ihomuutokset; effloresenssi
 effloresens hudforandring i hudutslet	N	effloresenssi
 eksem	N	ekseema ihottuma; rohtuma rokahtuma
 eksistensiell	N	eksistentiaalinen; lemassaoloon liittyvä
 ekstern	N	ulkoinen; ulkopuolinen
-ekstraartikulære	N	ekstra-artikulaarinen; additiivinen; lisäävä
 ekstraartikulær brudd; N; ekstra-artikulaarinen murtuma; murtuma, joka ei ylety niveleen saakka
+ekstraartikulære	N	ekstra-artikulaarinen; additiivinen; lisäävä
 ekstrakorporeal	N	kehon ulkoinen; ekstrakorporeaalinen
 ekstravasal utenfor blodårene	N	verisuonten ulkopuolinen; ekstravasaalinen
 ektopisk	N	ektooppinen virhepaikkainen virhesijaintinen; normaalilta paikaltaan poissa oleva
 elastisk	N	elastinen; kimmoinen kimmoisa; joustava
 elektroencefalografi EEG	N	elektroenkefalografia EEG; elektroenkelogrammi; aivosähkökäyrä
+elektroencefalografi; EEG	N; 	aivosähkökäyrätutkimus; elektroenkefalografia; EEG
+elektrolyttforstyrrelse	N	elektrolyyttihäiriö
 elektrolyttforstyrrelse	N	elektrolyyttihäiriö
 emboli	N	veritulppa; embolia 
+empowerment	N	voimaantuminen
 empowerment	N	voimaantuminen; valtaistuminen
+encefalopati	N	aivosairaus; aivotauti; enkefalopatia
 encefalopati hjernesykdom	N	aivosairaus aivotauti; enkefalopatia
 endeileostomi	N	ileostomia ohutsuoliavanneleikkaus
+endeileostomi	N	ohutsuolen loppupään avanteen tekeminen
+endometriose	N	endometrioosi
 endometriose	N	endometrioosi
 endometritt	N	endometriitti; kohdun limakalvon tulehdus
+endometritt	N	kohdun limakalvon tulehdus; endometriitti
 endoskopi	N	endoskopia; tähystystutkimus
+endoskopisk	N	
+energi-/kaloribehov	N	
+enukleasjon	N	
 enukleasjon kirurgisk fjerning av øyeeplet	N	silmän poisto
 epiduralanestesi epiduralbedøvelse	N	epiduraalipuudutus
+epikutantest	N	
 epikutantest	N	epikutaanitesti iholle laitettava allergiatesti
 epilepsi	N	epilepsia
-status epilepticus	N	pitkittynyt epileptinen kohtaus
 ergoterapi	N	toimintaterapia
 ernæring	N	ravitsemus
 ernæringsbehandling	N	ravitsemushoito
 ernæringstilstand	N	ravitsemustila
+erysipelas	N	
 erysipelas rosen	N	ruusutulehdus; erysipelas
 etseskade	N	syövytysvamma
+facialisparese	N	
 facialisparese ansiktslammelse	N	kasvohalvaus
 fall	N	kaatuminen putoaminen; putous; tapaus
 fantomsmerte	N	aavekipu; aavesärky; fantomikipu
 fase	N	vaihe
 fatigue utmattelse	N	uupumus väsymys fatigue
+fatigue/tretthet	N	
 fatle	N	mitella kolmioliina
 feber	N	kuume
+femuramputasjon	N	
 femuramputasjon	N	reisiamputaatio
+femurfraktur	N	
 fett	N	rasva; det er meg et - se on minulle yhdentekevää
 fettdiaré	N	rasvaripuli
+fette	N	
 fiberbandasje	N	kuitusidos
 fibromyalgi	N	fibromyalgia; pehmytkudoskipuilu; pehmytkudosreuma lihasreuma
 fiksasjon	N	fiksaatio fiksointi kiinnittäminen; kiinnittyminen
@@ -241,105 +288,156 @@ filtrasjonshastighet	N	suodatusnopeus; filtraationopeus
 fistel	N	fisteli fistula avanne
 fokal	N	keskeinen; fokaali
 fold	N	taite; laskos; poimu ryppy
+follikulitt	N	
 follikulitt hårkjertelbetennelse	N	karvatuppitulehdus; follikuliitti
+fór	N	
 forgiftning	N	myrkytys
 forkammerblødning	N	etukammioverenvuoto
 forstyrrelse	N	häiriö; keskeytys
 forutsetning	N	ehto; edellytys
 fotsopp	N	jalkasieni
+fractura	N	
 fractura fraktur beinbrud	N	luunmurtuma
 funksjon	N	toiminta toiminto; käyttö; tehtävä
 funksjonsstatus	N	toimintakyvyn arvio
 fysioterapi	N	fysioterapia
+gallestase	N	
 gallestase	N	sappitietukos
 gallesteinssykdom	N	sappikivitauti
 ganghjelpemiddel	N	kävelyn apuväline
-pyoderma gangrenosum	N	haavautuva ihotulehdus
 gastrostomi	N	gastrostomia; mahalaukkuavanteen teko
 generalisert	N	yleistynyt; yleisluonteinen
+generalisert tonisk-klonisk anfall; GTK	N	generalisoituva toonis-klooninen kohtaus GTK	
 genital	N	genitaalinen; genitaali-, sukuelin-; sukuelimeen liittyvä
 genitalier kjønnsorganer	N	genitaalit; sukupuolielin
+gips	N	
 gips	N	kipsi
 gjennombruddssmerte	N	läpilyöntikipu
 gjennomskylling	N	läpihuuhtelu
 glaukom	N	silmänpainetauti; glaukooma
+glaukom N; silmänpainetauti
+gliom	N	
 gliom	N	hermotukikudoskasvain
 global	N	yleis-, kokonais-; yleismaailmallinen; maailmanlaajuinen
 glomerulær	N	glomerulaarinen munuaiskeräsiin (erityisesti hiussuonikeräsiin) liittyvä
+glomerulær filtrasjonsrate; GFR	N	glomerulusten suodatusnopeus; GFR
 glomerulonefritt	N	munuaiskerästulehdus; glomerulonefriitti
 glutenfri	N	gluteeniton
+gonartrose	N	
 gonartrose; kneleddsartrose	N	polven nivelrikko; polviartroosi
+gonoré	N	
 gonoré	N	tippuri gonorrea
-hyperemesis gravidarum; alvorlig svangerskapskvalme	N	voimakas raskausoksentelu
 graviditet	N	raskaus graviditeetti
-myasthenia gravis	N	myastenia; hermo-lihasliitoksen sairaus
+griperefleks	N	
 griperefleks	N	tarttumisrefleksi
 guiding	N	ohjaus
 gulsott ikterus	N	keltaisuus; ikterus
 haemorrhagia	N	verenvuoto; haemorrhagia, hemorragia
+hånd	N	
 håndeksem	N	käsi-ihottuma; kåasiekseema
 håp	N	toivo
+håpe	N	
 håravfall	N	hiustenlähtö
+helicobacter pylori	N	helikobakteeri
 helse	N	terveys
+hematemese	N	
 hematemese; blodig oppkast	N	verioksennus; hematemeesi
 hematom	N	verenpurkauma; mustelma; hematooma
+hematuri	N	
 hematuri; blod i urinen	N	verivirtsaisuus hematuria
+hemikolektomi	N	
 hemikolektomi; operativ fjerning av høyre eller venstre del av tykktarmen	N	paksusuolikeikkaus; hemikolektomia
+hemiplegi	N	
 hemiplegi; halvsidig lammelse	N	toispuolihalvaus; hemiplegia
+hemodialyse	N	
 hemodialyse	N	hemodialyysi
+herniering	N	
 herniering; brokkdannelse	N	tyrän muodostuminen; 
 herpes	N	herpes; herpesviruksen aiheuttama tauti
 histologisk	N	histologinen; kudosopillinen
 hjelpemiddel	N	apuväline
+hjemmedød	N	
 hjemmedød	N	kuolema kotona (usein saattohoidon yhteydessä)
 hjemmerehabilitering	N	kotikuntoutus
 hjerneblødning; Hemorrhagisk hjerneslag	N	aivoverenvuoto; aivohemorragia
+hjernedød	N	
 hjernehinneblødning subarachnoidal blødning SAB	N	lukinkalvonalainen verenvuoto SAV
 hjerneinfarkt	N	aivoinfarkti
 hjerneødem	N	aivoedeema; aivopöhö; aivoturvotus
+hjerneslag	N	
 hjerneslag apoplexia cerebri apopleksi cerebralt insult slag	N	aivohalvaus aivoverenkiertohäiriö; apopleksia
 hjernestimulering	N	aivojen stimulointi
 hjernesykdom	N	aivosairaus
+hjernetamponade	N	
 hjernetamponade	N	verenpainetta korkeamman tai yhtä korkean aivopaineen aiheuttama verenkulun loppuminen aivoissa eli tamponaatio aivoissa
 hodepine	N	päänsärky
 hodeskade	N	päävamma
+hofte	N	
 hoftebrudd	N	lonkkamurtuma
 hornhinne	N	sarveiskalvo
 hudfarge	N	ihonväri
 hudkløe	N	ihon kutina
 hudsykdom	N	ihosairaus
 human	N	inhimillinen; humaani
+humant papillomavirus; HPV N	ihmisen papilloomavirus; HPV
+hviletremor	N	
 hviletremor	N	lepovapina
+hydrocephalus	N	
 hydrocephalus vannhode	N	hydrokefalus hydrokefalia; (aiemmin vesipää)
 hydrokolloid	N	hydrokolloidi; hyytelö jello
+hydrokolloider	N	
 hyperemesis	N	raju oksentaminen; raju ylenantaminen
+hyperemesis gravidarum; alvorlig svangerskapskvalme	N	voimakas raskausoksentelu
+hyperkalemi	N	
 hyperkalemi	N	kohonnut veren kalium; hyperkalemia; hyperpotassemia
+hyperkalsemi	N	
 hyperkalsemi	N	kohonnut veren kalsiumpitoisuus hyperkalsemia
+hypermagnesemi	N	
 hypermagnesemi	N	kohonnut veren magnesiumpitoisuus; hypermagnesemia
+hypermetabolisme	N	
 hypermetabolisme	N	hypermetabolia; kiihtynyt kudosten aineenvaihdunta
+hypermetropi	N	
 hypermetropi; hyperopi; langsynthet	N	pitkänäköisyys pitkätaittoisuus kaukotaitteisuus kaukotaittoisuus; hypermetropia hyperopia
+hypernatremi	N	
 hypernatremi	N	hypernatremia; varen kohonnut natriumpitoisuus
 hyperton	N	hypertoninen liuos, joka on väkevää eli sen osmoottinen paine on suuri verrattuna toiseen liuokseen
+hypokalemi	N	
 hypokalemi	N	hypokalemia veren kaliumniukkuus
+hypokalsemi	N	
 hypokalsemi	N	hypokalsemia; veren kalsiumniukkuus
+hypomagnesemi	N	
 hypomagnesemi	N	hypomagnesemia; veren magnesiumniukkuus
+hyponatremi	N	
 hyponatremi	N	huponatremia; veren natriumniukkuus
 hypotensjon	N	matala verenpaine; hypotensio
+hypoventilasjon	N	
 hypoventilasjon	N	hypoventilaatio vajaatuuletus; vähentynyt keuhkotuuletus
+hypovolemi	N	
 hypovolemi	N	hypovolemia veren epänormaali vähyys; veren epänormaalin pieni tilavuus
+idrett	N	
 idrettsskade	N	urheiluvamma
-oliguri lav diurese	N	oliguria; vähävirtsaisuus
+ikterus	N	
 ikterus	N	keltaisuus; kelatauti
+ileostomi	N	
 ileostomi	N	ileostomia; ileostooman teko; suoliavanteen tekeminen 
+ileumblære	N	
 ileumblære	N	virtsatieavanne ileumrakko; Brickerin rakko
+ileus	N	
+ileus; N; suolitukos; suolen tukkeuma ileus 
 ileus; tarmslyng	N	suolentukkeuma; suolitukos; ileus
 immunforsvar	N	immuunipuolustus
+immunisere	N	
 immunisering	N	immunisaatio; immunisoituminen
 immunmodulerende	N	immuunivastetta muuntava; immunomoduloiva
+immunoernæring	N	
 immunoernæring	N	immunoravitsemus
 immunsupprimerende	N	immunivastetta heikentävä
+impetigo	N	
 impetigo; brennkopper	N	märkärupi; impetigo
+in vitro-fertilisering; IVF	N	in vitro fertilization; IVF; koeputkihedelmöitys; keinohedelmöitys; munasolun hedelmöittäminen elimistön ulkopuolella
+in vitro-fertilisering; IVF	N	koeputkihedelmöitys; IVF
 infeksjon	N	tartunta; infektio
+infertilitet	N	
 infertilitet	N	hedelmättömyys; infertiliteetti
 infusjon	N	tiputus infuusio
 inkontinens	N	pidätyskyvyttömyys; inkontinenssi
@@ -347,86 +445,125 @@ instillasjonsbehandling	N	lääkeaineen laitto johonkin
 insult	N	vaurio
 intermitterende	N	ajoittainen
 intraabdominalt	N	vatsansisäinen; intra-abdominaalinen
+intrahepatisk kolestase; ICP	N	raskaushepatoosi; hepatogestoosi; raskauskolestaasi
 intrakranial	N	kallonsisäinen
+intrakranielt trykk; ICP N; kallonsisäinen paine; ICP
 intrakutan	N	ihonsisäinen; intrakutaaninen intradermaalinen
+intrakutantest	N	
 intraokulær	N	silmänsisäinen; intraokulaarinen
 intrarenal	N	munuaisensisäinen; intrarenaalinen
 intravenøs	N	laskimonsisäinen; suonensisäinen; intravenoosinen IV
 intravesikal	N	virtsarakonsisäinen
+iridosyklitt	N	
 iridosyklitt; regnbuehinnebetennelse	N	silmän värikalvon ja sädekehän tulehdus irodosykliitti
+irrigasjon	N	
 ishette	N	kylmähattu
+isjialgi	N	
 iskemisk	N	hapen puutteeseen liittyvä; iskeeminen
 isometriske	N	samanmittainen; isometrinen (lihasharjoittelussa) sellainen, jossa lihaksen pituus ei muutu supistuksen aikana, staattinen
 isoton	N	isotoninen; liuos, jolla on sama osmoottinen vahvuus kuin vertailtavalla liuoksella
 jejunostomi	N	ohutsuoleen asetettava ravitsemusavanne
 juvenil	N	nuorusikään liittyvä; juveniili
+kakeksi	N	
 kakeksi	N	kuihtuminen kakeksia
 kalium	N	kalium
+kalk	N	
 kalkgips	N	kalkkikipsi
 kalori	N	kalori
+kalphabet	N	
 kalsium	N	kalsium
 kalsiumstein	N	kalsiumkivi
+kapselendoskopi	N	
 kapselendoskopi	N	kapselitähystys kapseliendoskopia
 karbohydrat	N	hiilihydraatti
+karbohydrater	N	
 karskade	N	verisuonivaurio
 katabol	N	hajottava; katabolinen
 katarakt; grå stær	N	harmaakaihi katarakta
 kateter	N	katetri
+kateterisering	N	
 kateterisering	N	katetrointi
+keratitt	N	
 keratitt; hornhinnebetennelse	N	sarveiskalvon tulehdus; keratiitti
 kirurgi	N	kirurgia
 kirurgisk	N	kirurginen
 kjemoterapi	N	kemoterapia sairauden, erityisesti syövän hoito kemiallisin menetelmin valmistetuin lääkeainein
 kjønnslemlestelse	N	naisten sukupuolielinten silpominen
 kjønnsvorter	N	visvasyylä; kondylooma
+klimakteriet	N	
 klimakterium	N	vaihdevuodet; menopaussi; klimakterium
-protese	N	tekoraaja, tekojäsen; tekoelin; proteesi
+klonisk; N; tahdottomasti nykivä klooninen
+kneprotese	N	
 köbnerfenomen	N	Köbnerin ilmiö
+köbnerfenomenet	N	
+koksartrose	N	
 koksartrose, slitasjegikt i hoften, artrose i hoften	N	
+kolangitt	N	
 kolangitt, betennelse i gallegangene	N	sappitietylehdus; kolangiitti
+kolecystektomi	N	
 kolecystektomi	N	lonkan nivelrikko; lonkan kuluma; lonkan artroosi
+kolecystitt	N	
 kolecystitt, betennelse i galleblære	N	sappirakkotulehdus; kolekystiitti
+kolecystolitiasis	N	
 kolecystolitiasis, gallesteinssykdom	N	sappikivitauti
+koledokolitiasis	N	
 koledokolitiasis	N	sapenjohtimen kivitauti
+kolelitiasis	N	
 kolelitiasis	N	sappikivitauti; kolelitiaasi
-ulcerøs kolitt	N	haavainen paksusuolen tulehdus; ulseratiivinen koliitti colitis ulcerosa, colitis ulcerativa
+kolonreseksjon	N	
 kolonreseksjon	N	paksusuolen osapoisto
+kolos	N	
 koloskopi	N	paksusuolen tähytstys; kolonoskopia
+kolostomi	N	
 kolostomi	N	paksusuoliavanne; kolostomia
+kommunal akutt døgnenhet; KAD	N	kunnallinen ympärivuorokautinen akuuttiosasto
+kompartmentsyndrom	N	
 kompartmentsyndrom, muskellosjesyndrom	N	lihasaitio-oireyhtymä
 kompresjonsbehandling	N	kompressiohoito
 kompresjonsbind	N	kompressioside
 kompresjonsbrudd	N	puristusmurtuma kompressiomurtuma
 kompresjonsstrømpe	N	kompressiosukka
 kondylom. kjønnsvorte	N	visvasyylä; kondylooma
+kondylomer	N	
+konjunktivitt	N	
 konjunktivitt, øyekatarr	N	sidekalvon tulehdus konjunktiviitti
+kontakteksem	N	
 kontakteksem	N	kosketurihottuma; kosketusekseema
 kontaktlins	N	piilolinssi
 kontinent	N	maanosa; manner
 kontraktur	N	kutistuma; kontraktuura
-profylakse	N	ennaltaehkäisy; ennakkotorjunta profylaksia
 korsbåndskade	N	ristisidevamma
 kostplan	N	ravitsemussuunnitelma
 kostregistrering	N	ravitsemuksen kirjaus; ravitsemuksen kirjaaminen
+krage	N	
 kragebeinsbrudd	N	solisluun murtuma
+krampe	N	
 krampe	N	kouristus; kramppi
+kraniefraktur	N	
 kraniefraktur; kraniebrudd	N	kallonmurtuma
+kraniotomi	N	
 kraniotomi	N	kallonavausleikkaus; kraniotomia
 kreft	N	syöpä
+kreftoverlever	N	
 kreftoverlever	N	syövästä selvinnyt
 krise	N	kriisi
 kronisk	N	krooninen; jatkuva
 kroppsbilde	N	kehonkuva
 kroppslig	N	ruumiillinen; kehollinen
 kroppsmasseindeks	N	painoindeksi
+kroppsmasseindeks; KMI	N	kehon massaindeksi; painoindeksi
 kroppsvekt	N	kehon paino
 krykke	N	kyynärsauva; kainalosauva
+kvadriplegi	N	
 kvadriplegi	N	neliraajahalvaus; kaikkien raajojen halvaus; tetraplegia kvadriplegia (vanh.)
 kvalme	N	pahoinvointi; kuvotus
+laktobakterier	N	
 laktobakterier	N	maitohappobakteeri
 lammelse	N	halvaus
+langsynthet	N	
 langsynthet	N	kaukonäköisyys
 låramputasjon	N	reisiamputaatio
+lårbein	N	
 lårbeinsbrudd	N	reisiluunmurtuma
 lårhalsbrudd	N	reisiluun kaulan murtuma
 laserbehandling	N	laserhoitoa
@@ -435,61 +572,88 @@ leddsykdom	N	nivelrairaus
 leddvern	N	niveliä säästävät työtavat
 leggamputasjon	N	sääriamputaatio
 leggbrudd	N	säärimurtuma
+leggsår	N	
 leggsår	N	säärihaava
+levercirrhose	N	
 levercirrhose	N	maksakirroosi
 leverdialyse	N	maksadialyysi
 leverfunksjon	N	maksan toiminta
+leversvikt	N	
 leversvikt	N	maksan vajaatoiminta
 levertransplantasjon	N	maksan siirto
+levodopa	N	
 lidelse	N	vaiva; sairaus kärsimys
 linseoperasjon	N	linssileikkaus
 livmor	N	kohtu; uterus
 livmorhalskreft	N	kohdunkaulansyöpä
+livmorkreft	N	
 livmorkreft	N	kohtusyöpä
 logoped	N	puheterapeutti; logopedi
 lysbehandling	N	valohoito
+mage-tarm-kanalen	N	
 mage-tarm-kanalen	N	maha- ja suolistokanava
 magesår	N	vatsahaava; mahahaava
 magnetisk	N	magneettinen
+makron	N	
 makronæringsstoffer	N	makroravintoaineet
 makuladegenerasjon	N	makulan (ikä)rappeuma; makuladegeneraatio silmän tarkan näkemisen alueen rappeuma
+mal	N	
 malabsorpsjon	N	imeytymishäiriö malabsorptio
 malformasjon	N	epämuodostuma
 malign	N	pahanlaatuinen
 manøver	N	veto, temppu; manøøveri; taisteluharjoitus, sotaharjoitus
 matlyst	N	ruokahalu
 medisinsk	N	lääketieteellinen; lääke-
+melena	N	
 melena	N	 meleena; veriripuli; mustat veriulosteet
 melkesyrebakterie	N	maitohappobakteeri
+meningeom	N	
 meningeom; hjernehinnesvulst	N	meningeooma aivokalvokasvain
+meniskskade	N	
 meniskskade	N	kierukkavamma; meniskivamma
 menopaus	N	menopaussi; kuukautisten lopullinen päättyminen
+menopausen	N	
+menoragi	N	
 menoragi	N	menorragia; voimakas ja pitkittynyt kuukautisvuoto
 menstruasjon	N	kuukautiset menstuaatio
+mestre	N	
+mestringsstrategi	N	
+mestringstro	N	
 mestringstro	N	selviytymisusko
 metabolisme	N	aineenvaihdunta metabolia
 metamorfopsi	N	metamorfopsia; suorien linjonen vääristymä
+metamorfopsier	N	
+metroragi	N	
 metroragi	N	metrorragia epäsäännöllinen kuukautisvuoto
 metthetsfølelse	N	kylläisyyden tunne
+midt	N	
 midtstrømsprøve	N	keskisuihkunäyte
+mikrobølgetermoterapi	N	
 mikrobølgetermoterapi	N	mikroaaltotermoterapiam (TUMT)
+mikron	N	
 mikronæringsstoffer	N	mikroravintoaineet
+miksjon	N	
 miksjon; vannlating	N	virtsaneritys; diureesi
+miksjonsliste	N	
 miksjonsliste; vannlatingsliste	N	virtsaamislista
-motorisk	A	motorinen; liikettä tai liikkumista koskeva
 motorikk	N	motoriikkaa
+motorisk	A	motorinen; liikettä tai liikkumista koskeva
+mukositt	N	
 mukositt	N	mukosiitti; suun limakalvon tulehdus
 multippel	N	multippeli; moninkertainen; kerrannainen
 munnsårhet; stomatitt	N	suutulehdus stomatiitti
 munntørrhet	N	suun kuivuus
 muskellosjesyndrom	N	lihasaitio-oireyhtymä
 muskelstivhet	N	lihasten jäykkyys
-myotoni; muskelstivhet	N	myotonia; synnynnäinen tila, jossa lihaksen rentoutuminen on hidastunut
 myasteni; muskelsvaghet	N	klihasten heikkous; myastenia
 myasthenia gravis	N	autoimmuunisairaus; myastenia gravis
+myasthenia gravis	N	myastenia; hermo-lihasliitoksen sairaus
 mykose; soppsykdom	N	mykoosi sienisairaus; sienitauti
+mykoser	N	
 myom; leiomyom; muskelknute	N	hyvänlaatuinen lihaskasvain myooma
+myopi	N	
 myopi; nærsynthet	N	likitaittiosuus likinäköisyys; myopia
+myotoni; muskelstivhet	N	myotonia; synnynnäinen tila, jossa lihaksen rentoutuminen on hidastunut
 nakkeskade	N	niskavamma
 næringsdrikke	N	ravintojuoma
 næringsstoff	N	ravintoaine
@@ -498,17 +662,24 @@ nærsynthet; myopi	N	likitaittiosuus likinäköisyys; myopia
 nasoenteral	N	nenästä suolikanavaan, jejunumiin eli tyhjäsuoleen, menevä
 nasogastrisk	N	nenä-maha-
 nedsatt	N	alentunut; - komité asetettu komitea
+nefrolitiasis	N	
 nefrolitiasis; nyrestein	N	munuaiskivitauti; virtsakivitauti
+neglekt	N	
 neglekt	N	neglect puuttuva kyky havainnoida ärsykkeitä kehon jommaltakummalta puolelta
+neglepsoriasis	N	
 neglepsoriasis	N	kynsipsoriasis
+neglesopp	N	
 neglesopp	N	kynsisieni
 nekrose	N	kuolio; nekroosi
+nerve	N	
 nerveskade	N	hermovaurio
 netthinneløsning	N	verkkokalvon irtauma; retina-ablaatio
-nøytropeni	N	jyvässolukato; agranulosytoosi; granulosytopenia, neutropenia
 nevrokirurgi	N; neurokirurgia; keskushermoston eli aivojen ja selkäytimen leikkaushoitoa	
+nevronavigasjon	N	
 nevronavigasjon	N	neuronavigointi
 nevropatisk	N	neuropaattinen; ääreishermojen sairauteen liittyvä
+nøytropeni	N	jyvässolukato; agranulosytoosi; granulosytopenia, neutropenia
+nukleusprolaps	N	
 nukleusprolaps; skiveprolaps; diskusprolaps	N	välilevypullistuma; diskusprolapsi; selkärangan nikamavälilevyn esiinluiskahdus
 nyrecellekreft	N	munuaissyöpä
 nyreskade	N	munuaisvaurio
@@ -517,83 +688,128 @@ nyresteinsanfall	N	virtsakivikohtaus; munuaiskivikohtaus
 nyresvikt	N	munuaisten vajaatoiminta
 nyresykdom	N	munuaistauti
 obstipasjon	N	ummetus
+oftalmoskopi	N	
 oftalmoskopi	N	silmäntähystys; oftalmoskopia; silmän sisäosien tutkiminen oftalmoskoopilla
+olecranonfraktur	N	
 olecranonfraktur; albuebrudd	N	kyynärlisäkkeen murtuma
+oliguri	N	
 oliguri	N	niukkavirtsaisuus; vähävirtsaisuus oliguria
+oliguri lav diurese	N	oliguria; vähävirtsaisuus
+omskjæring	N	
 omskjæring	N	ympärileikkaus
+on-off-fenomenet	N	
 on-off-fenomenet	N	on-off-ilmiö
 operasjon	N	leikkaus; toimi; toimenpide; sotatoimi
 oppkast	N	oksennus
 ortopedia	N	tuki- ja liikuntaelinten kirurgia
+ortose	N	
 ortose	N	ortoosi ortopediassa käytettävä tukilaite tai tukisidos, joka säilyttää asennon ja ehkäisee tai oikaisee virheasentoja
+øsofagusvaricer	N	
 øsofagusvaricer	N	ruokatorven suonikohjut ruokatorven laskimolaajentumat; varices oesophagi
 osteoporose	N	luukato osteoporoosi; luun huokoistuminen ja haurastuminen
 osteosyntese	N	osteosynteesi
+osteosyntesemateriale	N	
+osteotomi	N	
 osteotomi	N	luuleikkaus osteotomia
-polycystisk ovariesyndrom; PCOS	N	munasarjojen monirakkulaoireyhtymä; PCOS
 overarmsbrudd	N	olkavarren murtuma
 overførbar	N	siirrettävä 
 overgrep	N	kajoaminen; oikeudenloukkaus
+overhydrering	N	
 overhydrering	N	ylinesteytys
 øyebetennelse	N	silmätulehdus
+øyebetennelser	N	
 øyedråpe	N	silmätippa
 øyeprotese	N	silmäproteesi
+øyestell	N	
 øyestell	N	silmien hoito
 øyesykdom	N	silmäsairaus
 pakkeforløp	N	potilaan polku
 palliativ	N	palliatiivinen; oireita lievittävä (hoito)
+palpasjon	N	
 palpasjon	N	palpaatio; tunnustelu
-reseksjon	N	resektio; poistaminen leikkaamalla
+pankreasduodenektomi	N	
+pankreasreseksjon	N	
+pankreatitt	N	
 pankreatitt; betennelse i bukspyttkjertelen	N	haimatulehdus; pankreatiitti
 papillomavirus-infeksjon	N	papilloomavirusinfektio HPV-infektio
 paracetamol	N	parasetamoli
+parafimose	N	
 parafimose	N	terskan kurouma parafimoosi "espanjankaulus"
+parallelløft	N	
 paralytisk	N	halvaannuttava; paralyyttinen
+paraplegi	N	
 paraplegi	N	alaraajahalvaus paraplegia
 parastomal	N	avanteen eli stooman yhteydessä ilmenevä turvotus tai pullistuma
 parese	N	osittaishalvaus lievä halvaus; pareesi
 patella; kneskål	N	polvilumpio patella
+patellafraktur	N	
 peptisk	N	peptinen; ruuansulatukseen liittyvä; mahan (erityisesti suolahapon ja pepsiinin) eritykseen liittyvä
 perforasjon; gjennomhulling	N	lävistys; perforaatio
+peritonealdialyse	N	
 peritonealdialyse; dialysebehandling gjennom bukhinnen	N	vatsakalvodialyysi; peritoneaalidialyysi
+peritonitt	N	
 peritonitt; bukhinnebetennelse	N	vatsakalvon tulehdus; peritoniitti
 perkusjon	N	koputtelu(tutkimu); perkussio
 perkutan	N	ihon läpi tapahtuva transkutaaninen; transdermaalinen; perkutaaninen
 pinnestell	N	piikkijuuren hoito
+plakk	N	
 plakk	N	plakki
+pollakisuri	N	
 pollakisuri	N	tiheävirtsaisuus; pollakisuria
 polycystisk	N	 monirakkulainen; polykystinen
+polycystisk ovariesyndrom; PCOS	N	munasarjojen monirakkulaoireyhtymä; PCOS
+popliteacyste	N	
 popliteacyste; Bakers cyste	N	popliteaalikysta; Bakerin kysta
 postrenal	N	postrenaalinen; virtsanjohtimien, virtsarakon ja virtsaputken sairauksiin liittyvä	
 prerenal	N	ennen munuaisia ilmenevä syy, esim. heikentyneeseen verenkiertoon munuaisissa liittyvä syy
+presbyopi	N	
 presbyopi	N	ikänäkö; presbyopia
 prikktest	N	ihopistokoe
 prodrom	N	esioire; ennakko-oire; prodromi
+prodromer	N	
+profylakse	N	ennaltaehkäisy; ennakkotorjunta profylaksia
 prolaps	N	pullistuma; esiinluiskahtaminen prolapsi
-prostatahyperplasi	N	eturauhasen liikakasvu; prostatahyperplasia
-prostatakreft	N	eturauhassyöpä
 prostata	N	eturauhanen prostata
+prostatahyperplasi	N	
+prostatahyperplasi	N	eturauhasen liikakasvu; prostatahyperplasia
+prostatakreft	N	
+prostatakreft	N	eturauhassyöpä
+prostatektomi	N	
 prostatektomi	N	eturauhasen poistoleikkaus; prostatektomia
 protein	N	valkuaisaine; proteiini
+protese	N	tekoraaja, tekojäsen; tekoelin; proteesi
 protese	N	tekoraaja; tekojäsen; tekoelin; keinotekoinen kehon osa; proteesi
 provosere	N	provosoida; yllättää
 psoriasis	N	hilsetystauti; hilsettymä; psori; psoriaasi
+psoriasis	N	psoriaasi; psoriasis
+psoriasis-artritt	N	
+pupille	N	
 pupillereaksjon	N	pupillireaktio; pupilliheijaste; pupillirefleksi; mustuaisrefleksi; mustuaisheijaste
+pyelonefritt	N	
 pyelonefritt	N	munuaistulehdus munuaisaltaan ja munuaisen tulehdus pyelonefriitti
 pylori	N	mahanportti
 pyoderma	N	märkivä ihoinfektio
+pyoderma gangrenosum	N	haavautuva ihotulehdus
+radius	N	
 radius; spoleben	N	värttinäluu
+refeeding-syndrom	N	
 refeeding-syndrom; reernæringssyndrom	N	refeeding-oireyhtymä
 refluks	N	takaisinvuoto; takaisinvirtaus refluksi
+reflukssymptomer	N	
 rektum; endetarm	N	peräsuoli; rektum
+remisjon	N	
 remisjon	N	(taudin) elpymisvaihe; elpymä remissio
 renal	N	munuaisiin liittyvä munuais-; renaalinen
+reponering	N	
 reponering	N	reponoiminen; murtuman tai sijoiltaanmenon paikalleen asettaminen ilman leikkausta
 reproduktiv	N	(lääk.) lisääntymis-; lisääntymiskykyinen
 reseksjon	N	poistaminen leikkaamalla
+reseksjon	N	resektio; poistaminen leikkaamalla
 resonans-kolangiopankreatikografi; MRCP	N	magneettikolangiografia magnetic resonance cholangiopancreatography MRCP
 resturin	N	jäännösvirtsa
+retensjon	N	
 retensjon	N	kertyminen; pidättäminen; pidättyminen; retentio
+retinopati	N	
 retinopati	N	verkkokalvon sairaus; retinopatia
 retrograd	N	taaksepäin ajassa suuntautuva; retrogradinen
 revmatisk	N	reumaattinen
@@ -603,100 +819,123 @@ rosen	N; ruusu; erysipelas; rasvakudokseen ulottuva ihon syvä streptokokin aihe
 ryggmargsskade	N	selkäydinvamma
 sår N; haava; kipeä; arka
 sårtilheling	N	haavan paraneminen
+seksologi; N; seksologia; seksuaalisuutta tutkiva tieteenala; 
 seksualitet	N	sukupuolisuus; seksuaalisuus; seksualiteetti
 seksuelle	N	sukupuolinen; seksuaalinen
 selvbilde	N	minäkuva
 selvkateterisering	N	itsekatetrointi
+senabort	N	
 senabort	N	myöhäinen raskaudenkeskeytys
 sensibilitet	N	herkkyys
 sensorisk	N	aistilähtöinen; aistimuksellinen; aisteja koskeva; aisti-; sensorinen
-seksologi; N; seksologia; seksuaalisuutta tutkiva tieteenala; 
 sexologisk	N	seksologinen
 shunt	N	yhdystie; yhdyshaara; suntti
+sigmoidostomi	N	
 sigmoidostomi	N	paksusuolen loppuosaan, sigmasuoleen, tehty avanne
 sjokk	N	sokki
 sjokknyre	N	akuutti munuaisvaurio
 sjokksyndrom	N	sokkioireyhtymä
+skeiv; N; muntlig beruset homofil
+skjelettmetastaser	N	
 skjelettmetastaser	N	luustoetäpesäke luustometastaasi
 skjelving	N	tärinä; vapina
 skjev	N	vino; viisto; kiero
-skeiv; N; muntlig beruset homofil
 sklerose	N	kovettuma; kudoksen kovettuminen; skleroosi
 skumbandasje	N	vaahtomuovinen side vaahtosidos
 slag	N	isku; lyönti; taistelu; halvaus; laji
 slitasjegikt; artrose	N	nivelrikko; artroosi
 smerte	N	kipu; tuska
+sonde	N	
 sonde	N	luotain; tutkain; koetin sondi
 sondeernæring	N	letkuravitsemus
 sondeløsning	N	letkuravintovalmiste
 soppinfeksjon	N	sieni-infektio
 spasme	N	kouristus; spasmi
+spasmer	N	
+spastisitet	N	
 spastisitet	N	spastisuus; spastisiteetti; jäykkähalvaus, (jousto)kankeus; (lihas)jäykkyys kouristuksellisuus
 spenning	N	jännitys; jännite
+spesialkost	N	
 spesialkost	N	erikoisruokavalio
 spinal	N	kärki-; selkäranka- selkäydin-
 spondylitt	N	nikamatulehdus
 spontanabort	N	spontaani keskenmeno
 stær	N	kottarainen kaihi
+stase-eksem	N	
 staseeksem; stasedermatitt	N	paineesta johtuva ihotulehdus; paineesta johtuva dermatiitti
 status	N	tila; asema; status
+status epilepticus	N	pitkittynyt epileptinen kohtaus
+steatoré	N	
 steatoré	N	rasvaripuli steatorrea
 steinsykdom	N	virtsakivitauti
 stiks	N	reagenssiliuska
 stivhet	N	jäykkyys; kankeus
+stomi	N	
 støtte	N	tuki; muistomerkki; tukea
 strålebehandling	N	sädehoito
 stress	N	rasitus stressi paine
+stresse	N	
 strimmelprøve	N	liuskakoe
 subaraknoidal	N	lukinkalvon alainen
+subaraknoidalblødning	N	
 subdural	N	kovakalvon alainen; subduraalinen
 subkonjunktival	N	sidekalvon alainen
 sult	N	nälkä
-absorbere	N	imeä itseensä; absorboida
+sulte	N	
 suprapubisk	N	suprapubinen; vatsanpeitteiden läpi laitettava
 svaksynt	N	heikkonäköinen; huononäköinen
+svangerskap	N	
 svangerskap	N	raskaus
 svangerskapsavbrudd	N	raskaudenkeskeytys
 svangerskapskvalme	N	raskauspahoinvointi
+svelgevansker	N	
 svelgevansker	N	nielemisvaikeus
 svulst	N	kasvain
 syfilis	N	kuppa; syfilis
 sykdomsmanifestasjon	N	sairauden ilmentymä
 syn	N	näkö; näky; näkemys; kasvot
 syndrom	N	oireyhtymä
+synovektomi	N	
 synovektomi	N	nivelkalvojen poistoleikkaus; synovektomia
+synovitt	N	
 synovitt	N	nivelkalvon tulehdus; synoviitti
 synsforstyrrelse	N	näköhäiriö
+synshemmede	N	
 synshemmet	N	näkövammainen
 synsstyrke	N	näöntarkkuus
 syre-base-forstyrrelse	N	happo-emästasapainon häiriö
+tannhjulsrigiditet	N	
 tannhjulsrigiditet	N	hammasratasjäykkyys
 tarmslyng	N	suolitukos; suolen tukkeuma ileus
-volvulus; N; rotert tarm
-ileus; N; suolitukos; suolen tukkeuma ileus 
 tarmtømming	N	suolen tyhjennys
 tegn	N	merkki
 temporalisarteritt; AT	N	ohimovaltimotulehdus; temporaaliarteriitti; Hortonin arteriitti
 testikkelkreft	N	kivessyöpä
 toksisk	N	myrkyllinen; toksinen; vahingollinen; haitallinen; antipatiaa herättävä
+tømmer	N	
 tømmerstokkregime	N	selän ja niskan pitäminen täysin suorana ja jäykkänä potilaan liikkuessa tai potilasta liikuteltaessa
 tonisk-klonisk anfall	N; tajuttomuuskouristuskohtaus toonis-klooninen kohtaus
 tonisk; N; lihasjänteyttä ylläpitävä; tooninen
-klonisk; N; tahdottomasti nykivä klooninen
+total	N	
 total	N	koko määrä
 totalprotese	N	kokoproteesi
+trangvinkelglaukom	N	
 trangvinkelglaukom	N	sulkukulmaglaukooma
-glaukom N; silmänpainetauti
 transitorisk	N	ohimenevä; transitorinen
+translokasjon	N	
 translokasjon	N	siirtymä; translokaatio; kromosomin osan siirtyminen toiseen kromosomiin
 transurethral	N	 transuretraalinen; virtsaputken kautta tapahtuva; virtsaputken kautta tehtävä
+transversostomi	N	
 transversostomi	N	poikittaiseen paksusuoleen (colon transversum) tehtävä avanne
 traumatisk; N; traumaattinen
 traumemetabolisme; hypermetabolisme; stressmetabolisme	N	hypermetabolia
+tremor	N	
 tremor; skjelving	N	vapina; tremor; tärinä
 tretthet	N	väsymys
+treveiskateter	N	
 treveiskateter	N	kolmitiehyinen katetri; kolmiluumen katetri
 triceps	N	ojentajalihas; kolmipäinen olkalihas
+tricepshudfold	N	
 trombolytisk	N	hyytymiä liuottava; trombolyyttinen
 trombose	N	verisuonitukos; verisuonitukkeuma; tromboosi
 trykkindeks	N	paineindeksi
@@ -705,310 +944,71 @@ trykksår	N	painehaava
 tubulær	N	tiehyen muotoinen; tiehyitä sisältävä; (munuais-)tiehyeen liittyvä; tubulaarinen
 ufrivillig	N	tahaton pakollinen
 ulcerøs	N	haavaumia muodostava; haavainen; ulseratiivinen
+ulcerøs kolitt	N	haavainen paksusuolen tulehdus; ulseratiivinen koliitti colitis ulcerosa, colitis ulcerativa
 ulcus	N	mahahaava; ulkus
 ulna; albuebeinet	N	kyynärluu; ulna
+ulnafraktur	N	
 underarm	N	kyynärvarsi
 underernæring	N	aliravitsemus
+underliv	N	
 underlivet	N	alapää
 undersøkelse	N	tutkimus
+uremi	N	
 uremi	N	virtsamyrkytys; uremia
 ureter; urinleder	N	virtsanjohdin; ureter
+ureterolitiasis	N	
 ureterolitiasis; ureterstein	N	virtsakivitauti urolitiaasi
+urethritt	N	
 urethritt; urinrørsbetennelse	N	virtsaputkien tulehdus; uretriitti
+urgeinkontinens	N	
 urgeinkontinens	N	pakkoinkontinenssi; virtsapakkoinkontinenssi
+uridom	N	
 uridom	N	virtsankerääjä; uridomi
 urin	N	virtsa
 urinblære	N	virtsarakko
 urininkontinens	N	virtsankarkailu virtsainkontinenssi
 urinkateter	N	virtsakatetri
 urinprøve	N	virtasakoe
+urinretensjon	N	
 urinretensjon	N	virtsaumpi; virtsaamiskyvyttömyys; retentio urinae 
 urinveiene	N	virtsatiet mon.
 urinveisinfeksjon; UVI	N	virtsatieinfektio; VTI; virtsatietulehdus
 urodynamisk	N	virtsateiden toimintaan ja virtsan virtaukseen liittyvä
+uroflowmetri	N	
 uroflowmetri	N	virtsan virtausmittaus; uroflowmetria
+urolitiasis	N	
 urolitiasis	N	virtsakivitauti urolitiaasi
+urostomi	N	
 urostomi	N	virtsa-avanne; virtsatieavanne urostooma
 uterus; livmor	N	kohtu; uterus
+utflod	N	
 utflod	N	vuoto
+uveitt	N	
 uveitt	N	silmämunan seinämän keskikerroksen tulehdus silmän suonikalvoston tulehdus; uveiitti
 vagina; skjede	N	emätin; vagina
 vaginisme	N	emätinkouristus vaginismi
 vannlating	N	virtsaaminen
 væske	N	neste
 vaskulær	N	verisuoniin liittyvä; verisuoni-; vaskulaarinen
+vaskulitt	N	
 vaskulitt	N	verisuonitulehdus; vaskuliitti
+vasospasme	N	
 vasospasme; blodåresammentrekning	N	valtimon supistustila; vasospasmi
 veiledning	N	ohjaus; opastus
 vekttap	N	painonmenetys; painonlasku
 venetrombose	N	laskimotukos; laskimoveritulppa; laskomitromboosi
 venøs	N	laskimoihin liittyvä; laskimoperäinen venoosi; venoosinen
+ventrikkeldrenasje	N	
 ventrikkeldrenasje	N	aivo-selkäydinnesteen poisto
+ventrikkelretensjon	N	
 ventrikkelretensjon	N	mahalaukun retentio ruoan epänormaali kertyminen mahalaukkuun
 ventrikuloperitoneal	N	aivokammiosta vatsaonteloon menevä
+vestibulitt	N	
 vestibulitt	N	emättimen eteisen tulehdus
 visus; synsstyrke; synsskarphet	N	näköaisti; näkö; näöntarkkuus
-in vitro-fertilisering; IVF	N	koeputkihedelmöitys; IVF
-vulvitt	N	häpytulehdus; naisen ulkoisten sukupuolielinten tulehdusabort	
 vitamin	N	vitamiini
-Braden-skala	N	Braden-asteikko Braden-painehaavariskimittari
-Brickerblære	N	Brickerin rakko Brickerin avanne
-PLISSIT-modellen	N	PLISSIT-malli
-PRICE-prinsippet	N	PRICE-protokolla protection, rest, ice, compression, elevation
-alfaføtoprotein	N	alfafetoproteiini
-alopesi	N	pälvikalju  alopecia areata
-artrodese	N	nivelen jäykistys(leikkaus) nivelen luudutusleikkaus    arthrodesis
-bartholinitt	N	häpyhuulen rauhasen tulehdus    Bartholiniitti
-bekkenbrudd	N	lantion murtuma
-bekkenbunnstrening	N	lantionpohjan (lihasten) harjoittelu
-bekkenløft	N	lantion nosto
-blæreskanning	N	virtsarakon skannaus
-bleieveietest	N	vaipan painon mittaustesti
-bløtdelsrevmatisme	N	pehmytkudosreuma
-bøyleileostomi	N	lenkki-ileostomia
-brennkopper	N	märkärupi
-brille	N	(silmä)lasit (mon.)
-calcaneusfraktur	N	kantaluun murtuma; kantapään murtuma
-cancer	N	syöpä
-claviculafraktur	N	solisluun murtuma
-cøliaki	N	keliakia
-corpus	N	keho; kokoelma
-crusamputasjon	N	sääriamputaatio
-cystenyre	N	rakkulainen munuainen
-cystitt	N	virtsatietulehdus; virsatie-infektio; kystiitti
-cystolitiasis	N	virtsakivi(tauti)
-cytostatikabehandling	N	solunsalpaajahoito; sytostaattihoito
-debridering	N	kuolleen kudoksen poisto
-dermatitt	N	ihotulehdus; ihottuma
-dermatomkart	N	dermatomikartta
-detrusormuskelen	N	detrusor-lihas
-diabetesnefropati	N	diabeettinen neuropatia; diabeteksen aiheuttama hermovaurio
-dioptri	N	dioptria; optisen taitto­kyvyn ja optisen järjestemän voimakkuuden yksikkö
-dysartri	N	puhemotorinen häiriö; dysartria
-dysfagi	N	nielemishäiriö; dysfagia
-dysfasi	N	kehityksellinen kielihäiriö; dysfasia
-dysmenoré	N	kuukautiskivut; kivuliaat kuukautiset; dysmenorrea
-dyspareuni	N	yhdyntäkipu; naisen kivulias yhdyntä; dyspareunia
-dyspepsi	N	ylävatsakipu; ruoansulatusvaiva, johon liittyy mm. ylävatsakipu, turvotus ja närästys; dyspepsia
-eGFR	N	munuaisten suodattumisnopeus
-ebb-fasen	N	ravitsemuksen ebb-vaihe (lääk.): varhainen sokkivaihe,  hidastunut aineenvaihdunta
-effloresens	N	erilaiset ihomuutokset; effloresenssi
-elektrolyttforstyrrelse	N	elektrolyyttihäiriö
-empowerment	N	voimaantuminen
-encefalopati	N	aivosairaus; aivotauti; enkefalopatia
-endeileostomi	N	ohutsuolen loppupään avanteen tekeminen
-endometriose	N	endometrioosi
-endometritt	N	kohdun limakalvon tulehdus; endometriitti
-endoskopisk	N	
-energi-/kaloribehov	N	
-enukleasjon	N	
-epikutantest	N	
-erysipelas	N	
-facialisparese	N	
-fatigue/tretthet	N	
-femuramputasjon	N	
-femurfraktur	N	
-fette	N	
-follikulitt	N	
-fór	N	
-fractura	N	
-gallestase	N	
-gips	N	
-gliom	N	
-gonartrose	N	
-gonoré	N	
-griperefleks	N	
-hånd	N	
-håpe	N	
-hematemese	N	
-hematuri	N	
-hemikolektomi	N	
-hemiplegi	N	
-hemodialyse	N	
-herniering	N	
-hjemmedød	N	
-hjernedød	N	
-hjerneslag	N	
-hjernetamponade	N	
-hofte	N	
-hviletremor	N	
-hydrocephalus	N	
-hydrokolloider	N	
-hyperkalemi	N	
-hyperkalsemi	N	
-hypermagnesemi	N	
-hypermetabolisme	N	
-hypermetropi	N	
-hypernatremi	N	
-hypokalemi	N	
-hypokalsemi	N	
-hypomagnesemi	N	
-hyponatremi	N	
-hypoventilasjon	N	
-hypovolemi	N	
-idrett	N	
-ikterus	N	
-ileostomi	N	
-ileumblære	N	
-ileus	N	
-immunisere	N	
-immunoernæring	N	
-impetigo	N	
-infertilitet	N	
-intrakutantest	N	
-iridosyklitt	N	
-irrigasjon	N	
-isjialgi	N	
-kakeksi	N	
-kalk	N	
-kalphabet	N	
-kapselendoskopi	N	
-karbohydrater	N	
-kateterisering	N	
-keratitt	N	
-klimakteriet	N	
-kneprotese	N	
-köbnerfenomenet	N	
-koksartrose	N	
-kolangitt	N	
-kolecystektomi	N	
-kolecystitt	N	
-kolecystolitiasis	N	
-koledokolitiasis	N	
-kolelitiasis	N	
-kolonreseksjon	N	
-kolos	N	
-kolostomi	N	
-kompartmentsyndrom	N	
-kondylomer	N	
-konjunktivitt	N	
-kontakteksem	N	
-krage	N	
-krampe	N	
-kraniefraktur	N	
-kraniotomi	N	
-kreftoverlever	N	
-kvadriplegi	N	
-laktobakterier	N	
-langsynthet	N	
-lårbein	N	
-leggsår	N	
-levercirrhose	N	
-leversvikt	N	
-levodopa	N	
-livmorkreft	N	
-mage-tarm-kanalen	N	
-makron	N	
-mal	N	
-melena	N	
-meningeom	N	
-meniskskade	N	
-menopausen	N	
-menoragi	N	
-mestre	N	
-mestringsstrategi	N	
-mestringstro	N	
-metamorfopsier	N	
-metroragi	N	
-midt	N	
-mikrobølgetermoterapi	N	
-mikron	N	
-miksjon	N	
-miksjonsliste	N	
-mukositt	N	
-mykoser	N	
-myopi	N	
-nefrolitiasis	N	
-neglekt	N	
-neglepsoriasis	N	
-neglesopp	N	
-nerve	N	
-nevronavigasjon	N	
-nukleusprolaps	N	
-oftalmoskopi	N	
-olecranonfraktur	N	
-oliguri	N	
-omskjæring	N	
-on-off-fenomenet	N	
-ortose	N	
-øsofagusvaricer	N	
-osteosyntesemateriale	N	
-osteotomi	N	
-overhydrering	N	
-øyebetennelser	N	
-øyestell	N	
-palpasjon	N	
-pankreasduodenektomi	N	
-pankreasreseksjon	N	
-pankreatitt	N	
-parafimose	N	
-parallelløft	N	
-paraplegi	N	
-patellafraktur	N	
-peritonealdialyse	N	
-peritonitt	N	
-plakk	N	
-pollakisuri	N	
-popliteacyste	N	
-presbyopi	N	
-prodromer	N	
-prostatahyperplasi	N	
-prostatakreft	N	
-prostatektomi	N	
-psoriasis-artritt	N	
-pupille	N	
-pyelonefritt	N	
-radius	N	
-refeeding-syndrom	N	
-reflukssymptomer	N	
-remisjon	N	
-reponering	N	
-retensjon	N	
-retinopati	N	
-senabort	N	
-sigmoidostomi	N	
-skjelettmetastaser	N	
-sonde	N	
-spasmer	N	
-spastisitet	N	
-spesialkost	N	
-stase-eksem	N	
-steatoré	N	
-stomi	N	
-stresse	N	
-subaraknoidalblødning	N	
-sulte	N	
-svangerskap	N	
-svelgevansker	N	
-synovektomi	N	
-synovitt	N	
-synshemmede	N	
-tannhjulsrigiditet	N	
-tømmer	N	
-total	N	
-trangvinkelglaukom	N	
-translokasjon	N	
-transversostomi	N	
-tremor	N	
-treveiskateter	N	
-tricepshudfold	N	
-ulnafraktur	N	
-underliv	N	
-uremi	N	
-ureterolitiasis	N	
-urethritt	N	
-urgeinkontinens	N	
-uridom	N	
-urinretensjon	N	
-uroflowmetri	N	
-urolitiasis	N	
-urostomi	N	
-utflod	N	
-uveitt	N	
-vaskulitt	N	
-vasospasme	N	
-ventrikkeldrenasje	N	
-ventrikkelretensjon	N	
-vestibulitt	N	
+vitaminmangel	N	vitamiinin puutos
+volvulus; N; rotert tarm
 vulvitt	N	
+vulvitt	N	häpytulehdus; naisen ulkoisten sukupuolielinten tulehdusabort	
 walk	N	
