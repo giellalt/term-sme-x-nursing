@@ -188,97 +188,77 @@ degenerativ	N	rappeuttava; rappeutuva
 dehydrering	N	kuivuminen
 delirium	N	delirium; sekavuustila
 demens	N	dementia; elimellinen aivo-oireyhtymä, useiden älyllisten toimintojen heikentyminen sairauden, vamman tai vanhuuden vuoksi
-dermatitt	N	ihotulehdus ihottuma; dermatiitti
-dermatitt	N	ihotulehdus; ihottuma
+dermatitt	N	ihotulehdus; ihottuma; dermatiitti
 dermatom	N	dermatomi; yhden selkäydinhermon hermottama ihoalue
 dermatomkart	N	dermatomikartta
-descens livmorfremfall nedsunken livmor	N	kohdunlaskeuma
+descens N	kohdunlaskeuma
+livmorfremfall  N   kohdunlaskeuma
 detrusormuskel	N	detrusor-lihas
-detrusormuskelen	N	detrusor-lihas
-diabetesnefropati	N	diabeettinen neuropatia
 diabetesnefropati	N	diabeettinen neuropatia; diabeteksen aiheuttama hermovaurio
 dialysebehandling	N	dialyysihoito
 diaré	N	ripuli; diarrea
 dioptri	N	dioptria; optisen taitto­kyvyn ja optisen järjestemän voimakkuuden yksikkö
-dioptri en måleenhet for et medie sin evne til bryte lyset	N	dioptria; optisen taitto­kyvyn ja optisen järjestemän voimakkuuden yksikkö
 diurese	N	virtsaneritys; diureesi
 død	N	kuolema
 døende	N	kuoleva
-dyp	N	syvyys; syöveri uumen
-dyp hjernestimulering; DBS	N	syväaivostimulaatio; DBS
-dyp venetrombose; DVT	N	syvä laskimotukos; SLT
-dysartri	N	dysartria; aivosyntyisten puheen artikulaatiohäiriöiden yleisnimitys
-dysartri	N	puhemotorinen häiriö; dysartria
-dysfagi	N	dysfagia; nielemishäiriö
+dyp	N	syvyys; syöveri; uumen
+dyp hjernestimulering   N   syväaivostimulaatio; DBS
+DBS	N	syväaivostimulaatio; DBS
+dyp venetrombose    N   syvä laskimotukos; SLT
+DVT	N	syvä laskimotukos; SLT
+dysartri	N	puhemotorinen häiriö; aivosyntyisten puheen artikulaatiohäiriöiden yleisnimitys; dysartria
 dysfagi	N	nielemishäiriö; dysfagia
-dysfasi	N	dysfasia; kielenkehityksen erityisvaikeus poikkeava kielenkehitys
 dysfasi	N	kehityksellinen kielihäiriö; dysfasia
-dysmenoré	N	kivuliaat kuukautiset; dysmenorrea algomenorrea menalgia
-dysmenoré	N	kuukautiskivut; kivuliaat kuukautiset; dysmenorrea
-dyspareuni	N	yhdyntäkipu
+dysmenoré	N	kuukautiskivut; kivuliaat kuukautiset; dysmenorrea; algomenorrea; menalgia
 dyspareuni	N	yhdyntäkipu; naisen kivulias yhdyntä; dyspareunia
 dyspepsi	N	ylävatsakipu; ruoansulatusvaiva, johon liittyy mm. ylävatsakipu, turvotus ja närästys; dyspepsia
-dyspepsi	N	ylävätskivut; dyspepsia
 eGFR	N	munuaisten suodattumisnopeus
-ebb-fase	N	ebb- eli shokkivaihe traumapotilailla
-ebb-fasen	N	ravitsemuksen ebb-vaihe (lääk.): varhainen sokkivaihe,  hidastunut aineenvaihdunta
+ebb-fase	N	ravitsemuksen ebb- eli shokkivaihe traumapotilailla; (lääk.): varhainen sokkivaihe,  hidastunut aineenvaihdunta
 effloresens	N	erilaiset ihomuutokset; effloresenssi
-effloresens hudforandring i hudutslet	N	effloresenssi
-eksem	N	ekseema ihottuma; rohtuma rokahtuma
-eksistensiell	N	eksistentiaalinen; lemassaoloon liittyvä
+eksem	N	ekseema; ihottuma; rohtuma; rokahtuma
+eksistensiell	N	eksistentiaalinen; olemassaoloon liittyvä
 ekstern	N	ulkoinen; ulkopuolinen
-ekstraartikulær brudd; N; ekstra-artikulaarinen murtuma; murtuma, joka ei ylety niveleen saakka
-ekstraartikulære	N	ekstra-artikulaarinen; additiivinen; lisäävä
+ekstraartikulær brudd   N   ekstra-artikulaarinen murtuma; murtuma, joka ei ylety niveleen saakka
+ekstraartikulær	N	ekstra-artikulaarinen; additiivinen; lisäävä
 ekstrakorporeal	N	kehon ulkoinen; ekstrakorporeaalinen
-ekstravasal utenfor blodårene	N	verisuonten ulkopuolinen; ekstravasaalinen
-ektopisk	N	ektooppinen virhepaikkainen virhesijaintinen; normaalilta paikaltaan poissa oleva
+ekstravasal	N	verisuonten ulkopuolinen; ekstravasaalinen
+ektopisk	N	ektooppinen; virhepaikkainen; virhesijaintinen; normaalilta paikaltaan poissa oleva
 elastisk	N	elastinen; kimmoinen kimmoisa; joustava
-elektroencefalografi EEG	N	elektroenkefalografia EEG; elektroenkelogrammi; aivosähkökäyrä
-elektroencefalografi; EEG	N; 	aivosähkökäyrätutkimus; elektroenkefalografia; EEG
-elektrolyttforstyrrelse	N	elektrolyyttihäiriö
+elektroencefalografi	N	aivosähkökäyrätutkimus; elektroenkefalografia; EEG
+EEG	N; 	aivosähkökäyrätutkimus; elektroenkefalografia; EEG
 elektrolyttforstyrrelse	N	elektrolyyttihäiriö
 emboli	N	veritulppa; embolia 
-empowerment	N	voimaantuminen
 empowerment	N	voimaantuminen; valtaistuminen
 encefalopati	N	aivosairaus; aivotauti; enkefalopatia
-encefalopati hjernesykdom	N	aivosairaus aivotauti; enkefalopatia
-endeileostomi	N	ileostomia ohutsuoliavanneleikkaus
-endeileostomi	N	ohutsuolen loppupään avanteen tekeminen
+endeileostomi	N	ileostomia; ohutsuoliavanneleikkaus; ohutsuolen loppupään avanteen tekeminen
 endometriose	N	endometrioosi
-endometriose	N	endometrioosi
-endometritt	N	endometriitti; kohdun limakalvon tulehdus
 endometritt	N	kohdun limakalvon tulehdus; endometriitti
-endoskopi	N	endoskopia; tähystystutkimus
-endoskopisk	N	
-energi-/kaloribehov	N	
-enukleasjon	N	
-enukleasjon kirurgisk fjerning av øyeeplet	N	silmän poisto
-epiduralanestesi epiduralbedøvelse	N	epiduraalipuudutus
-epikutantest	N	
-epikutantest	N	epikutaanitesti iholle laitettava allergiatesti
+endoskopi	N	endoskopia; tähystystutkimus	
+enukleasjon N	silmän poisto
+epiduralanestesi    N	epiduraalipuudutus
+epiduralbedøvelse   N   epiduraalipuudutus	
+epikutantest	N	epikutaanitesti; iholle laitettava allergiatesti
 epilepsi	N	epilepsia
 ergoterapi	N	toimintaterapia
 ernæring	N	ravitsemus
 ernæringsbehandling	N	ravitsemushoito
-ernæringstilstand	N	ravitsemustila
-erysipelas	N	
-erysipelas rosen	N	ruusutulehdus; erysipelas
-etseskade	N	syövytysvamma
-facialisparese	N	
-facialisparese ansiktslammelse	N	kasvohalvaus
-fall	N	kaatuminen putoaminen; putous; tapaus
+ernæringstilstand	N	ravitsemustila	
+erysipelas  N	ruusutulehdus; erysipelas
+rosen   N   ruusutulehdus; erysipelas
+etseskade	N	syövytysvamma	
+facialisparese	N	kasvohalvaus
+ansiktslammelse N   kasvohalvaus
+fall	N	kaatuminen; putoaminen; putous; tapaus
 fantomsmerte	N	aavekipu; aavesärky; fantomikipu
-fase	N	vaihe
-fatigue utmattelse	N	uupumus väsymys fatigue
-fatigue/tretthet	N	
-fatle	N	mitella kolmioliina
+fase    N	vaihe
+fatigue	N	uupumus väsymys fatigue
+utmattelse  N   uupumus; väsymys; fatigue
+fatle	N	kolmioliina; mitella
 feber	N	kuume
-femuramputasjon	N	
 femuramputasjon	N	reisiamputaatio
-femurfraktur	N	
-fett	N	rasva; det er meg et - se on minulle yhdentekevää
+femurfraktur	N	reisiluun murtuma
+fett	N	rasva
 fettdiaré	N	rasvaripuli
-fette	N	
 fiberbandasje	N	kuitusidos
 fibromyalgi	N	fibromyalgia; pehmytkudoskipuilu; pehmytkudosreuma lihasreuma
 fiksasjon	N	fiksaatio fiksointi kiinnittäminen; kiinnittyminen
@@ -286,84 +266,82 @@ filtrasjonshastighet	N	suodatusnopeus; filtraationopeus
 fistel	N	fisteli fistula avanne
 fokal	N	keskeinen; fokaali
 fold	N	taite; laskos; poimu ryppy
-follikulitt	N	
-follikulitt hårkjertelbetennelse	N	karvatuppitulehdus; follikuliitti
-fór	N	
+follikulitt N	karvatuppitulehdus; follikuliitti
+hårkjertelbetennelse    N   karvatuppitulehdus; follikuliitti
 forgiftning	N	myrkytys
 forkammerblødning	N	etukammioverenvuoto
 forstyrrelse	N	häiriö; keskeytys
 forutsetning	N	ehto; edellytys
-fotsopp	N	jalkasieni
-fractura	N	
-fractura fraktur beinbrud	N	luunmurtuma
-funksjon	N	toiminta toiminto; käyttö; tehtävä
+fotsopp	N	jalkasieni	
+fractura	N	luunmurtuma
+fraktur N   luunmurtuma
+beinbrud	N	luunmurtuma
+funksjon	N	toiminta: toiminto; käyttö; tehtävä
 funksjonsstatus	N	toimintakyvyn arvio
 fysioterapi	N	fysioterapia
-gallestase	N	
 gallestase	N	sappitietukos
 gallesteinssykdom	N	sappikivitauti
-ganghjelpemiddel	N	kävelyn apuväline
+ganghjelpemiddel	N	apuväline kävelyyn
 gastrostomi	N	gastrostomia; mahalaukkuavanteen teko
 generalisert	N	yleistynyt; yleisluonteinen
-generalisert tonisk-klonisk anfall; GTK	N	generalisoituva toonis-klooninen kohtaus GTK	
+generalisert tonisk-klonisk anfall	N	generalisoituva toonis-klooninen kohtaus; GTK
+GTK N   generalisoituva toonis-klooninen kohtaus; GTK
 genital	N	genitaalinen; genitaali-, sukuelin-; sukuelimeen liittyvä
-genitalier kjønnsorganer	N	genitaalit; sukupuolielin
-gips	N	
+genitalier	N	genitaalit; sukupuolielin
+kjønnsorganer   N   genitaalit; sukupuolielin	
 gips	N	kipsi
 gjennombruddssmerte	N	läpilyöntikipu
 gjennomskylling	N	läpihuuhtelu
 glaukom	N	silmänpainetauti; glaukooma
-glaukom N; silmänpainetauti
-gliom	N	
+glaukom N   silmänpainetauti
 gliom	N	hermotukikudoskasvain
-global	N	yleis-, kokonais-; yleismaailmallinen; maailmanlaajuinen
-glomerulær	N	glomerulaarinen munuaiskeräsiin (erityisesti hiussuonikeräsiin) liittyvä
-glomerulær filtrasjonsrate; GFR	N	glomerulusten suodatusnopeus; GFR
+global	N	yleis-; kokonais-; yleismaailmallinen; maailmanlaajuinen
+glomerulær	N	glomerulaarinen; munuaiskeräsiin (erityisesti hiussuonikeräsiin) liittyvä
+glomerulær filtrasjonsrate	N	glomerulusten suodatusnopeus; GFR
+GFR N   glomerulusten suodatusnopeus; GFR
 glomerulonefritt	N	munuaiskerästulehdus; glomerulonefriitti
 glutenfri	N	gluteeniton
-gonartrose	N	
-gonartrose; kneleddsartrose	N	polven nivelrikko; polviartroosi
-gonoré	N	
-gonoré	N	tippuri gonorrea
-graviditet	N	raskaus graviditeetti
-griperefleks	N	
+gonartrose	N	polven nivelrikko; polviartroosi
+kneleddsartrose N   polven nivelrikko; polviartroosi
+gonoré	N	tippuri; gonorrea
+graviditet	N	raskaus; graviditeetti
 griperefleks	N	tarttumisrefleksi
 guiding	N	ohjaus
-gulsott ikterus	N	keltaisuus; ikterus
-haemorrhagia	N	verenvuoto; haemorrhagia, hemorragia
-hånd	N	
-håndeksem	N	käsi-ihottuma; kåasiekseema
+gulsott	N	keltaisuus; ikterus
+ikterus N   keltaisuus; ikterus
+haemorrhagia	N	verenvuoto; haemorrhagia; hemorragia
+hånd	N	käsi
+håndeksem	N	käsi-ihottuma; käsiekseema
 håp	N	toivo
-håpe	N	
 håravfall	N	hiustenlähtö
 helicobacter pylori	N	helikobakteeri
 helse	N	terveys
-hematemese	N	
-hematemese; blodig oppkast	N	verioksennus; hematemeesi
+hematemese	N	verioksennus; hematemeesi
 hematom	N	verenpurkauma; mustelma; hematooma
-hematuri	N	
-hematuri; blod i urinen	N	verivirtsaisuus hematuria
-hemikolektomi	N	
-hemikolektomi; operativ fjerning av høyre eller venstre del av tykktarmen	N	paksusuolikeikkaus; hemikolektomia
-hemiplegi	N	
-hemiplegi; halvsidig lammelse	N	toispuolihalvaus; hemiplegia
-hemodialyse	N	
+hematuri	N	verivirtsaisuus; hematuria
+hemikolektomi	N	osittainen paksusuolen poisto ; hemikolektomia
+halvsidig lammelse	N	toispuolihalvaus; hemiplegia
+hemiplegi	N	toispuolihalvaus; hemiplegia
 hemodialyse	N	hemodialyysi
-herniering	N	
-herniering; brokkdannelse	N	tyrän muodostuminen; 
+brokkdannelse   N   tyrän muodostuminen 
+herniering	N	tyrän muodostuminen 
 herpes	N	herpes; herpesviruksen aiheuttama tauti
 histologisk	N	histologinen; kudosopillinen
 hjelpemiddel	N	apuväline
-hjemmedød	N	
 hjemmedød	N	kuolema kotona (usein saattohoidon yhteydessä)
 hjemmerehabilitering	N	kotikuntoutus
-hjerneblødning; Hemorrhagisk hjerneslag	N	aivoverenvuoto; aivohemorragia
-hjernedød	N	
-hjernehinneblødning subarachnoidal blødning SAB	N	lukinkalvonalainen verenvuoto SAV
+hjerneblødning	N	aivoverenvuoto; aivohemorragia
+hemorrhagisk hjerneslag N   aivoverenvuoto; aivohemorragia
+hjernedød	N	aivokuollut
+hjernehinneblødning	N	lukinkalvonalainen verenvuoto; SAV
+subarachnoidal blødning N   lukinkalvonalainen verenvuoto; SAV
+SAB N   lukinkalvonalainen verenvuoto; SAV
 hjerneinfarkt	N	aivoinfarkti
 hjerneødem	N	aivoedeema; aivopöhö; aivoturvotus
-hjerneslag	N	
-hjerneslag apoplexia cerebri apopleksi cerebralt insult slag	N	aivohalvaus aivoverenkiertohäiriö; apopleksia
+apopleksi	N	aivohalvaus aivoverenkiertohäiriö; apopleksia
+cerebralt insult    N   aivohalvaus aivoverenkiertohäiriö; apopleksia
+slag	N	aivohalvaus aivoverenkiertohäiriö; apopleksia
+hjerneslag	N	aivohalvaus aivoverenkiertohäiriö; apopleksia
 hjernestimulering	N	aivojen stimulointi
 hjernesykdom	N	aivosairaus
 hjernetamponade	N	
