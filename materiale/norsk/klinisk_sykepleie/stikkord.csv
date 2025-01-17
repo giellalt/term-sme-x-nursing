@@ -827,62 +827,53 @@ underarm	N	kyynärvarsi
 underernæring	N	aliravitsemus
 underliv	N	alapää
 undersøkelse	N	tutkimus
-uremi	N	
 uremi	N	virtsamyrkytys; uremia
-ureter; urinleder	N	virtsanjohdin; ureter
-ureterolitiasis	N	
-ureterolitiasis; ureterstein	N	virtsakivitauti urolitiaasi
-urethritt	N	
-urethritt; urinrørsbetennelse	N	virtsaputkien tulehdus; uretriitti
-urgeinkontinens	N	
+ureter	N	virtsanjohdin; ureter
+urinleder   N   virtsanjohdin; ureter
+ureterstein	N	virtsakivitauti; urolitiaasi
+ureterolitiasis	N	virtsakivitauti; urolitiaasi
+urinrørsbetennelse	N	virtsaputkien tulehdus; uretriitti
+urethritt	N	virtsaputkien tulehdus; uretriitti
 urgeinkontinens	N	pakkoinkontinenssi; virtsapakkoinkontinenssi
-uridom	N	
 uridom	N	virtsankerääjä; uridomi
 urin	N	virtsa
 urinblære	N	virtsarakko
-urininkontinens	N	virtsankarkailu virtsainkontinenssi
+urininkontinens	N	virtsankarkailu; virtsainkontinenssi
 urinkateter	N	virtsakatetri
 urinprøve	N	virtasakoe
-urinretensjon	N	
 urinretensjon	N	virtsaumpi; virtsaamiskyvyttömyys; retentio urinae 
 urinveiene	N	virtsatiet mon.
-urinveisinfeksjon; UVI	N	virtsatieinfektio; VTI; virtsatietulehdus
+urinveisinfeksjon	N	virtsatieinfektio; virtsatietulehdus; VTI
+UVI N   virtsatieinfektio; virtsatietulehdus; VTI
 urodynamisk	N	virtsateiden toimintaan ja virtsan virtaukseen liittyvä
-uroflowmetri	N	
 uroflowmetri	N	virtsan virtausmittaus; uroflowmetria
-urolitiasis	N	
-urolitiasis	N	virtsakivitauti urolitiaasi
-urostomi	N	
-urostomi	N	virtsa-avanne; virtsatieavanne urostooma
-uterus; livmor	N	kohtu; uterus
-utflod	N	
+urolitiasis	N	virtsakivitauti; urolitiaasi
+urostomi	N	virtsa-avanne; virtsatieavanne; urostooma
+uterus	N	kohtu; uterus
+livmor	N	kohtu; uterus
 utflod	N	vuoto
-uveitt	N	
-uveitt	N	silmämunan seinämän keskikerroksen tulehdus silmän suonikalvoston tulehdus; uveiitti
-vagina; skjede	N	emätin; vagina
-vaginisme	N	emätinkouristus vaginismi
+uveitt	N	silmän suonikalvoston tulehdus; silmämunan seinämän keskikerroksen tulehdus; uveiitti
+vagina	N	emätin; vagina
+skjede  N   emätin; vagina
+vaginisme	N	emätinkouristus; vaginismi
 vannlating	N	virtsaaminen
 væske	N	neste
 vaskulær	N	verisuoniin liittyvä; verisuoni-; vaskulaarinen
-vaskulitt	N	
 vaskulitt	N	verisuonitulehdus; vaskuliitti
-vasospasme	N	
-vasospasme; blodåresammentrekning	N	valtimon supistustila; vasospasmi
+blodåresammentrekning	N	valtimon supistustila; vasospasmi
+vasospasme	N	valtimon supistustila; vasospasmi
 veiledning	N	ohjaus; opastus
 vekttap	N	painonmenetys; painonlasku
-venetrombose	N	laskimotukos; laskimoveritulppa; laskomitromboosi
+venetrombose	N	laskimotukos; laskimoveritulppa; laskimotromboosi
 venøs	N	laskimoihin liittyvä; laskimoperäinen venoosi; venoosinen
-ventrikkeldrenasje	N	
 ventrikkeldrenasje	N	aivo-selkäydinnesteen poisto
-ventrikkelretensjon	N	
-ventrikkelretensjon	N	mahalaukun retentio ruoan epänormaali kertyminen mahalaukkuun
+ventrikkelretensjon	N	mahalaukun retentio; ruoan epänormaali kertyminen mahalaukkuun
 ventrikuloperitoneal	N	aivokammiosta vatsaonteloon menevä
-vestibulitt	N	
 vestibulitt	N	emättimen eteisen tulehdus
-visus; synsstyrke; synsskarphet	N	näköaisti; näkö; näöntarkkuus
+visus	N	näköaisti; näkö; näöntarkkuus
+synsskarphet    N   näköaisti; näkö; näöntarkkuus
+synsstyrke  N   näköaisti; näkö; näöntarkkuus
 vitamin	N	vitamiini
 vitaminmangel	N	vitamiinin puutos
-volvulus; N; rotert tarm
-vulvitt	N	
-vulvitt	N	häpytulehdus; naisen ulkoisten sukupuolielinten tulehdusabort	
-walk	N	
+volvulus    N   suolenkiertymä
+vulvitt N	häpytulehdus; naisen ulkoisten sukupuolielinten tulehdus	
