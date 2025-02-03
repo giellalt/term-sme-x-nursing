@@ -1,10 +1,10 @@
 ISBN	N	kirjan kansainvälinen standardinumero
 abstraksjon	N	abstraktio; konkreettisen kohteen tietyn piirteen tai piirrejoukon eristäminen ja tarkastelu sellaisenaan
 adhesjon	N	adheesio; kiinnike; tartuntakyky
-aerosol	N	aerosoli; ilmassa oleva ainehiukkasten ja veden tai kaasun seos (mikr)
+aerosol	N	aerosoli; ilmassa oleva ainehiukkasten ja veden tai kaasun seos (mikr.)
 akryl	N	akryyli
 aktelse	N	arvonanto; kunnioitus; kunnioitus jtk kohtaan
-aktivum	N	vastaava (tal); etu 
+aktivum	N	vastaava (tal.); etu 
 alginat	N	alginaatti; merilevästä saatu aine
 alkoholmisbruker	N	alkoholin väärinkäyttäjä
 anabolisme	N	anabolia; synteesiaineenvaihdunta
@@ -40,7 +40,7 @@ artikulering	N	ääntäminen; artikulointi
 arvelighet	N	perinnöllisyys
 askorbinsyre	N	askorbiinihappo
 astigmatisme	N	hajataittoisuus; astigmatismi
-aura	N	sairauskohtauksen ennakkotunne esimerkiksi epilepsiassa (lääk)
+aura	N	sairauskohtauksen ennakkotunne esimerkiksi epilepsiassa (lääk.)
 autoklav	N	autoklaavi; painekattila; välineiden sterilisaatiossa käytettävä painehöyrylaite
 automatikk	N	automatiikka
 avbrekk	N	keskeytys; tauko; haitta
@@ -56,13 +56,13 @@ bagatellisering	N	vähättely
 bakgrunnsinformasjon	N	taustatiedot (mon.)
 barberhøvel	N	partahöylä
 barbermaskin	N	partakone; parranajokone
-bardun	N	vaijeri; vahvistava ommel (med)
+bardun	N	vaijeri; vahvistava ommel (lääk.)
 barium	N	barium
 barneår	N	lapsuus; lapsuusvuodet
 barnsbein	N	(fra - av) lapsuudesta lähtien
 barskhet	N	karskius
 begrepsapparat	N	käsitteistö
-behag	N	mieltymys; ihastus; 
+behag	N	mieltymys; ihastus 
 beis	N	petsi
 beklagelse	N	pahoittelu
 benektelse	N	kieltäminen
@@ -105,34 +105,34 @@ deltagelse	N	osallistuminen; osanotto
 demon	N	riivaaja; (paha)henki demoni
 demring	N	koitto
 desinfisering	N	desinfiointi
-destruksjon	N	hävitys tuho
+destruksjon	N	hävitys; tuho
 detektor	N	ilmaisin; paljastin
 diksjon	N	ääntämys
 dimensjonering	N	mitoitus
 disseksjon	N	kudosten irrottelu; leikkely; dissektio
 distansering	N	etäisyyden ottaminen
 distraksjon	N	hajamielisyys ???huomion kääntäminen muualle ???
-dna	N	DNA deoksiribonukleiinihappo
+dna	N	deoksiribonukleiinihappo; DNA
 donor	N	luovuttaja
 drahjelp	N	vetoapu
 drakt	N	puuskaasu
 dysenteri	N	punatauti; dysenteria
 erle	N	västäräkki
-egentrening	N	itsenäinen harjoittelu; ???
+egentrening	N	itsenäinen harjoittelu; omaharjoittelu; omatoiminen harjoittelu
 eggedosis	N	sokerin kanssa vatkattu muna
 ekstrautgift	N	ylimääräinen meno
 ekstrautstyr	N	lisävarusteet
 elektrokardiogram	N	elektrokardiogrammi sähköimpulssien avulla muodostettu sydämen toimintaa kuvaava graafinen käyrä
 embolus	N	tulppa; veritulppa; embolus
-emeritus	N	emeritustäysinpalvellut miespuolinen henkilö
+emeritus	N	emeritus; täysinpalvellut miespuolinen henkilö
 emning	N	valmistelu; kehittely; være i - olla kehitteillä
 emosjon	N	tunne
 ending	N	(kiel) pääte
 energiøkonomisering	N	energiansäästö ???
 enkeltfaktor	N	yksittäinen tekijä
-enkeltindivid	N	yksilö; ???
+enkeltindivid	N	yksilö
 enstavelsesord	N	yksitavuinen sana
-entitet	N; kokonaisuus selvstendig og entydig enhet; ???
+entitet	N; kokonaisuu;s; itsenäinen rajattu yksikkö
 epitel	N	epiteeli; epiteelikudos
 ergonomi	N	ergonomia
 erle	N	västäräkki
@@ -144,11 +144,11 @@ ettertid	N	tulevaisuus myöhemmät ajat
 etui	N	kotelo
 etylen	N	eteeni; etyleeni
 fabrikant	N	valmistaja; tehtailija
-fagdag	N	oman alan koulutuspäivä koulussa yhteen oppiaineeseen keskittyvä päivä
+fagdag	N	oman alan koulutuspäivä; koulussa yhteen oppiaineeseen keskittyvä päivä
 fagkompetanse	N	ammatillinen pätevyys
 fantom	N	harhakuva; aave
 fånyttes	A	turha; til - turhaan
-fatning	N	maltti; tyyneys bringe ut av - saada suunniltaan
+fatning	N	maltti; tyyneys; bringe ut av - saada suunniltaan
 femdel	N	viidennes; viidesosa
 fengselscelle	N	vankilaselli
 fenotype	N	fenotyyppi; ilmiasu
@@ -156,7 +156,7 @@ festeanordning	N	kiinnityslaite; kiinnitysmahdollisuus
 festing	N	kiinnittäminen; juhliminen
 fillerye	N	räsymatto
 firedel	N	neljännes; neljäsosa
-flanke	N	kylki; kuve; (mil) siipi, sivusta
+flanke	N	kylki; kuve; (sotilaallinen) siipi, sivusta
 flateenhet	N	pinta-alan yksikkö
 flått	N	punkki
 flertydighet	N	moniselitteisyys
@@ -164,7 +164,7 @@ flestepart	N	suurin osa
 flik	N	lieve; siiveke; kulma
 flor	N	kukoistus; harso
 fløteis	N	kermajäätelö
-fokusering	N	fokusointi; tarkentaminen; ???
+fokusering	N	fokusointi; tarkentaminen
 fole	N	varsa
 folkeopplysning	N	kansanvalistus
 fommel	N	??? höperö ???
@@ -176,21 +176,21 @@ foreleser	N	luennoitsija
 forhøyning	N	kohouma koroke
 fôring	N	ruokinta; vuoraus
 forlegenhet	N	kiusaantuneisuus; nolostuminen häpeä
-forming	N	dkuvaamataito; muovailu; muodostus
+forming	N	kuvaamataito; muovailu; muodostus
 forplantning	N	lisääntyminen
 forsteining	N	kivettymä
 forstørrelse	N	suurennos
 fortetning	N	tiivistyminen; tiivistymä
 fortielse	N	vaikeneminen
-fortrenging	N	(psy) torjunta; patouma
+fortrenging	N	(psyk.) torjunta; patouma
 forvissning	N	varmuus
 fraksjon	N	puolueryhmittymä; ryhmäkunta; jae
 framspring	N	ulkonema; kieleke uloke
 funksjonshemming	N	vamma
 furie	N	raivotar
 galgenhumor	N	hirtehishuumori
-gall	N	(bot) äkämä
-gammaglobulin	N	gammablobuliini veriplasman proteiini
+gall	N	(bot.) äkämä
+gammaglobulin	N	gammablobuliini; veriplasman proteiini
 garderobeskap	N	vaatekomero
 gassflaske	N	kaasupullo
 gassmengde	N	kaasun määrä
@@ -206,13 +206,13 @@ gnag	N	nakerrus; jankutus
 gnidning	N	hankaus
 godvilje	N	hyvä tahto
 golfspiller	N	golfin pelaaja
-gradering	N	(arvostelu)asteikko arvosteluasteikkoon laittaminen ???
-gradient	N	gradientti; fyysisen suureen tietyn välimitan tai aikayksikön muutos; ???
+gradering	N	(arvostelu)asteikko; arvosteluasteikkoon laittaminen
+gradient	N	gradientti; fyysisen suureen tietyn välimitan tai aikayksikön muutos
 gravitasjon	N	painovoima; gravitaatio
 grønnsåpe	N	mäntysuopa
 grundighet	N	perusteellisuus
 grunnholdning	N	perusasenne
-grunnstønad	N	 lapsen vammaistuki; pengestøtte til ekstrautgifter når du eller barnet ditt har en varig skade, sykdom eller funksjonsnedsettelse
+grunnstønad	N	 lapsen vammaistuki
 grut	N	kahvinporot
 gulost	N	keltaisen värinen juusto esim. gouda
 hal	N	veto
@@ -225,7 +225,7 @@ hermetikk	N	säilyke
 herr	N	(puhuttelu) herra
 hissighet	N	kiivaus
 histamin	N	histamiini
-hjelpsomhet	N	avulius auttavaisuus
+hjelpsomhet	N	avulius; auttavaisuus
 hjerte-karsykdom	N	sydän- ja verisuonitauti
 hjerteoperasjon	N	sydänleikkaus
 hofteskål	N	lonkkamalja
@@ -234,25 +234,25 @@ hol	N	reikä; aukko; loukko
 homeopati	N	homeopatia
 hovedåre	N	pääsuoni
 hundehår	N	koirankarva
-hundekjører	N	koiravaljakon ajaja ???
+hundekjører	N	koiravaljakon ajaja
 hvilepause	N	lepotauko
 hyll	N	selja
 hylse	N	hylsy
 hypnose	N	hyypnoosi
-igangsettelse	N	aloitus käynnistys
+igangsettelse	N	aloitus; käynnistys
 ikke-røyker	N	tupakoimaton henkilö
 iling	N	väre; väristys
-infiltrasjon	N	soluttautuminen leviäminen tiivistymä; infiltraatio; ???
+infiltrasjon	N	soluttautuminen; leviäminen; tiivistymä; infiltraatio
 informasjonshefte	N	tiedotusvihkonen; tiedotusvihko
 inhalering	N	sisäänhengitys
 inkompetanse	N	epäpätevyys
 innad	Adv.; sisällä sisällepäin ???	
-inndragning	N	takavarikointi; lakkauttaminen; (lääk) sisäänhengitys apulihaksia käyttäen
+inndragning	N	takavarikointi; lakkauttaminen; (lääk.) sisäänhengitys apulihaksia käyttäen
 innleving	N	eläytyminen
-innpakning	N	pakkaus kääre
+innpakning	N	pakkaus; kääre
 innskytelse	N	mielijohde
 inntrengning	N	tunkeutuminen
-instrumentering	N	laitteilla varustaminen instrumentointi (lääk) laitteiden laittaminen jnk sisään esim. tutkimuksessa; ???
+instrumentering	N	laitteilla varustaminen; instrumentointi; (lääk.) laitteiden laittaminen jnk sisään esim. tutkimuksessa
 internet	N	internet; maailmanlaajuinen informaationsiirtojärjestelmä
 invasjon	N	maahantunkeutuminen tunkeutuminen; invaasio
 iridium	N	iridium
@@ -263,21 +263,21 @@ kabin	N	hytti
 kabinett	N	kabinetti
 kastanje	N	kastanje
 killing	N	kili
-kjed	A; kyllästynyt tylsistynyt	; ???
+kjed	A kyllästynyt tylsistynyt	; ???
 kjør	N	kiire; rääkki; i ett - yhtä mittaa
-klapp	N	taputus lyönti
-klarering	N	kontrollointi ja hyväksyntä tullaus 
+klapp	N	taputus; lyönti
+klarering	N	jnkn kontrollointi ja hyväksyntä; tullaus 
 klargjøring	N	valmistelu; selventäminen
-klebeevne	N	kiinnityskyky
+klebeevne	N	kiinnityskyky; tartuntakyky
 klientell	N	asiakkaat; potilaat
 klikk	N	kuppikunta; naksahdus; epäonnistuminen
 kliniker	N	kliinikko
-klipp	N	hiustenleikkaus leikkaus; väläys
+klipp	N	hiustenleikkaus; leikkaus; väläys
 klokkeslett	N	kellonaika
 klynge	N	joukko; ryhmä; rykelmä
 knappenål	N	nuppineula
 knask	N	naposteltava
-kneik	N	töyry; vaikeus komme seg over kneikken selvitä vaikeimmasta; ???
+kneik	N	töyry; vaikeus komme seg over kneikken selvitä vaikeimmasta
 kneskål	N	polvilumpio
 koagel	N	hyytymä
 koder	N	koodittaja
@@ -285,16 +285,16 @@ kok	N	kiehuminen
 koking	N	keitto; keittäminen
 kolibakterie	N	kolibakteeri
 kolikk	N	koliikki; kova kipu, etenkin vatsakipu
-kollaps	N	romahdus; pyörtyminen kollapsi
+kollaps	N	romahdus; pyörtyminen; kollapsi
 kolle	N	vaara; vuori; nupo lehmä
 kølle	N	nuija; (jääkiekko) maila
 kolloid	N	kolloidi
 komfort	N	mukavuus
-kompendium	N	tiivistelmä käsikirja
+kompendium	N	tiivistelmä; käsikirja ???
 komplement	N	täydennys
 komprimering	N	puristaa (kokoon); tiivistää; kiinteyttää
 kontakteksem	N	kosketusihottuma
-konus	N	kartio; 
+konus	N	kartio 
 konversasjon	N	keskustelu
 kram	N	rihkama nuoska
 kraniebrudd	N	kallonmurtuma
