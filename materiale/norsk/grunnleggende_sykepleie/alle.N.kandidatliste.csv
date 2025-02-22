@@ -1148,56 +1148,56 @@ stikkpille	bahtačoalledálkkas	bahtaráibuiccahas			peräpuikko suppo				bohcco
 klystersetting	bahtačoalledoiddusa addin	bahtačoallecirgehaga addin			peräruiskeen anto	*peräruiskeen addin			klystaráhkadeapmi	seahkalas ruvdna	
 pessar					pessaari				pessára	pessára	
 pessimisme					pessimismi				beahttámuš	ahtanuššan	
-væskeskjema					pesutaulukko	bassantabealla			golgosaš skovvi	basadangárri	
+væskeskjema	bassantabealla				pesutaulukko	bassantabealla			golgosaš skovvi	basadangárri	
 ph					pH	happamuus			ph	pH	
 PICO-skjema					PICO-taulukko				PICO-skovvi	Pico-tabealla	
 pigment					pigmentti				pigment	pigmeanta	
 pigmentforandring					pigmenttimuutos				pigmentarievdan	pigmentarievdan	
-kontaktlinse					piilolinssi				gulahallanliekta	čiegus linssa	
+kontaktlinse	čieguslinssa				piilolinssi				gulahallanliekta	čiegus linssa	
 piping					piippaus				biiggodeapmi	biiggáš	
 score					pisteytys				čuoggát	čuoggát	
 skår					pisteytys				skárri	čuoggát	
-stikkskade					pistovamma				suohpahanvahát	čottanjálbmi	
+stikkskade	čuggenbárdi				pistovamma				suohpahanvahát	čottanjálbmi	
 lengdesnitt					pitkittäisleikkaus				guhkkodatcealkka	guhkitáigge čuohpadeapmi	
-lengdevekst					pituuskasvu	guhkkodatšaddu			guhkkodatlassáneapmi	guhkkodatlassáneapmi	
+lengdevekst	guhkkodatšaddu				pituuskasvu	guhkkodatšaddu			guhkkodatlassáneapmi	guhkkodatlassáneapmi	
 plasmaprotein					plasmaproteiini	#varragolggus#proteidna			plasmaproteiidna	plasmaproteiidna	
 plasmavolum					plasmatilavuus plasmavolyymi	#varragolggus#daddjásvuohta varragolggosvoluma			plasmahivvodat	plasmadoaimmahaga plasmaválljodat	
-stikklaken					poikkilakana				dákteriggeášši	rasttildeaddji	
-plukking					poimiminen	nyppiminen			čoaggin	viežžan	gaskit
-forbrenningsvæske					polttoneste	boaldensiedja			buollinčáhci	boaldámušgálvu	
-anstrengelsesinkontinens					ponnistusinkontinenssi	rahčamušinkontineansa			áŋgiruššama botkehus	rahčamušaid konfirmašuvdna	
+stikklaken	doaresláhkán				poikkilakana				dákteriggeášši	rasttildeaddji	
+plukking	čoaggin				poimiminen	nyppiminen			čoaggin	viežžan	gaskit
+forbrenningsvæske	boaldensiedja				polttoneste	boaldensiedja			buollinčáhci	boaldámušgálvu	
+anstrengelsesinkontinens	razastaninkontineansa				ponnistusinkontinenssi	rahčamušinkontineansa			áŋgiruššama botkehus	rahčamušaid konfirmašuvdna	
 stressinkontinens					ponnistusinkontinenssi	rahčamušinkontineansa			streassahisvuohta	rahčamušaid konfirmašuvdna	
-pasientvurdering					potilaan hoidotarpeen arviointi	#buohcci *hoidotarpeen evalueren			divššohasčielggadeapmi	buohcci dikšundárbbu árvvoštallan	
+pasientvurdering	buohcci divššu darbbu árvvoštallan				potilaan hoidotarpeen arviointi	#buohcci *hoidotarpeen evalueren			divššohasčielggadeapmi	buohcci dikšundárbbu árvvoštallan	
 pasientintegritet					potilaan integriteetti potilaan loukkaamattomuus	#buohcci *integriteetti #buohcci 			pasieantaintegritehta	pasientta integritehta pasientta loavkideapmi	
-pasientautonomi					potilaan itsemääräämisoikeus	#buohcci iešmearridanvuoigatvuohta			pasieantaautonomiija	pasieantta iešmearridanvuoigatvuohta	
-pasienthistorie					potilaan kertomus	#buohcci muitalus			pasieantahistorjá	buohcci muitalus	
-brukerrettighet					potilaan oikeudet	#buohcci rievttit			geavaheaddjivuoigatvuohta	buohcci vuoigatvuohta	
+pasientautonomi	buohcci iešmearridanvuoigatvuohta				potilaan itsemääräämisoikeus	#buohcci iešmearridanvuoigatvuohta			pasieantaautonomiija	pasieantta iešmearridanvuoigatvuohta	
+pasienthistorie	buohcci muitalus				potilaan kertomus	#buohcci muitalus			pasieantahistorjá	buohcci muitalus	
+brukerrettighet	buohcci rievttit				potilaan oikeudet	#buohcci rievttit			geavaheaddjivuoigatvuohta	buohcci vuoigatvuohta	
 pasientmedvirkning					potilaan osallistaminen	#buohcci 			pasieantaváikkuhus	divššohasa oassálastin	
-brukermedvirkning					potilaan osallistuminen hoitoon	#buohcci searvat dikšui			geavaheaddjiváikkuheapmi	pasientta oassálastin dikšumis	
-sykdomshistorie					potilaan selvitys terveysongelmista	#buohcci čilgehus healsaproblemain			buohcuvuođahistorjá	pasieantta čilgehus dearvvašvuođaváttisvuođaid birra	
-pasientoppfølging					potilaan seuranta	#buohcci čuovvuleapmi			pasieantačuovvuleapmi	pasieantta čuovvuleapmi	
+brukermedvirkning	buohcci oasseváldin dikšui				potilaan osallistuminen hoitoon	#buohcci searvat dikšui			geavaheaddjiváikkuheapmi	pasientta oassálastin dikšumis	
+sykdomshistorie	buohcci čilgehus dearvvašvuođaváttisvuođaid				potilaan selvitys terveysongelmista	#buohcci čilgehus healsaproblemain			buohcuvuođahistorjá	pasieantta čilgehus dearvvašvuođaváttisvuođaid birra	
+pasientoppfølging	buohcci čuovvoleapmi				potilaan seuranta	#buohcci čuovvuleapmi			pasieantačuovvuleapmi	pasieantta čuovvuleapmi	
 pasientopphold					potilaana olo	#buohcci eksisteansa			divššohasorrun	buohccin orrut	
-brukerombud					potilasasiamies	#buohcci#ásiialmmái			geavaheddjiidáittardeaddji	buohcceáššeolmmái	
-pasienteksempel					potilasesimerkki	#buohccieksempel			buohcciovdamearka	buohcciovdamearka	
+brukerombud	buohcciáššeolmmoš	buohcciáittardeaddji			potilasasiamies	#buohcci#ásiialmmái			geavaheddjiidáittardeaddji	buohcceáššeolmmái	
+pasienteksempel	buohcciovdamearka				potilasesimerkki	#buohccieksempel			buohcciovdamearka	buohcciovdamearka	
 pasienthistorie					potilashistoria potilaan kertomus	#buohccihistorjá #buohcci muitalus			pasieantahistorjá	pasieantahistorjá	
 pasientomsorg					potilashoito				divššohasaid dikšu	divššohasmátki	#buohccidikšu
 pasientinformant					potilasinformantti	#buohcciinformánta			pasieantainformánta	buohcceviessogirji	
-pasientorganisasjon					potilasjärjestö	#buohcciorganisašuvdna			pasieantaorganisašuvdna	pasieantaorganisašuvdna	
-journalopplysning					potilaskertomukseen kirjattu tieto	#buohccimuitalussii *kirjattu diehtu			journálaid dieđut	čállojuvvon journálas	
-pasientjournal					potilaskertomus	#buohccimuitalus			buhcciidjournála	journála	
-pasientjournalsystem					potilaskertomusjärjestelmä	#buohcci#muitalusvuogádat			divššohasjournálavuogádat	pasieantajournálavuogádat	
-pasienterfaring					potilaskokemus	#buohccivásihus			pasieantavásáhus	buhcciid vásáhus	
+pasientorganisasjon	buohcciorganisašuvdna				potilasjärjestö	#buohcciorganisašuvdna			pasieantaorganisašuvdna	pasieantaorganisašuvdna	
+journalopplysning	buohccimuitalussii čállojuvvon diehtu				potilaskertomukseen kirjattu tieto	#buohccimuitalussii *kirjattu diehtu			journálaid dieđut	čállojuvvon journálas	
+pasientjournal	buohccimuitalus				potilaskertomus	#buohccimuitalus			buhcciidjournála	journála	
+pasientjournalsystem	buohccimuitalusvuogádat				potilaskertomusjärjestelmä	#buohcci#muitalusvuogádat			divššohasjournálavuogádat	pasieantajournálavuogádat	
+pasienterfaring	buohccivásáhus				potilaskokemus	#buohccivásihus			pasieantavásáhus	buhcciid vásáhus	
 pasientkontakt					potilaskontakti	#buohccikontákta			buhcciidoktavuohta	buhcciidoktavuohta	
-pasientinformasjon					potilasohje	#buohccibagadus			pasieantadieđut	pasieantabagadus	
-pasientproblem					potilasongelma	#buohcciproblema			pasieantaváttisvuohta	buohcciváttisvuohta	
-pasientopplæring					potilasopetus	#buohccioahpahus			buhcciidskuvlejupmi	divššohasmátki	
-sykehusskjorte					potilaspaita	#buohccibáidi			buohcceviessogákti	buohcciviessu	
-pasientrolle					potilasrooli	#buohccirolla			divššohasrolla	buohccerolla	
-pasientopplysning					potilastiedot	#buohccidieđut			pasieantadieđut	pasieantadieđut	
+pasientinformasjon	buohccibagadus				potilasohje	#buohccibagadus			pasieantadieđut	pasieantabagadus	
+pasientproblem	buohcciváttisvuohta				potilasongelma	#buohcciproblema			pasieantaváttisvuohta	buohcciváttisvuohta	
+pasientopplæring	buohccioahpahus				potilasopetus	#buohccioahpahus			buhcciidskuvlejupmi	divššohasmátki	
+sykehusskjorte	buohccibáidi				potilaspaita	#buohccibáidi			buohcceviessogákti	buohcciviessu	
+pasientrolle	buohccirolla				potilasrooli	#buohccirolla			divššohasrolla	buohccerolla	
+pasientopplysning	buohccidieđut				potilastiedot	#buohccidieđut			pasieantadieđut	pasieantadieđut	
 journalføring					potilastietojen kirjaus	#buohccidieđuid 			journála	journála mii čájeha pasieantadieđuid	
-pasienttrygghet					potilasturvallisuus	#buohccisihkarvuohta			pasieantasihkarvuohta	buohccesihkkarvuohta	
-pasientsikkerhetsprogram					potilasturvallisuusohjelma	#buohcci#sihkarvuohtaprográmma			pasieantasihkarvuođaprográmma	pasieantasihkkarvuođaprográmma	
-pasientskadeerstatning					potilasvahinkokorvaus	#buohcci#vahátbuhtadas			pasieantavahátbuhtadus	buhcciid vahátbuhtadus	
+pasienttrygghet	buohccidorvvolašvuohta				potilasturvallisuus	#buohccisihkarvuohta			pasieantasihkarvuohta	buohccesihkkarvuohta	
+pasientsikkerhetsprogram	buohccidorvvolašvuohtaprográmma				potilasturvallisuusohjelma	#buohcci#sihkarvuohtaprográmma			pasieantasihkarvuođaprográmma	pasieantasihkkarvuođaprográmma	
+pasientskadeerstatning	buohcciváhatbuhtadus				potilasvahinkokorvaus	#buohcci#vahátbuhtadas			pasieantavahátbuhtadus	buhcciid vahátbuhtadus	
 prioriteringskriterium					priorisointikriteeri	ovdasadjekriteara			vuoruhaneaktu	vuoruhankriteara	
 projeksjon					projektio	sijoittaminen			proješuvdna	prošeakta	
 pronasjon					pronaatio	sisäänkierto			pronossašuvdna	omd	
@@ -2058,6 +2058,6 @@ tonefall					äänenpaino	jienadeaddu	jietnadássi	jietnadeaddu	tonegolaheapmi	j
 stemmespalte					äänirako	jietnasálvu	jienastankolonna	glottis	jienastanpáhkka	jietnaráigi	
 kontur					ääriviivat	hahmo	kontuvra	kontuvrrat	ravda	ravda	#ravda#linjá
 oljeklyster					öljyperäruiske		oljoklyster	oljoklyster	oljogottit	oljosáttoáitta	
-dikotomi	dikotomiija					dikotomia		dikotomiija	dikotomiija	dikotomiija		
+dikotomi	dikotomiija					dikotomia		dikotomiija	dikotomiija	dikotomiija	
 helsefremmende					terveyttä edistävä		dearvvašvuođa ovddideapmi	dearvvašvuođa ovddideapmi	dearvvašvuođa		
 kjønnslemlestelse							sohkabeallečuohpadeapmi		sohkabealedivvun		
