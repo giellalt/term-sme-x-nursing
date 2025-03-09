@@ -50,8 +50,8 @@ underlivvask					alapesu	suorgebassan	Vuoigŋavásáhus	vuolde bassat	vuolledáb
 albumin	albumiidna				albumiini	álbumasan	skearru	albmá	skearru	albuma	
 bachelorstudent					alemman korkeakoulutason opiskelija bacheloropiskelija	vuolibu allaskuvladási studeanta 	bachelorstudeanta	vuolit allaskuvladási studeanta bachelorstudeanta	bachelorstudeanta	vuolit allaskuvladási studeanta bacheloroahppu	
 bachelor					alempi korkeakoulututkinto	vuolit allaskuvladutkan	Bachelorgráda	vuolit allaskuvlaoahppu	bachelor	vuolit allaskuvladutkkus	
-funksjonsnedsettelse	hedjonan doaibmannávccat				alentunut toimintakyky	*alentunut doaibmagálga	doaibmahehttehus	unniduvvon doaibmakapasitehta	doaimmashehttejupmi	hedjonan doaibmanákca	hedjonit
-funksjonssvikt	hedjonan doaibmannávccat				alentunut toimintakyky	*alentunut doaibmagálga	doaibmahehttehus	unniduvvon doaibmakapasitehta	doaimmashehttejupmi	hedjonan doaibmanákca	
+funksjonsnedsettelse	hedjonan doaibmannáksa				alentunut toimintakyky	*alentunut doaibmagálga	doaibmahehttehus	unniduvvon doaibmakapasitehta	doaimmashehttejupmi	hedjonan doaibmanákca	hedjonit
+funksjonssvikt	hedjonan doaibmannáksa				alentunut toimintakyky	*alentunut doaibmagálga	doaibmahehttehus	unniduvvon doaibmakapasitehta	doaimmashehttejupmi	hedjonan doaibmanákca	
 bunnpunkt	vuolimuš čuokkis				alin piste	*alin čuokkis	vuolimus čuokkis	vuolimus čuokkis	vuolit dássi	vuolimus čuokkis	
 undervekt	vuolledeaddu				alipaino	ali – vuole	vuolledeaddu	vuolledeaddu	vuollemearkkašupmi	vuollegis deaddu	
 underrapportering					aliraportointi		vuolleldieđiheapmi	vuolleldieđiheapmi	beare unnán raportačállin	vuolláibájuheapmi	
@@ -1209,7 +1209,7 @@ proteinmangel					proteiinivaje				proteiidna váilivuohta	proteiidna váilivuoh
 pubertetsstadium					puberteettivaihe				rávásmanahki	rávásmanahki	
 påkledd					puettu				gárvvis	gárvvis	
 talevanske					puhehäirö				hupmanváttisvuođat	hupmanváddu	
-taleevne	hállanmáhttu?	hupmanmáhttu?			puhekyky	hupmagálga			hállannákca	hállannákca	
+taleevne	Hállanmáhttu £	Hupmanmáhttu £			puhekyky	hupmagálga			hállannákca	hállannákca	
 telefonveiledning	telefovdnabagadallan				puhelinohjaus	telefovdnabagadallan			telefuvdnabagadus	telefuvdnastivra	
 logoped	hállanterapevta	hupmanterapevta			puheterapeutti	hupmaterapevta			logopeda	hupmanterapevta	
 rammefaktor					puitetekijä				rámmafáktor	rámmafákta	
@@ -1283,29 +1283,29 @@ risting					ravistelu		rievdan	rievdan	rievssatbivdu	ravkalan
 ernære					ravita		fuolahit	fuolahit	bibmosiid	borramuš	
 ernæringskartlegging					ravitsemuksen arviointi ravitsemuksen kartoitus	biepmu evalueren biepmu kárten	biebmokárten	biebmoárvvoštallan biebmokárten	biebmogárten	biebmodoallofágalaš kárten	
 kostregistrering					ravitsemuksen kartoitus	biepmu kárten	goluid registreren	biebmokárten	golloregistreren	biebmodoallokárten	
-kostholdsendring					ravitsemuksen muutos	biepmu iežáhus	biebmorievdadus	biebmoávdnasiid rievdan	biebmodoallorievdadus	borramuša rievdadeapmi	
+kostholdsendring	biepmu rievdadus				ravitsemuksen muutos	biepmu iežáhus	biebmorievdadus	biebmoávdnasiid rievdan	biebmodoallorievdadus	borramuša rievdadeapmi	
 ernæringstrapp					ravitsemuksen portaat	biepmu ráhpat	biebmolávdi	biebmolávkkit	biebmoroahppu	biebmanriekkis	
-kostsamtale					ravitsemuskeskustelu	biebmogulahallan	dietnasa ságastallan	biebmodigaštallan	divraságastallan	borramušságastallan	
+kostsamtale	biebmoságastallan				ravitsemuskeskustelu	biebmogulahallan	dietnasa ságastallan	biebmodigaštallan	divraságastallan	borramušságastallan	
 ernæringsonde					ravitsemusletku	biebmolággá	biebmanruovttus	biebmanruovttus	biebmogárži	borramušgálvu	
-kostråd					ravitsemusneuvo	biebmoráđđi	biebmorávvagat	biebmorávvagat	borranrávvagat	rabas biepmusráva	
-kostholdsveiledning					ravitsemusneuvonta	biebmorávvehus	biebmorávvagat	biebmorávvagat	biebmodoallobagadus	dearvvašvuođarávvagat	
-ernæringsproblem					ravitsemusongelma	biebmoproblema	biebmováttisvuohta	biebmováttisvuohta	biebmováttisvuohta	biepmanváttisvuohta	
-ernæringsplan					ravitsemussuunnitelma	biebmoplána	biebmoplána	biebmoplána	biebmoplána	biebmanplána	
+kostråd	biebmoráđđi				ravitsemusneuvo	biebmoráđđi	biebmorávvagat	biebmorávvagat	borranrávvagat	rabas biepmusráva	
+kostholdsveiledning	biebmorávvehus				ravitsemusneuvonta	biebmorávvehus	biebmorávvagat	biebmorávvagat	biebmodoallobagadus	dearvvašvuođarávvagat	
+ernæringsproblem	biebmováttisvuohta	biebmoproblema			ravitsemusongelma	biebmoproblema	biebmováttisvuohta	biebmováttisvuohta	biebmováttisvuohta	biepmanváttisvuohta	
+ernæringsplan	biebmoplana				ravitsemussuunnitelma	biebmoplána	biebmoplána	biebmoplána	biebmoplána	biebmanplána	
 energibalanse					ravitsemustasapaino	biebmobalánsa	energiijabalánsa	biebmobalánsa	energiijabalánsa	biebmodoallu	
-ernæringsfysiolog					ravitsemusterapeutti	biebmoterapevta	biebmoáššedovdi	biebmoáššedovdi	biebmofysiologa	terapevtta biebman	
-ernæringsforhold					ravitsemustila	biebmodilli	biebmodilit	biebmodilli	biebmodilli	boradanlatnja	
-ernæringsstatus					ravitsemustila	biebmodilli	biebmodilli	biebmodilli	biebmodássi	boradanlatnja	
-ernæringstilstand					ravitsemustila	biebmodilli	biebmodilli	biebmodilli	biebmodilli	boradanlatnja	
-ernæringsarbeid					ravitsemustyö	biebmobargu	biebmobargu	biebmobargu	lea biebmanbargu	biebmanbargu	
+ernæringsfysiolog	biebmoterapevta				ravitsemusterapeutti	biebmoterapevta	biebmoáššedovdi	biebmoáššedovdi	biebmofysiologa	terapevtta biebman	
+ernæringsforhold	biebmodilli				ravitsemustila	biebmodilli	biebmodilit	biebmodilli	biebmodilli	boradanlatnja	
+ernæringsstatus	biebmodilli				ravitsemustila	biebmodilli	biebmodilli	biebmodilli	biebmodássi	boradanlatnja	
+ernæringstilstand	biebmodilli				ravitsemustila	biebmodilli	biebmodilli	biebmodilli	biebmodilli	boradanlatnja	
+ernæringsarbeid	biebmobargu				ravitsemustyö	biebmobargu	biebmobargu	biebmobargu	lea biebmanbargu	biebmanbargu	
 næringssammensetning					ravitsemusyhdistelmä	biebmokombinašuvdna	biebmoávdnasiid sisdoallu	biebmoávdnasiid kombinašuvdna	ealáhusčoahkkádus	borramušslája	
-reaksjonsevne					reaktiokyky	reakšuvdnagálga	vástideaddjivuohta	reakšuvdnadáiddu	reakšuvdnadássi	reakšuvdna	
-reaksjonsmåte					reaktiotapa	reakšuvnna	reakšuvdnavuohki	reakšuvdnavuohki	reakšuvdnavuohki	reakšuvdnavuohki	
-reaksjonsmønster					reaktiotapa	reakšuvnna	reakšuvdnamálle	reakšuvdnavuohki	reakšuvdnaminsttar	reakšuvdnavuohki	
+reaksjonsevne	reakšuvdnanákca				reaktiokyky	reakšuvdnagálga	vástideaddjivuohta	reakšuvdnadáiddu	reakšuvdnadássi	reakšuvdna	
+reaksjonsmåte	reakšuvdnavuohki				reaktiotapa	reakšuvnna	reakšuvdnavuohki	reakšuvdnavuohki	reakšuvdnavuohki	reakšuvdnavuohki	
+reaksjonsmønster	reakšudnavuohki				reaktiotapa	reakšuvnna	reakšuvdnamálle	reakšuvdnavuohki	reakšuvdnaminsttar	reakšuvdnavuohki	
 refleksjonsnotat					reflektiokirjoitus	reflekšuvdnačála	reflekšuvdnamearkkašupmi	reflekšuvdnačálus	smiehttanvuohki	reflekšuvdnačálus	
 refleksjonsgruppe					reflektioryhmä	reflekšuvdnajoavku	reflekšuvdnajoavku	reflekšuvdnajoavku	smiehttanjoavku	reflekšuvdnajoavku	
 refleksjonssamtale					reflektointikeskustelu		reflekšuvdnaságastallan	reflekšuvdnaságastallan	reflekšuvdnaságastallan	reflekšuvdnaságastallan	
 hullmerke					rei'ite		čuohppanmearka	ráigi	ráigi	ráigi	
-lårhalsbrudd					reisiluun kaulan murtuma	čoarbbealdávtti čeabáha 	njuoratmánná njuoratmánná	njuoratmánná njuoratmánná	bárrastávvalčoavji	oalgecealka mii lea ráigi vuollái	
+lårhalsbrudd	Čoarbbealnorasnjálmmegullan £				reisiluun kaulan murtuma	čoarbbealdávtti čeabáha 	njuoratmánná njuoratmánná	njuoratmánná njuoratmánná	bárrastávvalčoavji	oalgecealka mii lea ráigi vuollái	
 REM-søvn					REM-uni		REM-unnit	REM-unnit	REM-noaivi	REM-uni	
 avslapningsteknikk					rentoutustekniikka rentoutumistekniikka		vuoiŋŋastanteknihkka	vuoiŋŋastanteknihkka vuoiŋŋastanteknihkka	muhtinlágan muosehuhttimis	lášmmohallan, lášmmohallan ja lášmmohallan	
 reproduksjon					reproduktio	lisääntyminen	riegádahttin	riegádahttin	reprodukšuvdna	reprodukšuvdna	
@@ -1318,21 +1318,21 @@ uavhengighetsregel					riippumattomuussäännös		sorjjasmeahttunvuođa njuolgga
 forsvarlighet					riittävä hoito	#bistit dikšu	jietnavuohta	dohkálaš dikšun	bealuštahtti	doarvái buorre dikšu	
 brystvegg					rinnan seinämä	ratti seaidni	njuoratmánná seinni	njuoratmánná seinni	raddestoalpu	riddoseaidni	
 brysthinne					rintakalvo	raddecuozza	pleura membrana	pleura membrana	raddi	raddi	
-brystbein					rintalasta	mielga	njuoratmánná	njuoratmánná	raddejuolgi	riddoguovlu	
+brystbein	mielga	mielgadákti			rintalasta	mielga	njuoratmánná	njuoratmánná	raddejuolgi	riddoguovlu	
 brystkompresjon					rintalastan paineluelvytys	mielgga 	njuoratmánná njuoskkadeapmi	njuoratmánná komprešuvdna ealáskahttin	raddečuohpastahkan	deaddostávvala ealáskahttin raddái	
-brystmuskel					rintalihas	raddeoažži	njuoratmánnálihkadus	njuoratmánnálihkadus	raddejuolgi	raddeliike	
+brystmuskel	raddedeahkki				rintalihas	raddeoažži	njuoratmánnálihkadus	njuoratmánnálihkadus	raddejuolgi	raddeliike	
 brysthule					rintaontelo		njuoratmánná	njuoratmánná	raddeolmmoš	raddejuolgi	
-brystprotese					rintaproteesi	raddedahkulahttu	njuoratmánnáproteasa	njuoratmánnáproteasa	raddeborašproteasta	raddevuodjin	
-diaréplage					ripulivaiva		lužas	čalbmeváttut	luhčadávda	luhčadávda	
+brystprotese	raddedahkulahttu				rintaproteesi	raddedahkulahttu	njuoratmánnáproteasa	njuoratmánnáproteasa	raddeborašproteasta	raddevuodjin	
+diaréplage	čoalas	luhčadávda			ripulivaiva		lužas	čalbmeváttut	luhčadávda	luhčadávda	
 risikovurderingsskjema					riskien arviointilomake	riskkaid evaluerenskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	
 risikovurderingskala					riskinarviointiasteikko	riskkaevaluerenceahkkálas	riskaárvvoštallanskála	riskaárvvoštallanskála	riskaárvvoštallanskála	riskaárvvoštallanskála	
 risikovurderingsskjema					riskinarviointilomake	riskkaevaluerenskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	
-risikopasient					riskipotilas	#riska#buohcci	riskapasieanta	riskapasieanta	riskavuloš buohcci	riskavuloš	
-risikogruppe					riskiryhmä	riskajoavku	riskajoavku	riskajoavku	riskajovkui gullevaččat	riskajoavku	
+risikopasient	riskabuohcci				riskipotilas	#riska#buohcci	riskapasieanta	riskapasieanta	riskavuloš buohcci	riskavuloš	
+risikogruppe	riskajoavku				riskiryhmä	riskajoavku	riskajoavku	riskajoavku	riskajovkui gullevaččat	riskajoavku	
 kryssinfeksjon					risti-infektio	ristainfekšuvdna	rasttildeaddji njoammun	rasttildeaddji njoammun	ruossutbohcci	ruossainfekšuvdna	
 korsrygg					ristiselkä	ristasealgi	vuollelis ruoktot	sakrum	ruossaruossa	ruossut	
 ss					rkl	ruokalusikka	s.	s.	ss	ruvdn	
-gåstol					rollaattori		rullastuollu	rollator	vázzinstašuvdna	roláhtor	
+gåstol	rolláhtor				rollaattori		rullastuollu	rollator	vázzinstašuvdna	roláhtor	
 rommelighet					rommelig avara tilava	*rommelig *avara čáhkkil	viiddisvuohta	rommelig viiddis viiddis	latnjadovdu	roavva stuorra latnja	
 rolleatferd					roolikäyttäytyminen	rollaláhttenvuohki	rolla doaibma	rolla doaibma	rollaláhtten	rollageavaheapmi	
 rollemodell					roolimalli	rollamálle	ovdagovva	ovdagovva	rollamodealla	rollamodealla	
