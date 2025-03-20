@@ -198,9 +198,9 @@ energimengde	energiijamearri					energiamäärä	alvamearri	energiijamearri	ener
 energiforbruk	energiijageavaheapmi					energiankulutus	alvvagolahus	energiijageavaheapmi	energiijageavaheapmi	energiijageavaheapmi	energiijagolaheapmi	
 energiinntak	energiijaoažžun					energiansaanti	alvvaoažžun	energiijaváldin	energiijaváldin	energiijavuostáiváldin	energiijafuolla	
 ernæringsbehov	energiijadárbu					energiantarve	alvvadárbu	biebmodárbbut	energiijadárbu	biebmodárbu	energiijadárbu	
-energirik			valljái energiija			energiapitoinen, runsas energinen?		energiijalaš	alla energiija, alla energiija?	ollu energiija	ollu energiija	
+energirik	energiijarikkis					runsasenerginen		energiijalaš	alla energiija, alla energiija?	ollu energiija	ollu energiija	
 energiprosent	energiijaproseanta					energiaprosentti	alvaproseanta	energiijaproseanta	energiijaproseanta	energiijaproseanta	energiijaproseanta	
-næringstett			valljái energiija			energiarikas		biebmoávdnasat	alla energiija	ealáhuslaččat nanu	energiijarikkis	
+næringstett						ravintotiheä		biebmoávdnasat	alla energiija	ealáhuslaččat nanu	energiijarikkis	
 energiinnhold	energiijasisdoallu					energiasisältö	alvasisdoallu	energiijasisdoallu	energiijasisdoallu	energiijasisdoallu	energiijačoahkki	
 energitetthet						energiatiheys	#alva#deahtisvuohta	energiijadeaddu	energiijadeaddu	energiijavuođđu	energiijahivvodat	
 alarmsymptom	ovdadávdamearka					ennakko-oire  esioire	*ennakko-symptoma  	heahtedávdamearka	ovdal dávdamearkka ovdal dávdamearkka	alarmsymbol	ovdaáddejumi ovdaáddejupmi	
@@ -216,7 +216,7 @@ sekresjonsmengde	vuhčos mearri					eritteen määrä	#čuolddašupmi #mearri	er
 eliminasjon	vuohčun					eritys	vuohčun	heaittiheapmi	eretváldin	heaittiheapmi	erekšon	
 foldtykkelse						esim. niskapoimun paksuus	*esim. *niskapoimun assodat	čalbmáičuohcci assásvuohta	omd. hávgga njuolggočalmmi guhkkodat.	čihkojuvvon	omd nástti roahkasnuppi guvlui	
 eksempellæring				ovdamearkkaoahppu		esimerkin avulla oppiminen	eksempela veahkis oahppat	oahppat ovdamearkka bokte	oahppat ovdamearkka bokte	ovdamearkkaoahppu	oahppat ovdamearkkaid bokte	
-helsehistorie	dearvvašvuođahistorjá		dearvvašvuođadiehtu 	dearvvašvuođadiehtu 		esitiedot anamneesi  terveydenhuollon historia 	*esitiedot *anamneesi  healssadikšuma historjá 	dearvvašvuođahistorjá	Eaktun anamnesa dearvvašvuođahistorjá	dearvvašvuođahistorjá	ovdadieđut anakeahta dearvvašvuođafuolahusa historjjás	
+helsehistorie	dearvvašvuođahistorjá	?	dearvvašvuođadiehtu 	dearvvašvuođadiehtu 		terveydenhuollon historia	*esitiedot *anamneesi  healssadikšuma historjá 	dearvvašvuođahistorjá	Eaktun anamnesa dearvvašvuođahistorjá	dearvvašvuođahistorjá	ovdadieđut anakeahta dearvvašvuođafuolahusa historjjás	
 anamneseskjema	ovdadiehtoskovvi					esitietolomake		medisiinnalaš historjjá skovvi	ovdadiehtojuohkinskovi	lea jeagelskovvi	ovdadiehtovuorká	
 forforståelse	ovdaáddejupmi			ovdaipmárdus 		esiymmärrys		ovdaáddejupmi	ovdaáddejupmi	ovdaáddejupmi	ovdaáddejupmi	
 hemning	caggaseapmi					esto	caggaseapmi	eastadeapmi	eastadeapmi	hehttehussan	eastta	
@@ -296,7 +296,7 @@ praksisperiode	hárjehusáigodat		hárjehusoassi	hárjehallanáigodat 		harjoitu
 øvingsprogram	hárjehusprográmma			hárjehallanprográmma		harjoitusohjelma	hárjehusprográmma	hárjehallanprográmma	hárjehallanprográmma	hárjehallanprográmma	hárjehallanprográmma	
 treningsregime	hárjehusprográmma			hárjehallanvuohki		harjoitusohjelma	hárjehusprográmma	hárjehallanortnet	hárjehallanprográmma	hárjehallanvuohki	hárjehallanprográmma	
 gisping	gávvasat					haukottelu	gávas=haukotus	njuoratmánná	njuoratmánná	gessun	cielaheapmi	
-skrøpelighet			mitä tarkoittaa?	dárpmehisvuohta 		hauraus		váibmoláđisvuohta	ráfálašvuohta	rašši	hui rašši	
+skrøpelighet			mitä tarkoittaa?	dárpmehisvuohta 		hauraus; raihnaus		váibmoláđisvuohta	ráfálašvuohta	rašši	hui rašši	
 persepsjon	áicat			áican		havaitseminen	áicat	áican	gávdnan	persepšuvdna	áican	
 fruktjuice	šattossákta					hedelmätuoremehu	heđenmáihli	šaddojuogu	ođđa šaddojuogu	šattusčáhci	šattut ja šaddogálvvut	
 ømhet	gierisvuohta					hellyys	herkkyys	váibmoláđisvuohta	váibmoláđisvuohta	hearkkesvuohta	hearkivuohta	
@@ -357,7 +357,6 @@ omsorgsutøver	divššuaddi					hoidon antaja	divššu #addi	fuolahusbargi	fuola
 behandlingssvikt	divššu eahpelihkostupmi					hoidon epäonnistuminen	divššu eahpelihkostuvvat	behandlingssvikt	dikšun ii lihkostuvvan	dikšunmeattáhus	dikšunváttisvuohta	
 omsorgsbegrep	divššu doapa					hoidon käsite	divššu doaba	sormsbegrep	dikšunkonsepta	fuolahusdoaba	divššu doaba	
 behandlingskvalitet	divššu dássi					hoidon laatu	divššu dássu	dikšuma kvalitehta	dikšuma kvalitehta	dikšunkvalitehta	dikšuma kvalitehta	
-omsorgsdepartement			norjalainen titteli?			hoidon ministeriö (NO)	divššu ministeriija	fuolahusossodat	Fuolahusdepartemeanta (NO)	fuolahusdepartemeanta	dearvvašvuođa ministeriija	
 behandlingsopplegg	divššu plána		dikšunplána			hoitosuunnitelma	divššu plána	dikšunvejolašvuohta	dikšunplána	dikšunskovvi	divššu plána	
 behandlingsplan	divššu plána					hoitosuunnitelma	divššu plána	dikšunplána	dikšunplána	dikšunplána	divššu plána	
 behandlingsregime	divššu plána					hoitosuunnitelma	divššu plána	dikšunortnet	dikšunplána	dikšunvuohki	divššu plána	
@@ -385,7 +384,7 @@ sykepleieplan	dikšunplána					hoitosuunnitelma	dikšoplána	váibmofrekveanssa
 institusjonsseng	dikšunseaŋga					hoitosänky	dikšoseaŋga	institujonsseng	dikšunlatnja	institušuvdna seaŋga	dálkkodanlatnja	
 livstestament	dikšundeastámentá					hoitotestamentti	dikšotestameanta	ealli dáhttu	fuolahus	eallingearvastuvvan	dálkoduođaštus	
 sykepleievitenskap	dikšundieđa					hoitotiede	dikšodieđa	váibmofrekveanssa dieđa	buohccedivššárdiehtaga	buohccidivššárdieđa	dálkkasdieđa	
-sykepleiefag						hoitotiede??	dikšodieđa?	sykepleiefag	buohccedivššároahppu??	buohccidivššárfága	dikšunfága?	
+sykepleiefag	dikšunfága					hoito-oppi	dikšodieđa?	sykepleiefag	buohccedivššároahppu??	buohccidivššárfága	dikšunfága?	
 behandlingssituasjon	dikšundilli					hoitotilanne	dikšodilli	dikšundilli	dikšundilli	dikšundilli	dikšundilli	
 pleiesituasjon	dikšundilli					hoitotilanne	dikšodilli	njuovvandilálašvuohta	dikšundilli	dikšundilli	dikšundilli	
 behandlingstiltak	dikšundoaibmabidju					hoitotoimenpide	dikšodoaibmabidju	dikšu	dikšunvuohki	dikšundoaimmat	dikšundoaimma	
@@ -473,7 +472,7 @@ hudfold	nárvi					ihopoimu		ivdnečoarvi	ivdnečoarvi	náhkkesoallu	albma lága
 hudavdeling	liikedávddaid ossodat					ihotautien osasto	liikedávddaid ossodat	ivdneossodat	dermatologiija ossodat	náhkeossodat	sekšuvdna gos kirurgalaš doaimmat leat jođus	
 hudavdeling	liikedávdaossodat					ihotautiosasto	liikedávdaossodat	ivdneossodat	dermatologiija ossodat	náhkeossodat	dermatologiija ossodat	
 hudtype	liiketiipa					ihotyyppi	liiketiipa	ivdnešládja	ivdnešládja	liiketyppi	lápmašuvvan rumaš	
-hudskade	liikevaháguvvan		liikevihki?			ihovaurio	#liiki#vaháguvvan	ivdnevahágat	ivdnevahágat	luddestahkan	luddestahkan	
+hudskade	liikevahát					ihovaurio	#liiki#vaháguvvan	ivdnevahágat	ivdnevahágat	luddestahkan	luddestahkan	
 hudblødning	liikevardin					ihoverenvuoto	liikevarasuođđu	ivdnebuozalmasvuohta	ivdnebuozalmasvuohta	lunddolaš vardin	luddestaga vardin	
 aldersendring						ikääntymismuutos	agáiduvvat iežáhus	ahkerievdadus	boarráseappot rievdan	ahkerievdan	rievdan agi mielde	
 uttrykksmiddel	olggosbuktinvuohki					ilmaisukeino	dajahusgeaidnu	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinreaidu	ovdanbuktinvuohki	
@@ -506,7 +505,7 @@ infusjon	golggussirdin		infušuvdna			infuusio	nesteensiirto	infušuvdna	infušu
 infusjonsvæske	infušuvdnagolggus					infuusioneste	#infušuvdnaeastta	infušuvdnačáhci	infušuvdnačáhci	infušuvdnagálvu	influeansarávdnji	
 infusjonshastighet	infušuvdnaleaktu		infušuvdnajohtilvuohta			infuusionopeus	#infušuvdnajohtilvuohta	infušuvdnadássi	infušuvdnadássi	infušuvdna leaktu	infušuvdna leaktu	
 infusjonspumpe	infušuvdnabumpa					infuusiopumppu	#infušuvdnapumpa	infušuvdnapumpa	infušuvdnapumpa	infušuvdnabumpa	infušuvdnabumpa	
-infusjonssett						infuusiosetti	infušuvdnačoahkki?	infušuvdnaset	infušuvdnaset	infušuvdnačoahkku	Infušuvdna	
+infusjonssett	infušuvdnaseahtta					infuusiosetti	infušuvdnačoahkki?	infušuvdnaset	infušuvdnaset	infušuvdnačoahkku	Infušuvdna	
 aversjon						inho		vuosteháhku	vaššiságat	vašši	ávži	
 inkontinens	inkontineansa		gužžaribaheapmi			inkontinenssi	virtsan karkailu	inkontinensa	inkontinensa	sahkankeahtesvuohta	sahkankeahtesvuohta	inkontineansa
 inkontinensproblem	inkontineansaproblema		inkontineansaváttisvuohta			inkontinenssiongelma	inkontineansaproblema	inkontinensaváttisvuohta	inkontinensaváttisvuohta	sahkankeahtesvuođa váttisvuohta	sahkankeahtesvuođačuolbma	
@@ -1292,9 +1291,9 @@ kostholdsveiledning	biebmorávvehus					ravitsemusneuvonta	biebmorávvehus	biebm
 ernæringsproblem	biebmováttisvuohta		biebmoproblema			ravitsemusongelma	biebmoproblema	biebmováttisvuohta	biebmováttisvuohta	biebmováttisvuohta	biepmanváttisvuohta	
 ernæringsplan	biebmoplana					ravitsemussuunnitelma	biebmoplána	biebmoplána	biebmoplána	biebmoplána	biebmanplána	
 energibalanse						ravitsemustasapaino	biebmobalánsa	energiijabalánsa	biebmobalánsa	energiijabalánsa	biebmodoallu	
-ernæringsfysiolog	biebmoterapevta					ravitsemusterapeutti	biebmoterapevta	biebmoáššedovdi	biebmoáššedovdi	biebmofysiologa	terapevtta biebman	
-ernæringsforhold	biebmodilli					ravitsemustila	biebmodilli	biebmodilit	biebmodilli	biebmodilli	boradanlatnja	
-ernæringsstatus	biebmodilli					ravitsemustila	biebmodilli	biebmodilli	biebmodilli	biebmodássi	boradanlatnja	
+ernæringsfysiolog	biebmoterapevta	ok		biebmofysiologa		ravitsemusterapeutti	biebmoterapevta	biebmoáššedovdi	biebmoáššedovdi	biebmofysiologa	terapevtta biebman	
+ernæringsforhold	biebmodilli	?				ravitsemustila	biebmodilli	biebmodilit	biebmodilli	biebmodilli	boradanlatnja	
+ernæringsstatus	biebmodilli	?				ravitsemustila	biebmodilli	biebmodilli	biebmodilli	biebmodássi	boradanlatnja	
 ernæringstilstand	biebmodilli					ravitsemustila	biebmodilli	biebmodilli	biebmodilli	biebmodilli	boradanlatnja	
 ernæringsarbeid	biebmobargu					ravitsemustyö	biebmobargu	biebmobargu	biebmobargu	lea biebmanbargu	biebmanbargu	
 næringssammensetning						ravitsemusyhdistelmä	biebmokombinašuvdna	biebmoávdnasiid sisdoallu	biebmoávdnasiid kombinašuvdna	ealáhusčoahkkádus	borramušslája	
