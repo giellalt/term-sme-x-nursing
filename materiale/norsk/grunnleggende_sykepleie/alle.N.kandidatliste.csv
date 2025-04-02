@@ -158,9 +158,9 @@ e-konsultasjon	E-konsultašuvdna					eKonsultaatio	etävastaanotto	e-konsultašu
 vekstmedium						elatusaine		šaddangaskaoapmi	biebmoávnnas	ovdánanmedium	ealáhusášši	
 EPJ-system	elektrovnnalaš buohccimuitalus					elektroninen potilaskertomus  sähköinen potilaskertomus	elektrovnnalaš #buohccimuitalus 	EHR-vuogádat	elektrovnnalaš buohccedieđáhus elektrovnnalaš buohccedieđáhus	EPJ-vuogádat	elektrovnnalaš journála mii lea elektrovnnalaš journála	
 somatikk	somatihkka					elintoiminnot	*elimelliset doaimmat	somatihkka	deaŧalaš doaimmat	somatihkka	organismmalaš doaibma	
-levekårsproblem						elinehto-ongelma; elinolosuhdeongelma	orgánaeaktoproblema  	eallindiliid váttisvuohta	eallindiliid váttisvuohta eallindiliid váttisvuohta	birgenlági váttisvuohta	birgenlági váttisvuohta	
-organsystem						elinjärjestelmä	orgánavuogádat	orgánavuogádat	Orgánavuogádat	orgánavuogádat	organiserejuvvon	
-livsbetingelse						elinolosuhteet	orgánaeksisteansagorit	eallindilli	eallindilit	eallineaktu	eallineaktu	
+levekår	eallindilli					elinolot	orgánaeaktoproblema  	eallindiliid váttisvuohta	eallindiliid váttisvuohta eallindiliid váttisvuohta	birgenlági váttisvuohta	birgenlági váttisvuohta	
+organsystem	orgánavuogadat	X	ealavuogadat			elinjärjestelmä	orgánavuogádat	orgánavuogádat	Orgánavuogádat	orgánavuogádat	organiserejuvvon	
+livsbetingelse	eallineaktu					elinehto	orgánaeksisteansagorit	eallindilli	eallindilit	eallineaktu	eallineaktu	
 livsmønster	eallinvuohki					elämäntapa	orgánadáhpi	eallinmálle	eallinvuohki	eallinvuohki	eallinvuohki	
 livsvane	eallindáhpi					elintapa	orgánadáhpi	eallindábit	eallinvuohki	eallinláhki	eallinvuohki	
 næringsmiddelhygiene	borramušgálvobuhtisvuohta					elintarvikehygienia	borramušgálvobuhtisindoallan	biebmohygiena	biebmohygiena	borramušgálvvuid buhtisvuohta	borramušgálvvuid buhtisvuohta	
@@ -170,21 +170,20 @@ livskraft	eallinfámolaš					elinvoima	eallinvuoibmi	eallinfápmu	fámu	eallinf
 leveår	eallinahki					elinvuosi	orgánajahki elinikä	jagi eallin	eallinjahki	eallinahki	eallinjahki	
 livsverden	eallinmáilmmi					elämismaailma	eallit máilbmi	eallima máilbmi	ealli máilbmi	eallinmáilmmi	eallinmáilmmi	
 livsutfordring	eallinhástalus					elämän haaste	eallit hástalus	eallinhástalus	eallima hástalus	eallinhástalus	eallima hástalus	
-livsytring	eallindadjamuš					elämän ilmentymä	eallit #albmanus	eallima ovdanbuktin	eallima čájeheapmi	eallinbirgejeaddji	eallima albmoneapmi	
-livsmulighet						elämän mahdollisuus	eallit liiba	eallinvejolašvuohta	eallima vejolašvuohta	eallinvejolašvuohta	eallima vejolašvuohta	
-livshendelse						elämän tapahtuma	eallit dáhpáhus	eallindáhpáhus	eallindáhpáhus	eallindáhpáhus	eallima dáhpáhus	
-livsfilosofi						elämänfilosofia	eallinfilosofiija	eallima filosofiija	eallima filosofiija	eallinfilosofiija	eallinfilosofiija	
-livsmot	eallinhállu					elämänhalu	#eallihállu	roahkkatvuohta eallit	eallima hállu	ealaskas	eallinbargu	
+livsytring	eallincealkámuš					elämän ilmentymä	eallit #albmanus	eallima ovdanbuktin	eallima čájeheapmi	eallinbirgejeaddji	eallima albmoneapmi	
+livsmulighet	eallinvejolašvuohta					elinmahdollisuus	eallit liiba	eallinvejolašvuohta	eallima vejolašvuohta	eallinvejolašvuohta	eallima vejolašvuohta	
+livshendelse	eallindáhpáhus					elämän tapahtuma	eallit dáhpáhus	eallindáhpáhus	eallindáhpáhus	eallindáhpáhus	eallima dáhpáhus	
+livsfilosofi	eallinfilosofiija					elämänfilosofia	eallinfilosofiija	eallima filosofiija	eallima filosofiija	eallinfilosofiija	eallinfilosofiija	
+livsmot	eallinmokta					elämän into	#eallihállu	roahkkatvuohta eallit	eallima hállu	ealaskas	eallinbargu	
 livsvilje	eallinhállu					elämänhalu	#eallihállu	dáhttu eallit	eallima hállu	eallin dáhttu	eallinbargu	
 livsglede	eallinillu					elämänilo	#ealliillu	eallima illu	eallima illu	eallinmokta	eallinmokta	
 livserfaring	eallinvásáhus					elämänkokemus	#eallivásihus	eallinvásáhus	eallinvásáhus	eallinvásáhus	eallimavásáhus	
 livkvalitetsbegrep	eallindássodoaba		eallinkvaliteahta doaba			elämänlaadun käsite	#eallidásu doaba	eallinkvalitehta konseapta	eallinkvalitehta doahpagat	eallinkvaliteahta doaba	eallinkvalitehta doaba	
 livskvalitetsproblem	eallindássočuolbma					elämänlaatuongelma	#ealli#dássuproblema	eallinkvalitehta váttisvuohta	eallinkvalitehta váttisvuohta	eallinkvalitehtačuolbma	eallinkvalitehtačuolbma	
-livslang						elämänpituinen	eallinguhkkosaš	eallinagi	eallinagi	eallingeardi	olles eallinagi bistán	
-livsstilsfaktor						elämäntapaan vaikuttava tekijä 	eallinvuohkái #čuohcit #dahkki 	eallindábiid fáktor	fáktor mii váikkuha eallinvuohkái	eallinvuohkefáktor	eallinvuohkái	
+livslang	eallinguhkásaš					elämänpituinen	eallinguhkkosaš	eallinagi	eallinagi	eallingeardi	olles eallinagi bistán	
+livsstilsfaktor	eallinvuohkefáktor					elämäntapatekijä 	eallinvuohkái #čuohcit #dahkki 	eallindábiid fáktor	fáktor mii váikkuha eallinvuohkái	eallinvuohkefáktor	eallinvuohkái	
 livsstilsendring	eallinvuohkerievdadeapmi					elämäntapamuutos	eallinvuohkeiežáhus	eallindábiid rievdadeapmi	eallindábiid rievdadeapmi	eallinvuogi rievdan	eallinvuohkeheapmi	
-livsstilopplysning						elämäntapavalistus vai elintapaohjaus	eallinvuohkečuvgehus	eallinvuogi dieđut	eallinvuogi oahpahus dahje eallinvuogi bagadallan	eallinvuohkečuvgehus	eallinvuohke-iskkus	
-livshistorie			eallingeardi			elämäntarina vai elämänkerta	#eallimáinnas	eallinhistorjá	eallinmuitalus dahje biografiija	mu eallinmuitalus	muitalus eallimis	
+livshistorie	eallinmuitalus		eallingeardi			elämäntarina	#eallimáinnas	eallinhistorjá	eallinmuitalus dahje biografiija	mu eallinmuitalus	muitalus eallimis	
 emboli	varrabunci					embolia	veritulppa	emboliija	emboliija	embryo	embolia	
 emisjon						emissio	säteily	ášši	luoitin	emisuvdna	emis	
 empatievne	empátiijanákca					empatiakyky	empatiijagálga	empatiija	empatiija	empáhtalaš	empatiija	
