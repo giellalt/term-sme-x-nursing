@@ -1357,28 +1357,28 @@ mattilbud	borramušfállu					ruokatarjonta	guštafállu	borramušfálaldat	bieb
 matvaregruppe						ruokatavararyhmä	guštadávvirjoavku	biebmojoavku	gávpejoavku	borramušgálvojoavku	borramušresursagovva	
 diettregime	borramušválljenplána					ruokavaliosuunnitelma	#diehttaplána	biebmoortnet	dietnasa plána		biebmoplána	
 kostholdregime	biebmoválljenplána					ruokavaliosuunnitelma	#diehttaplána	dietnasa ortnet	dietnasa plána	biebmodoalloregimeanta	biebmoplána	
-pestsykdom	rohttudávda		Čáhppešjápmudávda £			ruttotauti	roahttodávda	dávda	dávda	boraspire-dávda	borasdávda	
+pestsykdom	rohttudávda	£	Čáhppešjápmudávda			ruttotauti	roahttodávda	dávda	dávda	boraspire-dávda	borasdávda	
 kroppsvarme	rupmaša temperatuvra					ruumiinlämpö	rupmašaliekkas	rupmaša lieggasa	rupmaša temperatuvra	rumašlaš liegganeapmi	rumašdálkkádat	
-gruppesamling						ryhmäkokous	joavkočoakkán	joavkočoahkkin	joavkočoahkkin	joavkočoahkádus	joavkočoahkkin	
-gruppenivå						ryhmätaso	joavkodássi	joavkodássi	joavkodássi	joavkodássi	joavkodássi	
-gruppeaktivitet						ryhmätoiminta	joavkodoaibma	joavkodoaibma	joavkodoaibma	joavkodoaibma	joavkodoaibma	
-gruppetilhørighet						ryhmään kuuluminen	jovkui gullot	joavkogullevašvuohta	gullevaš jovkui	gullevašvuohta jovkui	gullat jovkui	
-kremting						rykäisy rykiminen	*rykäisy himihit	njuoratmánná ášši	njuiket njuiket	rumašgordni	rigearra rihkkun	
-rytmeforstyrrelse						rytmihäiriö	ritmasegohus	ritmaváttut	rytma	ritmmastivrenváttisvuohta	ritmmalaš váttut	
-røntgenundersøkelse						röntgentutkimus	#röntgenadutkan	röntgeniskkadeapmi	röntgeniskkadeapmi	röntgendutkamus	röntgendutkamus	
+gruppesamling	joavkočoahkkin					ryhmäkokous	joavkočoakkán	joavkočoahkkin	joavkočoahkkin	joavkočoahkádus	joavkočoahkkin	
+gruppenivå	joavkodássi					ryhmätaso	joavkodássi	joavkodássi	joavkodássi	joavkodássi	joavkodássi	
+gruppeaktivitet	joavkodoaibma					ryhmätoiminta	joavkodoaibma	joavkodoaibma	joavkodoaibma	joavkodoaibma	joavkodoaibma	
+gruppetilhørighet	joavkui gullevašvuohta					ryhmään kuuluminen	jovkui gullot	joavkogullevašvuohta	gullevaš jovkui	gullevašvuohta jovkui	gullat jovkui	
+kremting	himihit					rykäisy rykiminen	*rykäisy himihit	njuoratmánná ášši	njuiket njuiket	rumašgordni	rigearra rihkkun	
+rytmeforstyrrelse	ritmaseagasvuohta					rytmihäiriö	ritmasegohus	ritmaváttut	rytma	ritmmastivrenváttisvuohta	ritmmalaš váttut	
+røntgenundersøkelse	röntgendutkamus					röntgentutkimus	#röntgenadutkan	röntgeniskkadeapmi	röntgeniskkadeapmi	röntgendutkamus	röntgendutkamus	
 såperest						saippuajäämä		soapmása	sáibbu bázahus	soahpameahttun	sáibideaddji bázzi	
-såpestykke						saippuapala	sovppábinná	sáibbu	sáibbu	sávzzastákkis	sáibmabihttá	
-såpevask						saippuapesu	sovppábassan	sáibbu bassat	sáibbu bassat	sáibuheapmi	sáhpánbárgu	
-såpevann						saippuavesi	sovppáčáhci	sáibbočáhci	sáibbočáhci	sáibu čáhci	sáibmečáhci	
-hospital						sairaala	buohcceviessu	buohcceviessu	buohcceviessu	buohcciviessu	buohcciviessu	
-sykehusinfeksjon						sairaalainfektio		buohcciviessu njoammun	buohcciviesu njoammun	buohcceviessováikkuhus	buohcceviessu	
+såpestykke	sáibbubinná					saippuapala	sovppábinná	sáibbu	sáibbu	sávzzastákkis	sáibmabihttá	
+såpevask	sáibbu bassan					saippuapesu	sovppábassan	sáibbu bassat	sáibbu bassat	sáibuheapmi	sáhpánbárgu	
+såpevann	sáibbočáhci					saippuavesi	sovppáčáhci	sáibbočáhci	sáibbočáhci	sáibu čáhci	sáibmečáhci	
+hospital	buohcceviessu					sairaala	buohcceviessu	buohcceviessu	buohcceviessu	buohcciviessu	buohcciviessu	
+sykehusinfeksjon	buohcceviessu infekšuvdna					sairaalainfektio		buohcciviessu njoammun	buohcciviesu njoammun	buohcceviessováikkuhus	buohcceviessu	
 sykehusmiljø						sairaalamiljöö		buohcciviessu biras	buohcceviessobiras	buohcciviessobiras	buhcciidruoktu	
-sykehusavdeling						sairaalaosasto		buohcciviesu ossodat	buohcciviesu ossodat	buohcciviesu ossodat	buohcceviessu	
-sykehusprest						sairaalapappi		buohcciviesu kapealla	buohcciviesu kapealla	buohcceviessobáhppa	buhcciidbáhppa	
+sykehusavdeling	buohcceviessu ossodat					sairaalaosasto		buohcciviesu ossodat	buohcciviesu ossodat	buohcciviesu ossodat	buohcceviessu	
+sykehusprest	buohcceviessobáhppa					sairaalapappi		buohcciviesu kapealla	buohcciviesu kapealla	buohcceviessobáhppa	buhcciidbáhppa	
 sykehusinnleggelse						sairaalapotilaaksi kirjaaminen sairaalapotilaaksi meneminen		buohccevissui biddjon	registreret buohcciviessopasieantan šaddat buohcciviessopasieantan	buohcceviesu sisačáliheapmi	buohccevissui čáliheapmi buohccevissui vuolgin	
-sykehuspasient						sairaalapotilas		buohcciviessu pasieanta	buohcciviessu pasieanta	buohcceviesu divššohas	buohcceviessu	
+sykehuspasient	buohcceviessu buohcci					sairaalapotilas		buohcciviessu pasieanta	buohcciviessu pasieanta	buohcceviesu divššohas	buohcceviessu	
 liggetid						sairaalassaoloaika		orruma guhkkodat	buohcciviesus orrun	nohkkanáigi	buohcciviesus	
-sykehusseng						sairaalasänky		buohcciviessu	buohcciviessu	buohcceviessosátni	buohcceviessu	
+sykehusseng	buohcceviessoseaŋga					sairaalasänky		buohcciviessu	buohcciviessu	buohcceviessosátni	buohcceviessu	
 sykepleiesammenheng						sairaanhoidollinen asiayhteys	*sairaanhoidollinen ásiioktavuohta	buohccedivššároktavuohta	medisiinnalaš oktavuohta	buohccedikšunoktavuohta	buohccedikšunášši	
 sykepleiekompetanse				buohccedikšogelbbolašvuohta		sairaanhoidollinen kompetenssi	sairaanhoidollinen pätevyys	buohccedivššárgelbbolašvuohta	buohccedivššárgelbbolašvuohta	buohccidivššárgelbbolašvuohta	buohccedikšogelbbolašvuohta	*sairaanhoidollinen gelbbolašvuohta
 sykepleieprosedyre				buohccedikšunvuohki		sairaanhoidollinen menetelmä	*sairaanhoidollinen mannolat	buohccedivššárprosedyra	medisiinnalaš vuohki	buohccedikšun	buohccedikšunvuohki	
