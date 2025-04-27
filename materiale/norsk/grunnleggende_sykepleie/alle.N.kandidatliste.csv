@@ -912,7 +912,7 @@ lekfolk	oahpoheapme					maallikko				stoahkanolbmot	eananeaiggát
 magnesium	magnesium					magnesium				magnesium 	magnesium 	
 magesaft	čoavjjegolggus					mahaneste	čoavjjeeastta			čoavjjesiika	ráigi	
 melkesukker	mielkesohkar					maitosokeri	mielkesohkar			mielkegorudiidna	mielkegorudiidna	
-melkegang						maitotiehyt				mielkegolaheapmi	mielkegorudiidna	
+melkegang	mielkeoarri					maitotiehyt				mielkegolaheapmi	mielkegorudiidna	
 sengeleie						makuuasento	vuodehoito			seaŋgabeavddáš	oađđenseaŋka	
 mansjett						mansetti				giehtamihttu	giehtamánná	
 marihuana						marihuana	kannabis			marihuána	marihuána	
@@ -1405,27 +1405,27 @@ sykepleiekunnskap				buohccidivššármáhttu		sairaanhoidon tietämys	buohccedi
 sykepleieforsker				buohccedivššu dutki		sairaanhoidon tutkija	buohccedivššu #dutki	buohccedivššárdutki	medisiinnalaš dutki	buohccidivššárdutki	buohccedikšun	
 sykepleieforskning				buohccedivššu dutkan		sairaanhoidon tutkimus	buohccedivššu dutkan	buohccedivššárdutkan	buohccedivššárdutkan	buohccedikšodutkan	buohccedikšundutkan	
 sykepleieepikrise						sairaanhoidon yhteenveto  sairaanhoidon tiivistelmä	buohccedivššu oktiigeassu  buohccedivššu 	buohccedivššároahpu epikriisa	buohccedikšuma čoahkkáigeassu buohccedikšuma čoahkkáigeassu	buohccedikšodáhkádus	birr	
-sykepleierhøgskole				buohccedivššárallaskuvla		sairaanhoitaja-ammattikorkeakoulu	AMK	buohccedivššároahppu	buohccidivššároahpu ámmátallaskuvla	buohccidivššárallaskuvla	buohccedivššárafágaskuvla	
-sykepleierprofesjon				buohccidivššárámmát		sairaanhoitajan ammatti	#buohccidikšu #ámmát	buohccedivššárámmát	buohccedivššárámmát	buohccidivššárámmát	buohccedivššára ámmát	
-sykepleierrolle				buohccidivššárrolla		sairaanhoitajan rooli	#buohccidikšu rolla	buohccedivššárrolla	buohccidivššára rolla	buohccidivššárrolla	buohccedivššára bargu	
-sykepleieruniform				buohccidivššáruniforbma		sairaanhoitajan univormu	#buohccidikšu 	buohccedivššáruniformma	buohccidivššára uniformma	buohccidivššáruniforbma	buohccedivššára biktasat	
-sykepleierske				buohccidivššár		sairaanhoitajatar		buohccedivššár	buohccedivššár	buohccidivššár	buohccedikšu	
-sykepleiehjelp				buohccidivššárveahkki		sairaanhoito	buohccedikšu	buohccedivššár	buohccedivššár	buohccidivššárveahkki	buohccedikšu	
+sykepleierhøgskole	buohccedivššárallaskuvla			buohccedivššárallaskuvla		sairaanhoitaja-ammattikorkeakoulu	AMK	buohccedivššároahppu	buohccidivššároahpu ámmátallaskuvla	buohccidivššárallaskuvla	buohccedivššárafágaskuvla	
+sykepleierprofesjon	buohccedivššárárámmát			buohccidivššárámmát		sairaanhoitajan ammatti	#buohccidikšu #ámmát	buohccedivššárámmát	buohccedivššárámmát	buohccidivššárámmát	buohccedivššára ámmát	
+sykepleierrolle	buohccedivššára rolla			buohccidivššárrolla		sairaanhoitajan rooli	#buohccidikšu rolla	buohccedivššárrolla	buohccidivššára rolla	buohccidivššárrolla	buohccedivššára bargu	
+sykepleieruniform	buohccedivššára uniforbma	£		buohccidivššáruniforbma		sairaanhoitajan univormu	#buohccidikšu 	buohccedivššáruniformma	buohccidivššára uniformma	buohccidivššáruniforbma	buohccedivššára biktasat	
+sykepleierske	buohccedivššár			buohccidivššár		sairaanhoitajatar		buohccedivššár	buohccedivššár	buohccidivššár	buohccedikšu	
+sykepleiehjelp	buohccedikšun			buohccidivššárveahkki		sairaanhoito	buohccedikšu	buohccedivššár	buohccedivššár	buohccidivššárveahkki	buohccedikšu	
 sykepleiepraksis				buohccedikšunvuohki		sairaanhoitokäytäntö	buohccedikšogeavat	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárvierru	buohccedikšunvuohki	
 sykepleietjeneste				buohccedikšunbálvalus		sairaanhoitopalvelut	buohccedikšobálvalusat	buohccedivššárbálvalus	Buohccedivššárbálvalusat	buohccedikšunbálvalus	buohccedikšunbálvalusat	
 sykdomsprognose				buozalmasvuođaprognosa		sairauden ennuste  sairauden prognoosi	buozu einnostus  buozu 	dávdaprognosa	dávdaprognosa dávdaprognosa	buozalmasvuođaprognosa	buozalmasvuođa prognosa, buozalmasvuođa prognosa	
-sykdomsbehandling				buozalmasvuođa dikšun		sairauden hoito	buozu dikšu	dávdda dikšun	dávdda dikšun	buozalmasvuođadikšu	buozalmasvuođa dikšun	
-sykdomserfaring				buozalmasvuođa vásáhus		sairauden kokemus	buozu vásihus	buohcuvuođavásáhus	buohcuvuođa vásáhus	buozalmasvuođavásáhus	buozalmasvuođa vásáhus	
-sykdomsforløp				dávddajohtu		sairauden kulku	buozu johtu	buohcuvuođa čađaheapmi	dávdda čađaheapmi	dávddajohtu	buozalmasvuođa jođu	
-sykdomsutvikling				buozalmasvuođa ovdáneapmi		sairauden kulku	buozu johtu	dávdda ovdáneapmi	dávdda čađaheapmi	buozalmasvuođa ovdáneapmi	buozalmasvuođa jođu	
-sykdomsbegrep				buohcuvuođa doaba		sairauden määritelmä	buozu definišuvdna	dávdadoahpagat	buohcuvuođa definišuvdna	buohcuvuođa doaba	buohcuvuođa meroštallan	
-sykdomsårsak				buohcuvuođa sivvan		sairauden syy  taudin syy	buozu árta  dávdda árta	buohcuvuođa sivva	dávdda sivva dávdda sivva	buozalmasvuođa sivva	buohcuvuođa sivvan	
-sykdomsfølelse				buozalmasvuođadovdu		sairauden tunne	buozu dovdu	buohcuvuođa dovdu	buohcuvuohta	buozalmasvuođadovdu	buohcuvuođa dovdu	
+sykdomsbehandling	buozu dikšun			buozalmasvuođa dikšun		sairauden hoito	buozu dikšu	dávdda dikšun	dávdda dikšun	buozalmasvuođadikšu	buozalmasvuođa dikšun	
+sykdomserfaring	buozu vásáhus			buozalmasvuođa vásáhus		sairauden kokemus	buozu vásihus	buohcuvuođavásáhus	buohcuvuođa vásáhus	buozalmasvuođavásáhus	buozalmasvuođa vásáhus	
+sykdomsforløp	buozu johtu			dávddajohtu		sairauden kulku	buozu johtu	buohcuvuođa čađaheapmi	dávdda čađaheapmi	dávddajohtu	buozalmasvuođa jođu	
+sykdomsutvikling	buozu johtu			buozalmasvuođa ovdáneapmi		sairauden kulku	buozu johtu	dávdda ovdáneapmi	dávdda čađaheapmi	buozalmasvuođa ovdáneapmi	buozalmasvuođa jođu	
+sykdomsbegrep	buozu definišuvdna			buohcuvuođa doaba		sairauden määritelmä	buozu definišuvdna	dávdadoahpagat	buohcuvuođa definišuvdna	buohcuvuođa doaba	buohcuvuođa meroštallan	
+sykdomsårsak	buozu sivva			buohcuvuođa sivvan		sairauden syy  taudin syy	buozu árta  dávdda árta	buohcuvuođa sivva	dávdda sivva dávdda sivva	buozalmasvuođa sivva	buohcuvuođa sivvan	
+sykdomsfølelse	buozu dovdu			buozalmasvuođadovdu		sairauden tunne	buozu dovdu	buohcuvuođa dovdu	buohcuvuohta	buozalmasvuođadovdu	buohcuvuođa dovdu	
 sykdomsfase				buozalmasvuođa áigi		sairauden vaihe	buozu muddu	dávdafása	dávdda dássi	buozalmasvuođa áigi	buozalmasvuođa áigi	
-sykdomsforståelse				buozalmasvuođa áddejupmi	buozalmasvuođa ipmárdus	sairauden ymmärrys	buozu ádden	dávdaáddejupmi	áddejupmi buohcuvuođa birra	buohcuvuođaáddejupmi	buohcuvuođa áddejupmi	
+sykdomsforståelse	buozu áddejupmi			buozalmasvuođa áddejupmi	buozalmasvuođa ipmárdus	sairauden ymmärrys	buozu ádden	dávdaáddejupmi	áddejupmi buohcuvuođa birra	buohcuvuođaáddejupmi	buohcuvuođa áddejupmi	
 sykdomssituasjon				buozalmasvuođadilli		sairaudentila	buozodilli	dávdadilli	medisiinnalaš dilli	buozalmasvuođadilli	buohccivuođa dilli	
 sykdomstilstand				buozalmasvuođadilli		sairaudentila	buozodilli	dávdadilli	medisiinnalaš dilli	buozalmasvuođadilli	buohccivuođa dilli	
-sykdomsepisode				buohcanáigi		sairausjakso	buohcooassi	buohcuvuođa episohtta	buohcuvuođaáigodat	dávddaeastadeapmi	buohcanáigi	
+sykdomsepisode	buohcanáigi			buohcanáigi		sairausjakso	buohcooassi	buohcuvuođa episohtta	buohcuvuođaáigodat	dávddaeastadeapmi	buohcanáigi	
 sykdomsopplevelse				buozalmasvuođa vásáhus		sairauskokemus	buohcovásihus	buohcuvuođavásáhus	buohcuvuođavásáhus	buozalmasvuođa vásáhus	buohcuvuođa vásáhus	
 sykdomsoppfatning						sairauskäsitys	buohcoipmárdus	buohcuvuođadovdu	buohcuvuođadovdu	buohcuvuođaoaidnu	buohcuvuođaáddejupmi	
 sykdomssyn				buozalmasvuođaoaidnu		sairauskäsitys	buohcoipmárdus	dávdda oaidnu	buohcuvuođadovdu	buozalmasvuođaoaidnu	buohcuvuođaáddejupmi	
@@ -1437,9 +1437,9 @@ sykdomsbyrde				buozalmasvuođa  noađđi		sairaustaakka  sairauskuorma	buohcono
 tykningsmiddel				suohkudanávnnas		sakeutusaine		assádeaddji	assáseapmi	dikšunávnnas	suodjalanávnnas	
 sakkarin				sakkáriidna		sakkariini		sakkarin	sakkarin	sahkáriidna	sahkkara	
 sukrose						sakkaroosi	sokeri	sukrosa	sukrosa	sohkardávda	sahtedohko	
-gallestein				sáhppegeađgi		sappikivi	sáhppegeađgi	galbma geađggit	galbma geađgi	gállogeađgi	sáhkkegeađgi	
-gallesykdom				sáhppegeađgedávda		sappikivitauti	sáhppegeađgedávda	galbma dávda	galbma dávda	gollebuozalmasvuohta	sapmasiidnavihki	
-gallegang				sáhppečoalli		sappitiehyt		njuoratmánná	njuoratmánná	jallodat	sáhpacealkka	
+gallestein	sáhppegeađgi			sáhppegeađgi		sappikivi	sáhppegeađgi	galbma geađggit	galbma geađgi	gállogeađgi	sáhkkegeađgi	
+gallesykdom	sáhppegeađgidávda			sáhppegeađgedávda		sappikivitauti	sáhppegeađgedávda	galbma dávda	galbma dávda	gollebuozalmasvuohta	sapmasiidnavihki	
+gallegang	sáhppeoarri			sáhppečoalli		sappitiehyt		njuoratmánná	njuoratmánná	jallodat	sáhpacealkka	
 gallefargestoff				sáhppeivdneávnnas		sappiväriaine	sáhppeivdneávnnas	galbma ivdni	galbma ivdni	veaikeivdni	sáhpánávnnas	
 regnbuemodell						sateenkaarimalli	bajándávgemálle	čuovgamálle	čuovgagovva	áikalastinvuohki	arvevuovdinšillju	
 serumjern						seerumin rauta	*seerumin ruovdi	serumruovdi	serumruovdi	searvvušveaiki	serumeantta ruovdi	
