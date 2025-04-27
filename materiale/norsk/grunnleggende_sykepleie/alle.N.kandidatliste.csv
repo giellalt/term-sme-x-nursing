@@ -986,11 +986,11 @@ kvinnekateter	nissoniid katehtár					naisten katetri	nissoniid #katehtár			nis
 kvinnehelse	nissoniid dearvvašvuohta					naisten terveys naisterveys	nissoniid healsa #nissonhealsa			nissonolbmuid dearvvašvuohta	nissonolbmuid dearvvašvuohta	
 kvinnesykdom	nissoniiddávddat					naistentaudit	nissoniiddávddat			nissonbuozalmasvuohta	nissonolbmuid duodji	
 navlestreng	náhpečoalli					napanuora				nállestreaŋga	rátnu	
-perkutere						naputella ja kuunnella sisäelimiä	*naputella ja guldalit 			biiggát	deaddit ja guldalit siskkáldas struktuvrraid	
-perkusjon						naputtelu				lihkohisvuohta	nággovuloš	
+perkutere						koputella;  perkutoida	*naputella ja guldalit 			biiggát	deaddit ja guldalit siskkáldas struktuvrraid	
+perkusjon						koputtelututkimus; perkussio				lihkohisvuohta	nággovuloš	
 narrativ						narratiivi	kertomus			narratiiva	muitalus	#narratiiva
-nesekateter						nenäkatetri	#njunni#katehtár			njunnesoabbi	njunnesoabbi	
-ødemsamling						nesteen kertyminen kehoon	sieja *kertyminen rupmašii			ávdinčoahkádus	golgi mii darvána gorudii	
+nesekateter	njunnikatehtár					nenäkatetri; happiviikset	#njunni#katehtár			njunnesoabbi	njunnesoabbi	
+ødemsamling						nestekertymä	sieja *kertyminen rupmašii			ávdinčoahkádus	golgi mii darvána gorudii	
 væskebehov	golggus dárbu					nesteen tarve	sieja dárbu			golgi	čáhcefápmu	
 væskeinntak	golggosa oažžun					nesteensaanti	siejaoažžun			golgi sisaváldin	golggosáddu	
 væsketilførsel	golggosa oažžun					nesteensaanti	siejaoažžun			golgi lasáhus	golggosáddu	
@@ -1009,7 +1009,7 @@ væskebalanse	golggusdássedeaddu					nestetasapaino	siedjabalánsa			golgadasd�
 væskeregnskap						nestetasapainon kirjaus 	siedjabalánssa 			golgi rehkenastin	golgi dássedeattu registreren	
 væsketap	golggusváili					nestevajaus	siedjaváili			golggosmassimat	golgideapmi	
 væskeunderskudd	golggusváili					nestevajaus	siedjaváili			golgi vuolláibáza	golgideapmi	
-væskemangel	golggusváili					nestevajaus nestevaje	siedjaváili 			golgi váilivuohta	golggosbuhtisvuohta	
+væskemangel	golggusváili					nestevajaus; nestevaje	siedjaváili 			golgi váilivuohta	golggosbuhtisvuohta	
 væskeoverskudd						nesteylimäärä				golgi vuolláibáza	golgi dássi	
 nettmobbing						nettikiusaaminen	neahttagivssideapmi			neahtta givssideapmi	givssideapmi	
 nevrolog						neurologi				neurologa	neurologa	
@@ -1019,7 +1019,7 @@ rådgivningsklinikk						neuvontayksikkö neuvontaklinikka	rávvehusovttadat rá
 NIC-klassifikasjon						NIC-luokitus				NIC-klassifiseren	NIC-árvosátni	
 svelgeevne	njiellannákca					nielemiskyky	njiellat gálga			njiellačehppi	njiellat	
 svelgparese						nielemispareesi				guollebávččas	njieladanbivttas	
-svelgtest						nielemistesti nielemiskoe	njiellat teasta njiellat iskan			njiellatiskkus	njiellangeahččaleapmi	
+svelgtest						nielemistesti; nielemiskoe	njiellat teasta njiellat iskan			njiellatiskkus	njiellangeahččaleapmi	
 svelgfunksjon						nielemistoiminto	njiellat doaibma			guoddalanfunkšuvdna	njielladoaibma	
 svelgeproblem	njiellanváttisvuohta					nielemisvaikeus	njiellat váttisvuohta			njielladanváttisvuohta	njieladanváttisvuohta	
 nitrat						nitraatti				nitráhta	nitráhta 	
@@ -1060,7 +1060,7 @@ ekstensjon						ojennus				eksponeren	oalgecealkka
 brekningssenter	vuovssanas guovddaš					oksennuskeskus	#vuovssanas#guovddaš			breakingguovddáš	ávkkástallanbáiki	
 skulderledd	oalgelađas					olkanivel				oalgecealka	oalgecealkka	
 egennytte	ieš ávki					oma hyöty	#ieš gudda			iežas ávkin	midjiide ávkin	
-primærsykepleier	iežas buohčedivššar					oma sairaanhoitaja	#ieš #buohccidikšu			vuođđodearvvašvuođadivššu	mu iežan buohccedikšu	
+primærsykepleier	ieš buohčedivššar					oma sairaanhoitaja	#ieš #buohccidikšu			vuođđodearvvašvuođadivššu	mu iežan buohccedikšu	
 selvhjelpløsning						oma-apukeino  omahoitokeino	#ieš-veahkkegeaidnu  			iešveahkkičoavddus	iežasdikšunveahkki	
 selvhjelpsgruppe						oma-apuryhmä	#ieš-veahkkejoavku			iešveahkkejoavku	veahkkeapparáhta joavku	
 egenaktivitet						omaehtoinen aktiivisuus	*omaehtoinen aktiviteahtta			iešdoaibma	eaktodáhtolaš aktivitehta	
@@ -1766,7 +1766,7 @@ trygghetsalarm				oadjebasvuođalárbma		turvahälytin		sihkarvuođaalárbma	joh
 trygghetopplevelse				oadjebasvuođa vásáhus		turvallisuuden kokemus	sihkarvuođa vásihus	sihkarvuođavásáhus	sihkarvuođavásáhus	dorvvolašvuođadovdu	oadjebasvuođa vásáhus	
 sikkerhetsteknologi				sihkkarvuođateknologiija		turvallisuusteknologia	#sihkarvuohtateknologiija	sihkarvuođateknologiija	sihkarvuođateknologiija	sihkkarvuođateknologiija	sihkkarvuođateknologiija	
 ødemvæske				ødemačáhci		turvokuksen aiheuttama nestekertymä		ødema čáhci	turvokuksen eksma nestertymä	duolvačáhci	golggosbuđaldeapmi mii dagaha golggosbuđaldeami	
-ødem				ødema		turvotus		buozalmasvuohta	turvotus	duolva	duolva	
+ødem				ødema		ödeema		buozalmasvuohta	turvotus	duolva	duolva	
 forskningsområde				dutkansuorgi		tutkimusala	dutkansuorgi	dutkanguovlu	dutkanfáddá	dutkansuorgi		
 forskningsartikkel				dutkanartihkal		tutkimusartikkeli	dutkanartihkal	dutkanartihkal	dutkanartihkal	dutkanartihkal	dutkanartihkal	
 forskningslitteratur				dutkangirjjálašvuohta		tutkimuskirjallisuus	dutkangirjjálašvuohta	dutkangirjjálašvuohta	tutkimuskirjalisuus	dutkangirjjálašvuohta	dutkangirjjálašvuohta	
