@@ -815,11 +815,11 @@ pediatri	mánáiddávddat					lastentaudit	pediatria	mánáidsuodjalus	mánnávu
 trigger						laukaisija		báhcahat	báhcahat	álggaheaddji	álggaheaddji	
 tallerkenkant						lautasen reunus	#dallearka 	pláhta gáttis	pláhta rámma	láse ravda	ravda beavddi birra	
 tallerkenmodell	dallearkamálle					lautasmalli		pláhtamálle	pláhtamálle	láđđemodealla	láhtterátnu	
-sondeernæring						lekturuokinta	enteraalinen ravitsemus	čáhcebohcci	giehtaborramuš	sondealáhus	lektorborramuš	
+sondeernæring						letkuruokinta	enteraalinen ravitsemus	čáhcebohcci	giehtaborramuš	sondealáhus	lektorborramuš	
 hvilestoffskifte						lepoaineenvaihdunta	#vuoiŋŋasteapmi#ávnnasmolsašuvvan	vuoiŋŋastanmetabolisma	vuoiŋŋastanmetabolisma	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
 hvilestilling	vuoiŋŋastanstellelmas					lepoasento	vuoiŋŋastanstellelmas	vuoiŋŋastanposišuvdna	vuoiŋŋastanposišuvdna	vuoiŋŋadanbáiki	vuoiŋŋadanlatnja	
 hvilesmerte	vuoiŋŋastanbávččas					lepokipu	vuoiŋŋastanbávččas	vuoiŋŋastanváttut	vuoiŋŋastanváttut	vuoiŋŋasteapmi	muhtinlágan vuoiŋŋasteapmi	
-hvilepuls	vuoiŋŋastanravkkin		vuoiŋŋastanravkkas			leposyke  lepopulssi	*leposyke  vuoiŋŋastanravkkas	vuoiŋŋastan váibmofrekveansa	vuoiŋŋastan váibmofrekveansa vuoiŋŋastanpulsa	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
+hvilepuls	vuoiŋŋastanravkkin		vuoiŋŋastanravkkas	vuoiŋŋastanpulsa		leposyke  lepopulssi	*leposyke  vuoiŋŋastanravkkas	vuoiŋŋastan váibmofrekveansa	vuoiŋŋastan váibmofrekveansa vuoiŋŋastanpulsa	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
 hvilevolum						lepovolyymi	vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	vuoiŋŋastanhivvodat	vuoiŋŋastanfálaldat	
 sondeløsning						letkuruokintavalmiste		iskkadeami čoavddus	čáhcebohcciid ráhkadeapmi	sonnetčoavddus	dálkkas mii doalvu bottu	
 lidokain						lidokaiini		lidokain	lidokain	lidokaidna	lidokaidna	
@@ -1207,9 +1207,9 @@ proteinmangel						proteiinivaje				proteiidna váilivuohta	proteiidna váilivuo
 pubertetsstadium						puberteettivaihe				rávásmanahki	rávásmanahki	
 påkledd						puettu				gárvvis	gárvvis	
 talevanske						puhehäirö				hupmanváttisvuođat	hupmanváddu	
-taleevne	Hállanmáhttu £		Hupmanmáhttu £			puhekyky	hupmagálga			hállannákca	hállannákca	
+taleevne	hállanmáhttu; hupmanmáhttu					puhekyky	hupmagálga			hállannákca	hállannákca	
 telefonveiledning	telefovdnabagadallan					puhelinohjaus	telefovdnabagadallan			telefuvdnabagadus	telefuvdnastivra	
-logoped	hállanterapevta		hupmanterapevta			puheterapeutti	hupmaterapevta			logopeda	hupmanterapevta	
+logoped	hállanterapevta; hupmanterapevta			logopeda		puheterapeutti	hupmaterapevta			logopeda	hupmanterapevta	
 rammefaktor						puitetekijä				rámmafáktor	rámmafákta	
 oppgulp						pulautus				soahpameahttun	váilevašvuohta	
 flaskekost	boahtalkusta					pulloharja	bohtalkusta			borramušgálvu boahtaliin	bohttágárri	
