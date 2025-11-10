@@ -16,11 +16,11 @@ aids	AIDS					AIDS		AIDS	AIDS	aids	AIDS
 tidsorientering	áigeorienteren					aikaan orientoituminen	áigái 	áigeorienteren	orienteren áigái	áigeáddejupmi	áiggi orientearašuvdna	
 tidspress 	áigedeaddu 		áigepreassa			aikapaine	áigedeaddu	áigepreassa	áigepreassa	deaddu áiggis	deaddu áiggis	
 tidsdimensjon	áigedimenšuvdna					aikaulottuvuus	áigeolli	áigedimenšuvdna	áigedimenšuvdna	áigedimenšuvdna	áigedimenšuvdna	
-metabolisme	ávnnasmolsašuvvan		metabolisma			aineenvaihdunta	metabolia	metabolisma	metabolisma	metabolisma	ávnnaslotnolasvuohta	#ávnnasmolsašuvvan
-stoffomsetning	ávnnasmolsašuvvan					aineenvaihdunta	#ávnnasmolsašuvvan	metabolisma	metabolisma	ávnnasjohtu	ávnnaslotnolasvuohta	
+metabolisme	metabolisma					aineenvaihdunta; metabolia	metabolia	metabolisma	metabolisma	metabolisma	ávnnaslotnolasvuohta	#ávnnasmolsašuvvan
+stoffomsetning	seallaávnnasmolsašuvvan					soluaineenvaihdunta	#ávnnasmolsašuvvan	metabolisma	metabolisma	ávnnasjohtu	ávnnaslotnolasvuohta	
+stoffskifte	ávnnasmolsašuvvan					aineenvaihdunta; metabolia						
 stoffskifteprosess	ávnnasmolsašuvvanproseassa					aineenvaihduntaprosessi	#ávnnasmolsašuvvanproseassa	metabolalaš proseassa	metabolalaš proseassa	ávnnasmolsašuddama proseassa	ávnnasmolsašuddanproseassa	
-stoffskiftesykdom	ávnnasmolsašuvvandávda		metabolalaš dávda			aineenvaihduntasairaus		metabolalaš dávda	metabolalaš dávda	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
-stoffskiftesykdom	ávnnasmolsašuvvan buozalmasvuohta					aineenvaihduntasairaus		hallusinašuvdna	hallusinašuvdna	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	#ávnnasmolsašuvvanbuohcu
+stoffskiftesykdom	ávnnasmolsašuvvandávda		ávnnasmolsašuvvanbuozalmasvuohta			aineenvaihduntasairaus		metabolalaš dávda	metabolalaš dávda	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
 sansning	áican					aistiminen	tuntemus	dovdu	dovdu	vuohttimis	dovdamuš	
 sansehage	áiccugárdi					aistipuutarha	dovddagárdin	áddejupmegárdi	áddejupmegárdi	áiccangárdi	áiccangárdi	
 hjernebølge	vuoiŋŋašbárru					aivoaalto	vuoiŋŋašbárru	oaiveskálžžu doaibma	oaiveskálžžu doaimmat	vuoiŋŋašbávččas	vuoiŋŋašváldin	
@@ -2059,3 +2059,13 @@ oljeklyster						öljyperäruiske		oljoklyster	oljoklyster	oljogottit	oljosátto
 dikotomi	dikotomiija						dikotomia		dikotomiija	dikotomiija	dikotomiija	
 helsefremmende						terveyttä edistävä		dearvvašvuođa ovddideapmi	dearvvašvuođa ovddideapmi	dearvvašvuođa		
 kjønnslemlestelse								sohkabeallečuohpadeapmi		sohkabealedivvun		
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
