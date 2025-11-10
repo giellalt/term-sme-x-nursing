@@ -1,5 +1,5 @@
 NOB ORIGINAL	SME_Finland	komm	SME2_Finland	SME_Norge	SME2_Norge	FIN MANUELL	SME APERTIUM	NOBSME Google	FINSME google	NOBSME TARTU	FINSME TARTU	
-behandler	gieđahalli					???	?			gieđahalli		
+behandler	gieđahalli					käsittelijä	?			gieđahalli		
 morgenstell	iđitdoaimmat					aamutoimet	iđitbassan	iđitbeaivválaš dikšun	iđitbeassan	iđitborran	Iđitguovssonástti	
 morgenurin	iđitgužža					aamuvirtsa	iđitgužža	iđitbeaivve čáhci	iđitbeaivve čáhci	iđitborran	Iđitguovža	
 abstraksjonsnivå	abstrakšuvdnadássi					abstraktiotaso	abstrakšuvdnadássi	abstrakšuvnna dássi	abstrakšuvnna dássi	abstrakšuvdnadássi	abstrakšuvdnadássi	
@@ -8,71 +8,71 @@ ADL-indeks	ADL-indeaksa					ADL-indeksi				ADL-indeaksa	ADL-indeaksa
 ADL-gjøremål          	ADL-doaimmat					ADL-toiminnot				ADL-bargu	ADL-doaimmat	
 ADL-funksjon	ADL-doaibma					ADL-toiminto				ADL- funkšuvdna	ADL-doaibma	
 adrenalin	adrenaliidna					adrenaliini		adrenaliidna	adrenaliidna	adrenaliinna	adrenaliidna	
-angstlidelse						ahdistuneisuushäiriö		fuolastuhttindávda	fuolastuhttindávda	áŧestusdávda	áŧestusdávda	
+angstlidelse	áŧestusdávda					ahdistuneisuushäiriö		fuolastuhttindávda	fuolastuhttindávda	áŧestusdávda	áŧestusdávda	
 angstsymptom	áŧestussymptoma		áŧestusdávdamearka			ahdistusoire	áŧestussymptoma	fuolastumi dávdamearka	fuolastuhtti dávdamearka	áŧestussymptoma	áŧestusdávda	
-snevring						ahtauma	kurouma	hedjonan	váttisvuohta	gáržžideapmi	áŧestus	baskkádat
-obstruksjonsgrad						ahtauman aste	baskkádaga #ráđđa	hehttehusa dássi	stenosa dássi	ceahkkálas standárda	geahnohis dássi	
-aids						AIDS		AIDS	AIDS	aids	AIDS	
-tidsorientering						aikaan orientoituminen	áigái 	áigeorienteren	orienteren áigái	áigeáddejupmi	áiggi orientearašuvdna	
-tidspress						aikapaine	áigedeaddu	áigepreassa	áigepreassa	deaddu áiggis	deaddu áiggis	
-tidsdimensjon						aikaulottuvuus	áigeolli	áigedimenšuvdna	áigedimenšuvdna	áigedimenšuvdna	áigedimenšuvdna	
-metabolisme	ávnnasmolsašuvvan					aineenvaihdunta	metabolia	metabolisma	metabolisma	metabolisma	ávnnaslotnolasvuohta	#ávnnasmolsašuvvan
+snevring	baskkádat					ahtauma	kurouma	hedjonan	váttisvuohta	gáržžideapmi	áŧestus	baskkádat
+obstruksjonsgrad	baskkádatdássi					ahtauman aste	baskkádaga #ráđđa	hehttehusa dássi	stenosa dássi	ceahkkálas standárda	geahnohis dássi	
+aids	AIDS					AIDS		AIDS	AIDS	aids	AIDS	
+tidsorientering	áigeorienteren					aikaan orientoituminen	áigái 	áigeorienteren	orienteren áigái	áigeáddejupmi	áiggi orientearašuvdna	
+tidspress 	áigedeaddu 		áigepreassa			aikapaine	áigedeaddu	áigepreassa	áigepreassa	deaddu áiggis	deaddu áiggis	
+tidsdimensjon	áigedimenšuvdna					aikaulottuvuus	áigeolli	áigedimenšuvdna	áigedimenšuvdna	áigedimenšuvdna	áigedimenšuvdna	
+metabolisme	ávnnasmolsašuvvan		metabolisma			aineenvaihdunta	metabolia	metabolisma	metabolisma	metabolisma	ávnnaslotnolasvuohta	#ávnnasmolsašuvvan
 stoffomsetning	ávnnasmolsašuvvan					aineenvaihdunta	#ávnnasmolsašuvvan	metabolisma	metabolisma	ávnnasjohtu	ávnnaslotnolasvuohta	
 stoffskifteprosess	ávnnasmolsašuvvanproseassa					aineenvaihduntaprosessi	#ávnnasmolsašuvvanproseassa	metabolalaš proseassa	metabolalaš proseassa	ávnnasmolsašuddama proseassa	ávnnasmolsašuddanproseassa	
-stoffskiftesykdom	ávnnasmolsašuvvanbuohcu					aineenvaihduntasairaus		metabolalaš dávda	metabolalaš dávda	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
-stoffskiftesykdom	ávnnasmolsašuvvanbuohcu					aineenvaihduntasairaus		hallusinašuvdna	hallusinašuvdna	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	#ávnnasmolsašuvvanbuohcu
+stoffskiftesykdom	ávnnasmolsašuvvandávda		metabolalaš dávda			aineenvaihduntasairaus		metabolalaš dávda	metabolalaš dávda	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	
+stoffskiftesykdom	ávnnasmolsašuvvan buozalmasvuohta					aineenvaihduntasairaus		hallusinašuvdna	hallusinašuvdna	ávnnasmolsudandávda	metabolihkalaš buozalmasvuohta	#ávnnasmolsašuvvanbuohcu
 sansning	áican					aistiminen	tuntemus	dovdu	dovdu	vuohttimis	dovdamuš	
-sansehage						aistipuutarha	dovddagárdin	áddejupmegárdi	áddejupmegárdi	áiccangárdi	áiccangárdi	
+sansehage	áiccugárdi					aistipuutarha	dovddagárdin	áddejupmegárdi	áddejupmegárdi	áiccangárdi	áiccangárdi	
 hjernebølge	vuoiŋŋašbárru					aivoaalto	vuoiŋŋašbárru	oaiveskálžžu doaibma	oaiveskálžžu doaimmat	vuoiŋŋašbávččas	vuoiŋŋašváldin	
 hjerneaktivitet	vuoiŋŋašaktivitehta					aivoaktiviteetti	vuoiŋŋašbuđaldeapmi	oaiveskálžžu bealli	oaiveskálžžu bealli	vuoiŋŋamaččaid aktivitehta	vuoiŋŋašaktivitehta	
-slagpasient	vuoiŋŋašgáldnanbuohcci			slágapasieanta		aivohalvauspotilas	#vuoigŋašat#ravkin#buohcci	strokepasieanta	strokepasieanta	čuolmmastuhttin	vuoiŋŋašdohppe	
+slagpasient	vuoiŋŋašgáldnanbuohcci		slágabuohcci	slágapasieanta		aivohalvauspotilas	#vuoigŋašat#ravkin#buohcci	strokepasieanta	strokepasieanta	čuolmmastuhttin	vuoiŋŋašdohppe	
 hjernesvulst	vuoiŋŋaššattalmas					aivokasvain	vuoiŋŋašguorti kasvain šattalmas			vuoiŋŋašdávda	vuoiŋŋaššattalmas	
 hjernehalvdel	vuoiŋŋašbealli					aivopuolisko	vuoiŋŋašbealli	oaiveskálžžu	bealleguovlu	vuoiŋŋašspiehkastat	vuoiŋŋašbealli	
 hjernestamme	vuoiŋŋašriggi					aivorunko	vuoiŋŋašriggi	oaiveskálžu	oaiveskálžu	vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	
 hjernestamme	vuoiŋŋašriggi					aivorunko		oaiveskálžu	oaiveskálžu	vuoiŋŋamaččaid šaddu	vuoiŋŋašduogáš	vuoiŋŋašriggi
 hjernecelle	vuoiŋŋašsealla					aivosolu	vuoiŋŋašsealla	oaiveskálžžu	oaiveskálžžu	vuoiŋŋašsealla	vuoiŋŋasella	
 hjernefunksjon	vuoiŋŋašdoaibma					aivotoiminta	vuoiŋŋašdoaibma	oaiveskálžžu doaibma	oaiveskálžžu doaibma	vuoiŋŋamaččaid doaibma	vuoiŋŋašdoaibma	
-apopleksi	vuoiŋŋašvarrajohtinhehttehus					aivoverenkiertohäiriö	Hehttehus – heađuštus	apopleksiija	cerebrovaskulára lihkohisvuohta	apopleksiija	vuoiŋŋaš- ja varrasuotnavihki	
-slagrehabilitering	vuoiŋŋašvarrajohtinhehttehusa veajuiduhttin					aivoverenkiertohäiriön kuntoutus AVH-kuntoutus	*aivoverenkiertohäiriön veajuiduhttin 	stroke-rehabiliteren	cerebrovaskulára lihkohisvuođaid rehabiliteren AVH-rehabiliteren	streaŋgaveajuiduhttin	vuoiŋŋaš- ja varrasuotnavigiid veajuiduhttin AVH-kontuvra	
+apopleksi	vuoiŋŋašvarrajohtinhehttehus		apopleksiija			aivoverenkiertohäiriö	Hehttehus – heađuštus	apopleksiija	cerebrovaskulára lihkohisvuohta	apopleksiija	vuoiŋŋaš- ja varrasuotnavihki	
+slagrehabilitering	vuoiŋŋašvarrajohtinhehttehusa veajuiduhttin		slágabuohci veajuiduhttin			aivoverenkiertohäiriön kuntoutus AVH-kuntoutus	*aivoverenkiertohäiriön veajuiduhttin 	stroke-rehabiliteren	cerebrovaskulára lihkohisvuođaid rehabiliteren AVH-rehabiliteren	streaŋgaveajuiduhttin	vuoiŋŋaš- ja varrasuotnavigiid veajuiduhttin AVH-kontuvra	
 tidsopplevelse	áiggi vásáhus					ajan kokemus	áiggi vásihus	áigevásáhus	áiggi vásáhus	vásáhus áiggis	vásáhus áiggis	
 tidsbruk	áigegeavahus					ajankäyttö	áiggeatnin	áigegoddi	áigegoddi	áigegeavaheapmi	áigegeavaheapmi	
 tankeprosess	jurddašanproseassa					ajatusprosessi	ájáhusproseassa	jurddašanproseassa	jurddašanproseassa	jurddahanproseassa	jurddahanproseassa	
 tankevirksomhet	jurddašandoaibma					ajatustoiminta	ájáhusdoaibma	jurddadoaibma	jurddašeami doaibma	jurddabargu	jurddabargu	
-disiplinfag	akademalaš oahppoávnnas					akateeminen oppiaine	tieteenhaara			fágasuorgi	akademalaš oahppu	#akademalaš fága
+disiplinfag	akademalaš oahppoávnnas		fágasuorgi			tieteenala	tieteenhaara			fágasuorgi	akademalaš oahppu	#akademalaš fága
 hælsene	akillessuotna					akillesjänne		Achilles-seahka	Achilles-seahka	heelsegat	akillessjeana	
-aktivitetsutfoldelse						aktiviteetin suorittaminen	buđaldeami čađahit	 hávggat		aktivitehtaovdanbuktin	aktivitehta čađaheapmi	
-aktivitetsmulighet						aktiviteettimahdollisuus		aktivitehta ovdáneapmi	doaimma loahpaheapmi	doaibmanvejolašvuohta	aktivitehtamodus	
-aktivitetsplan						aktiviteettisuunnitelma		doaibmaplána	doaibmaplána	doaibmaplána	aktivitehtaplána	
-aktivitetsmønster						aktiviteettitapa		doaibmamálle	doaibmavuohki	doaibmanminsttar	aktivitehttavuohki	
-aktivitetstiltak						aktiviteettitoimenpide aktiviteettikeino		doaibmabijut	aktivitehta mihtideapmi aktivitehta mihtideapmi	aktivitehtadoaibmabijut	aktivitehtadoaibmabidju aktivitehtadoaibma	
-akupunktur						akupunktio      akupunktuvra  akupunkšuvdna		akupunktuvdna	akupunktuvra akupunktuvra akupunkšuvdna			
-underlivvask						alapesu	suorgebassan	Vuoigŋavásáhus	vuolde bassat	vuolledábiid bassan	vuolit gákti	
+aktivitetsutfoldelse	doaibma geahččaladdan		aktivitehta geahččaladdan	buđaldeami čađahit	 hávggat	aktiviteetin koetus	aktivitehtaovdanbuktin	aktivitehta čađaheapmi				
+aktivitetsmulighet	doaibmanvejolašvuohta		aktivitehtavejolašvuohta			aktiviteettimahdollisuus		aktivitehta ovdáneapmi	doaimma loahpaheapmi	doaibmanvejolašvuohta	aktivitehtamodus	
+aktivitetsplan	doaibmaplána					aktiviteettisuunnitelma		doaibmaplána	doaibmaplána	doaibmaplána	aktivitehtaplána	
+aktivitetsmønster	doaibmamálle					aktiviteettitapa		doaibmamálle	doaibmavuohki	doaibmanminsttar	aktivitehttavuohki	
+aktivitetstiltak	doaibmabidju		aktivtehtabidju			aktiviteettitoimenpide aktiviteettikeino		doaibmabijut	aktivitehta mihtideapmi aktivitehta mihtideapmi	aktivitehtadoaibmabijut	aktivitehtadoaibmabidju aktivitehtadoaibma	
+akupunktur	akupunktuvra					akupunktio      akupunktuvra  akupunkšuvdna		akupunktuvdna	akupunktuvra akupunktuvra akupunkšuvdna			
+underlivvask	vuolledábiid bassan					alapesu	suorgebassan	Vuoigŋavásáhus	vuolde bassat	vuolledábiid bassan	vuolit gákti	
 albumin	albumiidna					albumiini	álbumasan	skearru	albmá	skearru	albuma	
-bachelorstudent						alemman korkeakoulutason opiskelija bacheloropiskelija	vuolibu allaskuvladási studeanta 	bachelorstudeanta	vuolit allaskuvladási studeanta bachelorstudeanta	bachelorstudeanta	vuolit allaskuvladási studeanta bacheloroahppu	
-bachelor						alempi korkeakoulututkinto	vuolit allaskuvladutkan	Bachelorgráda	vuolit allaskuvlaoahppu	bachelor	vuolit allaskuvladutkkus	
+bachelorstudent	bachelorstudeanta					alemman korkeakoulutason opiskelija bacheloropiskelija	vuolibu allaskuvladási studeanta 	bachelorstudeanta	vuolit allaskuvladási studeanta bachelorstudeanta	bachelorstudeanta	vuolit allaskuvladási studeanta bacheloroahppu	
+bachelor	Bachelorgráda					alempi korkeakoulututkinto	vuolit allaskuvladutkan	Bachelorgráda	vuolit allaskuvlaoahppu	bachelor	vuolit allaskuvladutkkus	
 funksjonsnedsettelse	hedjonan doaibmannáksa					alentunut toimintakyky	*alentunut doaibmagálga	doaibmahehttehus	unniduvvon doaibmakapasitehta	doaimmashehttejupmi	hedjonan doaibmanákca	hedjonit
-funksjonssvikt	hedjonan doaibmannáksa					alentunut toimintakyky	*alentunut doaibmagálga	doaibmahehttehus	unniduvvon doaibmakapasitehta	doaimmashehttejupmi	hedjonan doaibmanákca	
-bunnpunkt	vuolimuš čuokkis					alin piste	*alin čuokkis	vuolimus čuokkis	vuolimus čuokkis	vuolit dássi	vuolimus čuokkis	
+funksjonssvikt	hedjonan doaibmannáksa		hedjonan birgen			alentunut yleistila 	*alentunut doaibmagálga	doaibmahehttehus	unniduvvon doaibmakapasitehta	doaimmashehttejupmi	hedjonan doaibmanákca	
+bunnpunkt	vuolimuš čuokkis		botnečuokkis			alin piste	*alin čuokkis	vuolimus čuokkis	vuolimus čuokkis	vuolit dássi	vuolimus čuokkis	
 undervekt	vuolledeaddu					alipaino	ali – vuole	vuolledeaddu	vuolledeaddu	vuollemearkkašupmi	vuollegis deaddu	
-underrapportering						aliraportointi		vuolleldieđiheapmi	vuolleldieđiheapmi	beare unnán raportačállin	vuolláibájuheapmi	
-alkoholskade						alkoholin aiheuttama vamma	alkohola *aiheuttama veaidni	alkohola vahágat	alkohola dagahan vahágat	alkoholavahát	vahát mii lea šaddan alkoholageavaheami dihte	
-allergiforbund						allergialiitto	allergiijalihttu	allergiijaovttastus	allergiijaovttastus	allergiijasearvi	allergiijadielkkut	
+underrapportering	vuolleraporteren		vuolledieđiheapmi			aliraportointi		vuolleldieđiheapmi	vuolleldieđiheapmi	beare unnán raportačállin	vuolláibájuheapmi	
+alkoholskade	alkoholavahát					alkoholin aiheuttama vamma	alkohola *aiheuttama veaidni	alkohola vahágat	alkohola dagahan vahágat	alkoholavahát	vahát mii lea šaddan alkoholageavaheami dihte	
+allergiforbund	allergiijasearvi					allergialiitto	allergiijalihttu	allergiijaovttastus	allergiijaovttastus	allergiijasearvi	allergiijadielkkut	
 allergireaksjon	allergiijareakšuvdna 					allergiareaktio yliherkkyysreaktio	allergiijareakšuvdna 	allergiijareakšuvdna	allergiijalaš reakšuvdna badjelmeare dovdduid reakšuvdna	allergiijareakšuvdna	allergiijareakšuvdna, hearkkesvuođa reakšuvdna	
 allergikost	allergiijabiebmu					allergiaruoka	allergiijagušta	allergiijaborramuš	allergiijaborramuš	allergiijaguoski biepmu	allergiijaruoktu	
 eksponering						altistuminen		almmustuhttin	almmustuhttin	eksponeren	eksponeren	
 kolonisering						altistuminen		koloniseren	almmustuhttin	koloniseren	eksponeren	
-altruisme						altruismi		altruisma	altruisma	buotlágan altruisma	altruisma	
-basis						alusta	álggus/vuoláš – onko kyseessä alusta alkaen vai asia jonka päälle voi maata?	vuođđu	šassi	vuođđu	álgu	
-ambivalens						ambivalenssi 	kaksijakoisuus	guovtteláganvuohta	guovtteláganvuohta	ambivalens	ambivalenssa 	
-amøbe						ameba		ameba	ameba	amáibba	ameba	
-amfetamin						amfetamiini		amfetamiidna	amfetamiidna	amfetamiidna	amfetamiidna	
+altruisme	altruisma					altruismi		altruisma	altruisma	buotlágan altruisma	altruisma	
+basis	vuođđu			alusta	álggus/vuoláš – onko kyseessä alusta alkaen vai asia jonka päälle voi maata?	vuođđu	šassi	vuođđu	álgu			
+ambivalens	ambivalenssa					ambivalenssi 	kaksijakoisuus	guovtteláganvuohta	guovtteláganvuohta	ambivalens	ambivalenssa 	
+amøbe	ameba					ameba		ameba	ameba	amáibba	ameba	
+amfetamin	amfetamiidna					amfetamiini		amfetamiidna	amfetamiidna	amfetamiidna	amfetamiidna	
 yrkesutøving	ámmáthárjáneapmi					ammatin harjoittaminen	ámmáha hárjehit	ámmátlaš geavat	ámmáha hárjeheapmi	bargohárjehallan	ámmátlaš hárjehallan	
 yrkesidentitet	ámmátidentitehta					ammatti-identiteetti		ámmátlaš identitehta	ámmátlaš identitehta	fidnoidentitehta	ámmátidentitehta	
 yrkesfelt	ámmátsuorgi					ammattiala		fágasuorgi	ámmát	fidnosuorgi	ámmát	
-fagartikkel	ámmátsuorggi artihkal					ammattialan artikkeli	fágalaš ammatillinen	ámmátlaš artihkal	ámmátlaš artihkal	fágalaš artihkal	lea fágalaš	
-fagutøver						ammattialan harjoittaja		hárjeheaddji	ámmátlaš bargi	fágaduojár	ámmátlaš hárjeheaddji	
-profesjonsutøver						ammattialan harjoittaja		ámmátlaš bargi	ámmátlaš bargi	profešuvdnabargár	ámmátlaš hárjeheaddji	
-fagutvikling	ámmátsuorggi ovdáneapmi					ammattialan kehitys		fágalaš ovdáneapmi	fágalaš ovdáneapmi	fágalaš ovdáneapmi	fágalaš ovdáneapmi	
+fagartikkel	ámmátsuorggi artihkal		fágalas artihkkal			ammattialan artikkeli	fágalaš ammatillinen	ámmátlaš artihkal	ámmátlaš artihkal	fágalaš artihkal	lea fágalaš	
+fagutøver	fágabargi					ammattialan harjoittaja		hárjeheaddji	ámmátlaš bargi	fágaduojár	ámmátlaš hárjeheaddji	
+profesjonsutøver	ámmátlaš bargi				ammattialan harjoittaja		ámmátlaš bargi	ámmátlaš bargi	profešuvdnabargár	ámmátlaš hárjeheaddji		
+fagutvikling	ámmátsuorggi ovdáneapmi		fágalas ovdáneapmi			ammattialan kehitys		fágalaš ovdáneapmi	fágalaš ovdáneapmi	fágalaš ovdáneapmi	fágalaš ovdáneapmi	
 fagprosedyre						ammattialan menetelmä; ammattialan toimenpide		fágalaš prosedyra	fágalaš vuohki fágalaš prosedyra	fágavuohki	ámmátmetodanfágalaš doaibmabidju	
 profesjonsfag	ámmátlohkamat					ammattiopinnot		fágalaš fága	fágalaš oahput	profešuvdnafága	profešuvdnaoahppu	
 yrkesrolle	ámmátrolla					ammattirooli		ámmátlaš rolla	ámmátlaš rolla	virgerolla	ámmátrolla	
