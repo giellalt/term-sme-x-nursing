@@ -55,7 +55,7 @@ funksjonssvikt	hedjonan doaibmannáksa		hedjonan birgen			alentunut yleistila 	*
 bunnpunkt	vuolimuš čuokkis		botnečuokkis			alin piste	*alin čuokkis	vuolimus čuokkis	vuolimus čuokkis	vuolit dássi	vuolimus čuokkis	
 undervekt	vuolledeaddu					alipaino	ali – vuole	vuolledeaddu	vuolledeaddu	vuollemearkkašupmi	vuollegis deaddu	
 underrapportering	vuolleraporteren		vuolledieđiheapmi			aliraportointi		vuolleldieđiheapmi	vuolleldieđiheapmi	beare unnán raportačállin	vuolláibájuheapmi	
-alkoholskade	alkoholavahát					alkoholin aiheuttama vamma	alkohola *aiheuttama veaidni	alkohola vahágat	alkohola dagahan vahágat	alkoholavahát	vahát mii lea šaddan alkoholageavaheami dihte	
+alkoholskade	alkoholavahát					alkoholivaurio	alkohola *aiheuttama veaidni	alkohola vahágat	alkohola dagahan vahágat	alkoholavahát	vahát mii lea šaddan alkoholageavaheami dihte	
 allergiforbund	allergiijasearvi					allergialiitto	allergiijalihttu	allergiijaovttastus	allergiijaovttastus	allergiijasearvi	allergiijadielkkut	
 allergireaksjon	allergiijareakšuvdna 					allergiareaktio yliherkkyysreaktio	allergiijareakšuvdna 	allergiijareakšuvdna	allergiijalaš reakšuvdna badjelmeare dovdduid reakšuvdna	allergiijareakšuvdna	allergiijareakšuvdna, hearkkesvuođa reakšuvdna	
 allergikost	allergiijabiebmu					allergiaruoka	allergiijagušta	allergiijaborramuš	allergiijaborramuš	allergiijaguoski biepmu	allergiijaruoktu	
@@ -69,25 +69,25 @@ amfetamin	amfetamiidna					amfetamiini		amfetamiidna	amfetamiidna	amfetamiidna	a
 yrkesutøving	ámmáthárjáneapmi		ámmátbargu			ammatin harjoittaminen	ámmáha hárjehit	ámmátlaš geavat	ámmáha hárjeheapmi	bargohárjehallan	ámmátlaš hárjehallan	
 yrkesidentitet	ámmátidentitehta					ammatti-identiteetti		ámmátlaš identitehta	ámmátlaš identitehta	fidnoidentitehta	ámmátidentitehta	
 yrkesfelt	ámmátsuorgi					ammattiala		fágasuorgi	ámmát	fidnosuorgi	ámmát	
-fagartikkel	ámmátsuorggi artihkal		fágalas artihkkal			ammattialan artikkeli	fágalaš ammatillinen	ámmátlaš artihkal	ámmátlaš artihkal	fágalaš artihkal	lea fágalaš	
-fagutøver	fágabargi					ammattialan harjoittaja		hárjeheaddji	ámmátlaš bargi	fágaduojár	ámmátlaš hárjeheaddji	
+fagartikkel	ámmátsuorggi artihkal	£	fágalas artihkkal			ammattialan artikkeli	fágalaš ammatillinen	ámmátlaš artihkal	ámmátlaš artihkal	fágalaš artihkal	lea fágalaš	
+fagutøver	fágabargi	£				ammattialan harjoittaja		hárjeheaddji	ámmátlaš bargi	fágaduojár	ámmátlaš hárjeheaddji	
 profesjonsutøver	ámmátlaš bargi				ammattialan harjoittaja		ámmátlaš bargi	ámmátlaš bargi	profešuvdnabargár	ámmátlaš hárjeheaddji		
 fagutvikling	ámmátsuorggi ovdáneapmi		fágalas ovdáneapmi			ammattialan kehitys		fágalaš ovdáneapmi	fágalaš ovdáneapmi	fágalaš ovdáneapmi	fágalaš ovdáneapmi	
-fagprosedyre						ammattialan menetelmä; ammattialan toimenpide		fágalaš prosedyra	fágalaš vuohki fágalaš prosedyra	fágavuohki	ámmátmetodanfágalaš doaibmabidju	
-profesjonsfag	ámmátlohkamat					ammattiopinnot		fágalaš fága	fágalaš oahput	profešuvdnafága	profešuvdnaoahppu	
+fagprosedyre	fágalaš prosedyra					ammattialan menetelmä; ammattialan toimenpide		fágalaš prosedyra	fágalaš vuohki fágalaš prosedyra	fágavuohki	ámmátmetodanfágalaš doaibmabidju	
+profesjonsfag	ámmátoahppu		fágalaš oahput			ammattiopinnot		fágalaš fága	fágalaš oahput	profešuvdnafága	profešuvdnaoahppu	
 yrkesrolle	ámmátrolla					ammattirooli		ámmátlaš rolla	ámmátlaš rolla	virgerolla	ámmátrolla	
-profesjonsgrad	ámmátdutkan					ammattitutkinto		fágaoahppu	fágaoahppu	profešuvdnaoahppu	profešuvdnaskuvla	
+profesjonsgrad	ámmátdutkkus	£	ámmátoahppu			ammattitutkinto		fágaoahppu	fágaoahppu	profešuvdnaoahppu	profešuvdnaskuvla	
 morgenmedisin	iđitdálkkas					aamulääke		iđit dálkkas	iđit dálkkas	iđitdálkkas	Iđitguovssu dálkkas	
 morgenrapport	iđitraporta					aamuraportti		iđitdieđáhus	iđitdieđáhus	iđđedieđáhus	iđđedieđáhus	
-anamnese						anamneesi	esitiedot	anamnesa	medisiinnalaš historjá	anamneseansa	ánsu	
-anestesisykepleier			anestesiijabuohccedivššár			anestesiasairaanhoitaja	#anestesia#buohccidikšu	buohccidivššár anestesiija	buohccidivššár anestesiija	anestesibuhccedivššár	anestesiijabuhcci	
-porsjonsstørrelse	attussturrodat					annoskoko		oasi sturrodat	oasi sturrodat	oassesturrodat	sturrodat	
-dosering						annostelu		doasi	doseanta	dálkkodanriekkis	dálkkas	
+anamnese	anamnesa					anamneesi	esitiedot	anamnesa	medisiinnalaš historjá	anamneseansa	ánsu	
+anestesisykepleier	anestesiijabuohccedivššár					anestesiasairaanhoitaja	#anestesia#buohccidikšu	buohccidivššár anestesiija	buohccidivššár anestesiija	anestesibuhccedivššár	anestesiijabuhcci	
+porsjonsstørrelse	attusmearri					annoskoko		oasi sturrodat	oasi sturrodat	oassesturrodat	sturrodat	
+dosering	attašeapmi	£	juohkin; doseringa			annostelu		doasi	doseanta	dálkkodanriekkis	dálkkas	
 antibiotika	antibiohta					antibiootti	#antibiotika	antibiotika	antibiotika	antibiotihkka	antibiotihkka	
 antibiotikabruk	antibiohtageavaheapmi					antibioottien käyttö	#antibiotika atnin	antibiotika geavaheapmi	antibiotihkaid geavaheapmi	antibiotihkageavaheapmi	antibiotihkkageavaheapmi	
 antibiotikabehandling	antibiohtadikšu					antibioottihoito		antibiohtaid dikšun	antibiohtaid dikšun	antibiotihkadikšun	dikšun antibiotihkain	
-hovedpulsåre	váldováibmosuotna					aortta		váldoarteriija	aorta	váldo pulsa	aorta 	
-ganghjelpemiddel						apuväline kävelyyn	#veahkki#gaskoapmi vázzimii	vánddardanveahkki	vánddardanveahkki	vázzinbálggis	veahkkeneavvu vázzimii	
+hovedpulsåre	váldováibmosuotna; aorta					päävaltimo; aortta		váldoarteriija	aorta	váldo pulsa	aorta 	
+ganghjelpemiddel	vázzinveahkeneuvvu					kävelyn apuväline	#veahkki#gaskoapmi vázzimii	vánddardanveahkki	vánddardanveahkki	vázzinbálggis	veahkkeneavvu vázzimii	
 hverdagsrehabilitering	árgaveajuiduhttin					arkikuntoutus	árgaveajuiduhttin	árgabeaivválaš rehabiliteren	árgabeaivválaš rehabiliteren	árgabeaiveajuiduhttin	árkabuvttadeapmi	
 hverdagskunnskap	árgadiehtu					arkitieto	árgadiehtu	árgabeaivválaš máhttu	árgabeaivválaš máhttu	árgabeaivváláš máhttu	arkiivadiehtu	
 sårhet						arkuus		váibmováttut	váibmoláđisvuohta	rašši	árbmu	
