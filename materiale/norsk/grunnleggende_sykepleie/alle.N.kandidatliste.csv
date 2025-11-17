@@ -122,55 +122,54 @@ utfoldelse	rahpašeapmi, beassan	£				avautuminen; vapautuminen	tapahtuminen	ov
 bakterieinvasjon	bakterainvašuvnna					bakteeri-invaasio		bakteriijaid sisabahkken	bakteriijaid sisabahkken	bakteriijainfekšuvdna	bakteriijainfekšuvdna	
 bakterievandring	bakterajohtin					bakteerien kulku	baktearaid johtu	bakteriijaid fárren	bakteriijaid mannan	bakteriija rievdan	bakteriija johtin	
 bakterieflora	bakteraflora					bakteerifloora; mikrobiomi		báktešlájat	báktešlájaid mikrobioma	bakteriijaflora	baktearabiohtalaš mikrobioma	
-
-bakteriestamme						bakteerikanta		bakteriijašládja	bakteriijašládja	bakteriijalaš	baktearabora	
-bakterieoppvekst	bakterašaddu					bakteerikasvu		bakteriijaid šaddan	bakteriijaid šaddan	bakteriija mii šaddá	baktearalaš šaddu	
+bakteriestamme	bakteramáddodat					bakteerikanta		bakteriijašládja	bakteriijašládja	bakteriijalaš	baktearabora	
+bakterieoppvekst	bakterašaddadeapmi					bakteeriviljely		bakteriijaid šaddan	bakteriijaid šaddan	bakteriija mii šaddá	baktearalaš šaddu	
 bakterievekst	bakterašaddu					bakteerikasvu		bakteriijaid šaddan	bakteriijaid šaddan	bakteriija mii šaddá	baktearalaš šaddu	
-bakterietall	bakteramearri					bakteeriluku;  bakteerimäärä		bakteriijaid lohku	bakteriijaid lohku bakteriijaid lohku	bakteriiijalogut	bakteriija mii juhkojuvvo čuovvovaš merrii	
+bakterietall	bakteralohku					bakteeriluku		bakteriijaid lohku	bakteriijaid lohku bakteriijaid lohku	bakteriiijalogut	bakteriija mii juhkojuvvo čuovvovaš merrii	
 bakterietoksin	bakteramirko					bakteerimyrkky		bakteriijamirkko	bakteriijaid goddin	bakteriijatoksiidna	bakteriijamirkofáhta	
 bakterieinnhold	bakteramearri					bakteerimäärä		bakteriijasisdoallu	bakteriijaid lohku	bakteriija mii siskkilda	baktearabora	
-bakteriepanel						bakteeripaneeli		bakteriijapanela	bakteriijapanela	bakteriijapanealla	baktearabaddan	
+bakteriepanel	bakterapanela					bakteeripaneeli		bakteriijapanela	bakteriijapanela	bakteriijapanealla	baktearabaddan	
 bakterietype	bakteratiipa					bakteerityyppi		bakteriijašládja	bakteriijašládja	bakteriijašládja	baktearat tiipa	
-baktericid						bakterisidi	bakteereja tappava aine	bakteriijaid goddin	báktegoddi	bakterisiida	bakterisiida	
-biokjemi						biokemia		biokemiija	biokemiija	biokemia	biokemia	
-biomedisin	biomedisiidna					biolääketiede	dieđa,-ht-:g tiede	biomedisiidna	biomedisiidna	biomedisiidna	biomedisiidna	
+baktericid	bakterasida	£	bakteragoddi			bakterisidi	bakteereja tappava aine	bakteriijaid goddin	báktegoddi	bakterisiida	bakterisiida	
+biokjemi	biokemiija					biokemia		biokemiija	biokemiija	biokemia	biokemia	
+biomedisin	biomedisiidna	biodálkkasdieđa				biolääketiede	dieđa,-ht-:g tiede	biomedisiidna	biomedisiidna	biomedisiidna	biomedisiidna	
 demensomsorg	demeansadikšu					dementiahoito	#dementiadikšu	demeansadikšu	demeansadikšu	demeansadivššu	demeansadálkkodeapmi	
-demenssykdom	demeansabuohcu		muitubuohcu			dementiasairaus	#dementiabuohcu	demeansadávda	demeansadávda	demeansadávda	demeansadávda	
-desibel						desibeli		desibela	desibel	desibála	desibel	
+demenssykdom	demeansabuohcu; muitubuohcu 	£ 	demeansadávda, muitudávda		dementiasairaus	#dementiabuohcu	demeansadávda	demeansadávda	demeansadávda	demeansadávda	
+desibel	desibela					desibeli		desibela	desibel	desibála	desibel	
 desinfeksjonsmiddel	desinfekšuvdnaávnnas					desinfektioaine	desinfekšuvdnaávnnas	desinfiserenávnnas	desinfiserenávnnas	desinfekšuvdnaávnnas	desinfekšuvdnasátni	
-determinant						determinantti	determinánta	mearrideaddji	mearrideaddji	mearrideaddji	determinánta	
+determinant	determinánta					determinantti	determinánta	mearrideaddji	mearrideaddji	mearrideaddji	determinánta	
 diabetesdagbok	diabetesbeaivegirji					diabetespäiväkirja	diabetesbeaivegirji	diabetesbeaivegirji	diabetesjournála	diabetesbeaivegirji	diabetes beaivegirji	
 diagnosesystem	diagnosavuogádat					diagnoosijärjestelmä	diagnosavuogádat	diagnostihkalaš ortnet	diagnosavuogádat	diagnosavuogádat	diagnostalaš systema	
-diagnostisering						diagnosointi		diagnosa	diagnosa	diagnostiseren	diagnostihkka	
+diagnostisering	diagnostiseren					diagnosointi		diagnosa	diagnosa	diagnostiseren	diagnostihkka	
 diagnostikk	diagnostihkka					diagnostiikka		diagnostihkka	diagnostihkka	diagnostihkka	diagnostihkka	
-diakonisse	diakoniijabargi					diakonissa		diakona	diakona	diakoniijaplána		
+diakonisse	diakona					diakonissa		diakona	diakona	diakoniijaplána		
 dialysebehandling	dialysadikšu					dialyysihoito	#dialysadikšu	dialysa dikšun	dialysa dikšun	dialysadikála	dialysadikála	
 diffusjon	diffušuvdna			diffušuvdna		diffuusio	diffušuvdna	diffušuvdna	diffušuvdna	diffušuvdna	diffušuvdna	
 dl	dl		desilihtter			dl	desilitra	dl	Mr	duođalaš	dl	
-p-pille	E-tableahtta					e-pilleri	ehkäisy eastadeapmi,estää eastadit	riegádahttinpillera	e-pill	p-pillar	p-pillar	
-e-helse	e-dearvvašvuođabálvalusat					e-terveyspalvelut		e-dearvvašvuohta	e-dearvvašvuođabálvalusat	e-dearvvašvuohta	e-dearvvašvuođabálvalusat	
-talsperson	ságasteaddji					edustaja  puolesta puhuja	áirras  bealis #hubmi	preassahoavda	ovddasteaddji advokáhtta	ságasteaddji	ovddasteaddji bealálaččas	
-antikonsepsjonsmiddel						ehkäisyaine	prevenšuvdnaávnnas	eastadanvuohki	eastadanvuohki	vuostálasvuohtanávnnas	eastadanávnnas	
-legemiddelsløyfe						ei ole Suomessa	ii leat Suomis	narkotihka	ii leat Suomas	dát	leat Suomas	
-EKG-monitor	EKG-monituvra					EKG-monitori		EKG-čuovvu	EKG-čuovvu	EKG-goziheaddji	EKG-monitor	
-EKG-undersøkelse	EKG-dutkamuš					EKG-tutkimus		EKG-iskkadeapmi	EKG-iskkadeapmi	EKG-iskkus	EKG-iskkus	
-e-konsultasjon	E-konsultašuvdna					eKonsultaatio	etävastaanotto	e-konsultašuvdna	e-gulahallan	e-konsultašuvdna	eKonsultašuvdna	
-vekstmedium						elatusaine		šaddangaskaoapmi	biebmoávnnas	ovdánanmedium	ealáhusášši	
-EPJ-system	elektrovnnalaš buohccimuitalus					elektroninen potilaskertomus  sähköinen potilaskertomus	elektrovnnalaš #buohccimuitalus 	EHR-vuogádat	elektrovnnalaš buohccedieđáhus elektrovnnalaš buohccedieđáhus	EPJ-vuogádat	elektrovnnalaš journála mii lea elektrovnnalaš journála	
+p-pille	e-tableahtta					e-pilleri	ehkäisy eastadeapmi,estää eastadit	riegádahttinpillera	e-pill	p-pillar	p-pillar	
+e-helse	e-dearvvašvuohta					e-terveys		e-dearvvašvuohta	e-dearvvašvuođabálvalusat	e-dearvvašvuohta	e-dearvvašvuođabálvalusat	
+talsperson	ságasteaddji; ovddasteaddji					edustaja  puolesta puhuja	áirras  bealis #hubmi	preassahoavda	ovddasteaddji advokáhtta	ságasteaddji	ovddasteaddji bealálaččas	
+antikonsepsjonsmiddel	eastadanvuohki					ehkäisyväline	prevenšuvdnaávnnas	eastadanvuohki	eastadanvuohki	vuostálasvuohtanávnnas	eastadanávnnas	
+legemiddelsløyfe		£				ei ole Suomessa	ii leat Suomis	narkotihka	ii leat Suomas	dát	leat Suomas	
+EKG-monitor	EKG-monitovra					EKG-monitori		EKG-čuovvu	EKG-čuovvu	EKG-goziheaddji	EKG-monitor	
+EKG-undersøkelse	EKG-dutkamuš			EKG-tutkimus		EKG-iskkadeapmi	EKG-iskkadeapmi	EKG-iskkus	EKG-iskkus	
+e-konsultasjon	e-konsultašuvdna					eKonsultaatio	etävastaanotto	e-konsultašuvdna	e-gulahallan	e-konsultašuvdna	eKonsultašuvdna	
+vekstmedium	šaddadanvuloš					elatusalusta		šaddangaskaoapmi	biebmoávnnas	ovdánanmedium	ealáhusášši	
+EPJ-system	EPJ-systema	£	EPJ-vuogádat			elektroninen potilaskertomus  sähköinen potilaskertomus	elektrovnnalaš #buohccimuitalus 	EHR-vuogádat	elektrovnnalaš buohccedieđáhus elektrovnnalaš buohccedieđáhus	EPJ-vuogádat	elektrovnnalaš journála mii lea elektrovnnalaš journála	
 somatikk	somatihkka					elintoiminnot	*elimelliset doaimmat	somatihkka	deaŧalaš doaimmat	somatihkka	organismmalaš doaibma	
-levekår	eallindilli					elinolot	orgánaeaktoproblema  	eallindiliid váttisvuohta	eallindiliid váttisvuohta eallindiliid váttisvuohta	birgenlági váttisvuohta	birgenlági váttisvuohta	
-organsystem	orgánavuogadat	X	ealavuogadat			elinjärjestelmä	orgánavuogádat	orgánavuogádat	Orgánavuogádat	orgánavuogádat	organiserejuvvon	
+levekår	eallindilli					elinolosuhteet	orgánaeaktoproblema  	eallindiliid váttisvuohta	eallindiliid váttisvuohta eallindiliid váttisvuohta	birgenlági váttisvuohta	birgenlági váttisvuohta	
+organsystem	orgánavuogadat	£	ealavuogadat			elinjärjestelmä	orgánavuogádat	orgánavuogádat	Orgánavuogádat	orgánavuogádat	organiserejuvvon	
 livsbetingelse	eallineaktu					elinehto	orgánaeksisteansagorit	eallindilli	eallindilit	eallineaktu	eallineaktu	
-livsmønster	eallinvuohki					elämäntapa	orgánadáhpi	eallinmálle	eallinvuohki	eallinvuohki	eallinvuohki	
-livsvane	eallindáhpi					elintapa	orgánadáhpi	eallindábit	eallinvuohki	eallinláhki	eallinvuohki	
-næringsmiddelhygiene	borramušgálvobuhtisvuohta					elintarvikehygienia	borramušgálvobuhtisindoallan	biebmohygiena	biebmohygiena	borramušgálvvuid buhtisvuohta	borramušgálvvuid buhtisvuohta	
+livsmønster	eallinmálle	£	eallinvuohki			elämämalli	orgánadáhpi	eallinmálle	eallinvuohki	eallinvuohki	eallinvuohki	
+livsvane	eallindáhpi	£				elämäntapa	orgánadáhpi	eallindábit	eallinvuohki	eallinláhki	eallinvuohki	
+næringsmiddelhygiene	borramušgálvohygienia		borramušgálvobuhtisvuohta			elintarvikehygienia	borramušgálvobuhtisindoallan	biebmohygiena	biebmohygiena	borramušgálvvuid buhtisvuohta	borramušgálvvuid buhtisvuohta	
 organfunksjon	orgánadoaibma					elintoiminto	orgánadoaibma	orgána doaibma	deaŧalaš doaibma	orgánaid doaibma	ealáhusdoaibma	
-organskade	orgánavaháguvvan					elinvaurio	#orgána#vaháguvvan	orgánavahágat	orgánavahágat	siskkáldas struktuvravahát	vuoiŋŋalaš vahát	
-livskraft	eallinfámolaš					elinvoima	eallinvuoibmi	eallinfápmu	fámu	eallinfámolaš	eallinfámolaš	
-leveår	eallinahki					elinvuosi	orgánajahki elinikä	jagi eallin	eallinjahki	eallinahki	eallinjahki	
-livsverden	eallinmáilmmi					elämismaailma	eallit máilbmi	eallima máilbmi	ealli máilbmi	eallinmáilmmi	eallinmáilmmi	
+organskade	orgánavahát					elinvaurio	#orgána#vaháguvvan	orgánavahágat	orgánavahágat	siskkáldas struktuvravahát	vuoiŋŋalaš vahát	
+livskraft	eallinfábmu					elinvoima	eallinvuoibmi	eallinfápmu	fámu	eallinfámolaš	eallinfámolaš	
+leveår	eallinjahki					elinvuosi	orgánajahki elinikä	jagi eallin	eallinjahki	eallinahki	eallinjahki	
+livsverden	eallinmáilbmi					elämismaailma	eallit máilbmi	eallima máilbmi	ealli máilbmi	eallinmáilmmi	eallinmáilmmi	
 livsutfordring	eallinhástalus					elämän haaste	eallit hástalus	eallinhástalus	eallima hástalus	eallinhástalus	eallima hástalus	
-livsytring	eallincealkámuš					elämän ilmentymä	eallit #albmanus	eallima ovdanbuktin	eallima čájeheapmi	eallinbirgejeaddji	eallima albmoneapmi	
+livsytring	eallinmearkka; eallinalbmanus	£				elämän merkki; elämän ilmentymä	eallit #albmanus	eallima ovdanbuktin	eallima čájeheapmi	eallinbirgejeaddji	eallima albmoneapmi	
 livsmulighet	eallinvejolašvuohta					elinmahdollisuus	eallit liiba	eallinvejolašvuohta	eallima vejolašvuohta	eallinvejolašvuohta	eallima vejolašvuohta	
 livshendelse	eallindáhpáhus					elämän tapahtuma	eallit dáhpáhus	eallindáhpáhus	eallindáhpáhus	eallindáhpáhus	eallima dáhpáhus	
 livsfilosofi	eallinfilosofiija					elämänfilosofia	eallinfilosofiija	eallima filosofiija	eallima filosofiija	eallinfilosofiija	eallinfilosofiija	
@@ -178,7 +177,7 @@ livsmot	eallinmokta					elämän into	#eallihállu	roahkkatvuohta eallit	eallima
 livsvilje	eallinhállu					elämänhalu	#eallihállu	dáhttu eallit	eallima hállu	eallin dáhttu	eallinbargu	
 livsglede	eallinillu					elämänilo	#ealliillu	eallima illu	eallima illu	eallinmokta	eallinmokta	
 livserfaring	eallinvásáhus					elämänkokemus	#eallivásihus	eallinvásáhus	eallinvásáhus	eallinvásáhus	eallimavásáhus	
-livkvalitetsbegrep	eallindássodoaba		eallinkvaliteahta doaba			elämänlaadun käsite	#eallidásu doaba	eallinkvalitehta konseapta	eallinkvalitehta doahpagat	eallinkvaliteahta doaba	eallinkvalitehta doaba	
+livkvalitetsbegrep	eallindásidoaba		eallinkvaliteahta doaba			elämänlaadun käsite	#eallidásu doaba	eallinkvalitehta konseapta	eallinkvalitehta doahpagat	eallinkvaliteahta doaba	eallinkvalitehta doaba	
 livskvalitetsproblem	eallindássočuolbma					elämänlaatuongelma	#ealli#dássuproblema	eallinkvalitehta váttisvuohta	eallinkvalitehta váttisvuohta	eallinkvalitehtačuolbma	eallinkvalitehtačuolbma	
 livslang	eallinguhkásaš					elämänpituinen	eallinguhkkosaš	eallinagi	eallinagi	eallingeardi	olles eallinagi bistán	
 livsstilsfaktor	eallinvuohkefáktor					elämäntapatekijä 	eallinvuohkái #čuohcit #dahkki 	eallindábiid fáktor	fáktor mii váikkuha eallinvuohkái	eallinvuohkefáktor	eallinvuohkái	
