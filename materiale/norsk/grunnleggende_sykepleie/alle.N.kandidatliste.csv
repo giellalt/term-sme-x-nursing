@@ -98,15 +98,15 @@ evalueringsskjema	árvvoštallanskovvi					arviointilomake	evaluerenskovvi	árvv
 vurderingsprosess	árvvoštallanproseassa					arviointiprosessi	evaluerenproseassa	árvvoštallanproseassa	árvvoštallanproseassa	árvvoštallanproseassa	árvvoštallanproseassa	
 verdikonflikt	árvoruossalasvuohta		árvokonflikta			arvokonflikti	arvoristiriita	árvoriiddu	árvoriiddu	árvokonflikta	árvokonflikta	árvokonflikta
 verdimodell	árvomálle					arvomalli	árvomálle	árvomodealla	árvomodealla	árvomálle	árvomálle	
-stillingsendring	stellelmasdikšun	asentohoito			asennonvaihto	#stellelmas#molsuheapmi	sajádaga rievdadus	sajádaga rievdadus	rievdadeapmi	miellaguottuid molsun	
+stillingsendring	stellelmasdikšun	asentohoito			asennonvaihto	#stellelmas#molsuheapmi	sajádaga rievdadus	sajádaga rievdadus	rievdadeapmi	miellaguottuid molsun		
 stillingsforandring	stellelmasmolsun	£				asennonvaihto	#stellelmas#molsuheapmi	sajádaga rievdadus	sajádaga rievdadus	posišuvdnarievdadus	miellaguottuid molsun	
 leiring	seaŋgapatienta	£	seaŋgabuohcci			asentohoito; vuodepotilas	stellelmasdikšu	leaira	čuozáhatterapiija	leairas	miellaguoddoaddin	
-acetylsalisylsyre	asetylasalisyvdasirva					asetyylisalisyylihappo		asetylsalisylasyra	asetylsalisylasyra	acetylsalicylsyrra	acetylsalicylsyra	
-brukerstyring	geavaheaddjistivren; patientastivren	£				potilaslähtöisyys; käyttäjälähtöisyys	geavaheaddjihálddašeapmi	áššehasorienteren	geavaheaddjistivren	áššehasgullevašvuohta	
+acetylsalisylsyre	asetylasalisivra					asetyylisalisyylihappo		asetylsalisylasyra	asetylsalisylasyra	acetylsalicylsyrra	acetylsalicylsyra	
+brukerstyring	geavaheaddjistivren; patientastivren	£				potilaslähtöisyys; käyttäjälähtöisyys	geavaheaddjihálddašeapmi	áššehasorienteren	geavaheaddjistivren	áššehasgullevašvuohta		
 forbrukerundersøkelse	buohcciduhtavašvuohtadutkan		geavaheaddjiduhtavašvuohtadutkan			asiakastyytyväisyystutkimus; potilastyytyväisyystutkimus	kunddardutkan #buohcci#duhtavašvuohtadutkan	geavaheaddjiiskkadeapmi	kundaiskkadeapmi pasieantta duhtavašvuođaiskkadeapmi	geavaheddjiid iskkadeapmi	buohcci duhtavašvuođaiskkadeapmi	
 ekspertsammenslutning	áššedovdijoavku					asiantuntijasyhmä		áššedovdisearvi	áššedovdi duššás	áššedovdiid čoahkádus	áššedovdi joavku	
 aspirasjon	aspirašuvdna					aspiraatio	keuhkoihin vetäminen	áigumuš	áigumuš	aspiránsa	aspiránta	aspirašuvdna
-aspirere    aspireret						aspiroida	vetää henkeen pois	áigu	aspireret	aspiránttat	aspiriidna	
+aspirere  	aspireret					aspiroida	vetää henkeen pois	áigu	aspireret	aspiránttat	aspiriidna	
 balje	lihtti					astia	allas	tub	fanas	dušši	láigi	lihtti
 astmaanfall	ástmádohppehallan					astmakohtaus	#ástmá#dohppehallat	astmafalleheamit	astmafalleheapmi	astmakanálat	astmakoarta	
 bofellesskap	ássansearvvuš					asumisyhteisö	orrot orgána	ovttasássan	viessohuksensearvi	ássansearvevuohta	ássangielda	
@@ -134,7 +134,7 @@ baktericid	bakterasida	£	bakteragoddi			bakterisidi	bakteereja tappava aine	bak
 biokjemi	biokemiija					biokemia		biokemiija	biokemiija	biokemia	biokemia	
 biomedisin	biomedisiidna	biodálkkasdieđa				biolääketiede	dieđa,-ht-:g tiede	biomedisiidna	biomedisiidna	biomedisiidna	biomedisiidna	
 demensomsorg	demeansadikšu					dementiahoito	#dementiadikšu	demeansadikšu	demeansadikšu	demeansadivššu	demeansadálkkodeapmi	
-demenssykdom	demeansabuohcu; muitubuohcu 	£ 	demeansadávda, muitudávda		dementiasairaus	#dementiabuohcu	demeansadávda	demeansadávda	demeansadávda	demeansadávda	
+demenssykdom	demeansabuohcu; muitubuohcu 	£ 	demeansadávda, muitudávda		dementiasairaus	#dementiabuohcu	demeansadávda	demeansadávda	demeansadávda	demeansadávda		
 desibel	desibela					desibeli		desibela	desibel	desibála	desibel	
 desinfeksjonsmiddel	desinfekšuvdnaávnnas					desinfektioaine	desinfekšuvdnaávnnas	desinfiserenávnnas	desinfiserenávnnas	desinfekšuvdnaávnnas	desinfekšuvdnasátni	
 determinant	determinánta					determinantti	determinánta	mearrideaddji	mearrideaddji	mearrideaddji	determinánta	
@@ -152,7 +152,7 @@ talsperson	ságasteaddji; ovddasteaddji					edustaja  puolesta puhuja	áirras  b
 antikonsepsjonsmiddel	eastadanvuohki					ehkäisyväline	prevenšuvdnaávnnas	eastadanvuohki	eastadanvuohki	vuostálasvuohtanávnnas	eastadanávnnas	
 legemiddelsløyfe		£				ei ole Suomessa	ii leat Suomis	narkotihka	ii leat Suomas	dát	leat Suomas	
 EKG-monitor	EKG-monitovra					EKG-monitori		EKG-čuovvu	EKG-čuovvu	EKG-goziheaddji	EKG-monitor	
-EKG-undersøkelse	EKG-dutkamuš			EKG-tutkimus		EKG-iskkadeapmi	EKG-iskkadeapmi	EKG-iskkus	EKG-iskkus	
+EKG-undersøkelse	EKG-dutkamuš			EKG-tutkimus		EKG-iskkadeapmi	EKG-iskkadeapmi	EKG-iskkus	EKG-iskkus			
 e-konsultasjon	e-konsultašuvdna					eKonsultaatio	etävastaanotto	e-konsultašuvdna	e-gulahallan	e-konsultašuvdna	eKonsultašuvdna	
 vekstmedium	šaddadanvuloš					elatusalusta		šaddangaskaoapmi	biebmoávnnas	ovdánanmedium	ealáhusášši	
 EPJ-system	EPJ-systema	£	EPJ-vuogádat			elektroninen potilaskertomus  sähköinen potilaskertomus	elektrovnnalaš #buohccimuitalus 	EHR-vuogádat	elektrovnnalaš buohccedieđáhus elektrovnnalaš buohccedieđáhus	EPJ-vuogádat	elektrovnnalaš journála mii lea elektrovnnalaš journála	
@@ -177,21 +177,21 @@ livsmot	eallinmokta					elämän into	#eallihállu	roahkkatvuohta eallit	eallima
 livsvilje	eallinhállu					elämänhalu	#eallihállu	dáhttu eallit	eallima hállu	eallin dáhttu	eallinbargu	
 livsglede	eallinillu					elämänilo	#ealliillu	eallima illu	eallima illu	eallinmokta	eallinmokta	
 livserfaring	eallinvásáhus					elämänkokemus	#eallivásihus	eallinvásáhus	eallinvásáhus	eallinvásáhus	eallimavásáhus	
-livkvalitetsbegrep	eallindásidoaba		eallinkvaliteahta doaba			elämänlaadun käsite	#eallidásu doaba	eallinkvalitehta konseapta	eallinkvalitehta doahpagat	eallinkvaliteahta doaba	eallinkvalitehta doaba	
-livskvalitetsproblem	eallindássočuolbma					elämänlaatuongelma	#ealli#dássuproblema	eallinkvalitehta váttisvuohta	eallinkvalitehta váttisvuohta	eallinkvalitehtačuolbma	eallinkvalitehtačuolbma	
-livslang	eallinguhkásaš					elämänpituinen	eallinguhkkosaš	eallinagi	eallinagi	eallingeardi	olles eallinagi bistán	
+livkvalitetsbegrep	eallinkvaliteahta doaba 		eallindásidoaba			elämänlaadun käsite	#eallidásu doaba	eallinkvalitehta konseapta	eallinkvalitehta doahpagat	eallinkvaliteahta doaba	eallinkvalitehta doaba	
+livskvalitetsproblem	eallinkvaliteahtačuolbma		eallindássičuolbma			elämänlaatuongelma	#ealli#dássuproblema	eallinkvalitehta váttisvuohta	eallinkvalitehta váttisvuohta	eallinkvalitehtačuolbma	eallinkvalitehtačuolbma	
+livslang	eallinguhkkosaš					elämänpituinen	eallinguhkkosaš	eallinagi	eallinagi	eallingeardi	olles eallinagi bistán	
 livsstilsfaktor	eallinvuohkefáktor					elämäntapatekijä 	eallinvuohkái #čuohcit #dahkki 	eallindábiid fáktor	fáktor mii váikkuha eallinvuohkái	eallinvuohkefáktor	eallinvuohkái	
 livsstilsendring	eallinvuohkerievdadeapmi					elämäntapamuutos	eallinvuohkeiežáhus	eallindábiid rievdadeapmi	eallindábiid rievdadeapmi	eallinvuogi rievdan	eallinvuohkeheapmi	
-livshistorie	eallinmuitalus		eallingeardi			elämäntarina	#eallimáinnas	eallinhistorjá	eallinmuitalus dahje biografiija	mu eallinmuitalus	muitalus eallimis	
-emboli	varrabunci					embolia	veritulppa	emboliija	emboliija	embryo	embolia	
-emisjon						emissio	säteily	ášši	luoitin	emisuvdna	emis	
+livshistorie	eallinmuitalus		eallinhistorjá			elämäntarina	#eallimáinnas	eallinhistorjá	eallinmuitalus dahje biografiija	mu eallinmuitalus	muitalus eallimis	
+emboli	emboliija		varrabunci			embolia	veritulppa	emboliija	emboliija	embryo	embolia	
+emisjon	emišuvdna		suonjardeapmi			emissio	säteily	ášši	luoitin	emisuvdna	emis	
 empatievne	empátiijanákca					empatiakyky	empatiijagálga	empatiija	empatiija	empáhtalaš	empatiija	
 skjedekrampe	cinnákrámpa					emätinkouristus		vaginála spasma	vaginála spasma	skáhppesdávda	konfirmašuvdna	
-skjedeåpning	cinnáráigi					emättimen aukko	viiggá ráigi	vaginála rahpan	vaginála rahpan	skohterláhppu	cinni ráigi	
-skjedekatarr						emättimen bakteeritasapainon häiriö bakteerivaginoosi	viiggá 	čalbmeváttut	bakteriijalaš vaginosa, mii lea hehttehus bakteriijaid balánssas vaginas	skideekatarr	bakteriavaginnosa siskkáldas struktuvrralaš váikkuhus	
-skjedevegg	cinná seaidni					emättimen seinämä  vaginan seinämä	viiggá seaidni  viiggá seaidni	vaginála seinni	vaginála seinni vaginála seinni	skáhppesmuorji	gutnána seaidni, gutnána seaidni	
-kjernejournal						en digital løsning for deling av pasientenes helseopplysninger på tvers av virksomheter og nivåer i helsevesenet	in *digital *løsning *for *deling *av *pasientenes *helseopplysninger *på *tvers *av *virksomheter *og 	guovddáš áigečála	sme digitála čoavddus pasieanttaid gieđahallamii veahkkeneavvuid ektui	váldojournála	digitála čoavddus mas dearvvašvuođadoaimmahaga doaimmahagat ja dásit juhket pasieanttaid dearvvašvuođadieđuid	
-energiomsetning						energia-aineenvaihdunta	#alva#ávnnasmolsašuvvan	energiijavuogádat	energiijametabolisma	energiijamolsun	energiija molsašuddan	
+skjedeåpning	cinnáráigi					emätinaukko	viiggá ráigi	vaginála rahpan	vaginála rahpan	skohterláhppu	cinni ráigi	
+skjedekatarr	cinnávuolši					emätintulehdus	viiggá 	čalbmeváttut	bakteriijalaš vaginosa, mii lea hehttehus bakteriijaid balánssas vaginas	skideekatarr	bakteriavaginnosa siskkáldas struktuvrralaš váikkuhus	
+skjedevegg	cinnáseaidni					emättimen seinämä  vaginan seinämä	viiggá seaidni  viiggá seaidni	vaginála seinni	vaginála seinni vaginála seinni	skáhppesmuorji	gutnána seaidni, gutnána seaidni	
+kjernejournal	váibmojournála					ydinraportti	in *digital *løsning *for *deling *av *pasientenes *helseopplysninger *på *tvers *av *virksomheter *og 	guovddáš áigečála	sme digitála čoavddus pasieanttaid gieđahallamii veahkkeneavvuid ektui	váldojournála	digitála čoavddus mas dearvvašvuođadoaimmahaga doaimmahagat ja dásit juhket pasieanttaid dearvvašvuođadieđuid	
+energiomsetning	energiijaávnnasmolsašuddan					energia-aineenvaihdunta	#alva#emisjon	energiijavuogádat	energiijametabolisma	energiijamolsun	energiija molsašuddan	
 energimengde	energiijamearri					energiamäärä	alvamearri	energiijamearri	energiijamearri	energiija hivvodat	energiija hivvodat	
 energiforbruk	energiijageavaheapmi					energiankulutus	alvvagolahus	energiijageavaheapmi	energiijageavaheapmi	energiijageavaheapmi	energiijagolaheapmi	
 energiinntak	energiijaoažžun					energiansaanti	alvvaoažžun	energiijaváldin	energiijaváldin	energiijavuostáiváldin	energiijafuolla	
