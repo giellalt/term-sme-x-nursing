@@ -284,20 +284,20 @@ oksygenutstyr	oksygenarusttet			oksygenarusttet		happilaite	oksygenarusttet	oksy
 surstoffapparat	oksygenarusttet			suvreáhparáhttá		happilaite	oksygenarusttet	oksygena rusttegat	oksygena rusttet	happivuođarusttegat	happinrusttegat	
 oksygeninnhold	oksygenadoallu			oksygenasisdoallu		happipitoisuus	oksygenasisdoallu	oksygena sisdoallu	oksygena sisdoallu	oksygenasealli	happisvuohta	
 oksygennivå	oksygenadássi			oksygenadássi		happitaso	oksygenadássi	oksygena dássi	oksygena dássi	oksygenadássi	happodatdássi	
-oksygensbrille	oksygenasepmonat			oksygena-čalbmeglása		happiviikset	oksygenaskávžžát	oksygenamáska	oksygena njuoratmánná	Oxygena-čalbmeglása	happivuohta	
-syreangrep	sivrefalleheapmi			suvredohppeheapmi 		happohyökkäys	suvrefalleheapmi	syrafalleheapmi	syrafalleheapmi	suvrra arvi	happirihkkun	
-syrekapp	suvrelihpar					happovaippa	suvrelihpar	syramantel	syramantel	suvrra gahpir	happisuvdna	
-syrekappe	suvrelihpar					happovaippa	suvrelihpar	syramantel	syramantel	suddadanbivttas	happisuvdna	
+oksygensbrille	oksygenabrillat	£	oksygenanjunnekanyla	oksygena-čalbmeglása		happiviikset	oksygenaskávžžát	oksygenamáska	oksygena njuoratmánná	Oxygena-čalbmeglása	happivuohta	
+syreangrep	suvrefalleheapmi			suvredohppeheapmi 		happohyökkäys	suvrefalleheapmi	syrafalleheapmi	syrafalleheapmi	suvrra arvi	happirihkkun	
+syrekapp	suvrelihpar	£				happovaippa	suvrelihpar	syramantel	syramantel	suvrra gahpir	happisuvdna	
+syrekappe	suvrelihpar	£				happovaippa	suvrelihpar	syramantel	syramantel	suddadanbivttas	happisuvdna	
 syreoverskudd	suvrebadjebáza			suvrebadjebáza		happoylijäämä	suvrebadjebáza	liigesyra	syra badjelmeare	suddadanbadjebáza	oksygenbázahus	
 feiltrinn	boasttolávki			boasttuvuohta		harha-askel	govahallanlávki	vealaheapmi	boastut lávki	boasttuvuohta	árdnagiisá	
-praksisperiode	hárjehusáigodat		hárjehusoassi	hárjehallanáigodat 		harjoitusjakso	hárjehusoassi	bargohárjehallanáigodat	hárjehallan	praksisaáigodat	hárjehallanáigi	
-øvingsprogram	hárjehusprográmma			hárjehallanprográmma		harjoitusohjelma	hárjehusprográmma	hárjehallanprográmma	hárjehallanprográmma	hárjehallanprográmma	hárjehallanprográmma	
-treningsregime	hárjehusprográmma			hárjehallanvuohki		harjoitusohjelma	hárjehusprográmma	hárjehallanortnet	hárjehallanprográmma	hárjehallanvuohki	hárjehallanprográmma	
+praksisperiode	hárjehallansáigodat		hárjehusoassi	hárjehallanáigodat 		harjoittelujakso	hárjehusoassi	bargohárjehallanáigodat	hárjehallan	praksisaáigodat	hárjehallanáigi	
+øvingsprogram	hárjehusprográmma	£	hárjehallanprográmma		harjoitusohjelma	hárjehusprográmma	hárjehallanprográmma	hárjehallanprográmma	hárjehallanprográmma	hárjehallanprográmma		
+treningsregime	hárjehállanprográmma	£		hárjehallanvuohki		harjoitusohjelma	hárjehusprográmma	hárjehallanortnet	hárjehallanprográmma	hárjehallanvuohki	hárjehallanprográmma	
 gisping	gávvasat					haukottelu	gávas=haukotus	njuoratmánná	njuoratmánná	gessun	cielaheapmi	
-skrøpelighet			mitä tarkoittaa?	dárpmehisvuohta 		hauraus; raihnaus		váibmoláđisvuohta	ráfálašvuohta	rašši	hui rašši	
-persepsjon	áicat			áican		havaitseminen	áicat	áican	gávdnan	persepšuvdna	áican	
-fruktjuice	šattossákta					hedelmätuoremehu	heđenmáihli	šaddojuogu	ođđa šaddojuogu	šattusčáhci	šattut ja šaddogálvvut	
-ømhet	gierisvuohta					hellyys	herkkyys	váibmoláđisvuohta	váibmoláđisvuohta	hearkkesvuohta	hearkivuohta	
+skrøpelighet	geanohisvuohta			dárpmehisvuohta 		hauraus; raihnaus		váibmoláđisvuohta	ráfálašvuohta	rašši	hui rašši	
+persepsjon	dárkun			áican		havainto	áican	gávdnan	persepšuvdna	áican		
+fruktjuice	heđenmáihli 		hedelmämehu	heđenmáihli	šaddojuogu	ođđa šaddojuogu	šattusčáhci	šattut ja šaddogálvvut				
+ømhet	raššivuohtavuohta					hellyys, arkuus	váibmoláđisvuohta	váibmoláđisvuohta	hearkkesvuohta	hearkivuohta		
 hemoglobinverdi	hemoglobiidnaárvu					hemoglobiiniarvo	hemoglobiidnaárvu	hemoglobiinna árvu	hemoglobiinna árvu	hemoglobiidnaárvu	hemoglobiidnaárvu	
 hemoglobinkonsentrasjon						hemoglobiinikonsentraatio		hemoglobiinna konsentrašuvdna	hemoglobiinna konsentrašuvdna	hemoglobiinna mearit	hemoglobiinna mearit	
 hemoglobinmolekyl						hemoglobiinimolekyyli	hemoglobiidnamolekyla	hemoglobiinna molekyla	hemoglobiinna molekyla	hemoglobiidnamolekyla	hemoglobiidnamolekyla	
