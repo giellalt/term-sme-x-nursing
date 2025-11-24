@@ -198,57 +198,57 @@ energiinntak	energiijaoažžun					energiansaanti	alvvaoažžun	energiijaváldin
 ernæringsbehov	energiijadárbu					energiantarve	alvvadárbu	biebmodárbbut	energiijadárbu	biebmodárbu	energiijadárbu	
 energirik	energiijarikkis					runsasenerginen		energiijalaš	alla energiija, alla energiija?	ollu energiija	ollu energiija	
 energiprosent	energiijaproseanta					energiaprosentti	alvaproseanta	energiijaproseanta	energiijaproseanta	energiijaproseanta	energiijaproseanta	
-næringstett						ravintotiheä		biebmoávdnasat	alla energiija	ealáhuslaččat nanu	energiijarikkis	
+næringstett	biebmorikkis					ravintotiheä		biebmoávdnasat	alla energiija	ealáhuslaččat nanu	energiijarikkis	
 energiinnhold	energiijasisdoallu					energiasisältö	alvasisdoallu	energiijasisdoallu	energiijasisdoallu	energiijasisdoallu	energiijačoahkki	
-energitetthet						energiatiheys	#alva#deahtisvuohta	energiijadeaddu	energiijadeaddu	energiijavuođđu	energiijahivvodat	
+energitetthet	energiijadeahtisvuohta					energiatiheys	#alva#deahtisvuohta	energiijadeaddu	energiijadeaddu	energiijavuođđu	energiijahivvodat	
 alarmsymptom	ovdadávdamearka					ennakko-oire  esioire	*ennakko-symptoma  	heahtedávdamearka	ovdal dávdamearkka ovdal dávdamearkka	alarmsymbol	ovdaáddejumi ovdaáddejupmi	
-epikrise			dikšumuitalus			epikriisi	hoitotiivistelmä, hoitokertomus	epikriisa	epikriisa	epikriseansa	epikritihkka	
-epitelcelle						epiteelisolu		epiteliijasealla	epiteliijasealla	epitelealla	epihttalaš sealla	
+epikrise	epikrisa		dikšumuitalus, loahpamuitalus			epikriisi	hoitoyhteenveto, loppulausunto	epikriisa	epikriisa	epikriseansa	epikritihkka	
+epitelcelle	epiteliijasealla					epiteelisolu		epiteliijasealla	epiteliijasealla	epitelealla	epihttalaš sealla	
 ereksjonsproblem	erekšuvdnaproblema					erektio-ongelma	erekšuvdnaproblema	erekšuvnnalaš dysfunkšuvdna	erekšuvnnalaš dysfunkšuvdna	erekšuvdnaváttisvuohta	erekšuvdnaváttisvuohta	
-ereksjonsevne						erektiokyky	erekšuvdnagálga	erekšuvnna doaibma	erekšuvnnalaš dáidu	erekšuvdnadássi	ceagginnávccat	
-ereksjonspumpe						erektiopumppu	erekšuvdnapumpa	erekšuvdnapumpa	erekšuvdnapumpa	erekšuvdnapumpa	erekšunbumpa	
-spesialseng	spesiálaseaŋga					erikoissänky		erenoamáš seaŋga	erenoamáš seaŋga	erenoamáš seaŋga	erenoamáš seaŋga	
-spesialistgodkjenning	sierraneami dohkkeheapmi			spesialiserendohkkeheapmi		erikoistumisen hyväksyntä	sierraneami dohkkeheapmi	spesialistadohkkeheapmi	spesialiserema dohkkeheapmi	spesialistaguorahallan	spesialiseren dohkkeheapmi	
-LIS-lege				doavttir spesialistaoahpahusas 		erikoistuva lääkäri	*erikoistuva doavttir	LIS-doavttir	spesialistadoavttir	LIS-doavttir	spesialista doavttir	
-sekresjonsmengde	vuhčos mearri					eritteen määrä	#čuolddašupmi #mearri	eretváldinmearri	eretváldima mearri	sekšuvdnadássi	ekskreantamearri	
-eliminasjon	vuohčun					eritys	vuohčun	heaittiheapmi	eretváldin	heaittiheapmi	erekšon	
-foldtykkelse						esim. niskapoimun paksuus	*esim. *niskapoimun assodat	čalbmáičuohcci assásvuohta	omd. hávgga njuolggočalmmi guhkkodat.	čihkojuvvon	omd nástti roahkasnuppi guvlui	
-eksempellæring				ovdamearkkaoahppu		esimerkin avulla oppiminen	eksempela veahkis oahppat	oahppat ovdamearkka bokte	oahppat ovdamearkka bokte	ovdamearkkaoahppu	oahppat ovdamearkkaid bokte	
-helsehistorie	dearvvašvuođahistorjá	?	dearvvašvuođadiehtu 	dearvvašvuođadiehtu 		terveydenhuollon historia	*esitiedot *anamneesi  healssadikšuma historjá 	dearvvašvuođahistorjá	Eaktun anamnesa dearvvašvuođahistorjá	dearvvašvuođahistorjá	ovdadieđut anakeahta dearvvašvuođafuolahusa historjjás	
+ereksjonsevne	erekšuvdnanákca					erektiokyky	erekšuvdnagálga	erekšuvnna doaibma	erekšuvnnalaš dáidu	erekšuvdnadássi	ceagginnávccat	
+ereksjonspumpe	erekšuvdnapumpa					erektiopumppu	erekšuvdnapumpa	erekšuvdnapumpa	erekšuvdnapumpa	erekšuvdnapumpa	erekšunbumpa	
+spesialseng	erenoamáš seaŋga					erikoissänky		erenoamáš seaŋga	erenoamáš seaŋga	erenoamáš seaŋga	erenoamáš seaŋga	
+spesialistgodkjenning	spesiáladoavttirdohkkeheapmi	£	earenomášdoavttirdohkkeheapmi	spesialiserendohkkeheapmi		erikoistumisen hyväksyntä	sierraneami dohkkeheapmi	spesialistadohkkeheapmi	spesialiserema dohkkeheapmi	spesialistaguorahallan	spesialiseren dohkkeheapmi	
+LIS-lege	LIS-doavttir	£	doavttir spesiálistaoahpus	doavttir spesialistaoahpahusas 		erikoistuva lääkäri	*erikoistuva doavttir	LIS-doavttir	spesialistadoavttir	LIS-doavttir	spesialista doavttir	
+sekresjonsmengde	vuhčosmearri					eritteen määrä	#čuolddašupmi #mearri	eretváldinmearri	eretváldima mearri	sekšuvdnadássi	ekskreantamearri	
+utskillelse	vuoža					erite	vuohčun	heaittiheapmi	eretváldin	heaittiheapmi	erekšon	
+foldtykkelse	máhcastatassodat	£				taitospaksuus	*esim. *niskapoimun assodat	čalbmáičuohcci assásvuohta	omd. hávgga njuolggočalmmi guhkkodat.	čihkojuvvon	omd nástti roahkasnuppi guvlui	
+eksempellæring	ovdamearkkaoahppu			ovdamearkkaoahppu		esimerkinoppiminen	eksempela veahkis oahppat	oahppat ovdamearkka bokte	oahppat ovdamearkka bokte	ovdamearkkaoahppu	oahppat ovdamearkkaid bokte	
+helsehistorie	dearvvašvuođahistorjá		dearvvašvuođadiehtu 		terveydenhuollon historia; terveyshistoria	*esitiedot *anamneesi  healssadikšuma historjá 	dearvvašvuođahistorjá	Eaktun anamnesa dearvvašvuođahistorjá	dearvvašvuođahistorjá	ovdadieđut anakeahta dearvvašvuođafuolahusa historjjás		
 anamneseskjema	ovdadiehtoskovvi					esitietolomake		medisiinnalaš historjjá skovvi	ovdadiehtojuohkinskovi	lea jeagelskovvi	ovdadiehtovuorká	
-forforståelse	ovdaáddejupmi			ovdaipmárdus 		esiymmärrys		ovdaáddejupmi	ovdaáddejupmi	ovdaáddejupmi	ovdaáddejupmi	
-hemning	caggaseapmi					esto	caggaseapmi	eastadeapmi	eastadeapmi	hehttehussan	eastta	
+forforståelse	ovdaáddejupmi; ovdaipmárdus			ovdaipmárdus 		ennakkokäsitys		ovdaáddejupmi	ovdaáddejupmi	ovdaáddejupmi	ovdaáddejupmi	
+hemning	caggaseapmi	£				esto	caggaseapmi	eastadeapmi	eastadeapmi	hehttehussan	eastta	
 østrogen	estrogena					estrogeeni	østrogena	østrogena	østrogena	estrogena	estrogena	
 østrogentilskudd	estrogenalassi					estrogeenilisä	østrogenalassi	østrogena lasáhus	østrogena lassiávnnas	østrogenttilskudd	østrogena lasáhus	
-østrogenproduksjon						estrogeenin tuotanto	østrogena duddjon	østrogena buvttadeapmi	østrogena buvttadeapmi	estrogena buvttadeapmi	estrogenabuvttadeapmi	
+østrogenproduksjon	estrogenabuvttadeapmi					estrogeenin tuotanto	østrogena duddjon	østrogena buvttadeapmi	østrogena buvttadeapmi	estrogena buvttadeapmi	estrogenabuvttadeapmi	
 østrogennivå	estrogenadássi					estrogeenitaso	østrogenadássi	østrogena dássi	østrogena dássi	østrogena dássi	østrogena dássi	
-østrogenfall	estrogenadási geahpádus					estrogeenitason lasku	østrogenadási rehket	østrogena lassáneapmi	østrogena dási lassáneapmi	estrogena vuosttaldeapmi	østrogena njiedjan	
+østrogenfall	estrogenagahččan					estrogeenilasku	østrogenadási rehket	østrogena lassáneapmi	østrogena dási lassáneapmi	estrogena vuosttaldeapmi	østrogena njiedjan	
 østrogenmangel	estrogenavátni					estrogeenivaje		østrogena váilevašvuohta	østrogena váilevašvuohta	estrogena váilivuohta	eastrogena vátni	
-prostatakjertel	ovdaráksá			ovdaráksá		eturauhanen	ávkeráksá	prostata	prostata	ovdaráksá raksa	ovdaraksa	
-prostataoperasjon	ovdarávssáčuohpahus			ovdarávssáčuohpahus 		eturauhasleikkaus		prostatakirurgiija	prostatakirurgiija	ovdaráksakirurgiija	ovdaráksá čuohpadeapmi	
-prostatabesvær	ovdarávssáváivi			ovdaráksá váttut 		eturauhasvaiva		prostataváttisvuohta	prostataváttisvuohta	ovdaráksáshkka	ovdaráksáváivvit	
+prostatakjertel	prostata 	£	ovdaráksá	ovdaráksá		eturauhanen	ávkeráksá	prostata	prostata	ovdaráksá raksa	ovdaraksa	
+prostataoperasjon	prostatačuohpahus		ovdarávssáčuohpahus	ovdarávssáčuohpahus 		eturauhasleikkaus		prostatakirurgiija	prostatakirurgiija	ovdaráksakirurgiija	ovdaráksá čuohpadeapmi	
+prostatabesvær	prostataváttu		ovdaráksáváttut	ovdaráksá váttut 		eturauhasvaiva		prostataváttisvuohta	prostataváttisvuohta	ovdaráksáshkka	ovdaráksáváivvit	
 EU-direktiv	EU-direktiiva					EU-direktiivi		EU-direktiiva	EU-direktiiva	EU:a direktiiva	EU-direktiiva	
-evidens	duođaštus					evidenssi	näyttö	duođaštus	duođaštusat	duođalaš	vuolláneapmi	
+evidens	duođaštus					evidenssi; todiste	näyttö	duođaštus	duođaštusat	duođalaš	vuolláneapmi	
 farmasi	farmasiija					farmasia		apotehka	apotehka	apotehka	apotehka	
 fibromyalgi	fibromyalgiija					fibromyalgia		fibromyalgiija	fibromyalgiija	fibromyalgiija	fibromyalgia (fibromyalgia)	
-fissur	uddu		fissuvra			fissuura  halkeama  haavauma	*fissuura  *halkeama  uddu	fissure	fissure split ulcer	fiissu	fissu mii lea cuovkanan hávvái	
-fistel						fisteli		fistula	fistula	meavrresgárri	fásta	
-fluor						fluori		fluora	fluora	fluor	fluor	
-kroppskontakt	fysalaš kontákta		rumašlaš kontákta	rumaš guoskkahallan 		fyysinen kontakti	#fysalaš kontákta	rumašoktavuohta	fysalaš oktavuohta	rumašoktavuohta	fysalaš oktavuohta	
+fissur	fissuvra		uddu			fissuura  halkeama  haavauma	*fissuura  *halkeama  uddu	fissure	fissure split ulcer	fiissu	fissu mii lea cuovkanan hávvái	
+fistel	fistela					fisteli		fistula	fistula	meavrresgárri	fásta	
+fluor	fuolahusárvosaš					fluori		fluora	fluora	fluor	fluor	
+kroppskontakt	gorutkontákta		rumašlaš kontákta	rumaš guoskkahallan 		fyysinen kontakti	#fysalaš kontákta	rumašoktavuohta	fysalaš oktavuohta	rumašoktavuohta	fysalaš oktavuohta	
 genetikk	genetihkka					genetiikka	perinnöllisyystiede	genetihkka	genetihkka	genehtalaš ášši	genetihkka	
 glukoseintoleranse	glukosaintoleránsa					glukoosi-intoleranssi	Glukosa #yliherkkyys liikehearkivuohta	glukosaváilevašvuohta	glukosaváilevašvuohta	glykosa-geaseheapmi	glukosa-geahnohisvuohta	
 glutenintoleranse	glutenaintoleránsa					gluteeni-intoleranssi	#glutenaintoleránsa, liikehearkivuohta	glutenváilevašvuohta	glutenváilevašvuohta	gluteenageavaheapmi	gluteenageavaheapmi	
 glykogen	glykogena					glykogeeni	glykogena	glykogena	glykogena	glykogenalaš	gáhppálat	
 glykogenlager	glykogenarádju					glykogeenivarasto	glykogenarádju	glykogena gálvvut	glykogena vurken	glykogeanavuorká	glykogeanavuorká	
-glyserol						glyseroli		glyserola	glyserola	gliserola	gliserola	
+glyserol	glyserola					glyseroli		glyserola	glyserola	gliserola	gliserola	
 sårsekresjon	hávvevuoža					haavaerite	#hávvi#čuolddašupmi	hávve eretváldin	hávveeksudahta	hávvesekšuvdna	hávvaovdaáiti	
 sårveiledning	hávvedikšobagadallan			hávvedivššu bagadallan		haavahoidon ohjaus	hávvedivššu bagadallan	hávverávven	hávvedikšuma hálddašeapmi	hávváduvvon veahkki	háviid dikšuma stivren	
 sårvurdering	hávveárvvoštallan			hávi árvvoštallan 		haavan arviointi	subi evalueren	hávveárvvoštallan	hávveárvvoštallan	rašes árvvoštallan	hávvaárvvoštallan	
-sårdannelse	hávveovddideapmi			hávi álgu 		haavan kehittyminen	subi ovddideapmi	buozalmasvuohta	ulcera ovdáneapmi	hávvi hávvi	hávvá ovdáneapmi	
-sårheling	savvot			hávi buorráneapmi 		haavan paraneminen	subi 	hávvebuorideapmi	hávvebuorideapmi	hávdingárgedeapmi	hávvebargan	
-sårbunn	hávi vuođđo			hávvevuođđu 		haavan pohja	subi bodni	hávvevuodjin	hávi vuolábealde	hávvádus	hávddi vuođđu	
-sårkant	hávi ravda			hávveravda 		haavan reuna	subi ravda	hávgga rádji	hávgga rádji	hávvi	hávgga ravda	
-sårfase	hávi muddu					haavan vaihe	subi muddu	hávvefása	hávvedássi	hávvaáigodat	hávvádatdássi	
+sårdannelse	uddu			hávi álgu 		haavauma	subi ovddideapmi	buozalmasvuohta	ulcera ovdáneapmi	hávvi hávvi	hávvá ovdáneapmi	
+sårheling	savvot			hávi buorráneapmi 		haavan arpeutuminen	subi 	hávvebuorideapmi	hávvebuorideapmi	hávdingárgedeapmi	hávvebargan	
+sårbunn	hávvevuođđo	£	hávi vuođđo	hávvevuođđu 		haavapohja	subi bodni	hávvevuodjin	hávi vuolábealde	hávvádus	hávddi vuođđu	
+sårkant	hávveravda	£	hávi ravda	hávveravda 		haavan reuna	subi ravda	hávgga rádji	hávgga rádji	hávvi	hávgga ravda	
+sårfase	hávvemuddu	£	hávi muddu			haavan vaihe	subi muddu	hávvefása	hávvedássi	hávvaáigodat	hávvádatdássi	
 sårveiledning	hávvedivššun oaivadus			hávvedivššu bagadallan 		haavanhoidon ohjaus	subedivššu bagadallan	hávverávven	hávvedikšuma hálddašeapmi	hávváduvvon veahkki	hávvádikšuma stivren	
 sårbehandling	hávvedikšu			hávvedikšun 		haavanhoito	subedikšu	hávvedikšun	hávvedikšun	hávvardikšu	hávvádikšu	
 sårskift						haavanhoito	subedikšu	hávvečoaggin	hávvedikšun	hávvaolbmolsašupmi	hávvádikšu	
