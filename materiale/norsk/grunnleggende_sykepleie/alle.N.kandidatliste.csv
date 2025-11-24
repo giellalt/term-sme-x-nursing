@@ -45,7 +45,7 @@ aktivitetsmulighet	doaibmanvejolašvuohta		aktivitehtavejolašvuohta			aktivitee
 aktivitetsplan	doaibmaplána					aktiviteettisuunnitelma		doaibmaplána	doaibmaplána	doaibmaplána	aktivitehtaplána	
 aktivitetsmønster	doaibmamálle					aktiviteettitapa		doaibmamálle	doaibmavuohki	doaibmanminsttar	aktivitehttavuohki	
 aktivitetstiltak	doaibmabidju		aktivtehtabidju			aktiviteettitoimenpide aktiviteettikeino		doaibmabijut	aktivitehta mihtideapmi aktivitehta mihtideapmi	aktivitehtadoaibmabijut	aktivitehtadoaibmabidju aktivitehtadoaibma	
-akupunktur	akupunktuvra					akupunktio      akupunktuvra  akupunkšuvdna		akupunktuvdna	akupunktuvra akupunktuvra akupunkšuvdna			
+akupunktur	akupunktuvra					akupunktio	akupunktuvra  akupunkšuvdna	akupunktuvdna	akupunktuvra akupunktuvra akupunkšuvdna			
 underlivvask	vuolledábiid bassan					alapesu	suorgebassan	Vuoigŋavásáhus	vuolde bassat	vuolledábiid bassan	vuolit gákti	
 albumin	albumiidna					albumiini	álbumasan	skearru	albmá	skearru	albuma	
 bachelorstudent	bachelorstudeanta					alemman korkeakoulutason opiskelija bacheloropiskelija	vuolibu allaskuvladási studeanta 	bachelorstudeanta	vuolit allaskuvladási studeanta bachelorstudeanta	bachelorstudeanta	vuolit allaskuvladási studeanta bacheloroahppu	
@@ -71,7 +71,7 @@ yrkesidentitet	ámmátidentitehta					ammatti-identiteetti		ámmátlaš identite
 yrkesfelt	ámmátsuorgi					ammattiala		fágasuorgi	ámmát	fidnosuorgi	ámmát	
 fagartikkel	ámmátsuorggi artihkal	£	fágalas artihkkal			ammattialan artikkeli	fágalaš ammatillinen	ámmátlaš artihkal	ámmátlaš artihkal	fágalaš artihkal	lea fágalaš	
 fagutøver	fágabargi	£				ammattialan harjoittaja		hárjeheaddji	ámmátlaš bargi	fágaduojár	ámmátlaš hárjeheaddji	
-profesjonsutøver	ámmátlaš bargi				ammattialan harjoittaja		ámmátlaš bargi	ámmátlaš bargi	profešuvdnabargár	ámmátlaš hárjeheaddji		
+profesjonsutøver	ámmátlaš bargi					ammattialan harjoittaja		ámmátlaš bargi	ámmátlaš bargi	profešuvdnabargár	ámmátlaš hárjeheaddji	
 fagutvikling	ámmátsuorggi ovdáneapmi		fágalas ovdáneapmi			ammattialan kehitys		fágalaš ovdáneapmi	fágalaš ovdáneapmi	fágalaš ovdáneapmi	fágalaš ovdáneapmi	
 fagprosedyre	fágalaš prosedyra					ammattialan menetelmä; ammattialan toimenpide		fágalaš prosedyra	fágalaš vuohki fágalaš prosedyra	fágavuohki	ámmátmetodanfágalaš doaibmabidju	
 profesjonsfag	ámmátoahppu		fágalaš oahput			ammattiopinnot		fágalaš fága	fágalaš oahput	profešuvdnafága	profešuvdnaoahppu	
@@ -98,7 +98,7 @@ evalueringsskjema	árvvoštallanskovvi					arviointilomake	evaluerenskovvi	árvv
 vurderingsprosess	árvvoštallanproseassa					arviointiprosessi	evaluerenproseassa	árvvoštallanproseassa	árvvoštallanproseassa	árvvoštallanproseassa	árvvoštallanproseassa	
 verdikonflikt	árvoruossalasvuohta		árvokonflikta			arvokonflikti	arvoristiriita	árvoriiddu	árvoriiddu	árvokonflikta	árvokonflikta	árvokonflikta
 verdimodell	árvomálle					arvomalli	árvomálle	árvomodealla	árvomodealla	árvomálle	árvomálle	
-stillingsendring	stellelmasdikšun	asentohoito			asennonvaihto	#stellelmas#molsuheapmi	sajádaga rievdadus	sajádaga rievdadus	rievdadeapmi	miellaguottuid molsun		
+stillingsendring	stellelmasdikšun	asentohoito				asennonvaihto	#stellelmas#molsuheapmi	sajádaga rievdadus	sajádaga rievdadus	rievdadeapmi	miellaguottuid molsun	
 stillingsforandring	stellelmasmolsun	£				asennonvaihto	#stellelmas#molsuheapmi	sajádaga rievdadus	sajádaga rievdadus	posišuvdnarievdadus	miellaguottuid molsun	
 leiring	seaŋgapatienta	£	seaŋgabuohcci			asentohoito; vuodepotilas	stellelmasdikšu	leaira	čuozáhatterapiija	leairas	miellaguoddoaddin	
 acetylsalisylsyre	asetylasalisivra					asetyylisalisyylihappo		asetylsalisylasyra	asetylsalisylasyra	acetylsalicylsyrra	acetylsalicylsyra	
