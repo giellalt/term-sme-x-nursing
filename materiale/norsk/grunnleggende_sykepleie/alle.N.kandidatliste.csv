@@ -356,17 +356,17 @@ behandlingskvalitet	dikšunkvalitehta					hoidon laatu	divššu dássu	dikšuma 
 behandlingsopplegg	divššu lágideapmi					hoidon toimeenpano	divššu plána	dikšunvejolašvuohta	dikšunplána	dikšunskovvi	divššu plána	
 behandlingsplan	dikšunplána					hoitosuunnitelma	divššu plána	dikšunplána	dikšunplána	dikšunplána	divššu plána	
 behandlingsregime	divššu ráđđenvuohki					hoidon hallintotapa	divššu plána	dikšunortnet	dikšunplána	dikšunvuohki	divššu plána	
-kartleggingssamtale	kártenságastallan					kartoituskeskustelu  divššu dárbbu evaluerengulahallan	kartleggingssamtale	dikšundárbbu árvvoštallan ságastallan	kártenságastallan	dikšundárbbu árvvoštallan ságastallan	
-sykepleieresultat	divššu boađus					hoidon tulos	divššu boađus	buohccidivššára ovddasteaddjit	dikšuma boađus	buohccidivššárboađus	divššu boađus	
-sykepleiebehov	dikšundárbu		dikšodarbu			hoidontarve	divššodárbu	sykepleiebehob	dikšuma dárbu	buohccedikšundárbu	dikšundárbu	
-omsorgsgiver						hoitava henkilö	#hoitát olmmoš	fuolaheaddji	fuolalaš olmmoš	fuolaheaddji	lea divššohas	
+kartleggingssamtale	kártenságastallan					kartoituskeskustelu  divššu dárbbu evaluerengulahallan	kartleggingssamtale	dikšundárbbu árvvoštallan ságastallan	kártenságastallan	dikšundárbbu árvvoštallan ságastallan		
+sykepleieresultat	buohccedikšoboađus					sairaanhoidon tulos	divššu boađus	buohccidivššára ovddasteaddjit	dikšuma boađus	buohccidivššárboađus	divššu boađus	
+sykepleiebehov	buohccedikšodárbu					sairaanhoidontarve	divššodárbu	sykepleiebehob	dikšuma dárbu	buohccedikšundárbu	dikšundárbu	
+omsorgsgiver	dikšoaddi					hoivan antaja	#hoitát olmmoš	fuolaheaddji	fuolalaš olmmoš	fuolaheaddji	lea divššohas	
 pleiemiddel	dikšunávnnas					hoitoaine	dikšoávnnas	kondišuvdna	kondišuvdna	dikšunávnnas	dálkkas	
-pleieassistent	dikšunveahkki					hoitoapulainen	dikšoveahkki	buohccedivššárveahkki	fuolahusveahkki	buohccedikšunassisteanta	dikšunveahkki	
-pleiemedhjelper	dikšunveahkki					hoitoapulainen	dikšoveahkki	pleiemedhjelper	fuolahusveahkki	buohccedikšuveahkki	dikšunveahkki	
-pleiepersonale	dikšunbargoveahka					hoitohenkilökunta	dikšoolmmošgielda	buohccedivššárbargit	buohccedivššárbargit	dikšubargoveahka	dikšubargoveahka	
-sykehusopphold	dikšunáigodat buohcceviesus					hoitojakso sairaalassa	dikšooassi buohcceviesus	buohcciviessu vejolašvuohta	dikšunáigodat buohcciviesus	buohcceviesus orruma birra	lea buohcciviesus	
+pleieassistent	dikšunassisteanta					hoitoapulainen	dikšoveahkki	buohccedivššárveahkki	fuolahusveahkki	buohccedikšunassisteanta	dikšunveahkki	
+pleiemedhjelper	dikšunveahkki					hoitoavustaja	dikšoveahkki	pleiemedhjelper	fuolahusveahkki	buohccedikšuveahkki	dikšunveahkki	
+pleiepersonale	dikšunbargit					hoitohenkilökunta	dikšoolmmošgielda	buohccedivššárbargit	buohccedivššárbargit	dikšubargoveahka	dikšubargoveahka	
+sykehusopphold	buohcceviessuáigodat					sairaalajakso	dikšooassi buohcceviesus	buohcciviessu vejolašvuohta	dikšunáigodat buohcciviesus	buohcceviesus orruma birra	lea buohcciviesus	
 behandlingssystem	dikšunvuogádat					hoitojärjestelmä	dikšovuogádat	dikšunvuogádat	dikšunvuogádat	dikšunvuogádat	dikšunvuogádat	
-behandlingsforløp					bátneluovvaneapmi 	hoitoketju	dikšoviđji	behandlingsforløp	fuolahusráidu	dálkkodanproseassa	dálkkodanriekkis	
+behandlingsforløp	dikšunbálggis	£			 	hoitopolku	dikšoviđji	behandlingsforløp	fuolahusráidu	dálkkodanproseassa	dálkkodanriekkis	
 sykehjemsbeboer	dikšunruoktoášši		dikšunruoktoorru			hoitokodin asukas	dikšogođiiguin #ássi	sykehjemsbeboer	fuolahusruovttu ássi	buhcciidsiidda ássi	dikšunguovddáža ássi	
 pleiekultur	dikšunkultuvra					hoitokulttuuri	dikšokultuvra	pleiekultur	fuolahuskultuvra	dikšunkultuvra	dikšunkultuvra	
 pleielidelse	dikšungillámuš					hoitokärsimys	dikšogillámuš	pleidelse	dikšun gillámuš	dikšunváttisvuohta	dálkkodanriekkis	
