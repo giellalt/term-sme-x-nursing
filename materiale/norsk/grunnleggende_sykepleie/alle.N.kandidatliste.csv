@@ -299,17 +299,16 @@ persepsjon	dárkun			áican		havainto	áican	gávdnan	persepšuvdna	áican
 fruktjuice	heđenmáihli 					hedelmämehu	heđenmáihli	šaddojuogu	ođđa šaddojuogu	šattusčáhci	šattut ja šaddogálvvut	
 ømhet	raššivuohtavuohta					hellyys, arkuus	váibmoláđisvuohta	váibmoláđisvuohta	hearkkesvuohta	hearkivuohta		
 hemoglobinverdi	hemoglobiidnaárvu					hemoglobiiniarvo	hemoglobiidnaárvu	hemoglobiinna árvu	hemoglobiinna árvu	hemoglobiidnaárvu	hemoglobiidnaárvu	
-hemoglobinkonsentrasjon						hemoglobiinikonsentraatio		hemoglobiinna konsentrašuvdna	hemoglobiinna konsentrašuvdna	hemoglobiinna mearit	hemoglobiinna mearit	
-hemoglobinmolekyl						hemoglobiinimolekyyli	hemoglobiidnamolekyla	hemoglobiinna molekyla	hemoglobiinna molekyla	hemoglobiidnamolekyla	hemoglobiidnamolekyla	
+hemoglobinkonsentrasjon	hemoglobiinna konsentrašuvdna					hemoglobiinikonsentraatio		hemoglobiinna konsentrašuvdna	hemoglobiinna konsentrašuvdna	hemoglobiinna mearit	hemoglobiinna mearit	
+hemoglobinmolekyl	hemoglobiidnamolekyla					hemoglobiinimolekyyli	hemoglobiidnamolekyla	hemoglobiinna molekyla	hemoglobiinna molekyla	hemoglobiidnamolekyla	hemoglobiidnamolekyla	
 hemoglobininnhold	hemoglobiinna mearri					hemoglobiinin määrä	hemoglobiinna #mearri	hemoglobiinna sisdoallu	hemoglobiinna mearri	hemoglobiidnasisdoallu	hemoglobiinnamihttu	
 hemoglobinnivå	hemoglobiidnadássi					hemoglobiinitaso	hemoglobiidnadássi	hemoglobiinna dássi	hemoglobiinna dássi	hemoglobiinnadássi	hemoglobiinnadássi	
-respirasjonsbesvær	vuoigŋama áŧestus		lahpastuvvan			hengenahdistus	dyspnea, vuoiŋŋa	vuoiŋŋašváttut	oanehis vuoiŋŋasteapmi	vuoiŋŋahatgássa	vuoigŋanvuohki	heakkaáŧestus
-åndedrag	vuoiŋŋahat		vuoigŋamageassu			hengenveto	heakkahiistu	vuoiŋŋahat	vuoiŋŋahat	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
-respirasjonsstatus	vuoigŋama klinihkalaš stáhtus					hengityksen kliininen status	vuoigŋama #klinihkalaš stáhtus	vuoiŋŋahatdilli	vuoiŋŋahatklinihkalaš dilli	vuoiŋŋastanstáhtus	vuoiŋŋasteami klinihkalaš stahtus	
+respirasjonsbesvær	vuoigŋanváddu	£	lahpastuvvan			hengenahdistus; hengitysongelma	dyspnea, vuoiŋŋa	vuoiŋŋašváttut	oanehis vuoiŋŋasteapmi	vuoiŋŋahatgássa	vuoigŋanvuohki	heakkaáŧestus
+åndedrag	vuoiŋŋahat					hengenveto	heakkahiistu	vuoiŋŋahat	vuoiŋŋahat	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
+respirasjonsstatus	vuoigŋanstáhtus					hengitystatus	vuoigŋama #klinihkalaš stáhtus	vuoiŋŋahatdilli	vuoiŋŋahatklinihkalaš dilli	vuoiŋŋastanstáhtus	vuoiŋŋasteami klinihkalaš stahtus	
 respirasjonsdybde	vuoigŋama čikŋodat					hengityksen syvyys	vuoigŋama čikŋodat	vuoiŋŋasteami govdodat	vuoiŋŋasteami govdodat	vuoiŋŋahaga čiekŋalisvuohta	vuoiŋŋasteapmi	
-respirasjon	vuoigŋan					hengitys	vuoigŋan	vuoiŋŋasteapmi	vuoiŋŋahat	vuoiŋŋasteapmi	vuoigŋan	
-respirasjon	vuoigŋan					hengitys	respiraatio	vuoiŋŋasteapmi	vuoiŋŋahat	vuoiŋŋasteapmi	vuoigŋan	vuoigŋan
-pusting	vuoigŋan					hengitys  hengittäminen	vuoigŋan  sahkat	vuoiŋŋasteapmi	vuoiŋŋasteapmi vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoigŋa	
+respirasjon	respirašuvdna; vuoigŋan					hengitys; respiraatio	vuoigŋan	vuoiŋŋasteapmi	vuoiŋŋahat	vuoiŋŋasteapmi	vuoigŋan	
+pusting	vuoigŋan					hengitys  	vuoigŋan  sahkat	vuoiŋŋasteapmi	vuoiŋŋasteapmi vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoigŋa	
 respirasjonsorgan	vuoigŋanorgánat					hengityselimet	vuoigŋanorgánat	vuoiŋŋahatorgána	vuoiŋŋahatvuogádat	vuoiŋŋahatorgána	vuoiŋŋahatorgánat	
 luftveissykdom	vuoigŋanorgánadávda					hengityselinsairaus	vuoigŋanorgánabuohcu	vuoiŋŋašdávda	vuoiŋŋašdávda	vuoiŋŋahatdávda	vuoiŋŋašdávda	
 respirasjonsforstyrrelse	vuoigŋanhehttehus					hengityshäiriö	vuoigŋansegohus	vuoiŋŋašváttut	vuoiŋŋašváttut	vuoiŋŋahatváttut	vuoigŋanváddu	
@@ -317,8 +316,8 @@ respirasjonssystem	vuoigŋanvuogádat					hengitysjärjestelmä	vuoigŋanvuogád
 respirasjonssenter	vuoigŋanguovddáš					hengityskeskus	#vuoigŋan#guovddaš	vuoiŋŋahatguovddáš	vuoiŋŋahatguovddáš	vuoiŋŋahanguovddáš	vuoiŋŋadusguovddáš	
 respiratorpasient	vuoigŋanmašiidnabuohcci		vuoigŋŋahatmašiidnabuohcci			hengityskonepotilas	#vuoigŋan#mašiidna#buohcci	ventilašuvdnapasieanta	ventilašuvdnapasieanta	vuoiŋŋahatvigi	vuoiŋŋahatdávda	
 respirasjonsmuskulatur	vuoigŋanoažži		vuoigŋandeahkit			hengityslihaksisto		vuoiŋŋahatlihkadusat	vuoiŋŋahatlihkadus	vuoiŋŋahatmuskulatuvra	vuoiŋŋahatlaš lihkastagat	
-respirasjonsmuskel	vuoigŋanoažži					hengityslihas	vuoigŋanoažži	vuoiŋŋahatlihkadus	vuoiŋŋahatlihkadus	vuoiŋŋahatmusihkka	vuoiŋŋahatluohti	
-respirasjonsbevegelse	vuoigŋanlihkadus					hengitysliike	vuoigŋangávpi	vuoiŋŋašlihkadus	vuoiŋŋastanlihkadus	vuoiŋŋahatlihkadus	vuoigŋanlihkadus	
+respirasjonsmuskel	vuoigŋandeahkki					hengityslihas	vuoigŋanoažži	vuoiŋŋahatlihkadus	vuoiŋŋahatlihkadus	vuoiŋŋahatmusihkka	vuoiŋŋahatluohti	
+respirasjonsbevegelse	vuoigŋanlihkastat					hengitysliike	vuoigŋangávpi	vuoiŋŋašlihkadus	vuoiŋŋastanlihkadus	vuoiŋŋahatlihkadus	vuoigŋanlihkadus	
 respirasjonsproblem	vuoigŋančuolbma		vuoigŋanproblema			hengitysongelma	vuoigŋanproblema	vuoiŋŋahatváttisvuohta	vuoiŋŋastanváttisvuohta	vuoiŋŋahatváttisvuohta	vuoigŋanváttisvuohta	
 respirasjonsstans			onko oikea suomenkielinen sana			hengityspysähdys, hengityslama		vuoiŋŋašheahtedilli	vuoiŋŋašhehttehus, vuoiŋŋašdeprešuvdna	vuoiŋŋadanboddu	vuoigŋanbottu	
 respirasjonsrytme	vuoigŋanritma					hengitysrytmi	vuoigŋanritma	vuoiŋŋastanrytma	vuoiŋŋastanritma	vuoiŋŋasteapmi	vuoigŋanvuohki	
