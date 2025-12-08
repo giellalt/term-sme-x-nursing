@@ -322,17 +322,16 @@ respirasjonsproblem	vuoigŋanváddu		vuoigŋanváttisvuohta			hengitysongelma	vu
 respirasjonsstans	vuoigŋanboatka					hengityskatko		vuoiŋŋašheahtedilli	vuoiŋŋašhehttehus, vuoiŋŋašdeprešuvdna	vuoiŋŋadanboddu	vuoigŋanbottu	
 respirasjonsrytme	vuoigŋanritma					hengitysrytmi	vuoigŋanritma	vuoiŋŋastanrytma	vuoiŋŋastanritma	vuoiŋŋasteapmi	vuoigŋanvuohki	
 respirasjonssyklus	vuoigŋansykla	£	vuoigŋanbirrajohtu			hengityssykli		vuoiŋŋahatsyklusa	vuoiŋŋahatsyklusa	vuoiŋŋahatdássi	vuoiŋŋasteapmi	
-respirasjonsfrekvens						hengitystaajuus	vuoigŋandávjodat	vuoiŋŋastanmearri	vuoiŋŋastanmearri	vuoiŋŋahatdássi	vuoigŋanluođđa	
+respirasjonsfrekvens	vuoigŋanfrekvenssa		vuoigŋandávjodat			hengitysfrekvenssi; hengitystiheys	vuoigŋandávjodat	vuoiŋŋastanmearri	vuoiŋŋastanmearri	vuoiŋŋahatdássi	vuoigŋanluođđa	
 respirasjonsmønster	vuoigŋandáhpi					hengitystapa	vuoigŋandáhpi	vuoiŋŋastanvuohki	vuoiŋŋastanvuohki	vuoiŋŋahatminsttar	vuoigŋanvuohki	
-respirasjonsfrekvens						hengitystiheys	#vuoiŋandávjodat	vuoiŋŋastanmearri	vuoiŋŋastanmearri	vuoiŋŋahatdássi	vuoiŋŋahatdávda	
-respirasjonsstøtte	vuoigŋandoarjja			ovdaráksá váttut 		hengitystuki	vuoigŋanduvdda	vuoiŋŋahatdoarjja	vuoiŋŋahatdoarjja	vuoiŋŋahat doarjja	vuoiŋŋahatvuođđu	
+respirasjonsstøtte	vuoigŋandoarjja			 		hengitystuki	vuoigŋanduvdda	vuoiŋŋahatdoarjja	vuoiŋŋahatdoarjja	vuoiŋŋahat doarjja	vuoiŋŋahatvuođđu	
 respirasjonsarbeid	vuoigŋanbargu					hengitystyö	vuoigŋanbargu	vuoiŋŋahatbargu	vuoiŋŋastanbargu	vuoiŋŋahatbargu	vuoigŋanbargu	
-personopplysning	olmmošdiehtu		heaggadiehtu			henkilötieto	olmmošdiehtu	persovnnalaš dieđut	persovnnalaš dieđut	persuvdnadieđut	persuvdnadieđut	
+personopplysning	persovdnadiedut					henkilötiedot	olmmošdiehtu	persovnnalaš dieđut	persovnnalaš dieđut	persuvdnadieđut	persuvdnadieđut	
 hepatitt	hepatihtta		vuoivvasvuolši			hepatiitti	maksatulehdus	hepatihtta	hepatihtta	hepatihta	hepihtta	
-sensitivitet	hearkivuohta					herkkyys	hearkivuohta	sensitivitehtat	sensitivitehta	hearkkesvuohta	hearkkesvuohta	
+sensitivitet	sensitivavuohta		hearkivuohta			sensitiivisyys, herkkyys	hearkivuohta	sensitivitehtat	sensitivitehta	hearkkesvuohta	hearkkesvuohta	
 nerveimpuls	nearvaimpulsa					hermoimpulssi	#nervaimpulsa	nearvaimpulsa	nearvaimpulsa	nervaimpulssa	nervaimpulssa	
 nervebane	nearvaluodda		nearvageainnus			hermorata	#nervaluodda	nervebane	nevrala geaidnu	nervobáddi	nervováikkuhus	
-ryggmargsbrokk						hermostoputken sulkeutumishäiriö  meningomyeloseele	MMC 	ryggmargsbrokk	nevrala čuovgga giddema dávda meningomyelocele	čielgemáddodatbávččas	meningomyelosealla sivva, nervaceal giddennávccaid váddu	nearvafierbmebohcci *sulkeutumishäiriö  
+ryggmargsbrokk	čielgeađabrohkka	£				selkäydintyrä; hermostoputken sulkeutumishäiriö; meningomyeloseele	MMC 	ryggmargsbrokk	nevrala čuovgga giddema dávda meningomyelocele	čielgemáddodatbávččas	meningomyelosealla sivva, nervaceal giddennávccaid váddu	nearvafierbmebohcci *sulkeutumishäiriö  
 hg					rumaš guoskkan 	hg	hektogramma	hg	hg	hg	hg	
 massasje	ruvven					hieronta	#massáša	mášša	mášša	mássa	mássaeapmi	
 massasjestav	ruvvensoabbi					hierontasauva	#massášasoabbi	masseren	massášačuohppan	mássaviežžanstággu	mássaviežžahat	
