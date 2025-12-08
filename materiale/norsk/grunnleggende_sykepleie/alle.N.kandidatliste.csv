@@ -315,7 +315,7 @@ respirasjonsforstyrrelse	vuoigŋanhehttehus					hengityshäiriö	vuoigŋansegohu
 respirasjonssystem	vuoigŋanvuogádat					hengitysjärjestelmä	vuoigŋanvuogádat	vuoiŋŋahatvuogádat	vuoiŋŋahatvuogádat	vuoiŋŋahaga vuogádat	vuoigŋanvuohki	
 respirasjonssenter	vuoigŋanguovddáš					hengityskeskus	#vuoigŋan#guovddaš	vuoiŋŋahatguovddáš	vuoiŋŋahatguovddáš	vuoiŋŋahanguovddáš	vuoiŋŋadusguovddáš	
 respiratorpasient	vuoigŋanmašiidnabuohcci		vuoigŋŋahatmašiidnabuohcci			hengityskonepotilas	#vuoigŋan#mašiidna#buohcci	ventilašuvdnapasieanta	ventilašuvdnapasieanta	vuoiŋŋahatvigi	vuoiŋŋahatdávda	
-respirasjonsmuskulatur	vuoigŋanoažži		vuoigŋandeahkit			hengityslihaksisto		vuoiŋŋahatlihkadusat	vuoiŋŋahatlihkadus	vuoiŋŋahatmuskulatuvra	vuoiŋŋahatlaš lihkastagat	
+respirasjonsmuskulatur	vuoigŋanoažži	£	vuoigŋandeahkit			hengityslihaksisto		vuoiŋŋahatlihkadusat	vuoiŋŋahatlihkadus	vuoiŋŋahatmuskulatuvra	vuoiŋŋahatlaš lihkastagat	
 respirasjonsmuskel	vuoigŋandeahkki					hengityslihas	vuoigŋanoažži	vuoiŋŋahatlihkadus	vuoiŋŋahatlihkadus	vuoiŋŋahatmusihkka	vuoiŋŋahatluohti	
 respirasjonsbevegelse	vuoigŋanlihkastat					hengitysliike	vuoigŋangávpi	vuoiŋŋašlihkadus	vuoiŋŋastanlihkadus	vuoiŋŋahatlihkadus	vuoigŋanlihkadus	
 respirasjonsproblem	vuoigŋanváddu		vuoigŋanváttisvuohta			hengitysongelma	vuoigŋanproblema	vuoiŋŋahatváttisvuohta	vuoiŋŋastanváttisvuohta	vuoiŋŋahatváttisvuohta	vuoigŋanváttisvuohta	
@@ -373,11 +373,11 @@ pleielidelse	dikšungillámuš					hoitokärsimys	dikšogillámuš	pleidelse	dik
 behandlingsrutine	dikšunvuohki		dikšungeavat			hoitokäytäntö	dikšogeavat	dikšunrutiinna	fuolahuspraksis	dikšunrutiidna	dikšungeavahus	
 behandlingsmulighet	dikšunvejolašvuohta		dikšunliiba			hoitomahdollisuus	dikšoliiba	behandlingsmulighet	dikšunvejolašvuohta	dikšunvejolašvuohta	dikšunvejolašvuohta	
 behandlingspakke	dikšunpáhkka					hoitopakkaus		dikšunpakeahtta	dikšunrusttet	dikšunpáhkka	dikšunpáhkka	
-pasientforløp	dikšunbálggis					hoitopolku	dikšoluodda	buohccedikšu	dikšunvuohki	pasieantamannolaga	dálkkodanbálggis	
-tjenesteforløp	dikšunbálggis					hoitopolku	dikšoluodda	tjenesteforløp	dikšunvuohki	bálvalusáigi	dálkkodanbálggis	
-omsorgsrelasjon	dikšungaskavuohta					hoitosuhde	dikšogorri	sormsrelasjon	fuolahusgaskavuohta	fuolahusoktavuohta	dikšundilli	
-sykepleieplan	dikšunplána					hoitosuunnitelma	dikšoplána	váibmofrekveanssa mihtideaddji	dikšunplána	buohccedikšoplána	dikšunplána	
-institusjonsseng	dikšunseaŋga					hoitosänky	dikšoseaŋga	institujonsseng	dikšunlatnja	institušuvdna seaŋga	dálkkodanlatnja	
+pasientforløp	patientabálggis	£				hoitopolku; potilaspolku	dikšoluodda	buohccedikšu	dikšunvuohki	pasieantamannolaga	dálkkodanbálggis	
+tjenesteforløp	bálvalanbálggis					palvelupolku	dikšoluodda	tjenesteforløp	dikšunvuohki	bálvalusáigi	dálkkodanbálggis	
+omsorgsrelasjon	fuoláhangaskavuohta					huolehtimissuhde	dikšogorri	sormsrelasjon	fuolahusgaskavuohta	fuolahusoktavuohta	dikšundilli	
+sykepleieplan	buohccedikšunplána					sairaanhoitosuunnitelma	dikšoplána	váibmofrekveanssa mihtideaddji	dikšunplána	buohccedikšoplána	dikšunplána	
+institusjonsseng	intitušuvnnaseaŋga	£	buohcceviessuseaŋga			sairaalasänky	dikšoseaŋga	institujonsseng	dikšunlatnja	institušuvdna seaŋga	dálkkodanlatnja	
 livstestament	dikšundeastámentá					hoitotestamentti	dikšotestameanta	ealli dáhttu	fuolahus	eallingearvastuvvan	dálkoduođaštus	
 sykepleievitenskap	dikšundieđa					hoitotiede	dikšodieđa	váibmofrekveanssa dieđa	buohccedivššárdiehtaga	buohccidivššárdieđa	dálkkasdieđa	
 sykepleiefag	dikšunfága					hoito-oppi	dikšodieđa?	sykepleiefag	buohccedivššároahppu??	buohccidivššárfága	dikšunfága?	
