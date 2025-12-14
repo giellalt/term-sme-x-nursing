@@ -469,37 +469,37 @@ hudavdeling	liikedávdaossodat					ihotautiosasto	liikedávdaossodat	ivdneossoda
 hudtype	liiketiipa					ihotyyppi	liiketiipa	ivdnešládja	ivdnešládja	liiketyppi	lápmašuvvan rumaš	
 hudskade	liikevihki					ihovaurio	#liiki#vaháguvvan	ivdnevahágat	ivdnevahágat	luddestahkan	luddestahkan	
 hudblødning	liikevardin					ihoverenvuoto	liikevarasuođđu	ivdnebuozalmasvuohta	ivdnebuozalmasvuohta	lunddolaš vardin	luddestaga vardin	
-aldersendring						ikääntymismuutos	agáiduvvat iežáhus	ahkerievdadus	boarráseappot rievdan	ahkerievdan	rievdan agi mielde	
-uttrykksmiddel	olggosbuktinvuohki					ilmaisukeino	dajahusgeaidnu	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinreaidu	ovdanbuktinvuohki	
-uttrykksmåte	ovtanbuktinvuohki					ilmaisutapa	dajahusdáhpi	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinvuohki	
+aldersendring	agáiduvvan					ikääntyminen	agáiduvvat iežáhus	ahkerievdadus	boarráseappot rievdan	ahkerievdan	rievdan agi mielde	
+uttrykksmiddel	ovdanbuktinvuohki					ilmaisukeino	dajahusgeaidnu	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinreaidu	ovdanbuktinvuohki	
+uttrykksmåte	ovdanbuktindáhpi					ilmaisutapa	dajahusdáhpi	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinvuohki	ovdanbuktinvuohki	
 lufttemperatur	áimmu temperatuvra					ilman lämpötila	almmá temperatuvra	áimmu temperatuvra	áimmu temperatuvra	áibmtemperatuvra	áibmoáibmoáibmu	
-luftdannelse	áimmu hápmašuvvan					ilman muodostuminen	almmá 	luondduhápmi	luondduhápmi	áibmonuoskkideapmi	áibmu hápmahuvvan	
-lufthunger	áibmonealgi					ilmannälkä	#ilbminealgi	luonddunealgi	luonddunealgi	áibmonuoskkideapmi	áibbas jávkan	
-luftforurensning	áibmonuoskkideapmi					ilmansaaste	#ilbminuoskkideapmi	luonddunuoskkideapmi	luonddunuoskkideapmi	áibmonuoskkideapmi	áibmonuoskkideapmi	
-luftmotstand						ilmanvastus		luonddu vuostálasvuohta	luonddu vuostálasvuohta	áibmo-vuostálastin	áibmoveastta	
-luftpassasje	áibmogeaidnu					ilmatie	ilbmegeaidnu	girdijohtolat	vuoiŋŋahat	áibmogeavahanrusttet	áibmodieđa	
-luftvolum						ilmatilavuus	 #ilbmi#daddjásvuohta	áibmovoluma	áibmovoluma	áibmohivvodat	albbas	
-luftplage	áibmováivi					ilmavaiva	ilbmeváivi	luonddunuoskkideapmi	gahččan	áibmonuoskkideapmi	áibmonuoskkideapmi	
-luftsmerte	áibmováivi					ilmavaiva	ilbmeváivi	áibmováttut	gahččan	vuoiŋŋahatbávččas	áibmonuoskkideapmi	
-luftstrømobstruksjon						ilmavirran tukkeuma ilmavirran obstruktio	ilbmeeanu *tukkeuma ilbmeeanu 	girdivuođu hehttehus	girdivuođu eastadeapmi girdivuođu hehttehus	áibmoárjjaobjeakta	áibmorájá gáržžideapmi áibmorusttega obstrukšuvdnan	
-luftstrømmotstand						ilmavirran vastus	ilbmeeanu 	girdivuođu vuostálasvuohta	luondduvuođu vuostálasvuohta	áibmorájá vuostálastin	áibmomolsun	
-fenomen	albmoneapmi					ilmiö	albmoneapmi	albmanus	albmanus	fenomena	fenomena	fenomena
+luftdannelse	áimmu čohkideapmi					ilman muodostuminen	almmá 	luondduhápmi	luondduhápmi	áibmonuoskkideapmi	áibmu hápmahuvvan	
+lufthunger	lahpastuvvan					hengenahdistus	#ilbminealgi	luonddunealgi	luonddunealgi	áibmonuoskkideapmi	áibbas jávkan	
+luftforurensning	áibmonuoskkideapmi					ilmansaastuminen	#ilbminuoskkideapmi	luonddunuoskkideapmi	luonddunuoskkideapmi	áibmonuoskkideapmi	áibmonuoskkideapmi	
+luftmotstand	áibmọvuosttaldus					ilmanvastus		luonddu vuostálasvuohta	luonddu vuostálasvuohta	áibmo-vuostálastin	áibmoveastta	
+luftpassasje	áibmojohtolat					ilmatie	ilbmegeaidnu	girdijohtolat	vuoiŋŋahat	áibmogeavahanrusttet	áibmodieđa	
+luftvolum	áibmovoluma					ilmatilavuus	 #ilbmi#daddjásvuohta	áibmovoluma	áibmovoluma	áibmohivvodat	albbas	
+luftplage	áibmováttut					ilmavaiva	ilbmeváivi	luonddunuoskkideapmi	gahččan	áibmonuoskkideapmi	áibmonuoskkideapmi	
+luftsmerte	áibmobávccas					ilmakipu	ilbmeváivi	áibmováttut	gahččan	vuoiŋŋahatbávččas	áibmonuoskkideapmi	
+luftstrømobstruksjon	áibmorávdnibuđđošeapmi; áibmorávdniobstrukšuvdna	£				ilmavirran tukos, ilmavirran obstruktio	ilbmeeanu *tukkeuma ilbmeeanu 	girdivuođu hehttehus	girdivuođu eastadeapmi girdivuođu hehttehus	áibmoárjjaobjeakta	áibmorájá gáržžideapmi áibmorusttega obstrukšuvdnan	
+luftstrømmotstand	áibmorávdni vuostálastin					ilmavirran vastus	ilbmeeanu 	girdivuođu vuostálasvuohta	luondduvuođu vuostálasvuohta	áibmorájá vuostálastin	áibmomolsun	
+fenomen	fenomena		albmoneapmi			ilmiö	albmoneapmi	albmanus	albmanus	fenomena	fenomena	fenomena
 kveldsmåltid	eahketbiebmu		eahketborramuš			iltapala	eahketborramuš	eahketborramuš	eahkedaš	eahkesmállásat	mállásat	
 amming	njamahit					imetys		njuoratmánná	buohccedivššár	njamaheapmi	njamaheapmi	
 absorpsjon	njammásit					imeytyminen	njammásit	absorpšuvdna	absorpšuvdna	absoršuvdna		
 malabsorpsjon	njammásanváddu					imeytymishäiriö	njammásit segohus	váilevaš absorpšuvdna	váilevaš absorpšuvdna	málabsorben	sohkabealedávda	
-jomfruhinne	luondducuozza		eatniviđacuozza			immenkalvo hymen		hymena	hymen hymen	duohtadanruvdno	njammakeahtes hymen	
-skjedekrans						immenkalvo hymen		vaginála riŋges	hymen hymen	skájanas	njammakeahtes hymen	
-ledningssystem						impulssin johtojärjestelmä johtoratajärjestelmä	impulssa jođasvuogádat jođasluoddavuogádat	johtolatvuogádat	impulsajohtolatvuogádat johtolatjohtolatvuogádat	jođihanvuogádat	impulsajođihanvuogádat stivrenvuogádagas	
-sug						imu		suohkan	suohkan	njálgga	imu	
-lymfeknute	lymfačuobma					imusolmuke		lymfačoarvi	lymfačoarvi	goaŧŧonjálbmi	njommonjuolgi	
-lymfesystem						imusuonisto		lymfavuogádat	lymfavuogádat	gođđovuogádat	vuoiŋŋasteapmi	
-indium						indium		indium	indium	indium	indium 	
-infeksjonsrate						infektioiden esiintyvyys	infekšuvnnaid 	njoammunproseanta	njoammumiid leavvan	infekšuvdnamáksomearri	dávjjimus infekšuvdna	
-infusjon	golggussirdin		infušuvdna			infuusio	nesteensiirto	infušuvdna	infušuvdna	infušuvdna	infušuvdna	#infušuvdna
+jomfruhinne	nieidacuozza		eatniviđacuozza			immenkalvo hymen		hymena	hymen hymen	duohtadanruvdno	njammakeahtes hymen	
+skjedekrans	luondducuozza					immenkalvo hymen		vaginála riŋges	hymen hymen	skájanas	njammakeahtes hymen	
+ledningssystem	čuovuhanvuogádat					johtojärjestelmä johtoratajärjestelmä	impulssa jođasvuogádat jođasluoddavuogádat	johtolatvuogádat	impulsajohtolatvuogádat johtolatjohtolatvuogádat	jođihanvuogádat	impulsajođihanvuogádat stivrenvuogádagas	
+sug	njamman					imu		suohkan	suohkan	njálgga	imu	
+lymfeknute	lymfačuolbma					imusolmuke		lymfačoarvi	lymfačoarvi	goaŧŧonjálbmi	njommonjuolgi	
+lymfesystem	lymfavuogádat					imusuonisto		lymfavuogádat	lymfavuogádat	gođđovuogádat	vuoiŋŋasteapmi	
+indium	indium					indium		indium	indium	indium	indium 	
+infeksjonsrate	infekšuvnnaid gávdnon	£				tartuntaesiintyvyys: infektioiden esiintyvyys	infekšuvnnaid 	njoammunproseanta	njoammumiid leavvan	infekšuvdnamáksomearri	dávjjimus infekšuvdna	
+infusjon	infušuvdna		golggussirdin			infuusio	nesteensiirto	infušuvdna	infušuvdna	infušuvdna	infušuvdna	#infušuvdna
 infusjonsvæske	infušuvdnagolggus					infuusioneste	#infušuvdnaeastta	infušuvdnačáhci	infušuvdnačáhci	infušuvdnagálvu	influeansarávdnji	
 infusjonshastighet	infušuvdnaleaktu		infušuvdnajohtilvuohta			infuusionopeus	#infušuvdnajohtilvuohta	infušuvdnadássi	infušuvdnadássi	infušuvdna leaktu	infušuvdna leaktu	
-infusjonspumpe	infušuvdnabumpa					infuusiopumppu	#infušuvdnapumpa	infušuvdnapumpa	infušuvdnapumpa	infušuvdnabumpa	infušuvdnabumpa	
+infusjonspumpe	infušuvdnapumpa					infuusiopumppu	#infušuvdnapumpa	infušuvdnapumpa	infušuvdnapumpa	infušuvdnabumpa	infušuvdnabumpa	
 infusjonssett	infušuvdnaseahtta					infuusiosetti	infušuvdnačoahkki?	infušuvdnaset	infušuvdnaset	infušuvdnačoahkku	Infušuvdna	
 aversjon						inho		vuosteháhku	vaššiságat	vašši	ávži	
 inkontinens	inkontineansa		gužžaribaheapmi			inkontinenssi	virtsan karkailu	inkontinensa	inkontinensa	sahkankeahtesvuohta	sahkankeahtesvuohta	inkontineansa
