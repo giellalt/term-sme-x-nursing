@@ -400,22 +400,21 @@ sykepleiedefinisjon	dikšuma definišuvdna					hoitotyön määritelmä	dikšoba
 sykepleieproblem	dikšončuolbma					hoitotyön ongelma	dikšobarggu problema	buohccedivššárváttisvuohta	buohccedivššárváttisvuohta	buohccidivššu váttisvuohta	dikšunbarggu čuolbma	
 sykepleieprosess	dikšonproseassa					hoitotyön prosessi	dikšobarggu proseassa	buohccedivššárproseassa	buohccedivššárproseassa	buohccedikšunproseassa	dikšunproseassa	
 pleieplan	dikšonplána					hoitosuunnitelma	dikšobarggu plána	fuolahusplána	buohccedivššárplána	dikšunplána	dikšunplána	
-sykepleieferdighet	dikšunbarggu dáiddut					hoitotyön taidot	dikšobarggu dáiddut	buohccedivššárgelbbolašvuohta	buohccedivššárgelbbolašvuohta	buohccidivššárgealbu	dálkkodanmáhttu	
-sykepleieoppgave	dikšunbarggu dahkamuš					hoitotyön tehtävä	dikšobarggu doaibma	buohccedivššárbargu	buohccedivššárbargu	buohccidivššárbargu	dikšunbarggu bargu	
-sykepleieteoretiker						hoitotyön teoreetikko	dikšobarggu 	buohccedivššárteoretihkkár	buohccedivššárteoretihkkár	buohccidivššoteorehtalaš	dálkkodanrieggá teorehtalaš oassi	
-sykepleieteori	dikšunbarggu teoriija					hoitotyön teoria	dikšobarggu teoriija	buohccedivššárteoriija	buohccedivššárteoriija	buohccindábiid teoriija	dálkkodanrieggá teoriija	
-sykepleiekunnskap	dikšunbarggu diehtu					hoitotyön tieto	dikšobarggu diehtu	buohccedivššároahpu máhttu	buohccedivššároahpu máhttu	buohccidivššármáhttu	dikšunbarggu diehtu	
+sykepleieoppgave	buohccedikšunbargu 			hoitotehtävä	dikšobarggu doaibma	buohccedivššárbargu	buohccedivššárbargu	buohccidivššárbargu	dikšunbarggu bargu			
+sykepleieteoretiker	buohccedikšonteoretihkkár					hoitotyön teoreetikko	dikšobarggu 	buohccedivššárteoretihkkár	buohccedivššárteoretihkkár	buohccidivššoteorehtalaš	dálkkodanrieggá teorehtalaš oassi	
+sykepleieteori	buohccedikšunteoriija					sairaanhoidon teoria	dikšobarggu teoriija	buohccedivššárteoriija	buohccedivššárteoriija	buohccindábiid teoriija	dálkkodanrieggá teoriija	
+sykepleiekunnskap	buohccedikšodiehtu, buohccedikšodáidu		£			sairaahoitotaito, sairaanhoitotieto	dikšobarggu diehtu	buohccedivššároahpu máhttu	buohccedivššároahpu máhttu	buohccidivššármáhttu	dikšunbarggu diehtu	
 behandlingsalternativ	dikšunmolssaeaktu					hoitovaihtoehto	dikšomolssaeaktu	dikšunvejolašvuohta	dikšunvejolašvuohta	dikšun molssaeaktu	dikšun molssaeaktu	
 behandlingsvalg	dikšunválljen					hoitovalinta	dikšoválljen	dikšunválljen	dikšunválljen	dikšunválljen	dikšunválljen	
-behandlingsansvar	dikšunvástu					hoitovastuu	dikšovástu	gieđahallan ovddasvástádus	fuolahusovddasvástádus	dikšunovddasvástádus	dikšunovddasvástádus	
+behandlingsansvar	dikšunovddasvástádus					hoitovastuu	dikšovástu	gieđahallan ovddasvástádus	fuolahusovddasvástádus	dikšunovddasvástádus	dikšunovddasvástádus	
 behandlingsmiljø	dikšunbiras					hoitoympäristö	dikšobiras	dikšunbiras	dikšunbiras	dikšunbiras	dálkkodanbiras	
-sykehjemsbestyrer	dikšunruokto hoavda					hoivakodin johtaja	fuolahangođiiguin hoavda	fuolahusviesu jođiheaddji	fuolahusviesu direktevra	buhcciidsiidda hoavda	dearvvašvuođaguovddáža hoavda	
-sykehjemslege	dikšunruokto doavttir					hoivakodin lääkäri	fuolahangođiiguin doavttir	fuolahusviesu doavttir	fuolahusviesu doavttir	buhcciidruovttu doavttir	dikšunguovddáža doavttir	
-sykehjemspasient						hoivakotipotilas, hoivakodin asukas	#fuolaheapmi#ruoktu#buohcci	fuolahusruovttu pasieanta	fuolahusviesu pasieanta, fuolahusviesu ássi	buhcciidsiidda pasieanta	dearvvašvuođaguovddáš	
-omsorgskultur						hoivakulttuuri	fuolahankultuvra	fuolahuskultuvra	fuolalaš kultuvra	fuolahankultuvra	dálkkodankultuvra	
-omsorgstradisjon						hoivaperinne	fuolahanárbevierru	fuolahusárbevierru	fuolahusárbevierru	fuolahusvierru	dikšunárbevierru	
-omsorgsressurs						hoivaresurssit	fuolahanresurssat	fuolahusresursa	fuolahusresurssaid	fuolahusresursa	dikšunresurssat	
-omsorgsformål						hoivan tarkoitus	fuolahanulbmil	fuolahusulbmilat	dikšuma ulbmil	fuolahusášši	dikšundárkkuhus	
+sykehjemsbestyrer	buohcciruokto jođiheaddjihoavda					hoitokodin johtaja	fuolahangođiiguin hoavda	fuolahusviesu jođiheaddji	fuolahusviesu direktevra	buhcciidsiidda hoavda	dearvvašvuođaguovddáža hoavda	
+sykehjemslege	buohcciruokto doavttir					hoitokodin lääkäri	fuolahangođiiguin doavttir	fuolahusviesu doavttir	fuolahusviesu doavttir	buhcciidruovttu doavttir	dikšunguovddáža doavttir	
+sykehjemspasient	buohcciruoktopatienta					hoitokotipotilas	#fuolaheapmi#ruoktu#buohcci	fuolahusruovttu pasieanta	fuolahusviesu pasieanta, fuolahusviesu ássi	buhcciidsiidda pasieanta	dearvvašvuođaguovddáš	
+omsorgskultur	fuolahankultuvra					hoivakulttuuri	fuolahankultuvra	fuolahuskultuvra	fuolalaš kultuvra	fuolahankultuvra	dálkkodankultuvra	
+omsorgstradisjon	fuolahanárbevierru					hoivaperinne	fuolahanárbevierru	fuolahusárbevierru	fuolahusárbevierru	fuolahusvierru	dikšunárbevierru	
+omsorgsressurs	fuolahanresurssat					hoivaresurssit	fuolahanresurssat	fuolahusresursa	fuolahusresurssaid	fuolahusresursa	dikšunresurssat	
+omsorgsformål	fuolahanulbmil					hoivan tarkoitus	fuolahanulbmil	fuolahusulbmilat	dikšuma ulbmil	fuolahusášši	dikšundárkkuhus	
 muggsopp	guohpaguoppar					homesieni	guohpaguoppar	guohpa	muohttaga	guoggáiduhttin	mu iđit	
 hormonbehandling	hormonadikšu					hormonihoito	hormonadikšu	hormonaterapiija	hormonaterapiija	hormonadikšun	hormonadikšun	
 hormonnivå	hormonadássi					hormonitaso	hormonadássi	hormona dássi	hormona dássi	hormona dássi	hormona dássi	
