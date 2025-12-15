@@ -642,12 +642,12 @@ smertesans	bávččasáicu					kipuaisti	bávččasdovdda	váivvi dovdu	váivvi 
 smerteproblem	bávččasváttisvuohta		bávččasproblema			kipuongelma	bávččasproblema	váibmováttisvuohta	váibmováttisvuohta	bávččagahttá	bávččagahttin	
 smertepumpe	bávččaspumpa					kipupumppu	bávččaspumpa	váibmopumppa	váibmopumppa			
 smertetilstand	bávččasdilli					kiputila	bávččasdilli	váibmováttut	váibmodilli	gibuváidudanbivttas		
-dokumentasjonssystem						kirjaamisjärjestelmä  dokumentaatiojärjestelmä	*kirjaamisjärjestelmä  dokumentašuvdnavuogádat	dokumentašuvdnavuogádat	čállinvuogádat dokumentašuvdnavuogádat	bávččagahttin	bávččas	
-dokumentasjonsplikt						kirjaamisvelvollisuus  kirjaamisvelvoite	*kirjaamisvelvollisuus  	dokumentašuvdnageatnegasvuohta	registrerengeatnegasvuohta registrerengeatnegasvuohta	dokumentašuvdnavuogádat	lea dokumenterenvuogádat	
-litteraturgjennomgang						kirjallisuuskatsaus	#girjjálašvuohtadárkkistus	girjjálašvuođa geahčadeapmi	girjjálašvuođa geahčadeapmi	dokumentašuvdnageatnegasvuohta	čállingeatnegasvuohta	
-litteratursøk						kirjallisuuskatsaus	#girjjálašvuohtadárkkistus	girjjálašvuođa ohcan	girjjálašvuođa geahčadeapmi	girjjálašvuođa geahčadeapmi		
-litteraturstudie						kirjallisuuskatsaus	#girjjálašvuohtadárkkistus	girjjálašvuođa dutkan	girjjálašvuođa geahčadeapmi	girjjálašvuođa ohcan		
-loggføre	čállit bajás		girjet			kirjata		dimbbar	skearru	loggejuvvo	reivvet	
+dokumentasjonssystem	dokumentašuvdnavuogádat		dokumentašuvdnasystema			kirjaamisjärjestelmä  dokumentaatiojärjestelmä	*kirjaamisjärjestelmä  dokumentašuvdnavuogádat	dokumentašuvdnavuogádat	čállinvuogádat dokumentašuvdnavuogádat	bávččagahttin	bávččas	
+dokumentasjonsplikt	dokumentašuvdnageatnegasvuohta					kirjaamisvelvollisuus  kirjaamisvelvoite	*kirjaamisvelvollisuus  	dokumentašuvdnageatnegasvuohta	registrerengeatnegasvuohta registrerengeatnegasvuohta	dokumentašuvdnavuogádat	lea dokumenterenvuogádat	
+litteraturgjennomgang	girjjálašvuođageahčadeapmi					kirjallisuuskatsaus	#girjjálašvuohtadárkkistus	girjjálašvuođa geahčadeapmi	girjjálašvuođa geahčadeapmi	dokumentašuvdnageatnegasvuohta	čállingeatnegasvuohta	
+litteratursøk	girjjálašvuođa ohcan					kirjallisuushaku	#girjjálašvuohtadárkkistus	girjjálašvuođa ohcan	girjjálašvuođa geahčadeapmi	girjjálašvuođa geahčadeapmi		
+litteraturstudie 	girjjálašvuođa dutkan					kirjallisuustutkimus	#girjjálašvuohtadárkkistus	girjjálašvuođa dutkan	girjjálašvuođa geahčadeapmi	girjjálašvuođa ohcan		
+loggføre	loggagirjen		girjet			lokikirjaus		dimbbar	skearru	loggejuvvo	reivvet	
 hospitalisere						kirjautua sairaalahoitoon	*kirjautua 	buohccivissui	čálihit iežas buohcciviessodikšui	buohcceviessu	sisačáliheapmi buohcceviesu divššu vuollái	
 spekter						kirjo	#girjjogárjjohallat	skála	spektra	spekter	girji	
 testikkelkreft	bálloboras					kivessyöpä	bálloboras	njuoratmáná borasdávda	njuoratmáná borasdávda	ovdaráksáborašdávda	ráppi vuostá	
