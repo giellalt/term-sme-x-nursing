@@ -621,26 +621,26 @@ samtaleterapi	ságastallanterapiija					keskusteluterapia	gulahallanterapiija	s�
 holdbarhet	seailun					kesto	säilyvyys	bissovašvuohta	bistin	ceavzilvuohta	guhká	bistu
 utholdenhetstrening	gierdavašvuođahárjehallan					kestävyysharjoittelu	#gillilvuohtahárjehallan	gierdavašvuođahárjehallan	Gierdavašvuođahárjehallan	gierdavašvuođahárjehallan	gierdavašvuođahárjehallan	
 kolssykdom	kolsdávda,geahpesbaskundávda	£				keuhkoahtaumatauti	geahpesbaskkádatdávda	karbonalaš dávda	KOL	kolssa dávda	vuoigŋašiid-dávda	
-lungevolum	geahppáid sturrodat					keuhkojen tilavuus	geahppáid #daddjásvuohta	čoavjevoluma	čoavjevoluma	geahpesvuođus	vuoigŋama portreahtta	
-lungefunksjon	geahppáid doaibma					keuhkojen toiminta	geahppáid doaibma	čoavjedoaibma	čoavjedoaibma	geahpesdávda	geahppáid bargu	
+lungevolum	geahppesvoluma					keuhkojen tilavuus	geahppáid #daddjásvuohta	čoavjevoluma	čoavjevoluma	geahpesvuođus	vuoigŋama portreahtta	
+lungefunksjon	geahppesdoaibma					keuhkojen toiminta	geahppáid doaibma	čoavjedoaibma	čoavjedoaibma	geahpesdávda	geahppáid bargu	
 lungeavsnitt	geahppá oassi					keuhkon osa	geahppá oassi	čoavjeoassi	oassi čoavjjis	geahppuboahkán	geahpes oassi	
 lungesekk	geahppesseahkka					keuhkopussi	geahpesbusse	njuoratmánná	pleura	buhcciidseahkka	vuohččecuocca	
-bronkiegrein						keuhkoputken haara	geahpesbohcci #hárči	bronkiála suorggi	bronkusa suorggi	bronkeasu	vuohččecuocca hádja	
+bronkiegrein 	geahpẹsbohci suorgi					keuhkoputken haara	geahpesbohcci #hárči	bronkiála suorggi	bronkusa suorggi	bronkeasu	vuohččecuocca hádja	
 bronkie	geahppesbohcci					keuhkoputki	geahpesbohcci	njuoratmánná	njuoratmánná	bronkiija	bronkiijaboraš	
-lungeødem						keuhkopöhö keuhkoedeema	*keuhkopöhö geahpesødema	pulmonála buozalmasvuohta	pulmonála ødem pulmonála ødem	geahpesdávda	vuohččecuocca vuolledábiin	
-lungeemboli						keuhkoveritulppa  keuhkoembolia	*keuhkoveritulppa  	pulmonála emboliija	pulmonála emboliija pulmonála emboliija	geahpesemboliija	geahpeborasdávda keuhkoemboliijas	
-sirkulære						kiertää	garvit	sirkulára	jorret	jorbbas	jorbbas	
-tannemalje	gearradas					kiille		njuoratmánná	mica	bátneelasta	gállu	
-festemiddel	giddehusávnnas					kiinnitysaine	giddehusávnnas	divvunávnnas	divvunávnnas	čatnanreaidu	darvánanrusttet	
-tilknytningsteori						kiintymyssuhdeteoria		čatnasumiid teoriija	čatnasumiid teoriija	čatnaseami teoriija	gullevašvuohtateoriija	
-kilojoule						kilojoule	gilojoule	kilojoulat	kilojoulat	kilojoule	kilojoule	
-kcal						kilokalori	gilokaloriija	kcal	kaloriija	kcal	kilokaloriija	
-kilokalori						kilokalori	gilokaloriija	kilokaloriija	kaloriija	kilokaloriija	kilokaloriija	
-kinin						kiniini		kiniinna	kiniinna	kin-niila	luopmániin	
-gipse	gipsit					kipsata		gips	gips	gipsabivttas	gipsaravda	
-smertesans	bávččasáicu		bávččasdovdu			kipuaisti	bávččasdovdda	váivvi dovdu	váivvi dovdu	bávččagahttin		
+lungeødem	geahpesedema		geahpesbosttáhallan			keuhkopöhö keuhkoedeema	*keuhkopöhö geahpesødema	pulmonála buozalmasvuohta	pulmonála ødem pulmonála ødem	geahpesdávda	vuohččecuocca vuolledábiin	
+lungeemboli	geahpesemboliija		geahpesvarrabunci			keuhkoveritulppa  keuhkoembolia	*keuhkoveritulppa  	pulmonála emboliija	pulmonála emboliija pulmonála emboliija	geahpesemboliija	geahpeborasdávda keuhkoemboliijas	
+sirkulære	gierdo					kierto	garvit	sirkulára	jorret	jorbbas	jorbbas	
+tannemalje	bátnẹgarra					hammaskiille		njuoratmánná	mica	bátneelasta	gállu	
+festemiddel	giddenávnnas					kiinnitysaine	giddehusávnnas	divvunávnnas	divvunávnnas	čatnanreaidu	darvánanrusttet	
+tilknytningsteori	čatnasanteoriija					kiintymyssuhdeteoria		čatnasumiid teoriija	čatnasumiid teoriija	čatnaseami teoriija	gullevašvuohtateoriija	
+kilojoule	kilojoulat					kilojoule	gilojoule	kilojoulat	kilojoulat	kilojoule	kilojoule	
+kcal	kcal					kcal	gilokaloriija	kcal	kaloriija	kcal	kilokaloriija	
+kilokalori	kilokaloriija					kilokalori	gilokaloriija	kilokaloriija	kaloriija	kilokaloriija	kilokaloriija	
+kinin	kiniinna					kiniini		kiniinna	kiniinna	kin-niila	luopmániin	
+gipse	gipset					kipsata		gips	gips	gipsabivttas	gipsaravda	
+smertesans	bávččasáicu					kipuaisti	bávččasdovdda	váivvi dovdu	váivvi dovdu	bávččagahttin		
 smerteproblem	bávččasváttisvuohta		bávččasproblema			kipuongelma	bávččasproblema	váibmováttisvuohta	váibmováttisvuohta	bávččagahttá	bávččagahttin	
-smertepumpe	bávččasbumpa					kipupumppu	bávččaspumpa	váibmopumppa	váibmopumppa			
+smertepumpe	bávččaspumpa					kipupumppu	bávččaspumpa	váibmopumppa	váibmopumppa			
 smertetilstand	bávččasdilli					kiputila	bávččasdilli	váibmováttut	váibmodilli	gibuváidudanbivttas		
 dokumentasjonssystem						kirjaamisjärjestelmä  dokumentaatiojärjestelmä	*kirjaamisjärjestelmä  dokumentašuvdnavuogádat	dokumentašuvdnavuogádat	čállinvuogádat dokumentašuvdnavuogádat	bávččagahttin	bávččas	
 dokumentasjonsplikt						kirjaamisvelvollisuus  kirjaamisvelvoite	*kirjaamisvelvollisuus  	dokumentašuvdnageatnegasvuohta	registrerengeatnegasvuohta registrerengeatnegasvuohta	dokumentašuvdnavuogádat	lea dokumenterenvuogádat	
