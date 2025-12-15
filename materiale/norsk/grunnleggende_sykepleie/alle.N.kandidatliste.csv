@@ -606,21 +606,21 @@ kroppsvarme	gorutliekkas		rupmaša liekkas			kehonlämpö	rupmašaliekkas	rupma�
 kroppsvekt	gorutdeaddu		rumášdeaddu			kehonpaino	rupmašadeaddu	rupmaša deaddu	rupmaša deaddu	rumašdeaddu	rumašdeaddu	
 kroppsforståelse	gorutipmárdus,gorut áddejupmi 	£	rumášipmardus			kehonymmärrys	rupmašaádden	rupmaša diđolašvuohta	rupmaša diđolašvuohta	rumašáddejupmi	rumašáddejupmi	
 ankelknoke	behkeš					kehräsluu	behkeš	njuolggočoarvi	spina bifida	juolgesuorpmas	ruksesluohti	
-sirkelbevegelse						kehäliike	birasgávpi	sirkulára lihkadus	sirkulára lihkadus	jorbalihkadus	jorbalihkadus	
-keisersnitt	keaisárčuohpadus					keisarileikkaus		keisariskka	keisariskka	keaisárlávki	keaisárráidu	
-pasientfortelling						kertomus sairaudesta ja potilaanaolosta	muitalus buozus ja 	pasieantta muitalus	raporta buohcuvuođa birra ja orruma birra pasieantan	pasieantta muitalus	muitalus buohcuvuođa ja buohcuvuođa birra	
+sirkelbevegelse	gierdolihkastat					kehäliike	birasgávpi	sirkulára lihkadus	sirkulára lihkadus	jorbalihkadus	jorbalihkadus	
+keisersnitt	keaisárčuohpadus					keisarinleikkaus		keisariskka	keisariskka	keaisárlávki	keaisárráidu	
+pasientfortelling	patientamuitálus					kertomus sairaudesta ja potilaanaolosta	muitalus buozus ja 	pasieantta muitalus	raporta buohcuvuođa birra ja orruma birra pasieantan	pasieantta muitalus	muitalus buohcuvuođa ja buohcuvuođa birra	
 oppsamlingskolbe	čoagginlihtti					keräysastia	#čoaggilihtti	čoagginkolbba	čoagginkonteinera	čohkkenskovvi	čohkkenláhki	
-oppsamlingssystem	čoagginvuogádat					keräysjärjestelmä	#čoaggivuogádat	čoagginvuogádat	čoagginvuogádat	čoagginvuogádat	kollektiiva vuogádat	
+oppsamlingssystem	čoagginvuogádat	£	čoagginsystema			keräysjärjestelmä	#čoaggivuogádat	čoagginvuogádat	čoagginvuogádat	čoagginvuogádat	kollektiiva vuogádat	
 oppsamlingspose	čoagginseahkka		čoagginbusse			keräyspussi	#čoaggibusse	čoagginbáhpi	čoagginbáhpi	čoaggináigi	čohkkirassuolu	
-oppsamling						kerääminen	kerääntyminen	čoakkáldat	keramihkalaš	čoahkkáigeassu	čohkke	čoaggit
-utskrivningssamtale						keskustelu ennen uloskirjoitusta	gulahallan ovdal 	heaittihanjearahallan	ságastallan ovdal go vuolggát eret	olggosčálihanságastallan	ságastallan ovdal go čálát olggos	
-samtalepartner	ságastallanguoibmi		árvalanguoibmi			keskustelukumppani	gulahallanguoibmi	ságastalli	ságastalli	ságastanguoibmi	ságastanguoibmi	
-samtaletempo						keskustelun tempo	gulahallama 	ságastallama jođánvuohta	ságastallama tempo	gulahallanleaktu	ságastallama hoahppu	
+oppsamling	čoakkáldeapmi, čoakkáldat	£				kerääminen, kokoelma	kerääntyminen	čoakkáldat	keramihkalaš	čoahkkáigeassu	čohkke	čoaggit
+utskrivningssamtale	olggosčálihanságastallan					uloskirjautumiskeskustelu	gulahallan ovdal 	heaittihanjearahallan	ságastallan ovdal go vuolggát eret	olggosčálihanságastallan	ságastallan ovdal go čálát olggos	
+samtalepartner	ságastallanguoibmi					keskustelukumppani	gulahallanguoibmi	ságastalli	ságastalli	ságastanguoibmi	ságastanguoibmi	
+samtaletempo	ságastallanleaktu, ságastallantempo					keskustelunopeus, keskustelutempo	gulahallama 	ságastallama jođánvuohta	ságastallama tempo	gulahallanleaktu	ságastallama hoahppu	
 samtalegruppe	ságastallanjoavku					keskusteluryhmä	gulahallanjoavku	ságastallanjoavku	ságastallanjoavku	ságastallanjoavku	ságastallanjoavku	
 samtaleterapi	ságastallanterapiija					keskusteluterapia	gulahallanterapiija	ságastallanterapiija	ságastallanterapiija	ságastallanterapiija	ságastallanterapiija	
 holdbarhet	seailun					kesto	säilyvyys	bissovašvuohta	bistin	ceavzilvuohta	guhká	bistu
-utholdenhetstrening						kestävyysharjoittelu	#gillilvuohtahárjehallan	gierdavašvuođahárjehallan	Gierdavašvuođahárjehallan	gierdavašvuođahárjehallan	gierdavašvuođahárjehallan	
-kolssykdom	geahpesbaskundávda					keuhkoahtaumatauti	geahpesbaskkádatdávda	karbonalaš dávda	KOL	kolssa dávda	vuoigŋašiid-dávda	
+utholdenhetstrening	gierdavašvuođahárjehallan					kestävyysharjoittelu	#gillilvuohtahárjehallan	gierdavašvuođahárjehallan	Gierdavašvuođahárjehallan	gierdavašvuođahárjehallan	gierdavašvuođahárjehallan	
+kolssykdom	kolsdávda,geahpesbaskundávda	£				keuhkoahtaumatauti	geahpesbaskkádatdávda	karbonalaš dávda	KOL	kolssa dávda	vuoigŋašiid-dávda	
 lungevolum	geahppáid sturrodat					keuhkojen tilavuus	geahppáid #daddjásvuohta	čoavjevoluma	čoavjevoluma	geahpesvuođus	vuoigŋama portreahtta	
 lungefunksjon	geahppáid doaibma					keuhkojen toiminta	geahppáid doaibma	čoavjedoaibma	čoavjedoaibma	geahpesdávda	geahppáid bargu	
 lungeavsnitt	geahppá oassi					keuhkon osa	geahppá oassi	čoavjeoassi	oassi čoavjjis	geahppuboahkán	geahpes oassi	
