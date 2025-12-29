@@ -813,7 +813,7 @@ sondeernæring						letkuruokinta	enteraalinen ravitsemus	čáhcebohcci	giehtabo
 hvilestoffskifte						lepoaineenvaihdunta	#vuoiŋŋasteapmi#ávnnasmolsašuvvan	vuoiŋŋastanmetabolisma	vuoiŋŋastanmetabolisma	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
 hvilestilling	vuoiŋŋastanstellelmas					lepoasento	vuoiŋŋastanstellelmas	vuoiŋŋastanposišuvdna	vuoiŋŋastanposišuvdna	vuoiŋŋadanbáiki	vuoiŋŋadanlatnja	
 hvilesmerte	vuoiŋŋastanbávččas					lepokipu	vuoiŋŋastanbávččas	vuoiŋŋastanváttut	vuoiŋŋastanváttut	vuoiŋŋasteapmi	muhtinlágan vuoiŋŋasteapmi	
-hvilepuls	vuoiŋŋastanravkkin		vuoiŋŋastanravkkas	vuoiŋŋastanpulsa		leposyke  lepopulssi	*leposyke  vuoiŋŋastanravkkas	vuoiŋŋastan váibmofrekveansa	vuoiŋŋastan váibmofrekveansa vuoiŋŋastanpulsa	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
+hvilepuls	vuoiŋŋastanravkin		vuoiŋŋastanravkkas	vuoiŋŋastanpulsa		leposyke  lepopulssi	*leposyke  vuoiŋŋastanravkkas	vuoiŋŋastan váibmofrekveansa	vuoiŋŋastan váibmofrekveansa vuoiŋŋastanpulsa	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
 hvilevolum						lepovolyymi	vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	vuoiŋŋastanhivvodat	vuoiŋŋastanfálaldat	
 sondeløsning						letkuruokintavalmiste		iskkadeami čoavddus	čáhcebohcciid ráhkadeapmi	sonnetčoavddus	dálkkas mii doalvu bottu	
 lidokain						lidokaiini		lidokain	lidokain	lidokaidna	lidokaidna	
@@ -1557,34 +1557,33 @@ munnslimhinne	njálmmi vuohččecuozza					suun limakavo	njálmmi 	njálbmečoar
 munnhelse	njálmmi dearvvašvuohta					suun terveys	njálmmi healsa	njálbmedearvvašvuohta	njálbmedearvvašvuohta	njálmmálaš dearvvašvuohta	njálmmi dearvvašvuohta	
 munnstell	njálmmedikšu					suunhoito	njálmmedikšu	njálbmedikšu	Suoli dikšun	njálbmeskuvla	njálmmálaš dikšu	
 munnspeil	njálbmespeajal					suupeili	njálbmespeajal	njálmmi speajal	njálmmi speajal	njálmmespeadjal	njálbmefáhta	
-hjertesykdom	váibmodávda					sydansairaus		váibmodávda	váibmodávda	váibmodávda	váibmodávda	
+hjertesykdom	váibmodávda					sydänsairaus		váibmodávda	váibmodávda	váibmodávda	váibmodávda	
 hjertekammer	váimmu gámmir					sydämen kammio	váimmu gámmir	váibmokámmár	váimmu kámmár	váibmoguovdi	váibmoga kámmir	
-hjertemuskulatur						sydämen lihaksisto	váimmu 	váibmolihkadus	váibmolihkadus	váibmosuotnjarat	váibmoláđđása sáttomearka	
-hjerterytme						sydämen rytmi	váimmu ritma	váibmorytma	váibmorytma	váibmorytma	min váimmu ritma	
-hjertefrekvens						sydämen syke  sydämen lyöntitiheys	váimmu *syke  váimmu 	váibmofrekveansa	váibmofrekveansa váibmofrekveansa	váibmočájeheapmi	váibmofáktá ja váibmofáktá	
-hjertebank						sydämen tykytys	váimmu 	váibmočuohpadeapmi	váibmočuoččuhusat	váibmobáŋku	váimmu jeđđehus	
-hjerteslag						sydämensyke		váibmočuohpadeapmi	váibmočuohpadeapmi	váibmoláđđásteapmi	váibmoláđđásaš	
-hjertefunksjon						sydämentoiminta	váimmodoaibma	váibmodoaibma	váibmodoaibma	váibmo doaibma	váibmoláđđásan	
-hjertebank						sydämentykytys	váibmogirddáhat	váibmočuohpadeapmi	váibmočuohpadeapmi	váibmobáŋku	váibmoláđđásaš	
-hjertekammer						sydänkammio		váibmokámmár	váibmokámmár	váibmoguovdi	váibmokámmir	váibmogámmir
-hjertekrampe						sydänkouristus		váibmoinfarkta	váibmoinfarkta	váibmoveajehisvuohta	váibmoláđđásat	
+hjertemuskulatur	váimmu deahkit					sydämen lihaksisto	váimmu 	váibmolihkadus	váibmolihkadus	váibmosuotnjarat	váibmoláđđása sáttomearka	
+hjerterytme	váimmu ritma					sydämen rytmi	váimmu ritma	váibmorytma	váibmorytma	váibmorytma	min váimmu ritma	
+hjertefrekvens	váibmoravkin	£váibmoravkkas				sydämen syke  sydämen lyöntitiheys	váimmu *syke  váimmu 	váibmofrekveansa	váibmofrekveansa váibmofrekveansa	váibmočájeheapmi	váibmofáktá ja váibmofáktá	
+hjertebank	girddáhat	£				sydämen tykytys	váimmu 	váibmočuohpadeapmi	váibmočuoččuhusat	váibmobáŋku	váimmu jeđđehus	
+hjerteslag	váibmoravkin					sydämensyke		váibmočuohpadeapmi	váibmočuohpadeapmi	váibmoláđđásteapmi	váibmoláđđásaš	
+hjertefunksjon	váimmodoaibma					sydämentoiminta	váimmodoaibma	váibmodoaibma	váibmodoaibma	váibmo doaibma	váibmoláđđásan	
+hjertebank	girddáhat	£				sydämentykytys	váibmogirddáhat	váibmočuohpadeapmi	váibmočuohpadeapmi	váibmobáŋku	váibmoláđđásaš	
+hjertekammer	váibmogámmir	£				sydänkammio		váibmokámmár	váibmokámmár	váibmoguovdi	váibmokámmir	váibmogámmir
+hjertekrampe	váibmogeasáhat					sydänkouristus		váibmoinfarkta	váibmoinfarkta	váibmoveajehisvuohta	váibmoláđđásat	
 hjertekontraksjon						sydänlihaksen supistuminen	váibmooačči 	váibmočoaggima	váibmolihkadusa čoagganeapmi	váibmoheađušteapmi	váibmoláđđása čoahkkáibahkken	
-hjertemuskel						sydänlihas	váibmooažži	váibmolihkadus	váibmolihkadus	váibmoláđđása	váibmoláđđásaš	
-hjertemuskel						sydänlihas		váibmolihkadus	váibmolihkadus	váibmoláđđása	váibmoláđđásaš	váibmooažži
-hjerteproblem						sydänongelma	váibmoproblema	váibmováttisvuohta	váibmováttisvuohta	váibmoášši	váibmoášši	
-hjertestans						sydänpysähdys		váibmobisánan	váibmobisánan	váibmodeaddu	váibmoheađušteapmi	
-hjertelidelse						sydäntauti	váibmodávda	váibmodávda	váibmodávda	váibmoláđđásvuohta	váibmodávda	
-pulsklokke						sykekello		váibmofrekveanssa mihtideaddji	váibmofrekveanssa mihtideaddji	pulsačuokkis	váibmočuokkis	
-slagfrekvens						syketaajuus		čuohppandávjávuohta	váibmofrekveansa	streaŋgafrekveansa	váibmofáktá	
-pulsfrekvens						syketiheys		pulsa	váibmofrekveansa	pulsafrekveansa	áŧestus	
+hjertemuskel	váibmodeahkki					sydänlihas	váibmooažži	váibmolihkadus	váibmolihkadus	váibmoláđđása	váibmoláđđásaš	
+hjertemuskel	váibmodeahkki					sydänlihas		váibmolihkadus	váibmolihkadus	váibmoláđđása	váibmoláđđásaš	váibmooažži
+hjerteproblem	váibmováttisvuohta					sydänongelma	váibmoproblema	váibmováttisvuohta	váibmováttisvuohta	váibmoášši	váibmoášši	
+hjertestans	váibmodisáneapmi					sydänpysähdys		váibmobisánan	váibmobisánan	váibmodeaddu	váibmoheađušteapmi	
+hjertelidelse	váibmodávda					sydäntauti	váibmodávda	váibmodávda	váibmodávda	váibmoláđđásvuohta	váibmodávda	
+pulsklokke	ravkinmihttár	£				sykekello		váibmofrekveanssa mihtideaddji	váibmofrekveanssa mihtideaddji	pulsačuokkis	váibmočuokkis	
+slagfrekvens	ravkindávjodat		pulsa			syketaajuus		čuohppandávjávuohta	váibmofrekveansa	streaŋgafrekveansa	váibmofáktá	
+pulsfrekvens	ravkindávjodat		pulsa			syketiheys		pulsa	váibmofrekveansa	pulsafrekveansa	áŧestus	
 pulsforandring						sykkeen muutos	*sykkeen iežáhus	pulssa rievdan	váibmofrekveansa rievdan	pulsa rievdan	váibmosivva rievdan	
 pulsrytme						sykkeen rytmi	*sykkeen ritma	pulsarytma	váibmočuohpadeami rytma	pulsarytma	váibmodávddaid dávda	
-spyttproduksjon						syljeneritys	čolggavuohčun	sálbmabuvttadeapmi	njuoratmánná	vuolledábiin ráhkaduvvon	olbmo sivvan sirret	
-spyttsekresjon						syljeneritys	čolggavuohčun	njuoratmánná eretváldin	njuoratmánná	siste-sekrešuvdna	olbmo sivvan sirret	
-spyttsaft						sylki  sylkineste	čolga  čolgasiedja	sálbmačáhci	njuoratmánná njuoratmánná	šliettasoaivi	goaikkanasbohcci	
-spyttkjertel						sylkirauhanen	čolgaráksá	njuoratmánná	njuoratmánná	vuolledábiin	borranráksá	
-spyttkjertel						sylkirauhanen		njuoratmánná	njuoratmánná	vuolledábiin	borranráksá	čolgaráksá
-synkope						synkopee	pyörtyminen	synkopa	synkopa	syncope	máŋggadoaimmat	
+spyttproduksjon	čolggavuohčun					syljeneritys	čolggavuohčun	sálbmabuvttadeapmi	njuoratmánná	vuolledábiin ráhkaduvvon	olbmo sivvan sirret	
+spyttsekresjon	čolggavuohčun					syljeneritys	čolggavuohčun	njuoratmánná eretváldin	njuoratmánná	siste-sekrešuvdna	olbmo sivvan sirret	
+spyttsaft	čolga					sylki  sylkineste	čolga  čolgasiedja	sálbmačáhci	njuoratmánná njuoratmánná	šliettasoaivi	goaikkanasbohcci	
+spyttkjertel	čolgaráksá					sylkirauhanen	čolgaráksá	njuoratmánná	njuoratmánná	vuolledábiin	borranráksá	
+synkope	jámálgit		meanahuvvat, galmmastuvvat			synkopee	pyörtyminen	synkopa	synkopa	syncope	máŋggadoaimmat	
 barselavdeling						synnyttäneiden osasto	#guoddit ossodat	riegádahttinossodat	Riegádahttinossodat	riegádahttinossodat	riegádahttinossodat	
 barselkvinne						synnyttänyt nainen 1-6 viikkoa synnytyksestä	#guoddit nisson #1-#6 vahkku 	riegádahttin nisu	nissonolmmoš gii lea riegádahttán 1-6 vahku riegádeami maŋŋá	mánáiguin riegádan nisu	riegádan nissonolbmos 1 6 vahku riegádahttima rájes	
 fødselsvekt						syntymäpaino	riegádandeaddu	riegádandeaddu	riegádandeaddu	riegádahttin deaddu	riegádan deaddu	
