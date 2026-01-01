@@ -1561,7 +1561,7 @@ hjertesykdom	váibmodávda					sydänsairaus		váibmodávda	váibmodávda	váibm
 hjertekammer	váimmu gámmir					sydämen kammio	váimmu gámmir	váibmokámmár	váimmu kámmár	váibmoguovdi	váibmoga kámmir	
 hjertemuskulatur	váimmu deahkit					sydämen lihaksisto	váimmu 	váibmolihkadus	váibmolihkadus	váibmosuotnjarat	váibmoláđđása sáttomearka	
 hjerterytme	váimmu ritma					sydämen rytmi	váimmu ritma	váibmorytma	váibmorytma	váibmorytma	min váimmu ritma	
-hjertefrekvens	váibmoravkin	£váibmoravkkas				sydämen syke  sydämen lyöntitiheys	váimmu *syke  váimmu 	váibmofrekveansa	váibmofrekveansa váibmofrekveansa	váibmočájeheapmi	váibmofáktá ja váibmofáktá	
+hjertefrekvens	váibmoravkin	£	váibmoravkkas			sydämen syke  sydämen lyöntitiheys	váimmu *syke  váimmu 	váibmofrekveansa	váibmofrekveansa váibmofrekveansa	váibmočájeheapmi	váibmofáktá ja váibmofáktá	
 hjertebank	girddáhat	£				sydämen tykytys	váimmu 	váibmočuohpadeapmi	váibmočuoččuhusat	váibmobáŋku	váimmu jeđđehus	
 hjerteslag	váibmoravkin					sydämensyke		váibmočuohpadeapmi	váibmočuohpadeapmi	váibmoláđđásteapmi	váibmoláđđásaš	
 hjertefunksjon	váimmodoaibma					sydämentoiminta	váimmodoaibma	váibmodoaibma	váibmodoaibma	váibmo doaibma	váibmoláđđásan	
@@ -1586,22 +1586,22 @@ spyttkjertel	čolgaráksá					sylkirauhanen	čolgaráksá	njuoratmánná	njuora
 synkope	jámálgit		meanahuvvat, galmmastuvvat			synkopee	pyörtyminen	synkopa	synkopa	syncope	máŋggadoaimmat	
 barselavdeling						synnyttäneiden osasto	#guoddit ossodat	riegádahttinossodat	Riegádahttinossodat	riegádahttinossodat	riegádahttinossodat	
 barselkvinne						synnyttänyt nainen 1-6 viikkoa synnytyksestä	#guoddit nisson #1-#6 vahkku 	riegádahttin nisu	nissonolmmoš gii lea riegádahttán 1-6 vahku riegádeami maŋŋá	mánáiguin riegádan nisu	riegádan nissonolbmos 1 6 vahku riegádahttima rájes	
-fødselsvekt						syntymäpaino	riegádandeaddu	riegádandeaddu	riegádandeaddu	riegádahttin deaddu	riegádan deaddu	
-fødselsskade						syntymävamma	riegádanveaidni	riegádahttinvahágat	riegádahttinvahágat	riegádahttinváttus	riegádahttinveara	
-systemteori						systeemiteoria	systemateoriija	systemateoriija	systemateoriija	vuogádatteoriija	vuogádatteoriija	
-reviewstudie						systemaattinen kirjallisuuskatsaus	systemáhtalaš #girjjálašvuohtadárkkistus	geahčadeapmi	systemáhtalaš girjjálašvuođa geahčadeapmi	geahčadeapmi	girjjálašvuođa systemáhtalaš guorahallan	
-tenningsmønster						syttymistapa	buollát dáhpi	buollima málle	buollima vuohki	buollinminsttar	suovvanjunni	
+fødselsvekt	riegádandeaddu					syntymäpaino	riegádandeaddu	riegádandeaddu	riegádandeaddu	riegádahttin deaddu	riegádan deaddu	
+fødselsskade	riedádanveadni		eamiváddu			syntymävamma	riegádanveaidni	riegádahttinvahágat	riegádahttinvahágat	riegádahttinváttus	riegádahttinveara	
+systemteori	systemateoriija					systeemiteoria	systemateoriija	systemateoriija	systemateoriija	vuogádatteoriija	vuogádatteoriija	
+reviewstudie	systemáhtalaš girjjálašvuohta geahčastat					systemaattinen kirjallisuuskatsaus	systemáhtalaš #girjjálašvuohtadárkkistus	geahčadeapmi	systemáhtalaš girjjálašvuođa geahčadeapmi	geahčadeapmi	girjjálašvuođa systemáhtalaš guorahallan	
+tenningsmønster	buollándáhpi					syttymistapa	buollát dáhpi	buollima málle	buollima vuohki	buollinminsttar	suovvanjunni	
 deltasøvn						syvä uni  deltauni	#čieŋal nagir  	delta-unnit	čiekŋalis unni mu delta	oasseáiggeoahppu	čiekŋalis niehku leavvan	
 årsakstenkning						syy-yhteysajattelu	#árta#oktavuohtajurddašeapmi	kausála jurddašeapmi	kausála jurddašeapmi	sivvanjurddašeapmi	sivva-oktavuođa jurddašeapmi	
-kreftsvulst						syöpäkasvain	borasguorti	borasdávda	borasdávda	borasdávdašattalmas	borasdávdašattalmas	
-kreftmedisin						syöpälääke	borasdálkkas	borasdávdadálkkas	borasdávdda vuostásaš dálkkas	borasdávdamedisiidna	borasdávdda dálkkas	
-kreftpasient						syöpäpotilas	#boras#buohcci	borasdávdabuhcci	borasdávdabuhcci	borasdávdabuohcci	borasdávdabuohcci	
-kreftregister						syöpärekisteri		borasdávdaregisttar	Borasdávdaregisttar	borasdávdaregisttar	borasdávdaregisttar	borasregisttar
-kreftsykdom						syöpätauti	borasdávda	borasdávda	borasdávda	borasdávda	borasdávda	
-kreftsykepleier						syöpätautien erikoissairaanhoitaja	borasdávddaid 	borasdávdabuohccedivššár	onkologalaš spesialistabuohccidivššár	borasdávdabuohccedikšu	spesialistabuohccedivššár Borasdávdda vuostá	
-strålebehandling						sädehoito	suonjardikšu	čuovgaterapiija	rádioterapiija	suonjardikšu	suonjardandivat	
+kreftsvulst	borasšattalmas					syöpäkasvain	borasguorti	borasdávda	borasdávda	borasdávdašattalmas	borasdávdašattalmas	
+kreftmedisin	borasdálkkas					syöpälääke	borasdálkkas	borasdávdadálkkas	borasdávdda vuostásaš dálkkas	borasdávdamedisiidna	borasdávdda dálkkas	
+kreftpasient	borasbuohcci					syöpäpotilas	#boras#buohcci	borasdávdabuhcci	borasdávdabuhcci	borasdávdabuohcci	borasdávdabuohcci	
+kreftregister	borasdávdaregisttar					syöpärekisteri		borasdávdaregisttar	Borasdávdaregisttar	borasdávdaregisttar	borasdávdaregisttar	borasregisttar
+kreftsykdom	borasdávda					syöpätauti	borasdávda	borasdávda	borasdávda	borasdávda	borasdávda	
+kreftsykepleier	borasdávddaid buohccedivššár					syöpätautien erikoissairaanhoitaja	borasdávddaid 	borasdávdabuohccedivššár	onkologalaš spesialistabuohccidivššár	borasdávdabuohccedikšu	spesialistabuohccedivššár Borasdávdda vuostá	
+strålebehandling	suonjardikšu					sädehoito	suonjardikšu	čuovgaterapiija	rádioterapiija	suonjardikšu	suonjardandivat	
 stråleskade						sädetysvaurio		rádioaktiiva vahágat	rádioaktiiva vahágat	suonjardávda	suonjardáhpáhus	
-kjernejournal						sähköinen potilaskertomus	elektrihkalaš #buohccimuitalus	guovddáš áigečála	elektrovnnalaš buohccedieđáhus	váldojournála	elektrovnnalaš journála	
+kjernejournal	elektrovnnalaš buohccimuitalus	£				sähköinen potilaskertomus	elektrihkalaš #buohccimuitalus	guovddáš áigečála	elektrovnnalaš buohccedieđáhus	váldojournála	elektrovnnalaš journála	
 e-helsetiltak						sähköinen terveydenhoidon palvelu	#elektrihkalaš dearvvasvuođafuolahusa bálvalus	e-dearvvašvuođadoaibmabijut	elektrovnnalaš dearvvašvuođabálvalus	e-dearvvašvuođadoaibmabidju	dearvvašvuođafuolahusbálvalus	
 e-helse						sähköinen terveydenhuolto	elektrihkalaš healssadikšun	e-dearvvašvuohta	elektrovnnalaš dearvvašvuođabálvalus	e-dearvvašvuohta	elektrovnnalaš dearvvašvuođafuolahus	
 hodegjerde						sängyn pääpuoli  sängyn pääty	seaŋgga oaivebealli seaŋgga  noga	oaivebáddi	seaŋgga oaivi seaŋgga loahppa	oaivegárri	seaŋgga váldooassi seaŋgga maŋábealde	
