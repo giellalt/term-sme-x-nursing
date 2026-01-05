@@ -789,7 +789,7 @@ kvalitetsnorm	kvalitehtanorpma					laatunormi	dássonorbma	kvalitehtastandárda	
 kvalitetsproblem	kvalitehtaváttisvuohta					laatuongelma	dássoproblema	kvalitehtaváttisvuohta	kvalitehtaváttisvuohta	kvalitehtaváttisvuohta	kvalitehtaváttisvuohta	
 kvalitetsmål	kvalitehttaulbmil					laatutavoite	dássoulbmil	kvalitehtamihtideamit	kvalitehtaulbmil	kvalitehtaulbmil	kvalitehtaulbmil	
 institusjonsmiljø	lágádusbiras, intitušuvnnabiras					laitosympäristö	ásahusbiras	ásahuslaš biras	rusttetbiras	institušuvdnabiras	lágádusbiras	
-brukerrettighetslov	geavaheaddjivuoigatvuođaláhka					käyttäjäoikeuslaki	láhka #buohcci rivttiin	Geavaheaddjivuoigatvuođaid láhka	láhka pasieanttaid vuoigatvuođaid birra	geavaheaddjivuoigatvuođaláhka	pasientta vuoigatvuođaid láhka	
+patient- og brukerrettighetslov	láhka patienta sajádagas ja vuoigatvuođain, patientaláhka 			patienta- ja geavaheaddjivuoigatvuođaláhka		Laki potilaan asemasta ja oikeuksista, potilaslaki	láhka #buohcci rivttiin	Geavaheaddjivuoigatvuođaid láhka	láhka pasieanttaid vuoigatvuođaid birra	geavaheaddjivuoigatvuođaláhka	pasientta vuoigatvuođaid láhka	
 lovforbud	láhkagielddus					lakisääteinen kielto	*lakisääteinen gieldu	lágalaš gielddus	láhkaásahuvvon gielddus	láhkagielddus	lágas mearriduvvon gielddus	
 laktoseintoleranse	laktosaintoleránsa					laktoosi-intoleranssi	laktosaintoleránsa	laktosa ii gierdavašvuohta	laktosa ii gierdavašvuohta	laktosa-geaseheapmi	laktosa gierdameahttunvuohta	
 laktosetoleranse	laktosatoleránsa					laktoosin sietokyky	laktosa 	laktosa dohkkeheapmi	laktosa ii gierdavašvuohta	laktosa gierdameahttunvuohta	laktosa gierdilvuohta	
@@ -802,8 +802,8 @@ veneklaff	morččáuvssot					laskimoläppä	morašleahppi	venála ventiila	ven�
 veneport	morččápoartta					laskimoportti	morašpoarta	portálaveana	portálaveana	veneporta	vulos verrát	
 venetrombose	morččábuđohat					laskimotukos	#morčesuotnabuđohat	venála trombosa	venála okklušuvdna	venetromboza	veaikečoavji	
 venetrombose	morččátrombosa					laskimotromboosi	#morčesuotnabuđohat  	venála trombosa	venála okklušuvdna venála trombosa	venetromboza	varrasonála vearellatromboza	
-senkningsreaksjon	vuojuhanreakšuvdna					lasko,senkka	*lasko  	lassáneaddji reakšuvdna	jorggihit skáhppon	vuolidanreakšuvdna	rehket	
-pediatri	pediatria					pediatrialastentaudit	pediatria	mánáidsuodjalus	mánnávuođa dávddat	mánáidterapiija	mánáidgárddit	mánáiddávddat
+senkningsreaksjon	vuojuhanreakšuvdna,seŋkká					lasko,senkka	*lasko  	lassáneaddji reakšuvdna	jorggihit skáhppon	vuolidanreakšuvdna	rehket	
+pediatri	pediatria					pediatria, lastentaudit	pediatria	mánáidsuodjalus	mánnávuođa dávddat	mánáidterapiija	mánáidgárddit	mánáiddávddat
 trigger	triggejeaddji					laukaisija, triggeröijä		báhcahat	báhcahat	álggaheaddji	álggaheaddji	
 tallerkenkant	tallearkarávda					lautasen reunus	#dallearka 	pláhta gáttis	pláhta rámma	láse ravda	ravda beavddi birra	
 tallerkenmodell	dallearkamálle					lautasmalli		pláhtamálle	pláhtamálle	láđđemodealla	láhtterátnu	
@@ -812,43 +812,42 @@ hvilestoffskifte	vuoiŋŋastanávnnasmolsašuvvan					lepoaineenvaihdunta	#vuoi�
 hvilestilling	muossẹstellelmas,vuoiŋŋastanstellelmas					lepoasento	vuoiŋŋastanstellelmas	vuoiŋŋastanposišuvdna	vuoiŋŋastanposišuvdna	vuoiŋŋadanbáiki	vuoiŋŋadanlatnja	
 hvilesmerte	muossebávččas, vuoiŋŋastanbávččas					lepokipu	vuoiŋŋastanbávččas	vuoiŋŋastanváttut	vuoiŋŋastanváttut	vuoiŋŋasteapmi	muhtinlágan vuoiŋŋasteapmi	
 hvilepuls	muosseravkkas, vuoiŋŋastanravkkas		muossepulsa, vuoiŋŋastanpulsa		leposyke  lepopulssi	*leposyke  vuoiŋŋastanravkkas	vuoiŋŋastan váibmofrekveansa	vuoiŋŋastan váibmofrekveansa vuoiŋŋastanpulsa	vuoiŋŋasteapmi	vuoiŋŋasteapmi		
-hvilevolum	vuoiŋŋastanvoluma					lepovolyymi	vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	vuoiŋŋastanhivvodat	vuoiŋŋastanfálaldat	
-sondeløsning						letkuruokintavalmiste		iskkadeami čoavddus	čáhcebohcciid ráhkadeapmi	sonnetčoavddus	dálkkas mii doalvu bottu	
-lidokain						lidokaiini		lidokain	lidokain	lidokaidna	lidokaidna	
+hvilevolum	muossevoluma, vuoiŋŋastanvoluma					lepovolyymi	vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	vuoiŋŋastanhivvodat	vuoiŋŋastanfálaldat	
+sondeløsning	biebmoluvvadus			sondeluvvadus		ravintoliuos		iskkadeami čoavddus	čáhcebohcciid ráhkadeapmi	sonnetčoavddus	dálkkas mii doalvu bottu	
+lidokain	lidokaidna					lidokaiini		lidokain	lidokain	lidokaidna	lidokaidna	
 lindring	geahpedeapmi					lievitys		geahpádus	láhčit dili	geahpádus	ávžžuhus	
-muskelsvekkelse	deahkkeheadjuvuohta					lihasheikkous	oažžeheadju	lihkastaga váibmováttut	lihkastaga váibmováttut	deahkkemeahttun deattut	lihkadanvátni	
-muskelspenning						lihasjännite	oažžegealdu	lihkastagaid čavgavuohta	lihkastagaid čavgavuohta	deahkkesealgga	deahkkaleapmi	
+muskelsvekkelse	deahkkegeanohisvuohta					lihasheikkous	oažžeheadju	lihkastaga váibmováttut	lihkastaga váibmováttut	deahkkemeahttun deattut	lihkadanvátni	
+muskelspenning	deahkkegealdu					lihasjännite	oažžegealdu	lihkastagaid čavgavuohta	lihkastagaid čavgavuohta	deahkkesealgga	deahkkaleapmi	
 muskelkrampe	deahkkekrámpa		suotnageasáhat			lihaskramppi	suonenveto	lihkastagaid	lihkastagaid	min lihkastahttin	muskleravda	oažžekrámpa
-muskelkrampe						lihaskramppi	suonenveto	lihkastagaid	lihkastagaid	min lihkastahttin	muskleravda	
-muskelfiber						lihaskuitu	oažžefiiber	lihkastaga fiber	lihkastaga fiber	dego muskulašávnnas	čáhppeslihtti	
-muskelmasse	deahkkemássá					lihasmassa	#oažži#mássá	lihkastaga	lihkastaga	deahkkemeahttun	deahkkemeahttun	
-muskelprotein	deahkkeproteiidna					lihasproteiini	#oažži#proteidna	lihkastaga proteiidna	lihkastaga proteiidna	muskulašproteinealla	muskulatuvraproteiidna	
+muskelfiber	oažžefiiber					lihaskuitu	oažžefiiber	lihkastaga fiber	lihkastaga fiber	dego muskulašávnnas	čáhppeslihtti	
+muskelmasse	oažžemássá					lihasmassa	#oažži#mássá	lihkastaga	lihkastaga	deahkkemeahttun	deahkkemeahttun	
+muskelprotein	oažžeproteiidna					lihasproteiini	#oažži#proteidna	lihkastaga proteiidna	lihkastaga proteiidna	muskulašproteinealla	muskulatuvraproteiidna	
 muskelgruppe	deahkkejoavku					lihasryhmä	oažžejoavku	lihkastagaid joavku	lihkastagaid joavku	muskkaljoavku	muskkaljoavku	
-muskelsykdom	deahkkebuohcu		deahkkedávda			lihassairaus	oažžebuohcu	lihkastaga dávda	lihkastaga dávda	deahkkedávda	mielkegusa dávda	
-muskelknute						lihassolukasvaiN	 myooma	lihkastaga	lihkastaga seallabuozalmasvuohta	muskulaš guolga	lihassolbmosuvdna	oažžeseallaguorti
-muskelkontraksjon						lihassupistus		lihkastagaid čoagganeapmi	lihkastagaid čoagganeapmi	deahkkemeahttun muskleráhkadeapmi	dakkár ahte oažžu lihkastagaid	
-muskelomfang	dehkiid sturrodat					lihasten koko	oččiid #ollis	lihkastagaid sturrodat	lihkastaga sturrodat	muskela viidodat	muskkal sturrodat	
+muskelsykdom	oažžedávda		deahkkedávda			lihassairaus	oažžebuohcu	lihkastaga dávda	lihkastaga dávda	deahkkedávda	mielkegusa dávda	
+muskelknute	deahkkečuolbma					lihassolmu	 myooma	lihkastaga	lihkastaga seallabuozalmasvuohta	muskulaš guolga	lihassolbmosuvdna	oažžeseallaguorti
+muskelkontraksjon 	deahkkečárvestat					lihassupistus		lihkastagaid čoagganeapmi	lihkastagaid čoagganeapmi	deahkkemeahttun muskleráhkadeapmi	dakkár ahte oažžu lihkastagaid	
+muskelomfang	oažžesturrodat					lihaskoko	oččiid #ollis	lihkastagaid sturrodat	lihkastaga sturrodat	muskela viidodat	muskkal sturrodat	
 muskelbruk	dehkiid gaevaheapmi					lihasten käyttö	oččiid atnin	lihkastagaid geavaheapmi	lihkastagaid geavaheapmi	deahkkedoaibma	dego muskkelgeavaheapmi	
-muskelatrofi						lihasten surkastuminen	oččiid 	lihkastaga atrofiija	lihkastaga atrofiija	deahkkedávda	deahkkemeahttun lihkastagat	
-muskelsvinn						lihasten surkastuminen	lihasatrofia	lihkastagaid jávkan	lihkastaga atrofiija	deahkkemeahttun	deahkkemeahttun lihkastagat	oččiid 
+muskelatrofi 	deahkkeatrofia					lihasatrofia, lihasten surkastuminen	oččiid 	lihkastaga atrofiija	lihkastaga atrofiija	deahkkedávda	deahkkemeahttun lihkastagat	
+muskelsvinn	deahkkejávku					lihaskato		lihkastagaid jávkan	lihkastaga atrofiija	deahkkemeahttun	deahkkemeahttun lihkastagat	oččiid 
 muskelaktivitet	deahkkedoaibma					lihastoiminta	oažžedoaibma	lihkastaga aktivitehta	lihkastaga aktivitehta	deahkkedoaibma	dego lihkahallan	
 muskelarbeid	deahkkebargu					lihastyö	oažžebargu	lihkastagaid bargu	lihkastagaid bargu	deahkkedoaibma	lihkadus	
 muskelkraft	deahkkefábmu					lihasvoima	oažžefápmu	lihkastaga fápmu	lihkastagaid fápmu	muskulaš jođiheapmi	muskulaš jođádat	
-muskelvolum						lihasvolyymi  lihastilavuus	oažževoluma #oažži#daddjásvuohta  	lihkastaga sturrodat	lihkastagaid sturrodat lihkastagaid voluma	deahkkemearri	muskkaluossamihttu	
-overskuddsvæske	liigi golggus					liika neste ylimääräinen neste	liigi siedja #badjelmearálaš siedja	badjelmeare čáhci	menddo ollu čáhci liige čáhci	badjelmearálaš golgi	ila olu golggus badjelmearálaš golggus	
-bevegelighetstrening	lihkadanhárjehallan					liikeharjoittelu	gávpehárjehallan	lihkadanhárjehallan	lihkadanhárjehallan	lihkadanhárjehallan	fitnodatdoaibma	
-bevegelsesinnskrenkning	lihkadanráddjen					liikerajoite	gávperáddjen	lihkadanráddjehus	lihkadanráddjehus	lihkadanráddjen	fitnodatrádji	
-mobilisering						liikkeellelähtö		mobiliseren	vuolggahit	mobiliseren	johtingeađgejuolgi	
-bevegelsesforstyrrelse						liikkumishäiriö	lihkkat segohus	lihkadanváttut	lihkadanváttut	lihkahallanváttisvuohta	lihkahallanváttisvuohta	
-bevegelseskapasitet						liikkumiskapasiteetti	lihkkat #kapasitehtta	lihkadanvejolašvuohta	lihkadankapasitehta	lihkadanváldi	lihkadanváldi	
-aktivitetstoleranse						liikunnan sietokyky	lášmmohallama 	aktivitehta gierdavašvuohta	hárjehallat gierdavašvuođa	aktivitehtadohkálašvuohta	lihkadeami gierdavašvuohta	
-førlighet	lihkadannákca					liikuntakyky	lášmmohallangálga	gierdavašvuohta	hárjehallankapasitehta	ovdavuohta	lihkadanmáhttu	
+muskelvolum	deahkkevolyma					lihasvolyymi  lihastilavuus	oažževoluma #oažži#daddjásvuohta  	lihkastaga sturrodat	lihkastagaid sturrodat lihkastagaid voluma	deahkkemearri	muskkaluossamihttu	
+overskuddsvæske	liigegolggus					ylijäämäneste	liigi siedja #badjelmearálaš siedja	badjelmeare čáhci	menddo ollu čáhci liige čáhci	badjelmearálaš golgi	ila olu golggus badjelmearálaš golggus	
+bevegelighetstrening	soddjilvuođahárjehallan					liikkuvuusharjoittelu	gávpehárjehallan	lihkadanhárjehallan	lihkadanhárjehallan	lihkadanhárjehallan	fitnodatdoaibma	
+bevegelsesinnskrenkning	lihkadanráddjehus					liikerajoite	gávperáddjen	lihkadanráddjehus	lihkadanráddjehus	lihkadanráddjen	fitnodatrádji	
+mobilisering	mobiliseren					liikkeellelähtö		mobiliseren	vuolggahit	mobiliseren	johtingeađgejuolgi	
+bevegelsesforstyrrelse	lihkadanhehttehus					liikkumishäiriö	lihkkat segohus	lihkadanváttut	lihkadanváttut	lihkahallanváttisvuohta	lihkahallanváttisvuohta	
+bevegelseskapasitet	lihkadankapasitehta					liikkumiskapasiteetti	lihkkat #kapasitehtta	lihkadanvejolašvuohta	lihkadankapasitehta	lihkadanváldi	lihkadanváldi	
+aktivitetstoleranse	aktivitehtatoleransa					aktiviteettitolerenssi, aktiviteettisietokyky	lášmmohallama 	aktivitehta gierdavašvuohta	hárjehallat gierdavašvuođa	aktivitehtadohkálašvuohta	lihkadeami gierdavašvuohta	
+førlighet	lašmatvuohta					liikkuvuus	lášmmohallangálga	gierdavašvuohta	hárjehallankapasitehta	ovdavuohta	lihkadanmáhttu	
 slimhinneødem	vuohččecuozzabohtaneapmi					limakalvoturvotus		lihkuhisvuohta	čalbmečoarvvi buozalmasvuohta	muohttašgođđosa bođus	guođđinlihkohisvuohta	
-slimmobilisering						liman liikkeelle saaminen	njivlli gávpái oažžut	slim mobiliseren	oažžut slim lihkadit	šliivvillihkadeapmi	moivi mii sirdojuvvo	
-slimproduksjon						liman tuotanto	njivlli duddjon	slimbuvttadeapmi	slimbuvttadeapmi	šliivvasbuvttadus	šliivvi buvtta	
+slimmobilisering	šliivimobiliseren					liman mobilisointi, liman liikkeelle saaminen	njivlli gávpái oažžut	slim mobiliseren	oažžut slim lihkadit	šliivvillihkadeapmi	moivi mii sirdojuvvo	
+slimproduksjon	šliivibuvttadeapmi					liman tuotanto	njivlli duddjon	slimbuvttadeapmi	slimbuvttadeapmi	šliivvasbuvttadus	šliivvi buvtta	
 slimsekresjon	šliivevuohcun					limaneritys	njivllevuohčun	slim-sekrešuvdna	slim-sekrešuvdna	šliivvasekresuvdna	rievssatbivttas	
-tilsetning	lassi					lisä	lassi	lasáhus	lasse-	lasáhus	lasáhus	
-tilsetningsmiddel	lasseávnnas					lisäaine	lasseávnnas	lasiheapmi	lasiheapmi	lasahus	lasseávnnas	
+tilsetning	lasáhus					lisäys	lassi	lasáhus	lasse-	lasáhus	lasáhus	
+tilsetningsmiddel	lassiávnnas					lisäaine	lasseávnnas	lasiheapmi	lasiheapmi	lasahus	lasseávnnas	
 binyremarg	lassemanimušađa					lisämunuaisydin	#lassi#monimušađa	adrenala medulla	adrenala medulla	bihtánsáidi	lassiođđasa váimmus	
 tilleggsbelastning	lassenoađđi					lisätaakka	lassenoađđi	lassi lassi	lassi geatnegasvuohta	lassi noađđi	lassi noađđi	
 tilleggskrav	lassegáibádus					lisävaatimus	lassegáibádus	lassi gáibádusat	lassi gáibádus	lassigáibádusat	lassegáibádus	
@@ -1599,7 +1598,7 @@ kreftsykdom	borasdávda					syöpätauti	borasdávda	borasdávda	borasdávda	bor
 kreftsykepleier	borasdávddaid buohccedivššár					syöpätautien erikoissairaanhoitaja	borasdávddaid 	borasdávdabuohccedivššár	onkologalaš spesialistabuohccidivššár	borasdávdabuohccedikšu	spesialistabuohccedivššár Borasdávdda vuostá	
 strålebehandling	suonjardikšu					sädehoito	suonjardikšu	čuovgaterapiija	rádioterapiija	suonjardikšu	suonjardandivat	
 stråleskade						sädetysvaurio		rádioaktiiva vahágat	rádioaktiiva vahágat	suonjardávda	suonjardáhpáhus	
-kjernejournal	elektrovnnalaš buohccimuitalus	£				sähköinen potilaskertomus	elektrihkalaš #buohccimuitalus	guovddáš áigečála	elektrovnnalaš buohccedieđáhus	váldojournála	elektrovnnalaš journála	
+kjernejournal	kanta-bálvalus			váimmusjournala		kanta-palvelu	elektrihkalaš #buohccimuitalus	guovddáš áigečála	elektrovnnalaš buohccedieđáhus	váldojournála	elektrovnnalaš journála	
 e-helsetiltak						sähköinen terveydenhoidon palvelu	#elektrihkalaš dearvvasvuođafuolahusa bálvalus	e-dearvvašvuođadoaibmabijut	elektrovnnalaš dearvvašvuođabálvalus	e-dearvvašvuođadoaibmabidju	dearvvašvuođafuolahusbálvalus	
 e-helse						sähköinen terveydenhuolto	elektrihkalaš healssadikšun	e-dearvvašvuohta	elektrovnnalaš dearvvašvuođabálvalus	e-dearvvašvuohta	elektrovnnalaš dearvvašvuođafuolahus	
 hodegjerde	seaŋgga oaiveluš					sängyn pääpuoli  sängyn pääty	seaŋgga oaivebealli seaŋgga  noga	oaivebáddi	seaŋgga oaivi seaŋgga loahppa	oaivegárri	seaŋgga váldooassi seaŋgga maŋábealde	
