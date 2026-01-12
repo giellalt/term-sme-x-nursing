@@ -967,27 +967,27 @@ endringsarbeid	rievdadanbargu					muutostyö	iežáhusbargu			rievdadanbargu	rie
 giftstoff	mirkkoávnnas					myrkkyaine	mirkoávnnas			mirkoávnnas	mirkoávnnas	
 giftbehandling	mirkkogieđahallan					myrkkykäsittely	mirkogieđahallan			mirkobálvalus	mirkofáhta	
 puss	siedja					mätä	märkäinen erite			dušši	duolva	guohca
-forråtnelsesprosess						mätänemisprosessi				rievdanproseassa	meaddinproseassa	
-mengdekrav						määrällinen vaatimus	*määrällinen gáibádus			hivvodatgáibádusat	mearrediđolaš gáibádus	
+forråtnelsesprosess	guohcaganproseassa					mätänemisprosessi				rievdanproseassa	meaddinproseassa	
+mengdekrav	hivvodatgáibádus					määrällinen vaatimus	*määrällinen gáibádus			hivvodatgáibádusat	mearrediđolaš gáibádus	
 ordinere	mearridit					määrätä	mearridit			dábáleabbo	mearriduvvon	
 forordning	mearrádus					määräys	dákti			láhkaásahus	mearrádus	
-spissbekken	nissoniid vuollihtti					naisten alusastia	nissoniid álgolihtti			spissebákti	nissonolbmuid vuolitvuollebivttas	
+spissbekken	vuollihtti					alusastia	nissoniid álgolihtti			spissebákti	nissonolbmuid vuolitvuollebivttas	
 kvinnekateter	nissoniid katehtár					naisten katetri	nissoniid #katehtár			nissonolbmuid kátta	nissonolbmuid kateterapiija	
-kvinnehelse	nissoniid dearvvašvuohta					naisten terveys naisterveys	nissoniid healsa #nissonhealsa			nissonolbmuid dearvvašvuohta	nissonolbmuid dearvvašvuohta	
-kvinnesykdom	nissoniiddávddat					naistentaudit	nissoniiddávddat			nissonbuozalmasvuohta	nissonolbmuid duodji	
+kvinnehelse	nissondearvvašvuohta					naisten terveys naisterveys	nissoniid healsa #nissonhealsa			nissonolbmuid dearvvašvuohta	nissonolbmuid dearvvašvuohta	
+kvinnesykdom	nissondávddat					naistentaudit	nissoniiddávddat			nissonbuozalmasvuohta	nissonolbmuid duodji	
 navlestreng	náhpečoalli					napanuora				nállestreaŋga	rátnu	
-perkutere						koputella;  perkutoida	*naputella ja guldalit 			biiggát	deaddit ja guldalit siskkáldas struktuvrraid	
-perkusjon						koputtelututkimus; perkussio				lihkohisvuohta	nággovuloš	
-narrativ						narratiivi	kertomus			narratiiva	muitalus	#narratiiva
+perkutere	perkuteret					koputella;  perkutoida	*naputella ja guldalit 			biiggát	deaddit ja guldalit siskkáldas struktuvrraid	
+perkusjon	perkušuvdna					koputtelututkimus; perkussio				lihkohisvuohta	nággovuloš	
+narrativ	narratiiva					narratiivi	kertomus			narratiiva	muitalus	#narratiiva
 nesekateter	njunnikatehtár					nenäkatetri; happiviikset	#njunni#katehtár			njunnesoabbi	njunnesoabbi	
-ødemsamling						nestekertymä	sieja *kertyminen rupmašii			ávdinčoahkádus	golgi mii darvána gorudii	
+ødemsamling	ødemačoagganeapmi					nestekertymä	sieja *kertyminen rupmašii			ávdinčoahkádus	golgi mii darvána gorudii	
 væskebehov	golggus dárbu					nesteen tarve	sieja dárbu			golgi	čáhcefápmu	
 væskeinntak	golggosa oažžun					nesteensaanti	siejaoažžun			golgi sisaváldin	golggosáddu	
 væsketilførsel	golggosa oažžun					nesteensaanti	siejaoažžun			golgi lasáhus	golggosáddu	
-væskebehandling	golggusdikšu					nestehoito	siedjadikšu			golgi divvun	golgi divššu	
-væskeinfusjon	infušuvdnagolggus					nesteinfuusio	#siedja#infušuvdna			golgi infušuvdna	golgi fušuvdna	
-væskeansamling						nestekertymä				golgi čoaggin	golgi čoaggin	
-væskeopphopning						nestekertymä				golgi čoagganeapmi	golgi čoaggin	
+væskebehandling	golggusdikšun					nestehoito	siedjadikšu			golgi divvun	golgi divššu	
+væskeinfusjon	golggusinfušuvdna					nesteinfuusio	#siedja#infušuvdna			golgi infušuvdna	golgi fušuvdna	
+væskeansamling	golggusčoagganeapmi					nestekertymä				golgi čoaggin	golgi čoaggin	
+væskeopphopning	golggusčoagganeapmi	£				nestekertymä				golgi čoagganeapmi	golgi čoaggin	
 drikkeliste	golgguslistu					nestelista	#siedja#lista			juhkamušlisttu	nuohttejuvvon	
 drikkeskjema	golgguslistu					nestelista	#siedja#lista			juhkkojuvvon skiera	nuohttejuvvon	
 væskeregistrering						nestemäärien kirjaaminen	siedjameriid 			golgi registreren	golgodávdameari čállin	
