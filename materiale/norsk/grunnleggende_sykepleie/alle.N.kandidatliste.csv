@@ -1122,7 +1122,7 @@ madrasstrekk	bolstarasuodji					patjansuojus				láđđeboagán	suodji báttis
 patofysiologi						patofysiologia	buođđofysiologiija			patofysiologiija	patofysiologiija	
 kjøttbetennelse						pehmytkudostulehdus				vuolši bierggus	dipma čoavjevuolši	
 belegg	tehppen		govččas			peite, peitto	govččas			coahkkádus	čiegusvuohta	
-skrekkanfall	balludohppehallat					pelkokohtaus	#ballu#dohppehallat			balddihahtti ášši	balu dáhpáhus	
+skrekkanfall	balludohppehallan					pelkokohtaus	#ballu#dohppehallat			balddihahtti ášši	balu dáhpáhus	
 penishode	návleoaivi					peniksen kärki terska	diri geahči 			beanabártni oaivi	peanna nannosealgá bátti	
 penishode	návleoaivi					peniksen pää	diri #oaivi			beanabártni oaivi	guolgaoaivi	
 penicillin	penisilliidna					penisilliini				penicilliidna	penicillin	
@@ -1685,8 +1685,8 @@ helseinformatikk		£				terveystietojenkäsittelytiede		dearvvašvuođainformati
 helseresultat		£				terveystulos	healsaboađus	dearvvašvuođaboađus	Dearvvašvuođaboađus	dearvvašvuođa boađus	dearvvašvuođaboađus	
 helseutfall	dearvvašvuođaváikkuhus					terveysvaikutus	healsaváikkuhus	dearvvašvuođabohtosat	dearvvašvuođaváikkuhus	dearvvašvuođadáhpáhus	dearvvašvuođaváikkuhus	
 testmåltid						testiateria	teastamális	geahččalanborramuš	geahččalanborramuš	geahččalanáigi	geahččaleapmi	
-drypp						TIA-kohtaus	aivojen iskeeminen kohtaus	gahččan	TIA-oassi	dušši	TIA-ášši	
-vitenskapstradisjon						tiedetraditio	dieđaárbevierru	dieđalaš árbevierru	dieđalaš árbevierru	dieđalaš árbevierru	diehtetradišuvdna	
+drypp	TIA-dohppehallan					TIA-kohtaus	aivojen iskeeminen kohtaus	gahččan	TIA-oassi	dušši	TIA-ášši	
+vitenskapstradisjon		£				tiedetraditio	dieđaárbevierru	dieđalaš árbevierru	dieđalaš árbevierru	dieđalaš árbevierru	diehtetradišuvdna	
 kunnskapsvurdering						tiedon arviointi	dieđu evalueren	máhttoárvvoštallan	máhttoárvvoštallan	máhtolašvuođaárvvoštallan	dieđu árvvoštallan	
 kunnskapskomponent						tiedon elementti	dieđu elemeanta	máhttooassi	máhtu elemeanta	máhtolašvuođa oassi	dieđu elemeanta	
 kunnskapsbegrep						tiedon käsite	dieđu doaba	máhtolašvuođa doahpagat	máhtu doahpagat	máhtto-doaba	dieđu doaba	
@@ -1699,9 +1699,9 @@ kurveføring						tietojen kirjaaminen	dieđuid 	kurvarávven	diehtologgen	jorgg
 datainnsamling						tietojenkeruu		dieđuid čoaggin	dieđuid čoaggin	dieđuid čohkken	dieđuid čohkken	
 volumendring						tilavuuden muutos	#daddjásvuohta iežáhus	jietnadási rievdan	rievdan jietnadásis	jietnadatnuppástus	volumena	
 dråpeteller						tipanlaskija		gahččan	lohkki	goaivunlogut	tipanrehkenastin	
-oppvaskmiddel						tiskiaine		bassat čáhci	bassat čáhci	lihttebassanrusttet	bassanávdnas	
-realitetssans						todellisuudentaju	duođalašvuođaipmárdus	duohtavuođadovdu	duohtavuođadovdu	duohtavuođaáddejupmi	duohtavuođaáddejupmi	
-realitetssjokk						todellisuusshokki  realiteettishokki	#duođalašvuohtašohkka 	duohtavuođašohkka	duohtavuođašohkka duohtavuođašohkka	duohtavuođa suorggaheapmi	duohtavuođa šuokŋa duohtavuođa šuokŋa	
+oppvaskmiddel	lihttebassanávnnas					tiskiaine		bassat čáhci	bassat čáhci	lihttebassanrusttet	bassanávdnas	
+realitetssans	duođalašvuođadovdu					todellisuudentaju	duođalašvuođaipmárdus	duohtavuođadovdu	duohtavuođadovdu	duohtavuođaáddejupmi	duohtavuođaáddejupmi	
+realitetssjokk	duođalašvuohtašohkka					todellisuusshokki  realiteettishokki	#duođalašvuohtašohkka 	duohtavuođašohkka	duohtavuođašohkka duohtavuođašohkka	duohtavuođa suorggaheapmi	duohtavuođa šuokŋa duohtavuođa šuokŋa	
 doktorgradsutdanning						tohtorikoulutus		doavttirgrádaoahppu	doavttirgrádaoahppu	doavttergrádaoahppu	doavttergrádaoahppu	
 doktorgradsprogram						tohtoriohjelma		doavttirgrádaprográmma	doavttirgrádaprográmma	doavttergrádaprográmma	doavttergrádastipeanda	
 iverksetting						toimeenpaneminen		ollašuhttin	ollašuhttin	álggaheapmi	ollašuhttin	
