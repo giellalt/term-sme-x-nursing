@@ -1024,27 +1024,27 @@ normaltemperatur	normálatemperatuvrra					normaali lämpötila	#normála temper
 normalverdi	normálaárvu					normaaliarvo				dábálaš árv	norbmaárvu	
 normalposisjon	normálastellelmas		normálasajádat			normaaliasento				dábálaš sadji	dábálaš doaladupmi	
 normalflora	normálaflora					normaalifloora				dábálaš flora	dábálaš šládja	
-normalgrense						normaalin raja	normála rádji			dábálaš rádji	dábálaš ráji	
-normalitetsbegrep						normaalisuuskäsite				normálavuohta-doaba	normálalašvuođa doaba	
+normalgrense	normála rádji					normaalin raja	normála rádji			dábálaš rádji	dábálaš ráji	
+normalitetsbegrep	normálitehtta duoba					normaalisuuskäsite				normálavuohta-doaba	normálalašvuođa doaba	
 normalfunksjon	normáladoaibma					normaalitoiminta				dábálaš doaibma	dábálaš dilli	
-normalvariasjon	normálamolsašuddan					normaalivaihtelu				dábálaš molsašuddan	dábálaš molsašuddan	
-novise						noviisi	vasta-alkaja			ođas	ođasášši	#noviisa
-novisenivå						noviisitaso aloittelijan taso	#noviisadássi #álggahalli dássi			ođđasisdássi	ođđaálggaheaddji dássi	
-sovestilling	nohkanstellelmas		oađđanstellelmas			nukkumisasento	oađđit stellelmas			oađđensearvi	oađđenseaŋka	
-narkose	nohkkadeapmi					nukutus	yleisanestesia			narkosa	oađđádat	
-synsinntrykk	oaidnindovdda					näköaistimus  visuaalinen vaikutelma	*näköaistimus  visuálalaš 			oaidnu	oaidnimis visuálalaš mearkkašupmi	
+normalvariasjon	normálamolsašuddan, normálavariašuvdna					normaalivaihtelu				dábálaš molsašuddan	dábálaš molsašuddan	
+novise	novisa, álggahalli					noviisi	vasta-alkaja			ođas	ođasášši	#noviisa
+novisenivå	novisadássi, álggahalli dássi					noviisitaso aloittelijan taso	#noviisadássi #álggahalli dássi			ođđasisdássi	ođđaálggaheaddji dássi	
+sovestilling	oađđinstellelmas					nukkumisasento	oađđit stellelmas			oađđensearvi	oađđenseaŋka	
+narkose	narkosa, nohkkadeapmi					nukutus	yleisanestesia			narkosa	oađđádat	
+synsinntrykk	oaidnugovva					näköaistimus  visuaalinen vaikutelma	*näköaistimus  visuálalaš 			oaidnu	oaidnimis visuálalaš mearkkašupmi	
 synsvanske	oaidninhehttehus					näköhäiriö	oaidnosegohus			oaidninváttisvuohta	oaidninváttisvuohta	
 standpunkt	oaidninvuohki					näkökanta	oaidnojocca			oaidnu	geahčastat	
-synsvidde						näkökentän laajuus	oaidnogietti viidodat			oaidnemearri	oaidnemeahttun viidodat	
-stråleprøve						näyte virtsasuihkusta	čájánas gužžarišus			suonjardusteasta	iskosa gožžaráhkus	
-objektglass	čájánasláse					näytelasi	čájánasláse			objeaktaglássa	du čájálmas	
+synsvidde	oaidnoviidodat					näkökenttä	oaidnogietti viidodat			oaidnemearri	oaidnemeahttun viidodat	
+stråleprøve	cirggasčájánas					keskisuihkunäyte	čájánas gužžarišus			suonjardusteasta	iskosa gožžaráhkus	
+objektglass	objektaláse					objektilasi	čájánasláse			objeaktaglássa	du čájálmas	
 prøveglass	čájánasláse					näytelasi	čájánasláse			geahččalanluohkká	du čájálmas	
-synsskarphet	oainnodárkkástus					näöntarkkuus	oainnodárkkuhus			oaidninskovvi	oaidnemeahttunvuohta	
-kontaktsykepleier	rávvejeaddji buohčedivššar		vástideaddji buohčedivššar			ohjaava sairaanhoitaja vastuusairaanhoitaja	#bagadallat #buohccidikšu #vástu#buohccidikšu			gulahallanbuohccedikšu	bagadeaddji buohccedivššárovddasvástideaddji buohccedivššár	
+synsskarphet	oaidnudárkkilvuohta					näöntarkkuus	oainnodárkkuhus			oaidninskovvi	oaidnemeahttunvuohta	
+kontaktsykepleier	kontákta buohčedivššar		vástideaddji buohčedivššar			ohjaava sairaanhoitaja vastuusairaanhoitaja	#bagadallat #buohccidikšu #vástu#buohccidikšu			gulahallanbuohccedikšu	bagadeaddji buohccedivššárovddasvástideaddji buohccedivššár	
 guiding	bagadallan					ohjaus	bagadallan			ofelaš	stivren	
 symptomlindring	dávdamearkka geahpedeapmi					oireen lievitys	symptoma 			dávdamearkkaid geahpedeapmi	symptoma váidudeapmi	
-symptomerfaring	dávdamearkkaid vásáhus					oireiden kokemus	symptomaid vásihus			dávdamušvásáhus	dávdamearka	
-symptomopplevelse	dávdamearkkaid vásáhus					oireiden kokemus	symptomaid vásihus			dávdamušvásáhus	dávdamearka	
+symptomerfaring	dávdamearkkavásáhus	£				oirekokemus	symptomaid vásihus			dávdamušvásáhus	dávdamearka	
+symptomopplevelse	dávdamearkkavásáhus					oirekokemus	symptomaid vásihus			dávdamušvásáhus	dávdamearka	
 ekstensjon						ojennus				eksponeren	oalgecealkka	
 brekningssenter	vuovssanas guovddáš					oksennuskeskus	#vuovssanas#guovddaš			breakingguovddáš	ávkkástallanbáiki	
 skulderledd	oalgelađas					olkanivel				oalgecealka	oalgecealkka	
