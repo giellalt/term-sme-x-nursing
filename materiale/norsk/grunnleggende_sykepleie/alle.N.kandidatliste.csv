@@ -1001,30 +1001,29 @@ væsketap	golggusdáhpa					nestetappio	siedjaváili			golggosmassimat	golgideap
 væskeunderskudd	golggusvuollebáza					nestealijäämä	siedjaváili			golgi vuolláibáza	golgideapmi	
 væskemangel	golggusváili					nestepuute, nestehukka	siedjaváili 			golgi váilivuohta	golggosbuhtisvuohta	
 væskeoverskudd	golggubadjebáza					nesteylimäärä				golgi vuolláibáza	golgi dássi	
-nettmobbing						nettikiusaaminen	neahttagivssideapmi			neahtta givssideapmi	givssideapmi	
-nevrolog						neurologi				neurologa	neurologa	
+nettmobbing	neahttagivssideapmi					nettikiusaaminen	neahttagivssideapmi			neahtta givssideapmi	givssideapmi	
+nevrolog	neurologa					neurologi				neurologa	neurologa	
 nevrologi	neurologiija					neurologia				neurologiija	neurologiija	
-nevrose						neuroosi	ahdistuneisuushäiriö			mu mielas dávda	neurosa	
-rådgivningsklinikk						neuvontayksikkö neuvontaklinikka	rávvehusovttadat rávvehusklinihkka			rávvenbálvalusklinihkka	ráđđeaddivššohat	
-NIC-klassifikasjon						NIC-luokitus				NIC-klassifiseren	NIC-árvosátni	
+nevrose	neurosa					neuroosi	ahdistuneisuushäiriö			mu mielas dávda	neurosa	
+rådgivningsklinikk	rávvenklinihkka					neuvontaklinikka	rávvehusovttadat rávvehusklinihkka			rávvenbálvalusklinihkka	ráđđeaddivššohat	
+NIC-klassifikasjon	NIC-klassifikašuvdna					NIC-luokitus				NIC-klassifiseren	NIC-árvosátni	
 svelgeevne	njiellannákca					nielemiskyky	njiellat gálga			njiellačehppi	njiellat	
-svelgparese						nielemispareesi				guollebávččas	njieladanbivttas	
-svelgtest						nielemistesti; nielemiskoe	njiellat teasta njiellat iskan			njiellatiskkus	njiellangeahččaleapmi	
-svelgfunksjon						nielemistoiminto	njiellat doaibma			guoddalanfunkšuvdna	njielladoaibma	
+svelgparese	njiellanparesa, njiellangáldnan					nielemispareesi, nielemishalvaus				guollebávččas	njieladanbivttas	
+svelgtest	njiellaniskkus, njiellanteasta					nielemistesti; nielemiskoe	njiellat teasta njiellat iskan			njiellatiskkus	njiellangeahččaleapmi	
+svelgfunksjon	njiellandoaibmá					nielemistoiminto	njiellat doaibma			guoddalanfunkšuvdna	njielladoaibma	
 svelgeproblem	njiellanváttisvuohta					nielemisvaikeus	njiellat váttisvuohta			njielladanváttisvuohta	njieladanváttisvuohta	
-nitrat						nitraatti				nitráhta	nitráhta 	
-leddvern						nivelen suojaus				lašmesuodji	lađđasis suodji	lađđasa 
-leddkapsel						nivelkapseli	#lađas#kapsela			lašvealljakapsula	searveluohta-kapsel	
+nitrat	nitráhta					nitraatti				nitráhta	nitráhta 	
+leddvern	lađassuodji					nivelsuoja				lašmesuodji	lađđasis suodji	lađđasa 
+leddkapsel	lađaskapsela					nivelkapseli	#lađas#kapsela			lašvealljakapsula	searveluohta-kapsel	
 leddsmerte	lađasbávččas					nivelkipu	lađasbávččas			ovttastuvvon bávččas	dákkár ovttastallan	
 leddgikt	lađasleasmi					nivelreuma	lađasleasmi			ovttastahttin	artralaš artrala	
-leddsans	lađasdovdu					niveltunto	lađasdovdu			oalgecealkka	ovttastuvvon dovdu	
-tutekopp						nokkamuki	geahčemugga			dušše dušše čiehka	njálgát	
-nonverbal						nonverbaalinen sanaton				leat vearba	ii-verbaálalaš sátni	
-normaltemperatur						normaali lämpötila	#normála temperatuvra			dábálaš temperatuvra	dábálaš temperatuvra	
+leddsans	lađasáicu					nivelaisti	lađasdovdu			oalgecealkka	ovttastuvvon dovdu	
+tutekopp	njunnegohppu					nokkamuki	geahčemugga			dušše dušše čiehka	njálgát	
+nonverbal	nonverbála					nonverbaalinen sanaton				leat vearba	ii-verbaálalaš sátni	
+normaltemperatur	normálatemperatuvrra					normaali lämpötila	#normála temperatuvra			dábálaš temperatuvra	dábálaš temperatuvra	
 normalverdi	normálaárvu					normaaliarvo				dábálaš árv	norbmaárvu	
 normalposisjon	normálastellelmas		normálasajádat			normaaliasento				dábálaš sadji	dábálaš doaladupmi	
-normalflora						normaalifloora				dábálaš flora	dábálaš šládja	
-normalflora						normaalifloora normaalimikrobisto				dábálaš flora	dábálaš flora normálamikrobasta	
+normalflora	normálaflora					normaalifloora				dábálaš flora	dábálaš šládja	
 normalgrense						normaalin raja	normála rádji			dábálaš rádji	dábálaš ráji	
 normalitetsbegrep						normaalisuuskäsite				normálavuohta-doaba	normálalašvuođa doaba	
 normalfunksjon	normáladoaibma					normaalitoiminta				dábálaš doaibma	dábálaš dilli	
