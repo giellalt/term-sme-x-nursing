@@ -988,19 +988,19 @@ væskebehandling	golggusdikšun					nestehoito	siedjadikšu			golgi divvun	golgi
 væskeinfusjon	golggusinfušuvdna					nesteinfuusio	#siedja#infušuvdna			golgi infušuvdna	golgi fušuvdna	
 væskeansamling	golggusčoagganeapmi					nestekertymä				golgi čoaggin	golgi čoaggin	
 væskeopphopning	golggusčoagganeapmi	£				nestekertymä				golgi čoagganeapmi	golgi čoaggin	
-drikkeliste	golgguslistu					nestelista	#siedja#lista			juhkamušlisttu	nuohttejuvvon	
-drikkeskjema	golgguslistu					nestelista	#siedja#lista			juhkkojuvvon skiera	nuohttejuvvon	
-væskeregistrering						nestemäärien kirjaaminen	siedjameriid 			golgi registreren	golgodávdameari čállin	
+drikkeliste	juguslistu, golgguslistu	£				nestelista, juomalista	#siedja#lista			juhkamušlisttu	nuohttejuvvon	
+drikkeskjema	jugusskovvi,golggusskovvi					nestelista, juomakaavake	#siedja#lista			juhkkojuvvon skiera	nuohttejuvvon	
+væskeregistrering	golgguslogahallan					nestekirjaus	siedjameriid 			golgi registreren	golgodávdameari čállin	
 væskemengde	golggusmearri					nestemäärä	siedjamearri			golgi	golgi	
-væskeinnhold						nestepitoisuus	siedjasisdoallu			golgi	golgi	
-drikkerestriksjon	golggusgáržžádus					nesterajoitus	siedjaoahci			gáržžideapmi	nesterájiidus	
-væskerestriksjon						nesterajoitus	siedjaoahci			golgi gáržžideapmi	nesterájiidus	
+væskeinnhold	golggussisdoallu					nestepitoisuus	siedjasisdoallu			golgi	golgi	
+drikkerestriksjon	jugusgáržžádus					juomarajoitus	siedjaoahci			gáržžideapmi	nesterájiidus	
+væskerestriksjon	golggusgáržžádus					nesterajoitus	siedjaoahci			golgi gáržžideapmi	nesterájiidus	
 væskebalanse	golggusdássedeaddu					nestetasapaino	siedjabalánsa			golgadasdássedeaddu	golgi dássedeaddu	
-væskeregnskap						nestetasapainon kirjaus 	siedjabalánssa 			golgi rehkenastin	golgi dássedeattu registreren	
-væsketap	golggusváili					nestevajaus	siedjaváili			golggosmassimat	golgideapmi	
-væskeunderskudd	golggusváili					nestevajaus	siedjaváili			golgi vuolláibáza	golgideapmi	
-væskemangel	golggusváili					nestevajaus; nestevaje	siedjaváili 			golgi váilivuohta	golggosbuhtisvuohta	
-væskeoverskudd						nesteylimäärä				golgi vuolláibáza	golgi dássi	
+væskeregnskap	golggusrehketdoallu					nestetasapainon kirjaus 	siedjabalánssa 			golgi rehkenastin	golgi dássedeattu registreren	
+væsketap	golggusdáhpa					nestetappio	siedjaváili			golggosmassimat	golgideapmi	
+væskeunderskudd	golggusvuollebáza					nestealijäämä	siedjaváili			golgi vuolláibáza	golgideapmi	
+væskemangel	golggusváili					nestepuute, nestehukka	siedjaváili 			golgi váilivuohta	golggosbuhtisvuohta	
+væskeoverskudd	golggubadjebáza					nesteylimäärä				golgi vuolláibáza	golgi dássi	
 nettmobbing						nettikiusaaminen	neahttagivssideapmi			neahtta givssideapmi	givssideapmi	
 nevrolog						neurologi				neurologa	neurologa	
 nevrologi	neurologiija					neurologia				neurologiija	neurologiija	
