@@ -1400,8 +1400,8 @@ sykepleierrolle	buohccedivššára rolla			buohccidivššárrolla		sairaanhoitaj
 sykepleieruniform	buohccedivššára uniforbma	£		buohccidivššáruniforbma		sairaanhoitajan univormu	#buohccidikšu 	buohccedivššáruniformma	buohccidivššára uniformma	buohccidivššáruniforbma	buohccedivššára biktasat	
 sykepleierske	buohccedivššár			buohccidivššár		sairaanhoitajatar		buohccedivššár	buohccedivššár	buohccidivššár	buohccedikšu	
 sykepleiehjelp	buohccedikšun			buohccidivššárveahkki		sairaanhoito	buohccedikšu	buohccedivššár	buohccedivššár	buohccidivššárveahkki	buohccedikšu	
-sykepleiepraksis				buohccedikšunvuohki		sairaanhoitokäytäntö	buohccedikšogeavat	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárvierru	buohccedikšunvuohki	
-sykepleietjeneste				buohccedikšunbálvalus		sairaanhoitopalvelut	buohccedikšobálvalusat	buohccedivššárbálvalus	Buohccedivššárbálvalusat	buohccedikšunbálvalus	buohccedikšunbálvalusat	
+sykepleiepraksis	buohccedikšunvuohki			buohccedikšunvuohki		sairaanhoitokäytäntö	buohccedikšogeavat	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárvierru	buohccedikšunvuohki	
+sykepleietjeneste	buohccedikšunbálvalusat			buohccedikšunbálvalus		sairaanhoitopalvelut	buohccedikšobálvalusat	buohccedivššárbálvalus	Buohccedivššárbálvalusat	buohccedikšunbálvalus	buohccedikšunbálvalusat	
 sykdomsprognose				buozalmasvuođaprognosa		sairauden ennuste  sairauden prognoosi	buozu einnostus  buozu 	dávdaprognosa	dávdaprognosa dávdaprognosa	buozalmasvuođaprognosa	buozalmasvuođa prognosa, buozalmasvuođa prognosa	
 sykdomsbehandling	buozu dikšun			buozalmasvuođa dikšun		sairauden hoito	buozu dikšu	dávdda dikšun	dávdda dikšun	buozalmasvuođadikšu	buozalmasvuođa dikšun	
 sykdomserfaring	buozu vásáhus			buozalmasvuođa vásáhus		sairauden kokemus	buozu vásihus	buohcuvuođavásáhus	buohcuvuođa vásáhus	buozalmasvuođavásáhus	buozalmasvuođa vásáhus	
@@ -1467,7 +1467,7 @@ silikon	silikona			silikon		silikoni		silikona	silikona	silikon	silikon
 øyekontakt	čalbmeoktavuohta			čalbmeoktavuohta		silmäkontakti	čalbmekontákta	čalmmiid oktavuohta	Čalmmiid oktavuohta	čalbmeoktavuohta	čalbmeoktavuohta	
 sinusrytme	sinusritma			sinusritma		sinusrytmi		sinusrytma	sinusrytma	sinusrhythma	sinusritma	
 sinusknute	sinusčuolbma			sinusčuolbma		sinussolmuke		njuoratmánná	njuoratmánná	sinasnoallu	duođalaš biegga	
-innånding	sisavuoŋŋahat			sisavuoiŋŋasteapmi		sisäänhengitys		vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
+innånding	sisavuogŋan			sisavuoiŋŋasteapmi		sisäänhengitys		vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
 innåndingsluft	sisavuogŋaáibmu			sisavuoigŋanáibmu		sisäänhengitysilma		vuoiŋŋastuvvon luftta	vuoiŋŋastuvvon luftta	vuoigŋanáibmu	vuoigŋanluođđa	
 inspirasjonsluft				sisavuoigŋanáibmu		sisäänhengitysilma		inspirašuvdna	vuoiŋŋastuvvon luftta	movttiidahttináigi	vuoigŋanluođđa	
 inspirasjonsvolum	sisavuogŋanvoluma					sisäänhengitysvolyymi		vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	movttiidahttindoarjja	vuoigŋanvoluma	
@@ -1761,30 +1761,30 @@ forskningslitteratur	dutkangirjjálašvuohta			dutkangirjjálašvuohta		tutkimus
 forskningsmetode	dutkanvuohki			dutkanmetoda	dutkanvuohki	tutkimusmenetelmä	dutkanmannolat	dutkanvuohki	dutkanvuohki	dutkanmetoda	dutkanvuohki	
 undersøkelsesmetode				iskanvuohki		tutkimusmenetelmä  tutkimusmetodi	dutkanmannolat dutkanmetoda  	jearahallanvuohki	tutkimusmetödi tutkimusmetödi	iskanvuohki	dutkanvuohki	
 omgangskrets	oahppásat					tuttavapiiri	oahpesbiire	sosiála biras	tuttavapiiri	johtingierdu	oahpes sadji	
-tubespiss				tubabuncci		tuubin kärki	*tuubin geahči	čuovgačuovga	tubin kärki	riebana báddi	guorbmebivttas	
-tømming				gurren		tyhjennys		buhtistit	guoros reaiddu	gurren	buhtisteapmi	
-tømmingsplage				gurrenváttisvuohta		tyhjennysvaiva		vajálduhttit váttuid	thägjennysvaiva	gurrenváttisvuohta	gurrenváttisvuohta	
-tømmingsmønster				gurrenminsttar		tyhjentymiskäytäntö	guorranit geavat	buhtisvuođamálle	geavahus	gurrenminsttar	gurrenvuohki	
+tubespiss	tubageahči	£		tubabuncci		tuubin kärki	*tuubin geahči	čuovgačuovga	tubin kärki	riebana báddi	guorbmebivttas	
+tømming	gurren			gurren		tyhjennys		buhtistit	guoros reaiddu	gurren	buhtisteapmi	
+tømmingsplage	gurrenváttu			gurrenváttisvuohta		tyhjennysvaiva		vajálduhttit váttuid	thägjennysvaiva	gurrenváttisvuohta	gurrenváttisvuohta	
+tømmingsmønster	gurrenvuohki			gurrenminsttar		tyhjentymiskäytäntö	guorranit geavat	buhtisvuođamálle	geavahus	gurrenminsttar	gurrenvuohki	
 tapping				gurren		tyhjentäminen	poisvaluttaminen	buvttadeapmi	buhtistit	deaddostallan	gurren	gurret
-tømmingsvanske				gurrenhástalus		tyhjentämishäiriö	gurret segohus	heaittiheami váttisvuohta	täghentämisääärää	gurrenváttisvuohta	buhtistanheađuštus	
-tømmingsvane				gurrendáhpi		tyhjentämistapa	gurret dáhpi	hilgut dábit	thägentämistapa	golahanvierru	vuohki gurret áššiid	
-nitrogen				nitrogena		typpi		nitrogena	typi	nitrogena	nitrogen	
-tilfredsstillelse				duhtadeapmi		tyydyttyminen		duhtadeapmi	tyydytytymin	duhtadeapmi	duhtadeapmi	
-arbeidsantrekk				bargobivttas		työasu	bargogárvu	bargobiktasat	työasu	bargohivvodat	bargobivttas	
-arbeidskapasitet				bargokapasiteahtta		työkapasiteetti	#bargu#kapasitehtta	bargonávccat	bargonávccat	bargonávccalašvuohta	bargoveahka	
-arbeidshverdag				bargoárgabeaivi		työn arki	barggu árga	bargobeaivi	bargoarkiiva	beaivválaš bargu	barggu árga	
-arbeidskår				bargodilli		työolosuhteet	bargoeksisteansagorit	bargodilit	bargodilit	bargodilli	bargoeavttut	
-arbeidsrutine				bargorutiidna		työrutiini	bargorutiidna	bargorutiinna	bargorutiinna	bargovuohki	bargorutiidna	
+tømmingsvanske	gurren váttisvuohta	£		gurrenhástalus		tyhjentämishäiriö	gurret segohus	heaittiheami váttisvuohta	täghentämisääärää	gurrenváttisvuohta	buhtistanheađuštus	
+tømmingsvane	gurrendáhpi			gurrendáhpi		tyhjentämistapa	gurret dáhpi	hilgut dábit	thägentämistapa	golahanvierru	vuohki gurret áššiid	
+nitrogen	nitrogena			nitrogena		typpi		nitrogena	typi	nitrogena	nitrogen	
+tilfredsstillelse	duhtadeapmi			duhtadeapmi		tyydyttyminen		duhtadeapmi	tyydytytymin	duhtadeapmi	duhtadeapmi	
+arbeidsantrekk	bargobivttas			bargobivttas		työasu	bargogárvu	bargobiktasat	työasu	bargohivvodat	bargobivttas	
+arbeidskapasitet	bargokapasiteahtta			bargokapasiteahtta		työkapasiteetti	#bargu#kapasitehtta	bargonávccat	bargonávccat	bargonávccalašvuohta	bargoveahka	
+arbeidshverdag	bargoárgabeaivi			bargoárgabeaivi		työn arki	barggu árga	bargobeaivi	bargoarkiiva	beaivválaš bargu	barggu árga	
+arbeidskår	bargodilli			bargodilli		työolosuhteet	bargoeksisteansagorit	bargodilit	bargodilit	bargodilli	bargoeavttut	
+arbeidsrutine	bargorutiidna			bargorutiidna		työrutiini	bargorutiidna	bargorutiinna	bargorutiinna	bargovuohki	bargorutiidna	
 stillingsvern						työsuhdeturva	bargogorredorvu	bargosihkkarvuohta	työshuheturva	virgesuodjalus	bargoveahkadoarjja	
-arbeidslys						työvalo	bargočuovga	bargočuovga	bargoárvu	bargočuovggas	bargoláhttu	
-fyllende						täydentävä	#dievasmahttit	deavdin	täkkäävä	deavdi		
-utånding						uloshengitys		vuoiŋŋasteapmi	uloshengitys	vuoiŋŋasteapmi	olggos- vuoiŋŋasteapmi	
-utåndingsluft						uloshengitysilma		vuoiŋŋastan luftta	uloshengitysilma	vuoigŋanáibmu	olggos-luoitima áibmu	
-utskrivelse						uloskirjoitus		bidjat eret	heaittiheapmi	olggosčáliheapmi	olggosčáliheapmi	
+arbeidslys	bargočuovga					työvalo	bargočuovga	bargočuovga	bargoárvu	bargočuovggas	bargoláhttu	
+fyllende	dievasmahtti					täydentävä	#dievasmahttit	deavdin	täkkäävä	deavdi		
+utånding	olggosvuogŋan					uloshengitys		vuoiŋŋasteapmi	uloshengitys	vuoiŋŋasteapmi	olggos- vuoiŋŋasteapmi	
+utåndingsluft	olggosvuogŋaáibmu					uloshengitysilma		vuoiŋŋastan luftta	uloshengitysilma	vuoigŋanáibmu	olggos-luoitima áibmu	
+utskrivelse		£				uloskirjoitus		bidjat eret	heaittiheapmi	olggosčáliheapmi	olggosčáliheapmi	
 utskriving						uloskirjoitus		prentehus	heaittiheapmi	olggosčáliheapmi	olggosčáliheapmi	
 avføringstrang						ulostamisen tarve	*ulostamisen dárbu	njuoratmánná	ulostamen tarve	baikkálas streaŋga	olggosčáliheami dárbu	
 tømmingstrang						ulostamistarve		buhtistit linjá	ulostastalaš árbi	gurrenstreaŋga	olggosčáliheapmi	
-ekskrement						uloste	luhča	ekskremeanta	ooze	erenoamáš	olggosbohcci	
+ekskrement	baika					uloste	luhča	ekskremeanta	ooze	erenoamáš	olggosbohcci	
 avføringslekkasje						ulosteen karkaamineN	 ulosteinkontinenssi	čáhcebohcci	ulosteen karkaamineN	baikkálas golggadeapmi	olggosčáliheapmiN	luža lovpet
 avføringsinkontinens						ulosteinkontinenssi	ulosteen pidätyskyvyttömyys	čáhceinkontinensa	hilgut inkontinensa	baikkálmas bissovašvuohta	ekskrešuvdnaoktagas	luhčainkontineansa
 avføringsinkontinens						ulosteinkontinenssi ulosteen pidätyskyvyttömyys ulosteen karkailu	luhčainkontineansa luža *pidätyskyvyttömyys luža 	čáhceinkontinensa	ulosteincontinessi ulosteen hýtutyskyvytmoyos ulosteen karkailu	baikkálmas bissovašvuohta	vuoššangierdu, go vuoššangierdu ii nagot darvvihit vuoššaid	
