@@ -1200,36 +1200,35 @@ logoped	logopeda, hállanterapevta; hupmanterapevta			logopeda		puheterapeutti	h
 rammefaktor	rámmafáktor					puitetekijä				rámmafáktor	rámmafákta	
 oppgulp	čollen					pulautus				soahpameahttun	váilevašvuohta	
 flaskekost	boahtalkusta, boahtalbiepmu	£				pulloharja pulloravinto	bohtalkusta			borramušgálvu boahtaliin	bohttágárri	
-pulstelling	ravkasa mihtideapmi					pulssin mittaus	ravkasa mihtideapmi			buolaš	pulsaárvomearri	
+pulstelling	pulsa mihtideapmi, ravkasa mihtideapmi					pulssin mittaus	ravkasa mihtideapmi			buolaš	pulsaárvomearri	
 pumpeevne	bumpennákca					pumppauskyky				bumpefápmu	bumpenvejolašvuohta	
-pumpefunksjon	bumpendoaibma					pumppaustoiminta				bumpefunkšuvdna	bumbbadoaibma	
-pumpekraft	bumpenfápmu					pumppausvoima				bumpefápmu	bumpefápmu	
-veiingstest	vihkkeniskan		vihkkenteasta			punnitustesti				vihkangeahččaleapmi	deaddostávval	
-bufferteori						puskuriteoria				buffa teoriija	čujolašvuohtateoriija	
-buffervirkning						puskurivaikutus				buffer-váikkuhus	dušše čujolaš váikkuhus	
-bedøvelse						puudutus				áŧestus	váilevašvuohta	
-skittentøysekk	bivttasseahkka					pyykkipussi				duolbas bivttasveaskku	basadangárri	
+pumpefunksjon	pumpendoaibma					pumppaustoiminta				bumpefunkšuvdna	bumbbadoaibma	
+pumpekraft	pumpenfápmu					pumppausvoima				bumpefápmu	bumpefápmu	
+veiingstest	vihkkenteasta					punnitustesti				vihkangeahččaleapmi	deaddostávval	
+bufferteori	bufferteoriija		dusttehanteoriija			puskuriteoria				buffa teoriija	čujolašvuohtateoriija	
+buffervirkning	buffer-váikkuhus		dusttehanváikkohus			puskurivaikutus				buffer-váikkuhus	dušše čujolaš váikkuhus	
+bedøvelse	jámiheapmi				puudutus	puudutus			áŧestus	váilevašvuohta		
+skittentøysekk	duolvabivttasseahkka					likapyykkipussi				duolbas bivttasveaskku	basadangárri	
 besvimelse	jámálgit		meanahuvvat, galmmastuvvat			pyörtyminen	jámálgit			vuovssadeamit	joraheapmi	
-rullestolrampe	jorrestuollošaldi					pyörätuoliramppi  pyörätuoliluiska	juvlastovlastealli  			juvlastuollorámma	juvlastuollolámppa juvlastuollolámpas	
+rullestolrampe	juvlastuolloráhppa					pyörätuoliramppi  pyörätuoliluiska	juvlastovlastealli  			juvlastuollorámma	juvlastuollolámppa juvlastuollolámpas	
 rusmiddelbruk	gárrenávnnasgeavaheapmi					päihteiden käyttö	*päihteiden atnin			gárrenávnnasgeavaheapmi	gárrenmirkogeavaheapmi	
 vakttelefon	fáktatelefovdna					päivystyspuhelin	fáktatelefovdna			váktatelefovdna	fáhkkatelefuvdna	
 dagvakt	beaivevuorru					päivävuoro	beaivevuorru			beaivefákta	beaivevuorru	
-hovedmåltid	váldomális		váldoborramuš			pääateria	oaivemális			váldomihttu	váldobiebmu	
-hovedkomponent						pääkomponentti pääosatekijä	oaivekomponeanta #válduoassi#dahkki			váldooassi	váldooassi	
-hovedkriterium						pääkriteeri	oaivekriteara			váldoeaktu	váldokriteara	
-halsmuskel						päänkiertäjälihas				čagalduhttin	oaiveskálžžu	
+hovedmåltid	váldomális, váldobiebmu		váldoborramuš			pääateria	oaivemális			váldomihttu	váldobiebmu	
+hovedkomponent	oaivekomponeanta					pääkomponentti pääosatekijä	oaivekomponeanta #válduoassi#dahkki			váldooassi	váldooassi	
+hovedkriterium	oaivekriteara					pääkriteeri	oaivekriteara			váldoeaktu	váldokriteara	
+halsmuskel	čeabetdeahkki					päänkiertäjälihas				čagalduhttin	oaiveskálžžu	
 hodeende	oaivebealli					pääpuoli	oaivebealli			hui deaŧalaš	váldooassi	
-beslutningsforum						päätöksentekofoorumi	#čovdojupmi#dahkuforum			mearridanforum	mearrádusdahkanforum	
+beslutningsforum 	mearridanforuma					päätöksentekofoorumi	#čovdojupmi#dahkuforum			mearridanforum	mearrádusdahkanforum	
 beslutningsstøtte	mearridandoarjja		mearridanduvdda			päätöstuki	čovdojupmeduvdda			mearridandoarjja	mearridandoarjja	
 hodeskade	oaiveváddu					päävamma	oaiveveaidni			oaivevahát	oaivevahát	
 husstøvmidd	gavjaširrá					pölypunkki	dopmoširrá			dušše viessobákti	bumbbášbáiki	
-grensesetting						rajojen asettaminen	rájiid ásahit			rádjebidjan	rájáid bidjan	
+grensesetting	rájáid ásaheapmi				rájiid ásahit	rajojen asettaminen		rádjebidjan	rájáid bidjan			
 blæreskylling	ráhkkodoidin		gužžaráhkkodoidin			rakkohuuhtelu  virtsarakon huuhtelu	#ráhkku#doidildeapmi gužžaráhku  #doidildeapmi	čáhcebohcci	čáhcebohcci čáhcebohcci čáhcebohcci	ráigi vuolledábiin	gožžaráhku vuoššan gožžaoari vuoššan	
 blærekateter	ráhkkokatehtár		gužžaráhkkokatehtár			rakkokatetri	#ráhkku#katehtár	njuoratmánnákatehterat	njuoratmánnákatehter	gožžaráhku kátta	rakkatetriija	
 blæremuskulatur	ráhkkodeahkit					rakkolihakset	ráhkkooaččit	njuoratmánnálihkadus	njuoratmánnálihkadusat	goaŧŧočeabetmuskultuvra	goaŧŧočeabetmiella	
 blæremuskel	ráhkkodeahkki					rakkolihas	ráhkkooažži	njuoratmánnálihkadus	njuoratmánnálihkadus	gožžaráhku muskula	rakŋuhearvvaš	
 sædblære	skoavhleráksá		skohpalasráksá			rakkularauhanen	skoavhleráksá	sieđgavesikula	follikulára	siemagolgosbuozza	rakŋuhearvvaš	
-sædblære						rakkularauhanen		sieđgavesikula	follikulára	siemagolgosbuozza	rakŋuhearvvaš	skoavhleráksá
 blærevegg	ráhku seaidni					rakon seinämä	ráhku seaidni	njuoratmánná seinni	njuoratmánná seinni	gožžaráhku seinni	rakŋuheaidni	
 blærefunksjon	ráhku doaibma					rakon toiminta	ráhku doaibma	njuoratmánná doaibma	njuoratmánná doaibma	cystafunkšuvdna	raksa doaibma	
 blæredysfunksjon	ráhku doaibmahehttehus					rakon toimintahäiriö	ráhku doaibmasegohus	njuoratmánná doaibmahehttehus	njuoratmánná doaibmahehttehus	cystavealaheapmi	raksaerohus	
