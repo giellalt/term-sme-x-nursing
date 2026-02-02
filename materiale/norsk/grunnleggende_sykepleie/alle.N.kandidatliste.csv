@@ -1343,61 +1343,61 @@ matvaregruppe	borramušgálvujoavku					elintarvikeryhmä	guštadávvirjoavku	bi
 diettregime	diehttaplána					dieettisuunnitelma	#diehttaplána	biebmoortnet	dietnasa plána		biebmoplána	
 kostholdregime	biebmodoalluplána					ruokavaliosuunnitelma	#diehttaplána	dietnasa ortnet	dietnasa plána	biebmodoalloregimeanta	biebmoplána	
 pestsykdom	rohttudávda					ruttotauti	roahttodávda	dávda	dávda	boraspire-dávda	borasdávda	
-kroppsvarme	rupmaša temperatuvra					ruumiinlämpö	rupmašaliekkas	rupmaša lieggasa	rupmaša temperatuvra	rumašlaš liegganeapmi	rumašdálkkádat	
-gruppesamling	joavkočoahkkin					ryhmäkokous	joavkočoakkán	joavkočoahkkin	joavkočoahkkin	joavkočoahkádus	joavkočoahkkin	
+kroppsvarme	rumašliekkas					ruumiinlämpö	rupmašaliekkas	rupmaša lieggasa	rupmaša temperatuvra	rumašlaš liegganeapmi	rumašdálkkádat	
+gruppesamling	joavkočoakkán					ryhmäkokoontuminen	joavkočoakkán	joavkočoahkkin	joavkočoahkkin	joavkočoahkádus	joavkočoahkkin	
 gruppenivå	joavkodássi					ryhmätaso	joavkodássi	joavkodássi	joavkodássi	joavkodássi	joavkodássi	
 gruppeaktivitet	joavkodoaibma					ryhmätoiminta	joavkodoaibma	joavkodoaibma	joavkodoaibma	joavkodoaibma	joavkodoaibma	
 gruppetilhørighet	joavkui gullevašvuohta					ryhmään kuuluminen	jovkui gullot	joavkogullevašvuohta	gullevaš jovkui	gullevašvuohta jovkui	gullat jovkui	
-kremting	himihit					rykäisy rykiminen	*rykäisy himihit	njuoratmánná ášši	njuiket njuiket	rumašgordni	rigearra rihkkun	
-rytmeforstyrrelse	ritmaseagasvuohta					rytmihäiriö	ritmasegohus	ritmaváttut	rytma	ritmmastivrenváttisvuohta	ritmmalaš váttut	
+kremting	guorsan					rykäisy, köhiminenn	*rykäisy himihit	njuoratmánná ášši	njuiket njuiket	rumašgordni	rigearra rihkkun	
+rytmeforstyrrelse	ritmahehttehus					rytmihäiriö	ritmasegohus	ritmaváttut	rytma	ritmmastivrenváttisvuohta	ritmmalaš váttut	
 røntgenundersøkelse	röntgendutkamus					röntgentutkimus	#röntgenadutkan	röntgeniskkadeapmi	röntgeniskkadeapmi	röntgendutkamus	röntgendutkamus	
-såperest						saippuajäämä		soapmása	sáibbu bázahus	soahpameahttun	sáibideaddji bázzi	
-såpestykke	sáibbubinná					saippuapala	sovppábinná	sáibbu	sáibbu	sávzzastákkis	sáibmabihttá	
-såpevask	sáibbu bassan					saippuapesu	sovppábassan	sáibbu bassat	sáibbu bassat	sáibuheapmi	sáhpánbárgu	
+såperest	sáibbobázahus					saippuajäämä		soapmása	sáibbu bázahus	soahpameahttun	sáibideaddji bázzi	
+såpestykke	sáibubihtá					palasaippua	sovppábinná	sáibbu	sáibbu	sávzzastákkis	sáibmabihttá	
+såpevask	sáibubassan					saippuapesu	sovppábassan	sáibbu bassat	sáibbu bassat	sáibuheapmi	sáhpánbárgu	
 såpevann	sáibbočáhci					saippuavesi	sovppáčáhci	sáibbočáhci	sáibbočáhci	sáibu čáhci	sáibmečáhci	
 hospital	buohcceviessu					sairaala	buohcceviessu	buohcceviessu	buohcceviessu	buohcciviessu	buohcciviessu	
 sykehusinfeksjon	buohcceviessu infekšuvdna					sairaalainfektio		buohcciviessu njoammun	buohcciviesu njoammun	buohcceviessováikkuhus	buohcceviessu	
-sykehusmiljø						sairaalamiljöö		buohcciviessu biras	buohcceviessobiras	buohcciviessobiras	buhcciidruoktu	
+sykehusmiljø	buohcceviessu biras					sairaalamiljöö		buohcciviessu biras	buohcceviessobiras	buohcciviessobiras	buhcciidruoktu	
 sykehusavdeling	buohcceviessu ossodat					sairaalaosasto		buohcciviesu ossodat	buohcciviesu ossodat	buohcciviesu ossodat	buohcceviessu	
 sykehusprest	buohcceviessobáhppa					sairaalapappi		buohcciviesu kapealla	buohcciviesu kapealla	buohcceviessobáhppa	buhcciidbáhppa	
-sykehusinnleggelse						sairaalapotilaaksi kirjaaminen sairaalapotilaaksi meneminen		buohccevissui biddjon	registreret buohcciviessopasieantan šaddat buohcciviessopasieantan	buohcceviesu sisačáliheapmi	buohccevissui čáliheapmi buohccevissui vuolgin	
-sykehuspasient	buohcceviessu buohcci					sairaalapotilas		buohcciviessu pasieanta	buohcciviessu pasieanta	buohcceviesu divššohas	buohcceviessu	
-liggetid						sairaalassaoloaika		orruma guhkkodat	buohcciviesus orrun	nohkkanáigi	buohcciviesus	
+sykehusinnleggelse	buohcceviessosajušteapmi					sairaalasijoitus, sairaalahoito, sairaalaan potilaaksi otto		buohccevissui biddjon	registreret buohcciviessopasieantan šaddat buohcciviessopasieantan	buohcceviesu sisačáliheapmi	buohccevissui čáliheapmi buohccevissui vuolgin	
+sykehuspasient	buohcceviessupatienta					sairaalapotilas		buohcciviessu pasieanta	buohcciviessu pasieanta	buohcceviesu divššohas	buohcceviessu	
+liggetid	orrunáigi					sairaalassaoloaika		orruma guhkkodat	buohcciviesus orrun	nohkkanáigi	buohcciviesus	
 sykehusseng	buohcceviessoseaŋga					sairaalasänky		buohcciviessu	buohcciviessu	buohcceviessosátni	buohcceviessu	
-sykepleiesammenheng						sairaanhoidollinen asiayhteys	*sairaanhoidollinen ásiioktavuohta	buohccedivššároktavuohta	medisiinnalaš oktavuohta	buohccedikšunoktavuohta	buohccedikšunášši	
-sykepleiekompetanse				buohccedikšogelbbolašvuohta		sairaanhoidollinen kompetenssi	sairaanhoidollinen pätevyys	buohccedivššárgelbbolašvuohta	buohccedivššárgelbbolašvuohta	buohccidivššárgelbbolašvuohta	buohccedikšogelbbolašvuohta	*sairaanhoidollinen gelbbolašvuohta
-sykepleieprosedyre				buohccedikšunvuohki		sairaanhoidollinen menetelmä	*sairaanhoidollinen mannolat	buohccedivššárprosedyra	medisiinnalaš vuohki	buohccedikšun	buohccedikšunvuohki	
-sykepleieintervensjon						sairaanhoidollinen toimenpide	*sairaanhoidollinen doaibmabidju	buohccedivššárintervenšuvdna	medisiinnalaš prosedyra	buohccedikšunintervenšuvdna	buohccedikšun	
-sykepleiehandling				buohccedikšodoaibma		sairaanhoidollinen toiminta	*sairaanhoidollinen doaibma	buohccedivššárdoaibma	medisiinnalaš doaibma	buohccedikšodoaibma	buohccedikšodoaibma	
-sykepleieområde						sairaanhoidon alue	 buohccedivššu guovlu	buohccedikšunguovlu	buohccedivššu guovlu	buohccedikšuguovlu	buohcciviesu guovlu	
-sykepleieprofesjon				buohccidivššárámmát		sairaanhoidon ammattiala	buohccedivššu 	buohccedivššárámmát	buohccedivššárámmát	buohccidivššárámmát	buohccedivššu ámmát	
-sykepleiediagnose						sairaanhoidon diagnoosi	buohccedivššu diagnosa	buohccedivššárdiagnosa	medisiinnalaš diagnosa	buohccedikšodiagnosa	buohccedávdaboahkudeapmi	
-sykepleiefilosofi						sairaanhoidon filosofia	buohccedivššu filosofiija	buohccedivššárfilosofiija	buohccedivššároahpu filosofiija	buohccidivššárfilosofiija	buohccedikšu filosofiija	
-sykepleiesystem						sairaanhoidon järjestelmä	buohccedivššu vuogádat	buohccedikšunvuogádat	medisiinnalaš dikšunvuogádat	buohccedikšovuogádat	buohccedikšu vuogádat	
-sykepleiekapasitet						sairaanhoidon kapasiteetti	buohccedivššu #kapasitehtta	buohccedivššárkapasitehta	medisiinnalaš dikšuma kapasitehta	buohccidivššárkapasitehta	buohccedikšunkapasitehta	
-sykepleiekvalitet						sairaanhoidon laatu	buohccedivššu dássu	buohccedivššárkvalitehta	medisiinnalaš divššu kvalitehta	buohccedikšokvalitehta	buohccedikšu kvalitehta	
-sykepleiemetode				buohccedikšunvuohki		sairaanhoidon menetelmä	buohccedivššu mannolat	buohccedikšunvuohki	medisiinnalaš dikšuma vuohki	buohccedikšunvuohki	buohccedikšunvuohki	
-sykepleienotat						sairaanhoidon merkintä	buohccedivššu merken	buohccedivššármearkkašupmi	medisiinnalaš dikšuma sisabeassan	buohccidivššárnoahppu	buohcuvuođa dovdomearka	
-sykepleieperspektiv						sairaanhoidon näkökanta sairaanhoidollinen näkökulma	buohccedivššu oaidnojocca *sairaanhoidollinen #oaidninčiega	buohccedivššárperspektiiva	buohccedivššárperspektiiva buohccedivššárperspektiiva	buohccidivššárperspektiiva	buohccedikšu geahččanguovllus buohccedikšunperspektiiva	
-sykepleierstudent				buohccedivššárstudeanta		sairaanhoidon opiskelija	buohccedivššu studeanta	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárstudeanta	buohccedivššárstudeanta	
-sykepleiestudent				buohccedivššu studeanta		sairaanhoidon opiskelija	buohccedivššu studeanta	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárstudeanta	buohccedivššárstudeanta	
-sykepleietjeneste				buohccedikšunbálvalus		sairaanhoidon palvelut	buohccedivššu bálvalusat	buohccedivššárbálvalus	buohccedivššárbálvalusat	buohccedikšunbálvalus	buohccedikšu bálvalusat	
-sykepleieprinsipp				buohccedikšuma vuođđojurdda		sairaanhoidon periaate	buohccedivššu prinsihppa	buohccedivššárprinsihppa	medisiinnalaš dikšuma prinsihppa	buohccedikšunprinsihppa	buohccedikšuma vuođđojurdda	
-sykepleieutøving				buohccedikšun		sairaanhoidon suoritus	buohccedivššu čađaheapmi	buohccedivššároahppu	medisiinnalaš divššu čađaheapmi	buohccedikšun	buohccedikšu doaibma	
-sykepleiefunksjon				buohccedikšodoaibma		sairaanhoidon tehtävä  sairaanhoidon tarkoitus	buohccedivššu doaibma  buohccedivššu ulbmil	buohccedivššárdoaibma	buohccedikšuma bargu buohccedikšuma ulbmil	buohccedikšodoaibma	buohccedikšu doaibma man buohccedikšu dárkkuha	
-omsorgsoppgave				fuolahusbargu		sairaanhoidon tehtävät hoivatehtävä	buohccedivššu doaimmat fuolahandoaibma	fuolahusgeatnegasvuohta	buohccedivššárbarggut buohccedivššárbargu	fuolahusbargu	buohccedivššu dikšunbargu	
-sykepleiekunnskap				buohccidivššármáhttu		sairaanhoidon tietämys	buohccedivššu diehtu	buohccedivššároahpu máhttu	buohccedivššároahpu máhttu	buohccidivššármáhttu	buohccedikšu diehtu	
-sykepleieforsker				buohccedivššu dutki		sairaanhoidon tutkija	buohccedivššu #dutki	buohccedivššárdutki	medisiinnalaš dutki	buohccidivššárdutki	buohccedikšun	
-sykepleieforskning				buohccedivššu dutkan		sairaanhoidon tutkimus	buohccedivššu dutkan	buohccedivššárdutkan	buohccedivššárdutkan	buohccedikšodutkan	buohccedikšundutkan	
-sykepleieepikrise						sairaanhoidon yhteenveto  sairaanhoidon tiivistelmä	buohccedivššu oktiigeassu  buohccedivššu 	buohccedivššároahpu epikriisa	buohccedikšuma čoahkkáigeassu buohccedikšuma čoahkkáigeassu	buohccedikšodáhkádus	birr	
+sykepleiesammenheng	buohccedikšunčanus					sairaanhoidollinen asiayhteys	*sairaanhoidollinen ásiioktavuohta	buohccedivššároktavuohta	medisiinnalaš oktavuohta	buohccedikšunoktavuohta	buohccedikšunášši	
+sykepleiekompetanse	buohccedikšunkompetensa			buohccedikšogelbbolašvuohta		sairaanhoidollinen kompetenssi	sairaanhoidollinen pätevyys	buohccedivššárgelbbolašvuohta	buohccedivššárgelbbolašvuohta	buohccidivššárgelbbolašvuohta	buohccedikšogelbbolašvuohta	*sairaanhoidollinen gelbbolašvuohta
+sykepleieprosedyre	buohccedikšunprosedyra, buohccedikšunvuohki			buohccedikšunvuohki		sairaanhoidollinen menetelmä	*sairaanhoidollinen mannolat	buohccedivššárprosedyra	medisiinnalaš vuohki	buohccedikšun	buohccedikšunvuohki	
+sykepleieintervensjon	buohccedikšunintervenšuvdna					sairaanhoidollinen interventio	*sairaanhoidollinen doaibmabidju	buohccedivššárintervenšuvdna	medisiinnalaš prosedyra	buohccedikšunintervenšuvdna	buohccedikšun	
+sykepleiehandling	buohccedikšundoaibma			buohccedikšodoaibma		sairaanhoidollinen toiminta	*sairaanhoidollinen doaibma	buohccedivššárdoaibma	medisiinnalaš doaibma	buohccedikšodoaibma	buohccedikšodoaibma	
+sykepleieområde	buohccedikšunguovlu					sairaanhoidon alue	 buohccedivššu guovlu	buohccedikšunguovlu	buohccedivššu guovlu	buohccedikšuguovlu	buohcciviesu guovlu	
+sykepleieprofesjon	buohccedikšunprofešuvdna 		buohccedikšun ámmátčehppodat	buohccidivššárámmát		sairaanhoidon ammattiala	buohccedivššu 	buohccedivššárámmát	buohccedivššárámmát	buohccidivššárámmát	buohccedivššu ámmát	
+sykepleiediagnose	buohccediksundiagnosa					sairaanhoidon diagnoosi	buohccedivššu diagnosa	buohccedivššárdiagnosa	medisiinnalaš diagnosa	buohccedikšodiagnosa	buohccedávdaboahkudeapmi	
+sykepleiefilosofi	buohccedikšunfilosofiija					sairaanhoidon filosofia	buohccedivššu filosofiija	buohccedivššárfilosofiija	buohccedivššároahpu filosofiija	buohccidivššárfilosofiija	buohccedikšu filosofiija	
+sykepleiesystem	buohccedikšunsystema		buohccedikšun vuogádat			sairaanhoidon järjestelmä	buohccedivššu vuogádat	buohccedikšunvuogádat	medisiinnalaš dikšunvuogádat	buohccedikšovuogádat	buohccedikšu vuogádat	
+sykepleiekapasitet	buohccedikšunkapasitehta					sairaanhoidon kapasiteetti	buohccedivššu #kapasitehtta	buohccedivššárkapasitehta	medisiinnalaš dikšuma kapasitehta	buohccidivššárkapasitehta	buohccedikšunkapasitehta	
+sykepleiekvalitet	buohccedikšunkvaliteahta					sairaanhoidon laatu	buohccedivššu dássu	buohccedivššárkvalitehta	medisiinnalaš divššu kvalitehta	buohccedikšokvalitehta	buohccedikšu kvalitehta	
+sykepleiemetode	buohccedikšunmetoda			buohccedikšunvuohki		sairaanhoidon metodi, sairaanhoidon menetelmä	buohccedivššu mannolat	buohccedikšunvuohki	medisiinnalaš dikšuma vuohki	buohccedikšunvuohki	buohccedikšunvuohki	
+sykepleienotat	buohccedikšunčálus					sairaanhoidon merkintä	buohccedivššu merken	buohccedivššármearkkašupmi	medisiinnalaš dikšuma sisabeassan	buohccidivššárnoahppu	buohcuvuođa dovdomearka	
+sykepleieperspektiv	buohccedikšunperspektiiva					sairaanhoidon näkökulma sairaanhoidollinen näkökulma 	buohccedivššu oaidnojocca *sairaanhoidollinen #oaidninčiega	buohccedivššárperspektiiva	buohccedivššárperspektiiva buohccedivššárperspektiiva	buohccidivššárperspektiiva	buohccedikšu geahččanguovllus buohccedikšunperspektiiva	
+sykepleierstudent	buohccedivššárstudeanta			buohccedivššárstudeanta		sairaanhoitajaopiskelija	buohccedivššu studeanta	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárstudeanta	buohccedivššárstudeanta	
+sykepleiestudent	buohccedivššu studeanta			buohccedivššu studeanta		sairaanhoidon opiskelija	buohccedivššu studeanta	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárstudeanta	buohccedivššárstudeanta	
+sykepleietjeneste	buohccedikšunbálvalus			buohccedikšunbálvalus		sairaanhoitopalvelu	buohccedivššu bálvalusat	buohccedivššárbálvalus	buohccedivššárbálvalusat	buohccedikšunbálvalus	buohccedikšu bálvalusat	
+sykepleieprinsipp	buohceedikšun prinsihppa			buohccedikšuma vuođđojurdda		sairaanhoidon periaate	buohccedivššu prinsihppa	buohccedivššárprinsihppa	medisiinnalaš dikšuma prinsihppa	buohccedikšunprinsihppa	buohccedikšuma vuođđojurdda	
+sykepleieutøving	buohccediksuma čađaheapmi			buohccedikšun		sairaanhoidon suoritus	buohccedivššu čađaheapmi	buohccedivššároahppu	medisiinnalaš divššu čađaheapmi	buohccedikšun	buohccedikšu doaibma	
+sykepleiefunksjon	buohccedikšunfunkšuvdna			buohccedikšodoaibma		sairaanhoidollinen funtio  sairaanhoidon tehtävä	buohccedivššu doaibma  buohccedivššu ulbmil	buohccedivššárdoaibma	buohccedikšuma bargu buohccedikšuma ulbmil	buohccedikšodoaibma	buohccedikšu doaibma man buohccedikšu dárkkuha	
+omsorgsoppgave	fuolahanbargu			fuolahusbargu		hoivatehtävä	buohccedivššu doaimmat fuolahandoaibma	fuolahusgeatnegasvuohta	buohccedivššárbarggut buohccedivššárbargu	fuolahusbargu	buohccedivššu dikšunbargu	
+sykepleiekunnskap	buohccedikšunmáhttu			buohccidivššármáhttu		sairaanhoidollinen tietämys	buohccedivššu diehtu	buohccedivššároahpu máhttu	buohccedivššároahpu máhttu	buohccidivššármáhttu	buohccedikšu diehtu	
+sykepleieforsker	buohccedikšundutki			buohccedivššu dutki		sairaanhoidon tutkija	buohccedivššu #dutki	buohccedivššárdutki	medisiinnalaš dutki	buohccidivššárdutki	buohccedikšun	
+sykepleieforskning	buohccedikšundutkan			buohccedivššu dutkan		sairaanhoidon tutkimus	buohccedivššu dutkan	buohccedivššárdutkan	buohccedivššárdutkan	buohccedikšodutkan	buohccedikšundutkan	
+sykepleieepikrise	buohccedikšunepikrisa					sairaanhoidon yhteenveto  sairaanhoidon epikriisi	buohccedivššu oktiigeassu  buohccedivššu 	buohccedivššároahpu epikriisa	buohccedikšuma čoahkkáigeassu buohccedikšuma čoahkkáigeassu	buohccedikšodáhkádus	birr	
 sykepleierhøgskole	buohccedivššárallaskuvla			buohccedivššárallaskuvla		sairaanhoitaja-ammattikorkeakoulu	AMK	buohccedivššároahppu	buohccidivššároahpu ámmátallaskuvla	buohccidivššárallaskuvla	buohccedivššárafágaskuvla	
 sykepleierprofesjon	buohccedivššárárámmát			buohccidivššárámmát		sairaanhoitajan ammatti	#buohccidikšu #ámmát	buohccedivššárámmát	buohccedivššárámmát	buohccidivššárámmát	buohccedivššára ámmát	
-sykepleierrolle	buohccedivššára rolla			buohccidivššárrolla		sairaanhoitajan rooli	#buohccidikšu rolla	buohccedivššárrolla	buohccidivššára rolla	buohccidivššárrolla	buohccedivššára bargu	
-sykepleieruniform	buohccedivššára uniforbma	£		buohccidivššáruniforbma		sairaanhoitajan univormu	#buohccidikšu 	buohccedivššáruniformma	buohccidivššára uniformma	buohccidivššáruniforbma	buohccedivššára biktasat	
+sykepleierrolle	buohccedivššárrolla			buohccidivššárrolla		sairaanhoitajan rooli	#buohccidikšu rolla	buohccedivššárrolla	buohccidivššára rolla	buohccidivššárrolla	buohccedivššára bargu	
+sykepleieruniform	buohccedivššára uniforbma	£	buohccedivššára bargobivttas	buohccidivššáruniforbma		sairaanhoitajan univormu, sairaanhoitajan työasu	#buohccidikšu 	buohccedivššáruniformma	buohccidivššára uniformma	buohccidivššáruniforbma	buohccedivššára biktasat	
 sykepleierske	buohccedivššár			buohccidivššár		sairaanhoitajatar		buohccedivššár	buohccedivššár	buohccidivššár	buohccedikšu	
-sykepleiehjelp	buohccedikšun			buohccidivššárveahkki		sairaanhoito	buohccedikšu	buohccedivššár	buohccedivššár	buohccidivššárveahkki	buohccedikšu	
-sykepleiepraksis				buohccedikšunvuohki		sairaanhoitokäytäntö	buohccedikšogeavat	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárvierru	buohccedikšunvuohki	
-sykepleietjeneste				buohccedikšunbálvalus		sairaanhoitopalvelut	buohccedikšobálvalusat	buohccedivššárbálvalus	Buohccedivššárbálvalusat	buohccedikšunbálvalus	buohccedikšunbálvalusat	
+sykepleiehjelp	buohccedikšunveahkki			buohccidivššárveahkki		sairaanhoidollinen apu	buohccedikšu	buohccedivššár	buohccedivššár	buohccidivššárveahkki	buohccedikšu	
+sykepleiepraksis	buohccedivššárhárjehállan, buohccedikšunvuohki	£		buohccedikšunvuohki		sairaanhoitoharjoittelu, sairaanhoitokäytäntö	buohccedikšogeavat	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárvierru	buohccedikšunvuohki	
+sykepleietjeneste	buohccedikšunbálvalus			buohccedikšunbálvalus		sairaanhoitopalvelut	buohccedikšobálvalusat	buohccedivššárbálvalus	Buohccedivššárbálvalusat	buohccedikšunbálvalus	buohccedikšunbálvalusat	
 sykdomsprognose				buozalmasvuođaprognosa		sairauden ennuste  sairauden prognoosi	buozu einnostus  buozu 	dávdaprognosa	dávdaprognosa dávdaprognosa	buozalmasvuođaprognosa	buozalmasvuođa prognosa, buozalmasvuođa prognosa	
 sykdomsbehandling	buozu dikšun			buozalmasvuođa dikšun		sairauden hoito	buozu dikšu	dávdda dikšun	dávdda dikšun	buozalmasvuođadikšu	buozalmasvuođa dikšun	
 sykdomserfaring	buozu vásáhus			buozalmasvuođa vásáhus		sairauden kokemus	buozu vásihus	buohcuvuođavásáhus	buohcuvuođa vásáhus	buozalmasvuođavásáhus	buozalmasvuođa vásáhus	
