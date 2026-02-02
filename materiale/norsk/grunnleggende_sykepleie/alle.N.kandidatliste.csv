@@ -1298,38 +1298,37 @@ reservekapasitet	reservakapasitehta					reservikapasiteetti	#hearbevárri#kapasi
 ressurskriterium	resursakriteara					resurssikriteeri	resursakriteara	resursakriteara	resursakriteara	resursaeaktu	resursakriteara	
 ressurssvikt	resursavátni					resurssivaje		resursavátnivuohta	resursavátnivuohta	resursaváilivuohta	resursavátni	
 spissfot	dávgejuolgi, njuolggojuolgi	£				kaarijalka		njuolggo juolgi	heŋgejuvvon bealli	spissojalgga	sorjjasmeahttun	
-uavhengighetsregel						riippumattomuussäännös		sorjjasmeahttunvuođa njuolggadus	sorjjasmeahttunvuođa mearrádus	sorjjasmeahttunvuođa njuolggadus	sorjjasmeahttunvuođanjuolggadus	
-forsvarlighet						riittävä hoito	#bistit dikšu	jietnavuohta	dohkálaš dikšun	bealuštahtti	doarvái buorre dikšu	
-brystvegg						rinnan seinämä	ratti seaidni	njuoratmánná seinni	njuoratmánná seinni	raddestoalpu	riddoseaidni	
-brysthinne						rintakalvo	raddecuozza	pleura membrana	pleura membrana	raddi	raddi	
+uavhengighetsregel	sorjjasmeahttunvuohtanjuolggadus					riippumattomuussäännös		sorjjasmeahttunvuođa njuolggadus	sorjjasmeahttunvuođa mearrádus	sorjjasmeahttunvuođa njuolggadus	sorjjasmeahttunvuođanjuolggadus	
+forsvarlighet 	ovddasvástáduslaš					vastuullisuus	#bistit dikšu	jietnavuohta	dohkálaš dikšun	bealuštahtti	doarvái buorre dikšu	
+brystvegg	raddeseaidni					rinnan seinämä	ratti seaidni	njuoratmánná seinni	njuoratmánná seinni	raddestoalpu	riddoseaidni	
+brysthinne	raddecuozza					rintakalvo	raddecuozza	pleura membrana	pleura membrana	raddi	raddi	
 brystbein	mielga		mielgadákti			rintalasta	mielga	njuoratmánná	njuoratmánná	raddejuolgi	riddoguovlu	
 brystkompresjon	raddekompreassa					rintalastan paineluelvytys	mielgga 	njuoratmánná njuoskkadeapmi	njuoratmánná komprešuvdna ealáskahttin	raddečuohpastahkan	deaddostávvala ealáskahttin raddái	
 brystmuskel	raddedeahkki					rintalihas	raddeoažži	njuoratmánnálihkadus	njuoratmánnálihkadus	raddejuolgi	raddeliike	
-brysthule						rintaontelo		njuoratmánná	njuoratmánná	raddeolmmoš	raddejuolgi	
-brystprotese	raddedahkulahttu					rintaproteesi	raddedahkulahttu	njuoratmánnáproteasa	njuoratmánnáproteasa	raddeborašproteasta	raddevuodjin	
-diaréplage	čoalas		luhčadávda			ripulivaiva		lužas	čalbmeváttut	luhčadávda	luhčadávda	
-risikovurderingsskjema						riskien arviointilomake	riskkaid evaluerenskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	
-risikovurderingskala						riskinarviointiasteikko	riskkaevaluerenceahkkálas	riskaárvvoštallanskála	riskaárvvoštallanskála	riskaárvvoštallanskála	riskaárvvoštallanskála	
-risikovurderingsskjema						riskinarviointilomake	riskkaevaluerenskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	
-risikopasient	riskabuohcci					riskipotilas	#riska#buohcci	riskapasieanta	riskapasieanta	riskavuloš buohcci	riskavuloš	
+brysthule	raddevuovda					rintaontelo		njuoratmánná	njuoratmánná	raddeolmmoš	raddejuolgi	
+brystprotese	raddeprotesa					rintaproteesi	raddedahkulahttu	njuoratmánnáproteasa	njuoratmánnáproteasa	raddeborašproteasta	raddevuodjin	
+diaréplage	lužasváddu					ripulivaiva		lužas	čalbmeváttut	luhčadávda	luhčadávda	
+risikovurderingsskjema	riskaárvvoštallanskála					riskien arviointilomake	riskkaid evaluerenskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	riskaárvvoštallanskovvi	
+risikovurderingskala	riskaárvvoštallanskovvi					riskinarviointiasteikko	riskkaevaluerenceahkkálas	riskaárvvoštallanskála	riskaárvvoštallanskála	riskaárvvoštallanskála	riskaárvvoštallanskála	
+risikopasient	riskapatienta					riskipotilas	#riska#buohcci	riskapasieanta	riskapasieanta	riskavuloš buohcci	riskavuloš	
 risikogruppe	riskajoavku					riskiryhmä	riskajoavku	riskajoavku	riskajoavku	riskajovkui gullevaččat	riskajoavku	
-kryssinfeksjon						risti-infektio	ristainfekšuvdna	rasttildeaddji njoammun	rasttildeaddji njoammun	ruossutbohcci	ruossainfekšuvdna	
+kryssinfeksjon	ruossainfekšuvdna					risti-infektio	ristainfekšuvdna	rasttildeaddji njoammun	rasttildeaddji njoammun	ruossutbohcci	ruossainfekšuvdna	
 korsrygg	čielgemátta					ristiselkä	ristasealgi	vuollelis ruoktot	sakrum	ruossaruossa	ruossut	
-ss						rkl	ruokalusikka	s.	s.	ss	ruvdn	
-gåstol	rolláhtor					rollaattori		rullastuollu	rollator	vázzinstašuvdna	roláhtor	
-rommelighet						rommelig avara tilava	*rommelig *avara čáhkkil	viiddisvuohta	rommelig viiddis viiddis	latnjadovdu	roavva stuorra latnja	
-rolleatferd						roolikäyttäytyminen	rollaláhttenvuohki	rolla doaibma	rolla doaibma	rollaláhtten	rollageavaheapmi	
+ss	gb, gazzanbaste					rkl	ruokalusikka	s.	s.	ss	ruvdn	
+gåstol	vázzinstellet					kävelyteline		rullastuollu	rollator	vázzinstašuvdna	roláhtor	
+rommelighet	viiddisvuohta					avaruus, laajuus	*rommelig *avara čáhkkil	viiddisvuohta	rommelig viiddis viiddis	latnjadovdu	roavva stuorra latnja	
+rolleatferd	rollaláhtten					roolikäyttäytyminen	rollaláhttenvuohki	rolla doaibma	rolla doaibma	rollaláhtten	rollageavaheapmi	
 rollemodell	rollamálle					roolimalli	rollamálle	ovdagovva	ovdagovva	rollamodealla	rollamodealla	
-rollekonflikt						rooliristiriita	rollakonflikta	rolla riiddu	rolla riiddu	rollavuostálasvuohta	rollarievdan	
-matmangel	biebmováilevuohta		borramuša váilevuohta			ruoan puute	guštta váilevuohta	biebmovátnivuohta	biebmu váilun	borramušváili	borramuša váilun	
-matinntak	biepmu oažžun		borramuša oažžun			ruoan saanti	guštta oažžun	biebmováldin	biebmováldin	borramušgálvu	borramuša skáhppon	
-matlukt	biepmu hádja		borramuša hádja			ruoan tuoksu	guštta 	biepmu duovdagis	biepmu duovdagis	hádja	biepmu hádja	
-fordøyelsesorgan	suolbmudeapmiorgána		biebmosuddadeapmiorgána			ruoansulatuselin	suolbmudanorgána	njuoratmánnáorgána	njuoratmánnáorgána	goaŧŧočeabetmiella	borramušgálvu	
-fordøyelsesenzym						ruoansulatusentsyymi		njuoratmánná ensyma	njuoratmánná ensyma	suolbmudanozonema	borramušgálsoávdnasat	
-fordøyelsesprosess	suolbmudeapmiproseassa		biebmosuddadeapmiproseassa			ruoansulatusprosessi	suolbmudanproseassa	njuoratmánnáproseassa	njuoratmánnáproseassa	suolbmudatproseassa	biepmusmuddenproseassa	
-fordøyelsesbesvær	suolbmudeapmiváivi		biebmosuddadeapmiváivi			ruoansulatusvaiva	suolbmudanváivi	njuoratmánná	njuoratmánná	veadjemeahttunvuohta	suolbmudanoađđin	
-fordøyelsessystem						ruoansulatusärjestelmä		njuoratmánná	njuoratmánná	suolbmudanoali	biepmusráiddu vuogádat	
-matvareintoleranse						ruoka-aineintoleranssi	guštaávnnasintoleránsa	biebmováilevašvuohta	biebmováilevašvuohta	borramuša gierdameahttunvuohta	borramušgálvuintoleránsa	
+rollekonflikt	rollakonflikta					rooliristiriita	rollakonflikta	rolla riiddu	rolla riiddu	rollavuostálasvuohta	rollarievdan	
+matmangel	borramušváili		borramuša váilevašvuohta			ruoan puute	guštta váilevuohta	biebmovátnivuohta	biebmu váilun	borramušváili	borramuša váilun	
+matinntak	borramuša váldin					ruoan saanti	guštta oažžun	biebmováldin	biebmováldin	borramušgálvu	borramuša skáhppon	
+matlukt	borramušhádja					ruoan tuoksu	guštta 	biepmu duovdagis	biepmu duovdagis	hádja	biepmu hádja	
+fordøyelsesorgan	suolbmudanorgána		biebmosuddadanorgána			ruoansulatuselin	suolbmudanorgána	njuoratmánnáorgána	njuoratmánnáorgána	goaŧŧočeabetmiella	borramušgálvu	
+fordøyelsesenzym	suolbmudanenzyma		biebmosuddadanenzyma			ruoansulatusentsyymi		njuoratmánná ensyma	njuoratmánná ensyma	suolbmudanozonema	borramušgálsoávdnasat	
+fordøyelsesprosess	suolbmudanproseassa		biebmosuddadanproseassa			ruoansulatusprosessi	suolbmudanproseassa	njuoratmánnáproseassa	njuoratmánnáproseassa	suolbmudatproseassa	biepmusmuddenproseassa	
+fordøyelsesbesvær	suolbmudanváivi		biebmosuddadanváivi			ruoansulatusvaiva	suolbmudanváivi	njuoratmánná	njuoratmánná	veadjemeahttunvuohta	suolbmudanoađđin	
+fordøyelsessystem	suolbmudansystema	£				ruoansulatusärjestelmä		njuoratmánná	njuoratmánná	suolbmudanoali	biepmusráiddu vuogádat	
+matvareintoleranse	borramušávnnasintoleransa					ruoka-aineintoleranssi	guštaávnnasintoleránsa	biebmováilevašvuohta	biebmováilevašvuohta	borramuša gierdameahttunvuohta	borramušgálvuintoleránsa	
 matallergi	biebmoallergiija					ruoka-allergia	guštaallergiija	biebmoallergiija	biebmoallergiija	borramušallergiija	borramušallergiija	
 mathygiene						ruokahygienia	guštabuhtisindoallan	biebmohygiena	biebmohygiena	rumašbuhtisvuohta	borramušgillámuš	
 matvane						ruokailutapa	borrandáhpi	borrandábit	Borramušvuohki	borramušvierru	boradanvuohki	
