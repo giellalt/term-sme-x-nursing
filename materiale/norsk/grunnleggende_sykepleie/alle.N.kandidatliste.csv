@@ -1329,20 +1329,20 @@ fordøyelsesprosess	suolbmudanproseassa		biebmosuddadanproseassa			ruoansulatusp
 fordøyelsesbesvær	suolbmudanváivi		biebmosuddadanváivi			ruoansulatusvaiva	suolbmudanváivi	njuoratmánná	njuoratmánná	veadjemeahttunvuohta	suolbmudanoađđin	
 fordøyelsessystem	suolbmudansystema	£				ruoansulatusärjestelmä		njuoratmánná	njuoratmánná	suolbmudanoali	biepmusráiddu vuogádat	
 matvareintoleranse	borramušávnnasintoleransa					ruoka-aineintoleranssi	guštaávnnasintoleránsa	biebmováilevašvuohta	biebmováilevašvuohta	borramuša gierdameahttunvuohta	borramušgálvuintoleránsa	
-matallergi	biebmoallergiija					ruoka-allergia	guštaallergiija	biebmoallergiija	biebmoallergiija	borramušallergiija	borramušallergiija	
-mathygiene						ruokahygienia	guštabuhtisindoallan	biebmohygiena	biebmohygiena	rumašbuhtisvuohta	borramušgillámuš	
-matvane						ruokailutapa	borrandáhpi	borrandábit	Borramušvuohki	borramušvierru	boradanvuohki	
-måltidsmiljø						ruokailuympäristö	borranbiras	borramušbiras	borramušbiras	boradanbiras	boradanbáiki	
+matallergi	borramušallergiija					ruoka-allergia	guštaallergiija	biebmoallergiija	biebmoallergiija	borramušallergiija	borramušallergiija	
+mathygiene	borramušhygienia					ruokahygienia, elintarvikehygienia	guštabuhtisindoallan	biebmohygiena	biebmohygiena	rumašbuhtisvuohta	borramušgillámuš	
+matvane	borrandáhpi					ruokailutapa	borrandáhpi	borrandábit	Borramušvuohki	borramušvierru	boradanvuohki	
+måltidsmiljø	borranbiras					ateriontiympäristö	borranbiras	borramušbiras	borramušbiras	boradanbiras	boradanbáiki	
 matkort	borramuškoarta					ruokakortti	guštagoarta	biebmokoarta	biebmokoarta	borramušgoarttat	borramušbeavdi	
-matvogn						ruokakärry		borramušvovnna	borramušvovnna	borramušgálvu	borramušgálbi	
-menyplanlegging						ruokalistan suunnittelu	biebmolisttu plánenbargu	menyplánen	menyplánen	fálloplánen	borramušslisttu plánen	
-matregistrering						ruokamäärien kirjaaminen	guštameriid 	biebmoregistreren	biebmomeari čállin	borramušregistreren	borramušmeroštallan	
-matpyramide						ruokapyramidi	guštapyramiida	biebmopyramida	biebmopyramida	borramušpyramiida	borramušpyramida	
+matvogn	borramušvovdna					ruokakärry		borramušvovnna	borramušvovnna	borramušgálvu	borramušgálbi	
+menyplanlegging	borramušslisttu plánen					ruokalistan suunnittelu	biebmolisttu plánenbargu	menyplánen	menyplánen	fálloplánen	borramušslisttu plánen	
+matregistrering	borramušregistreren					ruokamäärien kirjaaminen	guštameriid 	biebmoregistreren	biebmomeari čállin	borramušregistreren	borramušmeroštallan	
+matpyramide	borramušpyramida				ruokapyramidi	guštapyramiida	biebmopyramida	biebmopyramida	borramušpyramiida	borramušpyramida		
 mattilbud	borramušfállu					ruokatarjonta	guštafállu	borramušfálaldat	biebmogálvu	borramušfálaldat	borramušfállu	
-matvaregruppe						ruokatavararyhmä	guštadávvirjoavku	biebmojoavku	gávpejoavku	borramušgálvojoavku	borramušresursagovva	
-diettregime	borramušválljenplána					ruokavaliosuunnitelma	#diehttaplána	biebmoortnet	dietnasa plána		biebmoplána	
-kostholdregime	biebmoválljenplána					ruokavaliosuunnitelma	#diehttaplána	dietnasa ortnet	dietnasa plána	biebmodoalloregimeanta	biebmoplána	
-pestsykdom	rohttudávda	£	Čáhppešjápmudávda			ruttotauti	roahttodávda	dávda	dávda	boraspire-dávda	borasdávda	
+matvaregruppe	borramušgálvujoavku					elintarvikeryhmä	guštadávvirjoavku	biebmojoavku	gávpejoavku	borramušgálvojoavku	borramušresursagovva	
+diettregime	diehttaplána					dieettisuunnitelma	#diehttaplána	biebmoortnet	dietnasa plána		biebmoplána	
+kostholdregime	biebmodoalluplána					ruokavaliosuunnitelma	#diehttaplána	dietnasa ortnet	dietnasa plána	biebmodoalloregimeanta	biebmoplána	
+pestsykdom	rohttudávda					ruttotauti	roahttodávda	dávda	dávda	boraspire-dávda	borasdávda	
 kroppsvarme	rupmaša temperatuvra					ruumiinlämpö	rupmašaliekkas	rupmaša lieggasa	rupmaša temperatuvra	rumašlaš liegganeapmi	rumašdálkkádat	
 gruppesamling	joavkočoahkkin					ryhmäkokous	joavkočoakkán	joavkočoahkkin	joavkočoahkkin	joavkočoahkádus	joavkočoahkkin	
 gruppenivå	joavkodássi					ryhmätaso	joavkodássi	joavkodássi	joavkodássi	joavkodássi	joavkodássi	
