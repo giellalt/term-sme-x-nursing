@@ -1398,66 +1398,66 @@ sykepleierske	buohccedivššár			buohccidivššár		sairaanhoitajatar		buohcced
 sykepleiehjelp	buohccedikšunveahkki			buohccidivššárveahkki		sairaanhoidollinen apu	buohccedikšu	buohccedivššár	buohccedivššár	buohccidivššárveahkki	buohccedikšu	
 sykepleiepraksis	buohccedivššárhárjehállan, buohccedikšunvuohki	£		buohccedikšunvuohki		sairaanhoitoharjoittelu, sairaanhoitokäytäntö	buohccedikšogeavat	buohccedivššároahppu	buohccedivššároahppu	buohccidivššárvierru	buohccedikšunvuohki	
 sykepleietjeneste	buohccedikšunbálvalus			buohccedikšunbálvalus		sairaanhoitopalvelut	buohccedikšobálvalusat	buohccedivššárbálvalus	Buohccedivššárbálvalusat	buohccedikšunbálvalus	buohccedikšunbálvalusat	
-sykdomsprognose				buozalmasvuođaprognosa		sairauden ennuste  sairauden prognoosi	buozu einnostus  buozu 	dávdaprognosa	dávdaprognosa dávdaprognosa	buozalmasvuođaprognosa	buozalmasvuođa prognosa, buozalmasvuođa prognosa	
-sykdomsbehandling	buozu dikšun			buozalmasvuođa dikšun		sairauden hoito	buozu dikšu	dávdda dikšun	dávdda dikšun	buozalmasvuođadikšu	buozalmasvuođa dikšun	
-sykdomserfaring	buozu vásáhus			buozalmasvuođa vásáhus		sairauden kokemus	buozu vásihus	buohcuvuođavásáhus	buohcuvuođa vásáhus	buozalmasvuođavásáhus	buozalmasvuođa vásáhus	
-sykdomsforløp	buozu johtu			dávddajohtu		sairauden kulku	buozu johtu	buohcuvuođa čađaheapmi	dávdda čađaheapmi	dávddajohtu	buozalmasvuođa jođu	
-sykdomsutvikling	buozu johtu			buozalmasvuođa ovdáneapmi		sairauden kulku	buozu johtu	dávdda ovdáneapmi	dávdda čađaheapmi	buozalmasvuođa ovdáneapmi	buozalmasvuođa jođu	
-sykdomsbegrep	buozu definišuvdna			buohcuvuođa doaba		sairauden määritelmä	buozu definišuvdna	dávdadoahpagat	buohcuvuođa definišuvdna	buohcuvuođa doaba	buohcuvuođa meroštallan	
-sykdomsårsak	buozu sivva			buohcuvuođa sivvan		sairauden syy  taudin syy	buozu árta  dávdda árta	buohcuvuođa sivva	dávdda sivva dávdda sivva	buozalmasvuođa sivva	buohcuvuođa sivvan	
-sykdomsfølelse	buozu dovdu			buozalmasvuođadovdu		sairauden tunne	buozu dovdu	buohcuvuođa dovdu	buohcuvuohta	buozalmasvuođadovdu	buohcuvuođa dovdu	
-sykdomsfase				buozalmasvuođa áigi		sairauden vaihe	buozu muddu	dávdafása	dávdda dássi	buozalmasvuođa áigi	buozalmasvuođa áigi	
-sykdomsforståelse	buozu áddejupmi			buozalmasvuođa áddejupmi	buozalmasvuođa ipmárdus	sairauden ymmärrys	buozu ádden	dávdaáddejupmi	áddejupmi buohcuvuođa birra	buohcuvuođaáddejupmi	buohcuvuođa áddejupmi	
-sykdomssituasjon				buozalmasvuođadilli		sairaudentila	buozodilli	dávdadilli	medisiinnalaš dilli	buozalmasvuođadilli	buohccivuođa dilli	
-sykdomstilstand				buozalmasvuođadilli		sairaudentila	buozodilli	dávdadilli	medisiinnalaš dilli	buozalmasvuođadilli	buohccivuođa dilli	
+sykdomsprognose	buozalmasvuođaprognosa		dávdaprognosa	buozalmasvuođaprognosa		sairauden ennuste  sairauden prognoosi	buozu einnostus  buozu 	dávdaprognosa	dávdaprognosa dávdaprognosa	buozalmasvuođaprognosa	buozalmasvuođa prognosa, buozalmasvuođa prognosa	
+sykdomsbehandling	buozalmasvuođa dikšun		dávddadikšun	buozalmasvuođa dikšun		sairauden hoito	buozu dikšu	dávdda dikšun	dávdda dikšun	buozalmasvuođadikšu	buozalmasvuođa dikšun	
+sykdomserfaring	buozalmasvuođa vásáhus			buozalmasvuođa vásáhus		sairauden kokemus	buozu vásihus	buohcuvuođavásáhus	buohcuvuođa vásáhus	buozalmasvuođavásáhus	buozalmasvuođa vásáhus	
+sykdomsforløp	buozalmasvuođa johtu		dávddajohtu	dávddajohtu		sairauden kulku	buozu johtu	buohcuvuođa čađaheapmi	dávdda čađaheapmi	dávddajohtu	buozalmasvuođa jođu	
+sykdomsutvikling	buozalmasvuođa ovdáneapmi		dávdda ovdaneapmi	buozalmasvuođa ovdáneapmi		sairauden kulku	buozu johtu	dávdda ovdáneapmi	dávdda čađaheapmi	buozalmasvuođa ovdáneapmi	buozalmasvuođa jođu	
+sykdomsbegrep	buozalmasvuođa doaba			buohcuvuođa doaba		sairauden käsite	buozu definišuvdna	dávdadoahpagat	buohcuvuođa definišuvdna	buohcuvuođa doaba	buohcuvuođa meroštallan	
+sykdomsårsak	buozalmasvuođa sivva			buohcuvuođa sivvan		sairauden syy  taudin syy	buozu árta  dávdda árta	buohcuvuođa sivva	dávdda sivva dávdda sivva	buozalmasvuođa sivva	buohcuvuođa sivvan	
+sykdomsfølelse	buozalmasvuođa dovdu			buozalmasvuođadovdu		sairauden tunne	buozu dovdu	buohcuvuođa dovdu	buohcuvuohta	buozalmasvuođadovdu	buohcuvuođa dovdu	
+sykdomsfase	buozalmasvuođa muddu			buozalmasvuođa áigi		sairauden vaihe	buozu muddu	dávdafása	dávdda dássi	buozalmasvuođa áigi	buozalmasvuođa áigi	
+sykdomsforståelse	buozalmasvuođa áddejupmi, buozalmasvuođa ipmardus			buozalmasvuođa áddejupmi	buozalmasvuođa ipmárdus	sairauden ymmärrys	buozu ádden	dávdaáddejupmi	áddejupmi buohcuvuođa birra	buohcuvuođaáddejupmi	buohcuvuođa áddejupmi	
+sykdomssituasjon	buozalmasvuođa dilli		dávdadilli	buozalmasvuođadilli		sairauden tilanne	buozodilli	dávdadilli	medisiinnalaš dilli	buozalmasvuođadilli	buohccivuođa dilli	
+sykdomstilstand	buozalmasvuođadilli			buozalmasvuođadilli		sairaudentila	buozodilli	dávdadilli	medisiinnalaš dilli	buozalmasvuođadilli	buohccivuođa dilli	
 sykdomsepisode	buohcanáigi			buohcanáigi		sairausjakso	buohcooassi	buohcuvuođa episohtta	buohcuvuođaáigodat	dávddaeastadeapmi	buohcanáigi	
-sykdomsopplevelse				buozalmasvuođa vásáhus		sairauskokemus	buohcovásihus	buohcuvuođavásáhus	buohcuvuođavásáhus	buozalmasvuođa vásáhus	buohcuvuođa vásáhus	
-sykdomsoppfatning						sairauskäsitys	buohcoipmárdus	buohcuvuođadovdu	buohcuvuođadovdu	buohcuvuođaoaidnu	buohcuvuođaáddejupmi	
-sykdomssyn				buozalmasvuođaoaidnu		sairauskäsitys	buohcoipmárdus	dávdda oaidnu	buohcuvuođadovdu	buozalmasvuođaoaidnu	buohcuvuođaáddejupmi	
-sykdomsproblem				buozalmasvuođa váttisvuohta		sairausongelma	buohcoproblema	dávdaváttisvuohta	dávdaváttisvuohta	buozalmasvuođa váttisvuohta	buohcuvuođa váddu	
-sykdomspanorama				buozalmasvuođa govva		sairauspanoraama	#buohcu#panoraama	dávdapanorama	dávdapanorama	buozalmasvuođa panorámma	buozalmasvuođa panoraama	
-sykdomsperspektiv				buohcanvuođa geahččanguovlu		sairausperspektiivi	buohcoperspektiiva	dávdda perspektiiva	dávdda perspektiiva	buohcuvuođaperspektiiva	buohcanvuođa geahččanguovlu	
-sykdomsprosess						sairausprosessi	sairauden kulku	dávdaproseassa	dávdaproseassa	dávddaid proseassa	buohcanvuohki	buohcoproseassa
-sykdomsbyrde				buozalmasvuođa  noađđi		sairaustaakka  sairauskuorma	buohconoađđi buohcoguorbmi  	dávdageahpádus	dávdageahpádus dávdageahpádus	buozalmas noađđi	buozalmasvuođa lossa noađđi	
-tykningsmiddel				suohkudanávnnas		sakeutusaine		assádeaddji	assáseapmi	dikšunávnnas	suodjalanávnnas	
-sakkarin				sakkáriidna		sakkariini		sakkarin	sakkarin	sahkáriidna	sahkkara	
-sukrose						sakkaroosi	sokeri	sukrosa	sukrosa	sohkardávda	sahtedohko	
+sykdomsopplevelse	buozalmasvuođa vásáhus			buozalmasvuođa vásáhus		sairauskokemus	buohcovásihus	buohcuvuođavásáhus	buohcuvuođavásáhus	buozalmasvuođa vásáhus	buohcuvuođa vásáhus	
+sykdomsoppfatning	buozalmasvuođa olli				buohcoipmárdus	sairauden ulottuvuus	buohcuvuođadovdu	buohcuvuođaoaidnu	buohcuvuođaáddejupmi			
+sykdomssyn	buozalmasvuođaoaidnu			buozalmasvuođaoaidnu		sairauskäsitys	buohcoipmárdus	dávdda oaidnu	buohcuvuođadovdu	buozalmasvuođaoaidnu	buohcuvuođaáddejupmi	
+sykdomsproblem	buozalmasvuođa váttisvuohta			buozalmasvuođa váttisvuohta		sairausongelma	buohcoproblema	dávdaváttisvuohta	dávdaváttisvuohta	buozalmasvuođa váttisvuohta	buohcuvuođa váddu	
+sykdomspanorama	buozalmasvuohtapanorama			buozalmasvuođa govva		sairauspanoraama	#buohcu#panoraama	dávdapanorama	dávdapanorama	buozalmasvuođa panorámma	buozalmasvuođa panoraama	
+sykdomsperspektiv	buozalmasvuođaperspektiiva			buohcanvuođa geahččanguovlu		sairausperspektiivi	buohcoperspektiiva	dávdda perspektiiva	dávdda perspektiiva	buohcuvuođaperspektiiva	buohcanvuođa geahččanguovlu	
+sykdomsprosess	buozalmasvuođa proseassa					sairausprosessi	sairauden kulku	dávdaproseassa	dávdaproseassa	dávddaid proseassa	buohcanvuohki	buohcoproseassa
+sykdomsbyrde	buozalmasvuođa noađđi			buozalmasvuođa  noađđi		sairaustaakka  sairauskuorma	buohconoađđi buohcoguorbmi  	dávdageahpádus	dávdageahpádus dávdageahpádus	buozalmas noađđi	buozalmasvuođa lossa noađđi	
+tykningsmiddel	suohkudanávnnas			suohkudanávnnas		sakeutusaine		assádeaddji	assáseapmi	dikšunávnnas	suodjalanávnnas	
+sakkarin	sakkáriidna			sakkáriidna		sakkariini		sakkarin	sakkarin	sahkáriidna	sahkkara	
+sukrose	sukrosa					sakkaroosi	sokeri	sukrosa	sukrosa	sohkardávda	sahtedohko	
 gallestein	sáhppegeađgi			sáhppegeađgi		sappikivi	sáhppegeađgi	galbma geađggit	galbma geađgi	gállogeađgi	sáhkkegeađgi	
-gallesykdom	sáhppegeađgidávda			sáhppegeađgedávda		sappikivitauti	sáhppegeađgedávda	galbma dávda	galbma dávda	gollebuozalmasvuohta	sapmasiidnavihki	
+gallesykdom	sáhppegeađgedávda			sáhppegeađgedávda		sappikivitauti	sáhppegeađgedávda	galbma dávda	galbma dávda	gollebuozalmasvuohta	sapmasiidnavihki	
 gallegang	sáhppeoarri			sáhppečoalli		sappitiehyt		njuoratmánná	njuoratmánná	jallodat	sáhpacealkka	
-gallefargestoff				sáhppeivdneávnnas		sappiväriaine	sáhppeivdneávnnas	galbma ivdni	galbma ivdni	veaikeivdni	sáhpánávnnas	
-regnbuemodell						sateenkaarimalli	bajándávgemálle	čuovgamálle	čuovgagovva	áikalastinvuohki	arvevuovdinšillju	
-serumjern						seerumin rauta	*seerumin ruovdi	serumruovdi	serumruovdi	searvvušveaiki	serumeantta ruovdi	
-ståseng				ceakkoseaŋga		seisomismahdollisuudella varustettu sänky	čuožžut liibbas *varustettu seaŋga	čuožžumin	seaŋga mas lea vejolašvuohta čuožžut	stuollu	lea dakkár mas lea vejolašvuohta čuožžut	
-delirium	seagasvuohta			seahki		sekavuustila	seahki	delirium	čiegusvuođa dilli	delirium	seagasdoaibmanvuohki	
-seksualitetsmangfold						seksuaalinen moninaisuus  seksuaalinen monimuotoisuus	#seksuálalaš máŋggaláganvuohta  #seksuálalaš máŋggahámatvuohta	seksualitehta máŋggabealatvuohta	seksuála máŋggabealatvuohta seksuála máŋggabealatvuohta	seksualitehta máŋggabealatvuohta	seksuála máŋggahápmásašvuohta seksuála máŋggahápmásašvuođas	
-sekundærlitteratur						sekundäärikirjallisuus	toissijainen kirjallisuus	joatkkaskuvlagirjjálašvuohta	joatkkaskuvlagirjjálašvuohta	sekundára girjjálašvuohta	sekundára girjjálašvuohta	
-ryggleie				gávvutoađđin		selinmakuu 		njuolga sajádat	ruoktováttut	oalgecealkka	čakčamánnu 	
+gallefargestoff	sáhppeivdneávnnas			sáhppeivdneávnnas		sappiväriaine	sáhppeivdneávnnas	galbma ivdni	galbma ivdni	veaikeivdni	sáhpánávnnas	
+regnbuemodell	arvedávgemodealla					sateenkaarimalli	bajándávgemálle	čuovgamálle	čuovgagovva	áikalastinvuohki	arvevuovdinšillju	
+serumjern	serumruovdi					seerumin rauta	*seerumin ruovdi	serumruovdi	serumruovdi	searvvušveaiki	serumeantta ruovdi	
+ståseng	čuožžunseaŋga			ceakkoseaŋga		seisomasänky	čuožžut liibbas *varustettu seaŋga	čuožžumin	seaŋga mas lea vejolašvuohta čuožžut	stuollu	lea dakkár mas lea vejolašvuohta čuožžut	
+delirium	delirium 		seahki, seagasvuohta	seahki		delirium, sekavuustila	seahki	delirium	čiegusvuođa dilli	delirium	seagasdoaibmanvuohki	
+seksualitetsmangfold	seksuálalaš máŋggabealatvuohta					seksuaalinen moninaisuus  seksuaalinen monimuotoisuus	#seksuálalaš máŋggaláganvuohta  #seksuálalaš máŋggahámatvuohta	seksualitehta máŋggabealatvuohta	seksuála máŋggabealatvuohta seksuála máŋggabealatvuohta	seksualitehta máŋggabealatvuohta	seksuála máŋggahápmásašvuohta seksuála máŋggahápmásašvuođas	
+sekundærlitteratur	sekundáragirjjalašvuohta					sekundäärikirjallisuus	toissijainen kirjallisuus	joatkkaskuvlagirjjálašvuohta	joatkkaskuvlagirjjálašvuohta	sekundára girjjálašvuohta	sekundára girjjálašvuohta	
+ryggleie	gávvutveallán			gávvutoađđin		selinmakuu 		njuolga sajádat	ruoktováttut	oalgecealkka	čakčamánnu 	
 forklaringsmodell	čilgehusmálle			čilgenmálle		selitysmalli	čilgehusmálle	čilgejeaddji málle	čilgejeaddji málle	čilgenmálle		
 ryggsøyle	čielgi			čielgi		selkäranka		njuoratmánná	njuoratmánná	duogášspiehkastat	guorbmeguolgga	
 ryggmargsskade	čielgeáđavahát			čielgiáđaskaidna		selkäydinvaurio	#sealgi#ađa#vaháguvvan	njuoratmánnávahágat	njuoratmánnávahágat	duođaid oalgecealkka	čielgejuolgedoaibma	
-årsaksforklaring				sivva-oktavuođa čilgehus		selonteko syy-yhteydestä	*selonteko ártaoktavuođas	sivvačilgehus	sivvavuođa cealkámuš	sivvačilgehus	sivva-oktavuođa čilgehus	
-mestring	ceavzin			birgenláhki		selviytyminen		gierdan	birgen	máhtestuvvan	birgenláhki	
+årsaksforklaring	sivvačilgehus			sivva-oktavuođa čilgehus		syyn selitys	*selonteko ártaoktavuođas	sivvačilgehus	sivvavuođa cealkámuš	sivvačilgehus	sivva-oktavuođa čilgehus	
+mestring	hálddašeapmi, máhttu			birgenláhki		hallinta, taito		gierdan	birgen	máhtestuvvan	birgenláhki	
 ryggvask	sealgebassan			sealgebassan		selänpesu	sealggebassan	ruoktobassin	ruoktobassin	čielggadanbivttas	dakkár speallu	
-sensorteknologi						sensoriteknologia		sensorteknologiija	sensorteknologiija	dovddanteknologiija	sensoriteknologiija	
+sensorteknologi	sensorteknologiija					sensoriteknologia		sensorteknologiija	sensorteknologiija	dovddanteknologiija	sensoriteknologiija	
 kransarterie	čierggesváibmosuotna			kránsaarteriija	čierggesváibmosuotna	sepelvaltimo		koronarávdnji	koronarávdnji	kránsaarteriija	konjunktuvra	
-screene	sevlet					seuloa	sevlet	šearbma	šearbma	screene	čuorbmas	
-sjokktilstand				hirpmástuhtti dilli		shokkitila	šohkkadilli	šokka dilli	šokkadilli	hirpmástuhtti dilli	hui eahpesihkkar	
-gasbind				hávvelibar		sideharso		gássa	gássa	gásabideapmi	soakŋu	
-tålbar				gierdat		siedettävä		dohkálaš	dohkálaš	gierdat	gierdameahttun	
-sædvæske	siemagolggus	£		siepman		siemenneste	gilvvasiedja	njuoratmánná	sperma	seaguhusgálvu	rássešaddu	
-sædavgang	siemačollun			siepmanbeassan		siemensyöksy		ejakulašuvdna	ejakulašuvdna	seaguhusgolgamat	sahkkuivuođadivššu	
-sædutløsning				siepmanbeassan		siemensyöksy		ejakulašuvdna	ejakulašuvdna	sahtedohko čoavddus	sahkkuivuođadivššu	
-soppmiddel	guobbardálkas			gillasuvvandálkas		sienenestoaine sienilääke	guobbaracaggasanávnnas guoppardálkkas	soahkemirkku	soapmásiid vuostásaš ávnnas soapmásiid vuostásaš dálkkas	sogaávdnasat	vuosttildansuffiksa mii lea vuosttildansuffiksa	
+screene	sevlet, sillet					seuloa	sevlet	šearbma	šearbma	screene	čuorbmas	
+sjokktilstand	šohkkadilli			hirpmástuhtti dilli		shokkitila	šohkkadilli	šokka dilli	šokkadilli	hirpmástuhtti dilli	hui eahpesihkkar	
+gasbind	čanassuokka			hávvelibar		sideharso		gássa	gássa	gásabideapmi	soakŋu	
+tålbar	gierdehahtti			gierdat		siedettävä		dohkálaš	dohkálaš	gierdat	gierdameahttun	
+sædvæske	siepmangolggus	£		siepman		siemenneste	gilvvasiedja	njuoratmánná	sperma	seaguhusgálvu	rássešaddu	
+sædavgang	siepmanbeassan			siepmanbeassan		siemensyöksy		ejakulašuvdna	ejakulašuvdna	seaguhusgolgamat	sahkkuivuođadivššu	
+sædutløsning	siepmančirgen, siemačirgen			siepmanbeassan		siemensyöksy		ejakulašuvdna	ejakulašuvdna	sahtedohko čoavddus	sahkkuivuođadivššu	
+soppmiddel	guobbardálkas			gillasuvvandálkas		 sienilääke	guobbaracaggasanávnnas guoppardálkkas	soahkemirkku	soapmásiid vuostásaš ávnnas soapmásiid vuostásaš dálkkas	sogaávdnasat	vuosttildansuffiksa mii lea vuosttildansuffiksa	
 soppinfeksjon	guobbarinfekšuvdna					sieni-infektio	guopparinfekšuvdna	soahkeinfekšuvdna	soahkeinfekšuvdna	guopparinfekšuvdna	guopparinfekšuvdna	
-signalsubstans				signálasubstánsa		signaaliaine		signálaávnnas	signálaáššedovdi	signálasubstánsa	signálaguovddáš	
-signalmolekyl				signálamolekyla		signaalimolekyyli		signálamolekyla	signálamolekyla	signálamolekyla	signálamolekyla	
-hvese	suođđat	£		šieđđat		sihistä	kähistä	čuorvu	čuorvu	hussabivdu	sihkkar	
+signalsubstans	signálasubstánsa			signálasubstánsa		signaaliaine		signálaávnnas	signálaáššedovdi	signálasubstánsa	signálaguovddáš	
+signalmolekyl	signálamolekyla			signálamolekyla		signaalimolekyyli		signálamolekyla	signálamolekyla	signálamolekyla	signálamolekyla	
+hvese	suođđat, šuđđat	£		šieđđat		sihistä, sähistä	kähistä	čuorvu	čuorvu	hussabivdu	sihkkar	
 forflytning	sirdin			sirdin		siirto	siirtäminen	sirdin	lihkadit	sirdin	sirdin	sirdin
-forflytningshjelpemiddel	sirdinveahkkeneuvvu			sirdinveahkki		siirtoapuväline	#sirdin#veahkki#gaskoapmi	lihkadanveahkki	sirdinveahkki	johttidan veahkkeneavvu	sirdinveahkki	
+forflytningshjelpemiddel	sirdinveahkkeneavvu			sirdinveahkki		siirtoapuväline	#sirdin#veahkki#gaskoapmi	lihkadanveahkki	sirdinveahkki	johttidan veahkkeneavvu	sirdinveahkki	
 forflytningsteknikk	sirdinteknihkka			sirdinvuohki		siirtotekniikka	sirdinteknihkka	sirdinteknihkka	sirdinteknihkka	sirdinteknihkka	sirdinteknihkka	
 penisskaft	návleoažži			návlenađđa	penisnađđa	siittimen varsi	nálkku nađđa	penisa šaldi	penisa šaldi	penissasoabbi	suohppun	
-sædproduksjon				siepmanšaddu		siittiöiden tuotanto	*siittiöiden duddjon	spermabuvttadeapmi	spermabuvttadeapmi	sahtedohko	sperpma buvttadeapmi	
+sædproduksjon	siepmanbuvttadeapmi			siepmanšaddu		siittiöiden tuotanto	*siittiöiden duddjon	spermabuvttadeapmi	spermabuvttadeapmi	sahtedohko	sperpma buvttadeapmi	
 pool						sijaispooli		jávrráš	sadjásaš bassin	vuojadanálddis	sadjásaš bealli	
 silikon	silikona			silikon		silikoni		silikona	silikona	silikon	silikon	
 øyekontakt	čalbmeoktavuohta			čalbmeoktavuohta		silmäkontakti	čalbmekontákta	čalmmiid oktavuohta	Čalmmiid oktavuohta	čalbmeoktavuohta	čalbmeoktavuohta	
