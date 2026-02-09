@@ -1445,7 +1445,7 @@ screene	sevlet, sillet					seuloa	sevlet	šearbma	šearbma	screene	čuorbmas
 sjokktilstand	šohkkadilli			hirpmástuhtti dilli		shokkitila	šohkkadilli	šokka dilli	šokkadilli	hirpmástuhtti dilli	hui eahpesihkkar	
 gasbind	čanassuokka			hávvelibar		sideharso		gássa	gássa	gásabideapmi	soakŋu	
 tålbar	gierdehahtti			gierdat		siedettävä		dohkálaš	dohkálaš	gierdat	gierdameahttun	
-sædvæske	siepmangolggus	£		siepman		siemenneste	gilvvasiedja	njuoratmánná	sperma	seaguhusgálvu	rássešaddu	
+sædvæske	siepmangolggus			siepman		siemenneste	gilvvasiedja	njuoratmánná	sperma	seaguhusgálvu	rássešaddu	
 sædavgang	siepmanbeassan			siepmanbeassan		siemensyöksy		ejakulašuvdna	ejakulašuvdna	seaguhusgolgamat	sahkkuivuođadivššu	
 sædutløsning	siepmančirgen, siemačirgen			siepmanbeassan		siemensyöksy		ejakulašuvdna	ejakulašuvdna	sahtedohko čoavddus	sahkkuivuođadivššu	
 soppmiddel	guobbardálkas			gillasuvvandálkas		 sienilääke	guobbaracaggasanávnnas guoppardálkkas	soahkemirkku	soapmásiid vuostásaš ávnnas soapmásiid vuostásaš dálkkas	sogaávdnasat	vuosttildansuffiksa mii lea vuosttildansuffiksa	
@@ -1458,31 +1458,31 @@ forflytningshjelpemiddel	sirdinveahkkeneavvu			sirdinveahkki		siirtoapuväline	#
 forflytningsteknikk	sirdinteknihkka			sirdinvuohki		siirtotekniikka	sirdinteknihkka	sirdinteknihkka	sirdinteknihkka	sirdinteknihkka	sirdinteknihkka	
 penisskaft	návleoažži			návlenađđa	penisnađđa	siittimen varsi	nálkku nađđa	penisa šaldi	penisa šaldi	penissasoabbi	suohppun	
 sædproduksjon	siepmanbuvttadeapmi			siepmanšaddu		siittiöiden tuotanto	*siittiöiden duddjon	spermabuvttadeapmi	spermabuvttadeapmi	sahtedohko	sperpma buvttadeapmi	
-pool						sijaispooli		jávrráš	sadjásaš bassin	vuojadanálddis	sadjásaš bealli	
+pool	poola					sijaispooli		jávrráš	sadjásaš bassin	vuojadanálddis	sadjásaš bealli	
 silikon	silikona			silikon		silikoni		silikona	silikona	silikon	silikon	
-øyekontakt	čalbmeoktavuohta			čalbmeoktavuohta		silmäkontakti	čalbmekontákta	čalmmiid oktavuohta	Čalmmiid oktavuohta	čalbmeoktavuohta	čalbmeoktavuohta	
+øyekontakt	čalbmekontákta			čalbmeoktavuohta		silmäkontakti	čalbmekontákta	čalmmiid oktavuohta	Čalmmiid oktavuohta	čalbmeoktavuohta	čalbmeoktavuohta	
 sinusrytme	sinusritma			sinusritma		sinusrytmi		sinusrytma	sinusrytma	sinusrhythma	sinusritma	
 sinusknute	sinusčuolbma			sinusčuolbma		sinussolmuke		njuoratmánná	njuoratmánná	sinasnoallu	duođalaš biegga	
-innånding	sisavuoŋŋahat			sisavuoiŋŋasteapmi		sisäänhengitys		vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
-innåndingsluft	sisavuogŋaáibmu			sisavuoigŋanáibmu		sisäänhengitysilma		vuoiŋŋastuvvon luftta	vuoiŋŋastuvvon luftta	vuoigŋanáibmu	vuoigŋanluođđa	
-inspirasjonsluft				sisavuoigŋanáibmu		sisäänhengitysilma		inspirašuvdna	vuoiŋŋastuvvon luftta	movttiidahttináigi	vuoigŋanluođđa	
-inspirasjonsvolum	sisavuogŋanvoluma					sisäänhengitysvolyymi		vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	movttiidahttindoarjja	vuoigŋanvoluma	
-inngangsport				sisaboahtinverrát		sisäänmenoportti		gáhta	sisabeassanpoarta	sisaboahtinverrát	sisabeassanverrát	
-innleggelse	sisaváldan			sisaváldan		sisäänotto		sisabeassan	sisabeassan	sáhkavuorru	sisaboahtin	
-bandasjeskift	hávvečanas molsun			hávvmolsun		siteen vaihto	čatnasa #molsuheapmi	bihttá rievdadus	bihttá rievdadus	báttiid molsošupmi	čatnasanlonohallan	
-bluferdighetsregel						siveyssääntö		bluing-gelbbolašvuođa njuolggadus	buhtisvuođa njuolggadus	guovttegeardásašvuođa njuolggadus	ivdnenjuolggadus	
+innånding	sisavuoigŋan			sisavuoiŋŋasteapmi		sisäänhengitys		vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoiŋŋasteapmi	vuoiŋŋasteapmi	
+innåndingsluft	sisavuogŋanáibmu			sisavuoigŋanáibmu		sisäänhengitysilma		vuoiŋŋastuvvon luftta	vuoiŋŋastuvvon luftta	vuoigŋanáibmu	vuoigŋanluođđa	
+inspirasjonsluft	inspirašuvdnaáibmu			sisavuoigŋanáibmu		sisäänhengitysilma		inspirašuvdna	vuoiŋŋastuvvon luftta	movttiidahttináigi	vuoigŋanluođđa	
+inspirasjonsvolum	inspirašuvdna voluma, sisavuogŋanvoluma					sisäänhengitysvolyymi		vuoiŋŋastanvoluma	vuoiŋŋastanvoluma	movttiidahttindoarjja	vuoigŋanvoluma	
+inngangsport	sisamannanpoarta			sisaboahtinverrát		sisäänmenoportti		gáhta	sisabeassanpoarta	sisaboahtinverrát	sisabeassanverrát	
+innleggelse	sisaváldin			sisaváldan		sisäänotto		sisabeassan	sisabeassan	sáhkavuorru	sisaboahtin	
+bandasjeskift	hávvečatnasa molsun			hávvmolsun		siteen vaihto	čatnasa #molsuheapmi	bihttá rievdadus	bihttá rievdadus	báttiid molsošupmi	čatnasanlonohallan	
+bluferdighetsregel	šigolášvuohtanjuolggádus					siveyssääntö, siveellisyyssääntö		bluing-gelbbolašvuođa njuolggadus	buhtisvuođa njuolggadus	guovttegeardásašvuođa njuolggadus	ivdnenjuolggadus	
 schizofreni	skitsofreniija					skitsofrenia		skizofrenia	skizofrenia	schizofrenalaš	schizofrenalaš	
 sklerose	sklerosa					skleroosi	kovettuma	sklerosa	sklerosa	sklerosa	sklerosis	
-sukkermolekyl						sokerimolekyyli		sohkarmolekyla	sohkarmolekyla	sohkarmolekyla	sohkarmolekyla	
-cellemetabolisme	saellaávnnasmolsašuvvan					soluaineenvaihdunta solumetabolia	#sealla#ávnnasmolsašuvvan #sealla#metabolia	seallametabolisma	seallametabolisma seallametabolisma	sealla metaboliuma	seallamolsun metabolian	
+sukkermolekyl	sohkkarmolekyla					sokerimolekyyli		sohkarmolekyla	sohkarmolekyla	sohkarmolekyla	sohkarmolekyla	
+cellemetabolisme	seallametabolisma		seallaávnnasmolsašuvvan		soluaineenvaihdunta solumetabolia	#sealla#ávnnasmolsašuvvan #sealla#metabolia	seallametabolisma	seallametabolisma seallametabolisma	sealla metaboliuma	seallamolsun metabolian		
 cellebiologi	seallabiologiija					solubiologia	seallabiologiija	seallabiologiija	seallabiologiija	seallabiologiija	seallabiologiija	
 cellemembran	seallacuozza					solukalvo	seallacuozza	seallamembrána	seallamembrána	seallamehter	seallaceallacealla	
 cellegift	seallamirko			seallamirko		solumyrkky	seallamirko	kemoterapiija	cytotoksiidna	seallamirko	seallamirko	
 sondespiss	sondegeahči			sondegeahči		sondin kärki	*sondin geahči	sondda čuokkis	sondda čuokkis	sondeboagán	sondaoaivvis	
-adaptasjonsområde	heivehansuorgi			heivehansuorgi		sopeutumisalue	sajáiduvvat guovlu	heivehanguovlu	heivehanguovlu	heivehansuorgi	heivehansuorgi	
-adaptasjonsevne	muddenmunni	£		heivehannákca		sopeutumiskyky	sajáiduvvat gálga	heivehanvejolašvuohta	heivehanvejolašvuohta	heivehannákca	vuogáiduhttinnávccat	
-adaptasjonsnivå	heivehandássi			heivehandássi		sopeutumistaso	sajáiduvvat dássi	heivehandássi	heivehandássi	heivehandássi	vuogáiduvvandássi	
-passform				heivehanvuohki		sopivuus		sávri	sávri	heivehanvuohki	vuogasvuohta	
+adaptasjonsområde	adaptašuvdnaguovlu		heivehanguovlu	heivehansuorgi		adaptioalue, sopeutumisalue	sajáiduvvat guovlu	heivehanguovlu	heivehanguovlu	heivehansuorgi	heivehansuorgi	
+adaptasjonsevne	adaptašuvnnanákca 	£	heivehannákca	heivehannákca		sopeutumiskyky	sajáiduvvat gálga	heivehanvejolašvuohta	heivehanvejolašvuohta	heivehannákca	vuogáiduhttinnávccat	
+adaptasjonsnivå	adaptašuvnnadássi		heivehandássi	heivehannákca		sopeutumistaso	sajáiduvvat dássi	heivehandássi	heivehandássi	heivehandássi	vuogáiduvvandássi	
+passform	heivvolaš	£		heivehanvuohki		sopivuus		sávri	sávri	heivehanvuohki	vuogasvuohta	
 fingertrykk				suorpmadeaddileapmi		sormen painallus	suorpma 	giehtačálus	giehtačuohppan	suorpmasdeaddu	suorpma deaddileapmi	
 fingerledd	suorbmalađas			suorbmalađas		sorminivel	suorbmalađas	giehtačoarvvit	giehtalihttu	suorpmaslihtti	suorpmasoabbi	
 fingerferdighet	suorbmačehppodat					sorminäppäryys		čehppodat	čehppodat	giehtalašvuohta	suorpmaid njeaiga báhcán	
