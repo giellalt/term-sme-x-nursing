@@ -1825,26 +1825,26 @@ avvikshendelse	várredilli					vaaratilanne	várredilli	sierranas dáhpáhus	vá
 vaginisme						vaginismi	emätinkouristus	vaginismus	vaginismus	vaginisma	vaginisma	
 avvikshåndtering	bártedieđahusa dahkat					vahinkoilmoituksen tekeminen	vahátalmmuhusa dahkat	sierranasvuođa hálddašeapmi	dahkat vahátdieđáhusa	spiehkastatgieđahallan	vahátilmmuhus	
 avviksskjema	bártedieđahusskovvi					vahinkoilmoituslomake	vahátalmmuhusskovvi	sierranas hápmi	vahágiid dieđihanskovvi	spiehkastatskovvi	vahátdieđáhusa skovvi	
-skifting						vaihto	muutos	sirdin	lonohallan	molsuma birra	lonohallan	#molsuheapmi
-vekseltrykk						vaihtuva paine	#molsašuvvat deaddu	rievddadeaddji čáhci	rievddadeaddji deaddu	molssodatriekkis	molsašuddi deatta	
-virkemåte						vaikutustapa	váikkuhusa	doaibmavuohki	doaibmavuohki	váikkuhusvuohki	váikkuhus	
+skifting		£				vaihto	muutos	sirdin	lonohallan	molsuma birra	lonohallan	#molsuheapmi
+vekseltrykk	molsašuvvan deaddu					vaihtuva paine	#molsašuvvat deaddu	rievddadeaddji čáhci	rievddadeaddji deaddu	molssodatriekkis	molsašuddi deatta	
+virkemåte	doaibmavuohki					vaikutustapa	váikkuhusa	doaibmavuohki	doaibmavuohki	váikkuhusvuohki	váikkuhus	
 bleiesensor						vaipan kosteusindikaattori 	lihpara lávttasindikáhtor 	njuoratmánnásensor	čáhci muohttaga indikáhtor	liidnegákti	ahte liidni lea vuoigŋan	
 taushetsbestemmelse						vaitiolopäätös		luohtehahttivuođacealkámuš	mearrádus hilgut	jávohisvuođamearrádus	jávohisvuođa gáibádus	
 umyndiggjøring						vajaavaltaiseksi julistaminen	*vajaavaltaiseksi almmustit	fámuhisvuohta	váilevašvuođajulggaštus	heivemeahttunvuohta	vátnivuođa julggašteapmi	
-alvorlighetsgrad						vakavuusaste	#duođalašvuohta#ráđđa	duođalašvuohta	garravuođa dássi	duođalaš dássi	duođalašvuođadássi	
-proteinreserve						valkuaisainevaranto proteiinivaranto		proteiidnavárrehus	proteiidnavárrehus proteiidnavárrehus	proteiinnareserve	proteiinnaresursa, ja dat lea proteiinnaresursa	
-maktbruk						vallankäyttö	#váldiatnin	fámu geavaheapmi	fámu geavaheapmi	fápmogeavaheapmi	válddi geavaheapmi	
-arterie						valtimo	váibmosuotna	varra	varra	arteriija	arteriija	váibmosuotna
-arterietermometer						valtimolämpömittari		arteriijatermomehter	arteriijatermomehter	arteriálatermomettar	arteroliekkasmihttár	
-åreforkalkning						valtimonkovettumatauti	ateroskleroosi	aterosklerosa	aterosklerosa	varrasuonjardeapmi	vuollevulošdávda	
-arteriesykdom						valtimosairaus	váibmosuotnabuohcu	varrasuotnadávda	varrasuotnadávda	arteriijadávda	vearredávda	
-arterieblod						valtimoveri	váibmosuotnavarra	arteriála varra	arteriála varra	arteriijvardin	arteruvdna	
+alvorlighetsgrad	duođalašvuohtadássi					vakavuusaste	#duođalašvuohta#ráđđa	duođalašvuohta	garravuođa dássi	duođalaš dássi	duođalašvuođadássi	
+proteinreserve	proteiidnahearbevárri					valkuaisainevaranto proteiinivaranto		proteiidnavárrehus	proteiidnavárrehus proteiidnavárrehus	proteiinnareserve	proteiinnaresursa, ja dat lea proteiinnaresursa	
+maktbruk	váldegeavahus					vallankäyttö	#váldiatnin	fámu geavaheapmi	fámu geavaheapmi	fápmogeavaheapmi	válddi geavaheapmi	
+arterie	váibmosuotna					valtimo	váibmosuotna	varra	varra	arteriija	arteriija	váibmosuotna
+arterietermometer	váibmosuotnatermomehter					valtimolämpömittari		arteriijatermomehter	arteriijatermomehter	arteriálatermomettar	arteroliekkasmihttár	
+åreforkalkning	aterosklerosa					valtimonkovettumatauti	ateroskleroosi	aterosklerosa	aterosklerosa	varrasuonjardeapmi	vuollevulošdávda	
+arteriesykdom	váibmosuotnadávda					valtimosairaus	váibmosuotnabuohcu	varrasuotnadávda	varrasuotnadávda	arteriijadávda	vearredávda	
+arterieblod	váibmosuotnavarra					valtimoveri	váibmosuotnavarra	arteriála varra	arteriála varra	arteriijvardin	arteruvdna	
 våkenhet						valveillaolo		várrugasvuohta	leahkit várrogas	gozuid alde	čalmmehisvuohta	
-overvåkning						valvonta	bajilgeahčču	čuovvoleapmi	kontrolla	vákšun	bearráigeahčču	
-tilsynssak						valvonta-asia	bajilgeahččoásii	bearráigeahččanášši	bearráigeahččanášši	bearráigeahččanášši	bearráigeahččanášši	
-tilsynsrapport						valvontaselvitys	bajilgeahččočilgehus	bearráigeahččanraporta	kontrolla cealkámuš	bearráigeahččanraporta	bearráigeahččančielggadus	
-handikap						vamma	veaidni	hedjonan	váddu	doaimmashehttejupmi	lihkohisvuohta	
-skavank						vamma	vika	vealaheapmi	váddu	skábma	lihkohisvuohta	veaidni
+overvåkning	bearráigeahčču					valvonta	bajilgeahčču	čuovvoleapmi	kontrolla	vákšun	bearráigeahčču	
+tilsynssak	bearráigeahččanášši					valvonta-asia	bajilgeahččoásii	bearráigeahččanášši	bearráigeahččanášši	bearráigeahččanášši	bearráigeahččanášši	
+tilsynsrapport	bearráigeahččančilgehus					valvontaselvitys	bajilgeahččočilgehus	bearráigeahččanraporta	kontrolla cealkámuš	bearráigeahččanraporta	bearráigeahččančielggadus	
+handikap	váddu					vamma	veaidni	hedjonan	váddu	doaimmashehttejupmi	lihkohisvuohta	
+skavank	váddu					vamma	vika	vealaheapmi	váddu	skábma	lihkohisvuohta	veaidni
 aldersforandring						vanhenemismuutos	boarásmit iežáhus	ahkerievdadus	boarráseappot rievdan	ahkerievdan	boarisvuođamolsun	
 aldringsprosess						vanhenemisprosessi	boarásmit proseassa	boarásmuvvanproseassa	boarásmuvvanproseassa	boarásmuvvanproseassa	boarisvuohtaproseassa	
 alderssykdom						vanhuuden sairaus	boarisvuođa buohcu	boarrásiid dávda	boarrásiid dávda	boarrásiid dávda	boarrásiid buozalmasvuohta	
