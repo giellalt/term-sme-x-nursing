@@ -1623,28 +1623,27 @@ smitterisiko	njoammunriska					tartuntariski	njoammunriska	njoammunvárra	tartun
 behovsområde	dárboguovlu					tarvealue	dárboguovlu	dárbbu guovlu	ulbmilárvu	dárbbasuorgi	dárbbašguovlu	
 behovsmodell	dárbomodealla,dárbomálle					tarvemalli 	dárbomálle dárbodiagrámma	dárbbaša málle	tarvemalli tarvekahimo	dárbovuogádat	dárbbašlaš modealla dárbbagovvádus	
 behovsteori	dárboteoriija					tarveteoria	dárboteoriija	dárbbuid teoriija	dárbu teoriija	dárbusteoriija	gáibideaddji teoriija	
-platåfase		£				tasannevaihe		lávdefása	tasannevahi	platofáhta	dássemolsašupmi	
-likevektsans	dássedeoddoáicu		dássedeoddodovdu			tasapainoaisti	balánsadovdda	balánsadovdu	dássedeaddu	dásseárvosašvuohta	dássedeattus	
-balansetenkning		£				tasapainoajattelu	balánsajurddašeapmi	balánsa jurddašeapmi	balasunaajatelu	dássádatjurddašeapmi	dássedeaddu	
+platåfase	steallimuddu	£				tasannevaihe		lávdefása	tasannevahi	platofáhta	dássemolsašupmi	
+likevektsans	dássedeaddoáicu		dássedeoddodovdu			tasapainoaisti	balánsadovdda	balánsadovdu	dássedeaddu	dásseárvosašvuohta	dássedeattus	
+balansetenkning	dássedeattujurddašeapmi	£				tasapainoajattelu	balánsajurddašeapmi	balánsa jurddašeapmi	balasunaajatelu	dássádatjurddašeapmi	dássedeaddu	
 likevektsorgan	dássedeoddoorgána					tasapainoelin	balánsaorgána	dásseárvoorgána	dássedeaddu	dásseárvoorgána	dásseárvoorgána	
 balanseøvelse	dássedeoddohárjehus					tasapainoharjoitus	balánsahárjehus	balánsahárjehallan	dássedeaddu	dássedeaddu hárjehallan	dássemolsun	
-balansesystem	dássedeoddovuogádat					tasapainojärjestelmä	balánsavuogádat	balánsavuogádat	balánsavuogádat	dássádatvuogádat	balansavuogádat	
-likevektstilstand	dássedeoddodilli					tasapainotila	balánsadilli	dásseárvodilli	dássedeaddu	dássedeaddu	dássedeattusdilli	
-bakgrunnsforståelse	duogášádden					taustaymmärrys	duogášádden	duogášáddejupmi	duogášjietna	duogášipmárdus	duogášipmárdus	
-sykdomsdiagnose	dávdadiagnosa					tautidiagnoosi	dávdadiagnosa	dávdadiagnosa	dávdadiagnosa	dávdadiagnosa	dávdi-diagnosa	
-diagnosemanual						tautiluokituksen käsikirja  tautiluokituksen ohjekirja	dávdaluohkkájuogu giehtagirji dávdaluohkkájuogu  bagadusgirji	diagnosagirji	tautiluokituksen giehtagirji tautiluokituksen ohjekirja	diagnostalaš giehtagirji	kategoriserejuvvon dávdda giehtagirji	
-sykdomsmodell		£				tautimalli	dávdamálle	dávdamálle	tautimalli	buozalmasvuohtamálle	bisánanmodealla	
-sykdomslære	dávdaoáhppu					tautioppi	dávdaoahppu	dávdateoriija	tautopia	buozalmasvuođa oahppu	fágalaš máhttu	
+balansesystem	dássedeaddovuogádat					tasapainojärjestelmä	balánsavuogádat	balánsavuogádat	balánsavuogádat	dássádatvuogádat	balansavuogádat	
+likevektstilstand	dássedeaddodilli					tasapainotila	balánsadilli	dásseárvodilli	dássedeaddu	dássedeaddu	dássedeattusdilli	
+bakgrunnsforståelse	duogášáddejupmi					taustaymmärrys	duogášádden	duogášáddejupmi	duogášjietna	duogášipmárdus	duogášipmárdus	
+sykdomsdiagnose	buohcuvuođadiagnosa, dávdadiagnosa					sairaus diagnoosi, tautidiagnoosi	dávdadiagnosa	dávdadiagnosa	dávdadiagnosa	dávdadiagnosa	dávdi-diagnosa	
+diagnosemanual	diagnosa manuála					tautiluokituksen käsikirja  tautiluokituksen ohjekirja	dávdaluohkkájuogu giehtagirji dávdaluohkkájuogu  bagadusgirji	diagnosagirji	tautiluokituksen giehtagirji tautiluokituksen ohjekirja	diagnostalaš giehtagirji	kategoriserejuvvon dávdda giehtagirji	
+sykdomsmodell	dávdamálle, buohcuvuohtamálle	£				sairausmalli, tautimalli	dávdamálle	dávdamálle	tautimalli	buozalmasvuohtamálle	bisánanmodealla	
+sykdomslære	dávdaoáhppu, buohcuvuođaoahppu	£				tautioppi	dávdaoahppu	dávdateoriija	tautopia	buozalmasvuođa oahppu	fágalaš máhttu	
 sykdomsbyrde	dávdanoađđi					tautitaakka	sairauden taakka	dávdageahpádus	tautitaakka	buozalmas noađđi	buohcuvuođa váddu	dávdanoađđi
-formålsrasjonalitet						tavoiterationaalisuus		ulbmila rašuvnnalašvuohta	täärationaalisuus	ulbmillašvuohta	ulbmillašvuohta	
-målinnhold	ulbmiliid sisdoallu					tavoitteiden sisältö	ulbmiliid sisdoallu	ulbmilsisdoallu	ulbmiliid sisdoallu	ulbmiljoavku	ulbmiliid sisdoallu	
-unnlatelse						tekemättä jättäminen	dahkat guođđit	vajálduhttin	gämätätä jätaminen	doala deaivása	dagakeahtes guođđin	
-unnlatelsessynd						tekemättäjättämisen synti	*tekemättäjättämisen suddu	vajálduhttima suddu	tämättäjättämenen synti	eahpelihkostuvvan suddu	suddu guođđit olbmo barggakeahttá	
-teknologiforståelse	teknologiija áddejupmi					teknologian ymmärtäminen	teknologiija ipmárdus	teknologiija áddejupmi	teknologa áddejupmi	teknologiija áddejupmi	teknologiija áddejupmi	
+formålsrasjonalitet	ulbmilrašuvnnalašvuohta					tavoiterationaalisuus		ulbmila rašuvnnalašvuohta	täärationaalisuus	ulbmillašvuohta	ulbmillašvuohta	
+målinnhold	ulbmilsisdoallu					tavoitesisältö	ulbmiliid sisdoallu	ulbmilsisdoallu	ulbmiliid sisdoallu	ulbmiljoavku	ulbmiliid sisdoallu	
+unnlatelse	healbaneapmi					laiminlyönti	dahkat guođđit	vajálduhttin	gämätätä jätaminen	doala deaivása	dagakeahtes guođđin	
+unnlatelsessynd	healbaneami suddu					laiminlyömisen synti	*tekemättäjättämisen suddu	vajálduhttima suddu	tämättäjättämenen synti	eahpelihkostuvvan suddu	suddu guođđit olbmo barggakeahttá	
+teknologiforståelse	teknologiija áddejupmi					teknologiaymmärrys	teknologiija ipmárdus	teknologiija áddejupmi	teknologa áddejupmi	teknologiija áddejupmi	teknologiija áddejupmi	
 teoriutvikling	teoriija ovdáneapmi					teorian kehitys	teoriija ahtanuššan	teoriija ovdáneapmi	teoriija lea ovdáneamen	teoriijaovdáneapmi	teoriijaovdáneapmi	
 teorinivå	teoriijadássi					teoriataso	teoriijadássi	teoriija dássi	teoriija	teorehtadássi	teoriija dássi	
 termostatinnstilling	termostáhta ásahus					termiostaatin asetus	*termiostaatin ásahus	termostahta bidjan	termiostatin asetus	termostáhta heivehus	terminostahttaheivehus	
-termostatinnstilling	termostáhta stellelmas					termostaatin asento 	termostáhta stellelmas 	termostahta bidjan	termostahta asento	termostáhta heivehus	termostahta sajádat	
 helsedefinisjon	dearvvašvuođa definišuvdna					terveyden määritelmä 	healssa definišuvdna 	dearvvašvuođadefinišuvdna	dearvvašvuođa definišuvdna	dearvvašvuođa meroštallan	dearvvašvuođa meroštallan	
 helsevirksomhet	dearvvašvuođadikšuma aktevra					terveydenhoidon toimija	dearvvasvuođafuolahusa aktevra	dearvvašvuođafitnodat	dearvvašvuođafuolahusa toimija	dearvvašvuođadoaibma	dearvvašvuođadivššu doaimmaheaddji	
 helsesykepleier	dearvvašvuođadivššár					terveydenhoitaja	healssadikšu	álbmotdearvvašvuođadivššár	dearvvašvuođadivššár	dearvvašvuođadivššár	dearvvašvuođadivššár	
