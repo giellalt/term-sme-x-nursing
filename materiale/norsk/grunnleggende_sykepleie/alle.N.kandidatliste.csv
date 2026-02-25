@@ -1852,51 +1852,51 @@ reservelager	dorvorádju					varmuusvarasto	#vissisvuohtarádju	várrehus	čoagg
 varhet	varrogásvuohta	£				varovaisuus	helläkätisyys	duođalašvuohta	várrugasat	bistevašvuohta	várrugasvuohta	várrogasvuohta
 kroppsfasong	gorutmálle					vartalomalli	máttamálle	rupmaša hápmi	rumašmodealla	goruda hápmi	rumašmálle	
 antistoff	cagganávnnas		vuosteávnnas			vasta-aine	cagganávnnas	antiávnnas	antiávnnas	antistoffa	vuostáiváldi	
-motstandskraft	vuostálastinnákca		vuostenákca			vastustuskyky	vuosteháhkogálga	sitkatvuohta	vuostálastin	vuosteháhku	vuostemiella	
-infeksjonsforsvar						vastustuskyky infektiota kohtaan	vuosteháhkogálga infekšuvnna čuoggái	njoammunsuodjalus	vuostálasvuohta njoammumii	infekšuvdnasuodji	vuostálastinnákca infekšuvdnii	
+motstandskraft	vuostenákca		vuostálastinnákca			vastustuskyky	vuosteháhkogálga	sitkatvuohta	vuostálastin	vuosteháhku	vuostemiella	
+infeksjonsforsvar	vuostenákca infekšuvnna vuostá					vastustuskyky infektiota kohtaan	vuosteháhkogálga infekšuvnna čuoggái	njoammunsuodjalus	vuostálasvuohta njoammumii	infekšuvdnasuodji	vuostálastinnákca infekšuvdnii	
 motstandsressurs						vastustusresurssit	vuosteháhkoresurssat	vuostálasvuođaresursa	vuostálasvuođaresurssat	vuostálastinresursa	vuostálasvuođaresurssat	
 kontaktsykepleier	vástudivššár		vástubuohcedivššár			vastuusairaanhoitaja	#vástu#buohccidikšu	váldde oktavuođa buohccidivššáriin	buohccedivššár	gulahallanbuohccedikšu	ovddasvástádusbuohccedivššár	
 mageleie						vatsa-asento	čoavjestellelmas	njuoratmánná	njuoratmánná sajádat	čáhppesleaibui	čoavjevuođus	
-bukorgan						vatsaelin	čoavjeorgána	vuoiŋŋašorgána	vuoiŋŋašorgána	goaŧŧoorgaána	čoavjebávččas	
-bukhinne						vatsakalvo	čoavjecuozza	njuoratmánná	njuoratmánná	bukhinne	čoavjebávččas	
-magesmerte						vatsakipu	čoavjebávččas	njuoratmánnáváttut	njuoratmánná	čoavjebávččas	čoavjebávččas	
-magesekk						vatsalaukku	čoavjelávka	čoavji	njuoratmánná	čoavjebassan	čoavjebávččas	
-bukmuskulatur						vatsalihakset	čoavjeoaččit	vuoiŋŋašlihkadusat	vuoiŋŋašlihkadusat	čoavjebassanmuskulatuvra	čoavjebávččas	
-magemuskel						vatsalihas	čoavjeoažži	vuoiŋŋašlihkadus	vuoiŋŋašlihkadus	čoavjejuvllot	čoavjebávččas	
-bukvegg						vatsan seinämä	čoavjji seaidni	vuoiŋŋašseinni	vuoiŋŋašseinni	guoddalanseaidni	čoavjebávččas	
-buktrykk						vatsanpaine	čoavjjedeaddu	vuoiŋŋašdeaddu	vuoiŋŋašdeaddu	vuoigŋaduodji	čoavji	
-mageregion						vatsanseutu	čoavjjeguovlu	njuoratmánná guovlu	vuoiŋŋašguovlu	mageregion	čoavjebávččas	
-pliktfølelse						velvollisuudentunto	geatnegasvuođadovdu	geatnegasvuođadovdu	geatnegasvuođadovdu	geatnegasvuođadovdu	geatnegasvuođadovdu	
+bukorgan	čoavjeorgána					vatsaelin	čoavjeorgána	vuoiŋŋašorgána	vuoiŋŋašorgána	goaŧŧoorgaána	čoavjebávččas	
+bukhinne	čoavjecuozza					vatsakalvo	čoavjecuozza	njuoratmánná	njuoratmánná	bukhinne	čoavjebávččas	
+magesmerte	čoavjebávččas					vatsakipu	čoavjebávččas	njuoratmánnáváttut	njuoratmánná	čoavjebávččas	čoavjebávččas	
+magesekk	čoavjeseahkka					vatsalaukku	čoavjelávka	čoavji	njuoratmánná	čoavjebassan	čoavjebávččas	
+bukmuskulatur	čoavjeoaččit		čoavjenjárčat			vatsalihakset	čoavjeoaččit	vuoiŋŋašlihkadusat	vuoiŋŋašlihkadusat	čoavjebassanmuskulatuvra	čoavjebávččas	
+magemuskel	čoavjeoažži					vatsalihas	čoavjeoažži	vuoiŋŋašlihkadus	vuoiŋŋašlihkadus	čoavjejuvllot	čoavjebávččas	
+bukvegg	čoavjji seaidni					vatsan seinämä	čoavjji seaidni	vuoiŋŋašseinni	vuoiŋŋašseinni	guoddalanseaidni	čoavjebávččas	
+buktrykk	čoavjjedeaddu					vatsanpaine	čoavjjedeaddu	vuoiŋŋašdeaddu	vuoiŋŋašdeaddu	vuoigŋaduodji	čoavji	
+mageregion	čoavjjeguovlu					vatsanseutu	čoavjjeguovlu	njuoratmánná guovlu	vuoiŋŋašguovlu	mageregion	čoavjebávččas	
+pliktfølelse	geatnegasvuođadovdu					velvollisuudentunto	geatnegasvuođadovdu	geatnegasvuođadovdu	geatnegasvuođadovdu	geatnegasvuođadovdu	geatnegasvuođadovdu	
 blodfylling						verellä täyttyminen	varas dievvat	varradeavdin	deavdin varain	varrabinná	vara deavdin	
-blodglukose						veren glukoosi	vara glukosa	varrasuotna	varrasuotna	varraglukosa	varra-glikosa	
-blodforsyning						veren saanti	vara oažžun	varrafálaldat	varrafálaldat	varrabáddi	varrabáddi	
+blodglukose	vara glukosa					veren glukoosi	vara glukosa	varrasuotna	varrasuotna	varraglukosa	varra-glikosa	
+blodforsyning	vara oažžun	£				veren saanti	vara oažžun	varrafálaldat	varrafálaldat	varrabáddi	varrabáddi	
 blodviskositet						veren viskositeetti	vara 	varraviskositehta	varraviskositehta	varravisotvuohta	varra viskositehta	
-sirkulasjonsforhold						verenierron tila	*verenierron dilli	sirkulerendilit	buozalmasvuođa dilli	birravuodjendilálašvuohta	varrasohcanvuohki	
-blodomløp						verenkierto	varagarvin	varrasirkulašuvdna	sirkulára	varanjárbu	varrajohtu	
-blodsirkulasjon						verenkierto	varagarvin	varrasirkulašuvdna	sirkulára	varrajohtu	varrajohtu	
-sirkulasjonsproblem						verenkierto-ongelma	varagarvinproblema	sirkulašuvdnaváttisvuohta	sirkulašuvdnaváttisvuohta	birravuodjenváttisvuohta	varajohtinváttisvuohta	
-sirkulasjonssystem						verenkiertojärjestelmä	varagarvinvuogádat	varrasuotnavuogádat	varrasuotnavuogádat	vuogádat man birra lea sáhka	varrasuodjaleapmi	
+sirkulasjonsforhold	varrajođu dilli					verenierron tila	*verenierron dilli	sirkulerendilit	buozalmasvuođa dilli	birravuodjendilálašvuohta	varrasohcanvuohki	
+blodomløp	varrajohtu					verenkierto	varagarvin	varrasirkulašuvdna	sirkulára	varanjárbu	varrajohtu	
+blodsirkulasjon	varrajohtu					verenkierto	varagarvin	varrasirkulašuvdna	sirkulára	varrajohtu	varrajohtu	
+sirkulasjonsproblem	varrajohtuváttisvuohta					verenkierto-ongelma	varagarvinproblema	sirkulašuvdnaváttisvuohta	sirkulašuvdnaváttisvuohta	birravuodjenváttisvuohta	varajohtinváttisvuohta	
+sirkulasjonssystem	varrajohtovuogádat					verenkiertojärjestelmä	varagarvinvuogádat	varrasuotnavuogádat	varrasuotnavuogádat	vuogádat man birra lea sáhka	varrasuodjaleapmi	
 blodtrykksfall						verenpaineen lasku	varradeaddaga rehket	varradási lassáneapmi	varradási lassáneapmi	varradeaddu njiedjan	varradeaddu njiedjan	
-blodtrykksmåling						Verenpaineen mittaus	Varradeaddaga mihtideapmi	varradási mihtideapmi	Varradási mihtideapmi	varradeaddu mihtideapmi	varradeaddu mihtideapmi	
+blodtrykksmåling	varradeattu mihtideapmi					Verenpaineen mittaus	Varradeaddaga mihtideapmi	varradási mihtideapmi	Varradási mihtideapmi	varradeaddu mihtideapmi	varradeaddu mihtideapmi	
 blodtrykksmåling						verenpaineen mittaus	varradeaddaga mihtideapmi	varradási mihtideapmi	varradási mihtideapmi	varradeaddu mihtideapmi	varradeaddu mihtideapmi	
 blodtrykksmansjett						verenpainemansetti		varradási manšeahtta	varradási manšeahtta	varradeaddji-manšehta	varradeaddjimatseahtta	
-blodtrykksapparat						verenpainemittari		varrasuotnarusttet	varradási mihtideaddji	varradeaddanapparáhta	varradeaddomihttár	
-blodtilførsel						verensaanti	varaoažžun	varrafálaldat	varrafálaldat	varrabinnát	varraiskkus	
-blodtransfusjon						verensiirto	varasirdin	varrasirdin	buozalmasvuohta	varradearvvašvuohta	varrasohcan	
-blodsukkerverdi						verensokeriarvo		varrasuohku árvu	varrasuohku dássi	varas sohkarárvu	varrasohkarlohku	
-blodsukkermåling						verensokerin mittaus	varasohkkara mihtideapmi	varrasuohku mihtideapmi	varrasuohku mihtideapmi	varrasohkarmihtideapmi	varrasohkarmihttu	
+blodtrykksapparat	varradeaddomihtár					verenpainemittari		varrasuotnarusttet	varradási mihtideaddji	varradeaddanapparáhta	varradeaddomihttár	
+blodtilførsel	varaoažžun					verensaanti	varaoažžun	varrafálaldat	varrafálaldat	varrabinnát	varraiskkus	
+blodtransfusjon	varasirdin					verensiirto	varasirdin	varrasirdin	buozalmasvuohta	varradearvvašvuohta	varrasohcan	
+blodsukkerverdi	varrasohkarárvu					verensokeriarvo		varrasuohku árvu	varrasuohku dássi	varas sohkarárvu	varrasohkarlohku	
+blodsukkermåling	varrasohkkara mihtideapmi					verensokerin mittaus	varasohkkara mihtideapmi	varrasuohku mihtideapmi	varrasuohku mihtideapmi	varrasohkarmihtideapmi	varrasohkarmihttu	
 blodsukkerstigning						verensokerin nousu	varasohkkara #loktaneapmi	varrasuohku loktana	varrasuohku loktana	varrasohkarlissáneapmi	varrasohkarlogu loktaneapmi	
-blodsukkernivå						verensokeritaso		varrasuohku dássi	varrasuohku dássi	varas sohkardássi	varrasohkardássi	
+blodsukkernivå	varrasohkar dássi					verensokeritaso		varrasuohku dássi	varrasuohku dássi	varas sohkardássi	varrasohkardássi	
 blodstrøm						verenvirtaus	vararávdnji	varrajohtolat	varrajohtolat	varrajođus	varrajohtu	
 blodtilstrømning						verenvirtaus	vararávdnji	varrajohtolat	varrajohtolat	varrasohcan	varrajohtu	
 blodverdi 	varraárvu					veriarvo	varraárvu	varraárvu	varralohku	varraárvu	varraárvu	
 blodgass	varragássa					verikaasu	varragássa	varragássa	varragássa	varrabázahus	varrabázahus	
-blodprøvesvar						verikoevastaus	varraiskkusdávástus	varraiskkadeami bohtosat	varraiskkadeami boađus	varraiskkusvástádus	varraiskkusvástádus	
-blodmengde						verimäärä	varramearri	varravoluma	varralohku	varrabinnát	varraiskkus	
-blodprøveglass						verinäytteenottoputki	#varračájánas#váldinbohcci	varraiskosa	varračájáhusruovttus	varraiskkusglássa	varraiskkusruktuvra	
+blodprøvesvar	varraiskkusvástádus					verikoevastaus	varraiskkusdávástus	varraiskkadeami bohtosat	varraiskkadeami boađus	varraiskkusvástádus	varraiskkusvástádus	
+blodmengde	varramearri					verimäärä	varramearri	varravoluma	varralohku	varrabinnát	varraiskkus	
+blodprøveglass	varračájánasaváldinbohcci		varračájánasbohcci			verinäytteenottoputki	#varračájánas#váldinbohcci	varraiskosa	varračájáhusruovttus	varraiskkusglássa	varraiskkusruktuvra	
 blodplasma						veriplasma	varravarragolggus	varraplasma	varraplasma	varrasoabbi	varraplástma	
-blodcelle						verisolu	varrasealla	varrasealla	varrasealla	varrasella	varrasella	
-blodlegeme						verisolu	varrasealla	varrasealla	varrasealla	varrabiras	varrasella	
+blodcelle	varrasealla					verisolu	varrasealla	varrasealla	varrasealla	varrasella	varrasella	
+blodlegeme	varrasealla					verisolu	varrasealla	varrasealla	varrasealla	varrabiras	varrasella	
 karsystem						verisuonijärjestelmä	varrasuotnavuogádat	fatnasa ortnet	vaskulára ortnet	varrasuotnasystema	varrasuotnavárra	
 blodbane						verisuonisto		varrasuotna	varrasuotnavuogádat	varrabáddi	varrasuotna	
 trombose						veritulppa		trombosa	emboliija	tromboza	varrastatbohku	
