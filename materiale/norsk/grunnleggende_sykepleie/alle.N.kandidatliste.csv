@@ -410,7 +410,7 @@ behandlingsansvar	dikšunovddasvástádus					hoitovastuu	dikšovástu	gieđahal
 behandlingsmiljø	dikšunbiras					hoitoympäristö	dikšobiras	dikšunbiras	dikšunbiras	dikšunbiras	dálkkodanbiras	
 sykehjemsbestyrer	buohcciruokto jođiheaddjihoavda					hoitokodin johtaja	fuolahangođiiguin hoavda	fuolahusviesu jođiheaddji	fuolahusviesu direktevra	buhcciidsiidda hoavda	dearvvašvuođaguovddáža hoavda	
 sykehjemslege	buohcciruokto doavttir					hoitokodin lääkäri	fuolahangođiiguin doavttir	fuolahusviesu doavttir	fuolahusviesu doavttir	buhcciidruovttu doavttir	dikšunguovddáža doavttir	
-sykehjemspasient	buohcciruoktopatienta					hoitokotipotilas	#fuolaheapmi#ruoktu#buohcci	fuolahusruovttu pasieanta	fuolahusviesu pasieanta, fuolahusviesu ássi	buhcciidsiidda pasieanta	dearvvašvuođaguovddáš	
+sykehjemspasient	buohcciruoktopatienta	£				hoitokotipotilas	#fuolaheapmi#ruoktu#buohcci	fuolahusruovttu pasieanta	fuolahusviesu pasieanta, fuolahusviesu ássi	buhcciidsiidda pasieanta	dearvvašvuođaguovddáš	
 omsorgskultur	fuolahankultuvra					hoivakulttuuri	fuolahankultuvra	fuolahuskultuvra	fuolalaš kultuvra	fuolahankultuvra	dálkkodankultuvra	
 omsorgstradisjon	fuolahanárbevierru					hoivaperinne	fuolahanárbevierru	fuolahusárbevierru	fuolahusárbevierru	fuolahusvierru	dikšunárbevierru	
 omsorgsressurs	fuolahanresurssat					hoivaresurssit	fuolahanresurssat	fuolahusresursa	fuolahusresurssaid	fuolahusresursa	dikšunresurssat	
@@ -1894,11 +1894,11 @@ blodprøveglass	varračájánasaváldinbohcci		varračájánasbohcci			verinäyt
 blodplasma						veriplasma	varravarragolggus	varraplasma	varraplasma	varrasoabbi	varraplástma	
 blodcelle	varrasealla					verisolu	varrasealla	varrasealla	varrasealla	varrasella	varrasella	
 blodlegeme	varrasealla					verisolu	varrasealla	varrasealla	varrasealla	varrabiras	varrasella	
-karsystem						verisuonijärjestelmä	varrasuotnavuogádat	fatnasa ortnet	vaskulára ortnet	varrasuotnasystema	varrasuotnavárra	
+karsystem	varrasuotnavuogádat					verisuonijärjestelmä	varrasuotnavuogádat	fatnasa ortnet	vaskulára ortnet	varrasuotnasystema	varrasuotnavárra	
 blodbane						verisuonisto		varrasuotna	varrasuotnavuogádat	varrabáddi	varrasuotna	
-trombose						veritulppa		trombosa	emboliija	tromboza	varrastatbohku	
+trombose	varradahppun		varradahpagas			veritulppa		trombosa	emboliija	tromboza	varrastatbohku	
 trombosering						veritulppien muodostumineN	tukosten muodostuminen	trombosa	varračoagganeami ráhkadeapmiN	tromboseren	varradatloguid šaddanN	
-blodlager						verivarasto	varrarádju	varravurken	varračoaggin	varrabáiki	varravuorká	
+blodlager	varrarádju					verivarasto	varrarádju	varravurken	varračoaggin	varrabáiki	varravuorká	
 blodkultur						veriviljely	varragilvin	varrakultuvra	varrakultuvra	varrakultuvra	varrabivdu	
 blodvolum						verivolyymi	varravoluma	varravoluma	varravoluma	varrabinnát	varrabálggis	
 nettingstruse						verkkohousut	galjatbuvssat	guollebiktasiid	neahttabiktasat	neahttainstreaŋga	fierbmebiktasat	
